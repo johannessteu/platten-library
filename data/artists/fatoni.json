@@ -1,0 +1,70 @@
+{
+  "name": "Fatoni",
+  "summary": "Fatoni, bürgerlich Anton Schneider, ist ein Rapper und Schauspieler aus München, der heute in Berlin lebt. Er steht für einen Rap, der Selbstzweifel, Ironie und Wortspiel über Posen stellt, und hat sich über zwei Jahrzehnte vom Münchner Underground in die oberen Ränge der deutschen Albumcharts gearbeitet. Seine Alben entstehen oft mit dem Produzenten Dexter, dazu kommen Kollaborationen mit Edgar Wasser, Mine und anderen. Nebenbei arbeitet er als Schauspieler und Radiomoderator.",
+  "career": [
+    "Anton Schneider kommt am 8. Dezember 1984 in München zur Welt und kommt Ende der 1990er als Jugendlicher mit Hip-Hop in Berührung. 2000 gründet er mit Keno und dem Produzenten Bustla die Rapcrew Creme Fresh, die vier Alben und eine EP veröffentlicht und sich 2011 auflöst. Kurz war er auch Rapper bei Moop Mama, bis etwa 2010. Parallel studiert er von 2009 bis 2013 Schauspiel an der Otto-Falckenberg-Schule und ist danach bis 2015 am Theater Augsburg engagiert.",
+    "Nach dem ersten Soloalbum „Solang früher alles besser war“ (2011) erscheint 2013 „Nocebo“ gemeinsam mit Edgar Wasser. Der Durchbruch folgt mit „Yo, Picasso“ (2015), dem ersten Album mit Dexter als Produzent, das Platz 23 der deutschen Charts erreicht. 2017 folgen „Im Modus“ und, zusammen mit der Sängerin Mine, „Alle Liebe nachträglich“; letzteres wird für den Preis für Popkultur 2018 nominiert.",
+    "Mit „Andorra“ (2019) erreicht Fatoni Platz 9, „Delirium“ (2021, mit Edgar Wasser) steigt auf Platz 4, und das Soloalbum „Wunderbare Welt“ (2023) auf Platz 7. 2025 erscheint „BAWRS“ mit Edgar Wasser und Juse Ju. Als Schauspieler war er unter anderem im „Tatort“ (2021) und in der Netflix-Serie „Kacken an der Havel“ (2026) zu sehen; von 2015 bis 2023 moderierte er „Die Fatoni Show“ auf dem Sender Puls."
+  ],
+  "sound": "Fatoni macht Deutschrap, der aus der Münchner Szene kommt und sich zu einer eigenen Mischung aus Rap, Pop und Kabarett entwickelt hat. Die Beats, oft von Dexter, sind sample-basiert, warm und soulig, auf neueren Alben offener und poppiger. Seine Texte arbeiten mit Selbstironie, Alltagsbeobachtung und Zweifel; Härte und Gangster-Pose sind nicht sein Thema, was ihn von großen Teilen des Genres abhebt.",
+  "highlights": [
+    "Dexter produzierte „Yo, Picasso“ (2015) und später auch Songs der Serie „Kacken an der Havel“, an der Fatoni als Schauspieler und Songschreiber beteiligt war.",
+    "„Alle Liebe nachträglich“, das Album mit Mine, wurde für den Preis für Popkultur 2018 in zwei Kategorien nominiert.",
+    "„Delirium“ (2021) mit Edgar Wasser stieg bis auf Platz 4 der deutschen Albumcharts.",
+    "Fatoni schrieb Songs für die Serie „Almost Fly“ (2021) und für Anne Lenks Inszenierung von „Minna von Barnhelm“ am Deutschen Theater Berlin (2022).",
+    "Für den Bayerischen Rundfunk las er unter anderem die Hörbücher „Goldstein“ (2022) und „Drifter“ (2024) ein."
+  ],
+  "discography": [
+    {
+      "title": "Solang früher alles besser war",
+      "year": 2011,
+      "type": "Studioalbum",
+      "note": "Das erste Soloalbum, noch aus der Münchner Underground-Zeit."
+    },
+    {
+      "title": "Yo, Picasso",
+      "year": 2015,
+      "type": "Studioalbum",
+      "note": "Der Durchbruch, produziert von Dexter, Platz 23 in Deutschland."
+    },
+    {
+      "title": "Im Modus",
+      "year": 2017,
+      "type": "Studioalbum",
+      "note": "Ein Mixtape im Albumformat, Platz 21 in Deutschland."
+    },
+    {
+      "title": "Andorra",
+      "year": 2019,
+      "type": "Studioalbum",
+      "note": "Das erste Soloalbum in den Top Ten, Platz 9 in Deutschland."
+    },
+    {
+      "title": "Wunderbare Welt",
+      "year": 2023,
+      "type": "Studioalbum",
+      "note": "Platz 7 in den deutschen Charts."
+    },
+    {
+      "title": "Drama endet nie",
+      "year": 2026,
+      "type": "Studioalbum",
+      "note": "Das jüngste Album; die zugehörige Tour läuft im Herbst 2026."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia: Fatoni",
+      "url": "https://de.wikipedia.org/wiki/Fatoni"
+    },
+    {
+      "label": "Wikipedia (en): Fatoni",
+      "url": "https://en.wikipedia.org/wiki/Fatoni"
+    },
+    {
+      "label": "Gästeliste.de",
+      "url": "https://gaesteliste.de/?p=32530"
+    }
+  ],
+  "writtenAt": "2026-11-07"
+}

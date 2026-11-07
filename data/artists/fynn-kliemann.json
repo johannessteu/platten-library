@@ -1,0 +1,52 @@
+{
+  "name": "Fynn Kliemann",
+  "summary": "Fynn Kliemann ist Webdesigner, YouTuber, Unternehmer und Musiker aus Niedersachsen. Bekannt wurde er mit Heimwerker-Videos und der Serie „Kliemannsland“ von seinem Hof in Rüspel. Seine Musik veröffentlicht er auf dem eigenen Label twoFinger Records: Das Debüt „Nie“ kam 2018 auf Platz 8, „POP“ (2020) und „Tod“ (2025) erreichten Platz 1 der deutschen Charts. Sein Do-it-yourself-Prinzip überträgt er dabei konsequent von Video auf Platten, Vertrieb und Shop.",
+  "career": [
+    "Kliemann wurde 1988 in Zeven geboren, wuchs in Heeslingen auf und machte in Bremen eine Ausbildung zum Mediengestalter. Von 2011 an führte er mit Florian Bottmann die Agentur Herrlich Media. Auf YouTube dokumentierte er auf dem Kanal „Fynn Kliemann“ Bastelprojekte mit schnellem Schnitt und Humor. 2016 kaufte er mit Hauke Gerdes einen Hof in Rüspel, aus dem das Projekt „Kliemannsland“ wurde; die Webserie dazu gewann 2017 den Webvideopreis Deutschland.",
+    "Die Musik begann als Nebenprojekt. Statt Angebote etablierter Labels anzunehmen, gründete er mit Niklas Tietjen twoFinger Records. „Nie“ (28. September 2018) erschien in Eigenregie, kam auf Platz 8 und erhielt Gold; im selben Jahr gewann er die 1Live Krone als bester Newcomer. „POP“ (29. Mai 2020) schaffte Platz 1, Kliemann spendete pro verkauftem Exemplar einen Euro an Nachwuchskünstler, und er bekam einen MTV Europe Music Award als bester deutscher Act sowie die 1Live Krone als bester Künstler.",
+    "Im Mai 2022 berichtete das ZDF Magazin Royale, dass von ihm vermarktete Masken teils unter schlechten Bedingungen in Bangladesch und Vietnam gefertigt worden seien; Kliemann entschuldigte sich, wies den Betrugsvorwurf zurück, und das Verfahren der Staatsanwaltschaft Stade wurde 2023 gegen Auflagen eingestellt. Mit „Tod“ (10. Januar 2025) kehrte er musikalisch zurück: Das Album, das zwei Wochen auf Platz 1 stand, ist mit einer gleichnamigen Kunstausstellung verknüpft und behandelt Vergänglichkeit, Veränderung und Hoffnung."
+  ],
+  "sound": "Kliemanns Musik ist deutschsprachiger Pop, der von aufmunternden Stücken über Liebeslieder bis zu melancholischem Klavier und R&B-Beats reicht. Ein Titel wie „POP“ ist Programm: Alles, was er ernst meint, wird bei ihm Pop. Der Quereinsteiger-Ansatz aus seinen Videos, selbst machen statt abwarten, prägt auch Klang, Veröffentlichung und Vertrieb.",
+  "highlights": [
+    "Er lehnte Angebote etablierter Labels ab und baute mit twoFinger Records ein eigenes auf, samt eigenem Lager und Shop-System für „POP“.",
+    "Zusammen mit Olli Schulz kaufte er 2018 ein Hausboot, das später Thema einer Netflix-Serie wurde.",
+    "Für „POP“ spendete er pro verkauftem Exemplar einen Euro an Newcomer.",
+    "Die Webserie „Kliemannsland“ gewann 2017 den Webvideopreis Deutschland in der Kategorie Lifestyle.",
+    "Neben der Musik malt er; sein Druck „Tukan“ wurde über 3.000 Mal verkauft."
+  ],
+  "discography": [
+    {
+      "title": "Nie",
+      "year": 2018,
+      "type": "Studioalbum",
+      "note": "Das Debüt auf dem eigenen Label, Platz 8 und Gold."
+    },
+    {
+      "title": "POP",
+      "year": 2020,
+      "type": "Studioalbum",
+      "note": "Das zweite Album, Platz 1 der deutschen Charts."
+    },
+    {
+      "title": "Tod",
+      "year": 2025,
+      "type": "Studioalbum",
+      "note": "Das dritte Album, zwei Wochen auf Platz 1 und mit einer Kunstausstellung verbunden."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia (de): Fynn Kliemann",
+      "url": "https://de.wikipedia.org/wiki/Fynn_Kliemann"
+    },
+    {
+      "label": "Leica: Abzüge vom Sterben",
+      "url": "https://leica-camera.com/de-DE/event/abzuege-vom-sterben"
+    },
+    {
+      "label": "Horizont zu Tod",
+      "url": "https://www.wuv.de/themen/media/tod-influencer-fynn-kliemann-meldet-sich-zurueck"
+    }
+  ],
+  "writtenAt": "2026-11-07"
+}

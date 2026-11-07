@@ -1,0 +1,77 @@
+{
+  "name": "Nathaniel Rateliff",
+  "summary": "Nathaniel Rateliff ist ein Singer-Songwriter aus Denver, der zwei Gesichter hat: den leisen, düsteren Folk-Solokünstler und den Frontmann der Soul-Band Nathaniel Rateliff & The Night Sweats. Mit der Band wurde er ab 2015 bei Stax international bekannt, mit dem Hit „S.O.B.“. Unter eigenem Namen erscheinen weiter eigenständige Soloalben, zuletzt „And It's Still Alright“ (2020).",
+  "career": [
+    "Rateliff wurde 1978 in St. Louis geboren, wuchs in Hermann, Missouri, auf und zog Ende der 1990er mit seinem Freund Joseph Pope III nach Denver. Dort gründeten die beiden 2002 Born in the Flood; das Album „If This Thing Should Spill“ erschien 2007. Rateliff lehnte damals ein Angebot von Roadrunner Records ab und ging in eine ruhigere Richtung.",
+    "Es folgten Folk-Alben unter eigenem Namen: „Desire and Dissolving Men“ (2007, mit The Wheel), „In Memory of Loss“ (2010, produziert von Brian Deck) und „Falling Faster Than You Can Run“ (2013). 2013 begann er mit Pope und anderen Musikern ein lebendigeres, soulgetränktes Projekt: Nathaniel Rateliff & The Night Sweats.",
+    "Deren selbstbetiteltes Album erschien 2015 bei Stax; „S.O.B.“ wurde ein Hit, „You Worry Me“ erreichte 2018 Platz 1 der Adult-Alternative-Charts. Danach wechselt Rateliff zwischen beiden Welten: „Tearing at the Seams“ (2018) und „The Future“ (2021) sind Bandalben, „And It's Still Alright“ (2020) ist wieder ein Soloalbum, ebenfalls bei Stax."
+  ],
+  "sound": "Solo ist Rateliff ein Folk- und Americana-Songwriter mit dunkler Stimme und sparsamer Instrumentierung. Mit den Night Sweats spielt er einen Soul-, R&B- und Rock-Mix im Stil des klassischen Stax-Sounds, mit Bläsern, Orgel und Gospelchören. Die Band ist laut, gesellig und tanzbar, die Solosachen sind intimer und nachdenklicher.",
+  "highlights": [
+    "„S.O.B.“ erreichte in den USA Platinstatus.",
+    "Die Night Sweats debütierten 2015 in „The Tonight Show Starring Jimmy Fallon“ und traten im Februar 2021 bei „Saturday Night Live“ auf.",
+    "Richard Swift produzierte „Tearing at the Seams“.",
+    "„Redemption“ (2020) schrieb Rateliff für den Apple-Film „Palmer“."
+  ],
+  "discography": [
+    {
+      "title": "Desire and Dissolving Men",
+      "year": 2007,
+      "type": "Studioalbum",
+      "note": "Solo, veröffentlicht als Nathaniel Rateliff & The Wheel auf Public Service Records."
+    },
+    {
+      "title": "In Memory of Loss",
+      "year": 2010,
+      "type": "Studioalbum",
+      "note": "Solo, produziert von Brian Deck, ruhiger Folk."
+    },
+    {
+      "title": "Falling Faster Than You Can Run",
+      "year": 2013,
+      "type": "Studioalbum",
+      "note": "Solo auf Mod y Vi, das letzte Soloalbum vor den Night Sweats."
+    },
+    {
+      "title": "Nathaniel Rateliff & The Night Sweats",
+      "year": 2015,
+      "type": "Studioalbum",
+      "note": "Band: Stax-Debüt mit „S.O.B.“."
+    },
+    {
+      "title": "Tearing at the Seams",
+      "year": 2018,
+      "type": "Studioalbum",
+      "note": "Band: produziert von Richard Swift, enthält „You Worry Me“."
+    },
+    {
+      "title": "And It's Still Alright",
+      "year": 2020,
+      "type": "Studioalbum",
+      "note": "Solo: zurück zum leisen Songwriter-Folk, bei Stax; steht im Regal."
+    },
+    {
+      "title": "The Future",
+      "year": 2021,
+      "type": "Studioalbum",
+      "note": "Band: Night Sweats, erschienen bei Stax."
+    },
+    {
+      "title": "South of Here",
+      "year": 2024,
+      "type": "Studioalbum",
+      "note": "Band: Night Sweats, erschienen bei Stax."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia: Nathaniel Rateliff",
+      "url": "https://en.wikipedia.org/wiki/Nathaniel_Rateliff"
+    },
+    {
+      "label": "Wikipedia: Nathaniel Rateliff & The Night Sweats",
+      "url": "https://en.wikipedia.org/wiki/Nathaniel_Rateliff_%26_the_Night_Sweats"
+    }
+  ],
+  "writtenAt": "2026-11-07"
+}

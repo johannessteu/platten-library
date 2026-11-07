@@ -1,0 +1,84 @@
+{
+  "name": "Interpol",
+  "summary": "Interpol sind eine New Yorker Post-Punk-Band, die mit „Turn On the Bright Lights“ (2002) zur Leitfigur des Post-Punk-Revivals wurde. Ihr Markenzeichen sind Paul Banks' tiefer Bariton, staccatohafte Bässe und schneidende, ineinander verwobene Gitarren, die oft mit Joy Division verglichen werden. Auch nach dem Abschied von Bassist Carlos Dengler 2010 hält die Band an diesem düster-eleganten Sound fest.",
+  "career": [
+    "Gegründet wurde die Band 1997 in Manhattan von Daniel Kessler und Greg Drudy. Kessler holte Carlos Dengler, den er an der NYU kennengelernt hatte, und Paul Banks, einen Freund aus Frankreich. Nach einigen selbst veröffentlichten EPs wechselte 2000 Sam Fogarino für Drudy ans Schlagzeug. Anfang 2002 unterschrieb die Band bei Matador.",
+    "„Turn On the Bright Lights“ erschien im August 2002 und wurde von Pitchfork zum Album des Jahres gekürt. „Antics“ (2004) brachte die ersten britischen Top-40-Hits. Für „Our Love to Admire“ (2007) wechselte die Band zu Capitol, kehrte aber für das selbstbetitelte vierte Album (2010) zu Matador zurück. Danach stieg Dengler aus.",
+    "Seitdem spielt Banks den Bass im Studio, live unterstützen Tourmusiker. Es folgten „El Pintor“ (2014), „Marauder“ (2018) und „The Other Side of Make-Believe“ (2022). Für das achte Album „This Mirror Weighs a Ton“ (2026) unterschrieb die Band bei Partisan; es wurde von Andrew Wyatt produziert und von David Fridmann gemischt."
+  ],
+  "sound": "Post-Punk-Revival aus der New Yorker Szene, in der Tradition von Joy Division, Television, Echo & the Bunnymen und Siouxsie and the Banshees. Typisch sind ein melodischer, staccatohafter Bass, rhythmisch verzahnte, harmonisierte Gitarren und ein betont trockenes Schlagzeug, darüber Banks' düsterer, oft kryptischer Gesang. Ein einzelner Hauptsongwriter fehlt, alle Mitglieder tragen zu den Songs bei.",
+  "highlights": [
+    "„Turn On the Bright Lights“ wurde in den ersten Jahren rund 300.000-mal verkauft, „Antics“ allein in den ersten vier Monaten etwa 350.000-mal.",
+    "2011 eröffnete die Band einige Konzerte der U2-Tour „360°“.",
+    "Banks veröffentlichte als Julian Plenti ein Soloalbum und gründete mit RZA das Duo Banks & Steelz.",
+    "2020 erwarb die Band die Rechte an ihrem Back-Katalog.",
+    "2024 spielte Interpol ein kostenloses Konzert auf dem Zócalo in Mexiko-Stadt, ihr bis dahin größter Auftritt."
+  ],
+  "discography": [
+    {
+      "title": "Turn On the Bright Lights",
+      "year": 2002,
+      "type": "Studioalbum",
+      "note": "Das Debüt, das den Ton des Post-Punk-Revivals setzte und zum Album des Jahres bei Pitchfork wurde."
+    },
+    {
+      "title": "Antics",
+      "year": 2004,
+      "type": "Studioalbum",
+      "note": "Zugänglicher und tanzbarer, mit den ersten Hits in Großbritannien."
+    },
+    {
+      "title": "Our Love to Admire",
+      "year": 2007,
+      "type": "Studioalbum",
+      "note": "Einziges Major-Album mit opulenteren Arrangements; kommerzieller Höhepunkt der Band."
+    },
+    {
+      "title": "Interpol",
+      "year": 2010,
+      "type": "Studioalbum",
+      "note": "Das selbstbetitelte vierte Album und das letzte mit Carlos Dengler."
+    },
+    {
+      "title": "El Pintor",
+      "year": 2014,
+      "type": "Studioalbum",
+      "note": "Erstes Album ohne Dengler; Banks spielt den Bass."
+    },
+    {
+      "title": "Marauder",
+      "year": 2018,
+      "type": "Studioalbum",
+      "note": "Sechstes Album der Band, erschienen im August 2018."
+    },
+    {
+      "title": "A Fine Mess",
+      "year": 2019,
+      "type": "EP",
+      "note": "Kurze EP aus dem Jahr nach „Marauder“."
+    },
+    {
+      "title": "The Other Side of Make-Believe",
+      "year": 2022,
+      "type": "Studioalbum",
+      "note": "Siebtes Album, erschienen im Juli 2022."
+    },
+    {
+      "title": "This Mirror Weighs a Ton",
+      "year": 2026,
+      "type": "Studioalbum",
+      "note": "Erstes Album bei Partisan, mit Streichern, Holzbläsern und Sounddesign erweitert."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia: Interpol",
+      "url": "https://en.wikipedia.org/wiki/Interpol_(band)"
+    },
+    {
+      "label": "The Fader: This Mirror Weighs a Ton",
+      "url": "https://www.thefader.com/2026/06/09/interpol-this-mirror-weighs-a-ton-album-announcement"
+    }
+  ],
+  "writtenAt": "2026-11-07"
+}

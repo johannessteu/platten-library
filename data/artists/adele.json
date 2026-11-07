@@ -1,0 +1,60 @@
+{
+  "name": "Adele",
+  "summary": "Adele Adkins aus dem Londoner Stadtteil Tottenham ist eine der erfolgreichsten Sängerinnen des 21. Jahrhunderts. Ihre Stimme und ihre Balladen über Trennung und Reue haben ein Soul-Pop-Genre geprägt, das ohne Studiotricks auskommt. Mit nur vier Studioalben, benannt nach ihrem jeweiligen Lebensalter, hat sie Charts und Preisverleihungen dominiert und sich zwischendurch lange Pausen gegönnt.",
+  "career": [
+    "Adele Laurie Blue Adkins wurde am 5. Mai 1988 in Tottenham geboren und schloss im Mai 2006 die BRIT School ab. Im selben Jahr unterschrieb sie bei XL Recordings, dem Indie-Label, das sie über Demo-Aufnahmen entdeckt hatte. Das Debüt „19“ erschien 2008 und brachte mit „Chasing Pavements“ und „Make You Feel My Love“ zwei Top-5-Hits in Großbritannien ein; dazu kam der Grammy als beste Newcomerin.",
+    "Der große Sprung folgte mit „21“ (2011), geschrieben unter dem Eindruck einer zerbrochenen Beziehung. Es gilt als das meistverkaufte Album des 21. Jahrhunderts; es stand 24 Wochen auf Platz 1 der US-Billboard-200 und gewann sechs Grammys, darunter Album des Jahres. 2011 musste sie wegen einer Stimmbandblutung Konzerte absagen und sich operieren lassen. 2013 gewann sie mit dem Bond-Titelsong „Skyfall“ einen Oscar.",
+    "„25“ (2015) und „30“ (2021) setzten den Abstand zwischen den Alben fort: Jeweils rund vier bis sechs Jahre Pause, dann ein Album, das zu den meistverkauften des Jahres gehörte. „30“ verarbeitet ihre Scheidung. Von November 2022 bis Juni 2024 spielte sie die Residency „Weekends with Adele“ im Caesars Palace in Las Vegas. Im Juli 2024 kündigte sie eine unbefristete Pause von der Musik an."
+  ],
+  "sound": "Adele macht Pop mit Soul-, Blues- und Gospel-Wurzeln, getragen von einer kräftigen Altstimme und meist klavier- oder streicherbasierten Arrangements. Auf „19“ klingt das noch nach Singer-Songwriter mit Jazz-Einschlag, mit „21“ kamen Americana- und Gospelfarben, später mehr Produktionsaufwand. Im Zentrum stehen immer ihre Stimme und ihre direkt erzählten Texte über Liebe, Verlust und Selbstzweifel.",
+  "highlights": [
+    "Die Album-Titel bezeichnen ihr Alter beim Schreiben der Songs: 19, 21, 25 und 30.",
+    "Mit „Skyfall“ gewann sie 2013 einen Oscar und einen Golden Globe für den besten Filmsong.",
+    "Sie gewann 16 Grammys und zwölf Brit Awards, davon dreimal für das britische Album des Jahres.",
+    "Bei „21“ arbeitete sie unter anderem mit Paul Epworth und Rick Rubin; Epworth wurde 2012 Grammy-Produzent des Jahres.",
+    "„30“ erschien am 19. November 2021; „Easy on Me“ gewann einen Grammy als beste Pop-Solo-Darbietung."
+  ],
+  "discography": [
+    {
+      "title": "19",
+      "year": 2008,
+      "type": "Studioalbum",
+      "note": "Das Debüt mit „Chasing Pavements“ und „Make You Feel My Love“; brachte ihr den Grammy als beste Newcomerin."
+    },
+    {
+      "title": "21",
+      "year": 2011,
+      "type": "Studioalbum",
+      "note": "Das Trennungsalbum, das sie weltweit zum Star machte; ihre Platte im Regal."
+    },
+    {
+      "title": "25",
+      "year": 2015,
+      "type": "Studioalbum",
+      "note": "Das dritte Album, erschienen im November 2015; erster Platz der Jahrescharts weltweit."
+    },
+    {
+      "title": "30",
+      "year": 2021,
+      "type": "Studioalbum",
+      "note": "Ein reflektiertes Album über Scheidung und Neuanfang, zugleich ihr bislang jüngstes."
+    },
+    {
+      "title": "Weekends with Adele Live in Las Vegas",
+      "year": 2025,
+      "type": "Livealbum",
+      "note": "Mitschnitt der Vegas-Residency, erschienen im Februar 2025."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia: Adele",
+      "url": "https://en.wikipedia.org/wiki/Adele"
+    },
+    {
+      "label": "Wikipedia: Adele albums discography",
+      "url": "https://en.wikipedia.org/wiki/Adele_albums_discography"
+    }
+  ],
+  "writtenAt": "2026-11-07"
+}

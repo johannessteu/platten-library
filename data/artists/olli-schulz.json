@@ -1,0 +1,31 @@
+{
+  "name": "Olli Schulz",
+  "summary": "Olli Schulz, geboren 1973 in Hamburg, ist Singer-Songwriter, Podcaster und Fernsehmoderator. Er begann mit der Band Olli Schulz und der Hund Marie auf dem Hamburger Label Grand Hotel van Cleef und machte danach als Solokünstler weiter. Einem breiten Publikum ist er auch durch Radio, Fernsehen und den Podcast „Fest & Flauschig“ mit Jan Böhmermann bekannt. Mit „Vom Rand der Zeit“ erreichte er 2024 Platz 1 der deutschen Albumcharts.",
+  "career": [
+    "Schulz wurde als Oliver Marc Koppel geboren, arbeitete lange als Stagehand und Roadie und brach ein Medienstudium ab. Sein Freund Marcus Wiebusch von Kettcar überzeugte ihn, bei Grand Hotel van Cleef zu veröffentlichen. Mit Max Schröder entstanden als Olli Schulz und der Hund Marie drei Alben (2003, 2005, 2006). Weil Schröder fest bei Tomte spielte, trat Schulz ab 2005 zunehmend solo auf.",
+    "2009 erschien mit „Es brennt so schön“ das erste Soloalbum, im selben Jahr belegte er mit „Mach den Bibo“ beim Bundesvision Song Contest für Hamburg Platz 5. Es folgten „SOS – Save Olli Schulz“ (2012), „Feelings aus der Asche“ (2015, Platz 4), „Scheiß Leben, gut erzählt“ (2018, Platz 6) und „Vom Rand der Zeit“ (2024, Platz 1).",
+    "Parallel baute er eine Medienkarriere auf: Radioshow „Sanft & Sorgfältig“ mit Jan Böhmermann (2012–2016), daraus der Podcast „Fest & Flauschig“ (seit 2016), Fernsehen unter anderem bei „Circus HalliGalli“, „Schulz in the Box“ und „Schulz & Böhmermann“, dazu die Netflix-Doku „Das Hausboot“ mit Fynn Kliemann. Die Diskografie unten listet nur seine Musik."
+  ],
+  "sound": "Schulz ist ein deutschsprachiger Singer-Songwriter zwischen Indie-Folk, Pop und Rock. Die Texte sind erzählend, selbstironisch und oft persönlich bis schonungslos, die Arrangements reichen von der akustischen Gitarre bis zur Bandproduktion. Seine Wurzeln liegen in der Hamburger Szene um Grand Hotel van Cleef.",
+  "highlights": [
+    "Für „Feelings aus der Asche“ (2015) nahm er mit einer Band um Gisbert zu Knyphausen und Ben Lauber in den Berliner Hansa-Tonstudios auf.",
+    "„Vom Rand der Zeit“ (2024) ist sein erstes Album auf Platz 1 der deutschen Charts und sein bisher größter kommerzieller Erfolg.",
+    "Für den Podcast „Fest & Flauschig“ erhielt er 2024 einen Spotify-Streaming-Award.",
+    "Seit 2023 kommentiert er das ESC-Finale für den österreichischen Sender FM4."
+  ],
+  "discography": [
+    { "title": "Brichst Du mir das Herz, dann brech' ich Dir die Beine!", "year": 2003, "type": "Studioalbum", "note": "Debüt als Olli Schulz und der Hund Marie auf Grand Hotel van Cleef." },
+    { "title": "Das beige Album", "year": 2005, "type": "Studioalbum", "note": "Zweites Album mit dem Hund Marie, in den deutschen Charts auf Platz 97." },
+    { "title": "Warten auf den Bumerang", "year": 2006, "type": "Studioalbum", "note": "Das letzte Album der Band erschien bei EMI." },
+    { "title": "Es brennt so schön", "year": 2009, "type": "Studioalbum", "note": "Das erste Soloalbum erschien bei Columbia und kam auf Platz 46." },
+    { "title": "SOS – Save Olli Schulz", "year": 2012, "type": "Studioalbum", "note": "Erstes Album auf Trocadero Records, Platz 32." },
+    { "title": "Feelings aus der Asche", "year": 2015, "type": "Studioalbum", "note": "Der Durchbruch in den Charts auf Platz 4." },
+    { "title": "Scheiß Leben, gut erzählt", "year": 2018, "type": "Studioalbum", "note": "Platz 6 der deutschen Charts." },
+    { "title": "Vom Rand der Zeit", "year": 2024, "type": "Studioalbum", "note": "Das erste Nummer-eins-Album von Olli Schulz." }
+  ],
+  "sources": [
+    { "label": "Wikipedia: Olli Schulz", "url": "https://de.wikipedia.org/wiki/Olli_Schulz" },
+    { "label": "Wikipedia: Olli Schulz (en)", "url": "https://en.wikipedia.org/wiki/Olli_Schulz" }
+  ],
+  "writtenAt": "2026-11-07"
+}

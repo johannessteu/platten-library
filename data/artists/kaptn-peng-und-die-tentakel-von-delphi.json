@@ -1,0 +1,28 @@
+{
+  "name": "Käptn Peng & Die Tentakel von Delphi",
+  "summary": "Käptn Peng & Die Tentakel von Delphi sind eine Berliner Band um den Schauspieler und Rapper Robert Gwisdek, die sich keinem Genre zuordnen lässt: Sprechgesang über Funk, Rock und Jazz, gespielt mit Schlagzeug, Gitarre, Kontrabass und Percussion statt mit Samples. Ihre Texte kreisen um Sprache, Philosophie und Absurdes, voller Wortspiele und Neologismen. Die Band veröffentlicht auf dem eigenen Label Kreismusik und gilt als eine der eigenwilligsten Stimmen im deutschsprachigen Alternative-Hip-Hop.",
+  "career": [
+    "Robert Gwisdek, geboren 1984 in Ost-Berlin als Sohn der Schauspieler Michael Gwisdek und Corinna Harfouch, arbeitet zunächst mit seinem Bruder Johannes („Shaban“) als Duo Shaban & Käptn Peng. 2012 erscheint ihr gemeinsames Album „Die Zähmung der Hydra“. Im selben Jahr formiert sich daraus mit drei weiteren Musikern die Band: Moritz Bossmann (Gitarre), Peter Bartz (Percussion) und Boris Nielsen (Kontrabass).",
+    "Am 12. April 2013 erscheint das Debüt „Expedition ins O“ auf dem eigenen Label Kreismusik. Es erreicht Platz 60 der deutschen Charts und wird von der Presse für seine Wortspiele und den überwiegend akustischen Funk-Rock gelobt. 2015 folgt der Soundtrack „Alki Alki (Muzik zum Film)“, 2017 das Album „Das Nullte Kapitel“ auf Platz 12 der deutschen und Platz 15 der österreichischen Charts. 2019 erscheinen noch EPs.",
+    "Parallel arbeitet Gwisdek weiter als Schauspieler, unter anderem in „Kohlhaas oder die Verhältnismäßigkeit der Mittel“ (2012) und „3 Tage in Quiberon“ (2018), als Regisseur eines Kurzfilms und als Autor: Sein Roman „Der unsichtbare Apfel“ erschien 2014. Bei dem Rammstein-Video zu „Zeit“ führte er Regie. Diese Doppelrolle erklärt, warum die Band seltener Alben veröffentlicht als andere Acts ihrer Größe."
+  ],
+  "sound": "Die Band spielt Alternative-Hip-Hop, der sich ebenso aus Funk-Rock, Jazz und Weltmusik speist. Auffällig ist der Verzicht auf Audiosamples: Alles entsteht live an Schlagzeug, Gitarre, Kontrabass und Percussion, dazu kommen Haushaltsgegenstände wie Kuchenbleche und Koffer als Klangquellen. Gwisdeks Rap ist rhythmisch dicht, verspielt und nah am Sprechtheater; die Texte sind philosophisch-absurd und weit entfernt von klassischem Battle- oder Straßenrap.",
+  "highlights": [
+    "Die Band verzichtet bewusst auf Samples und setzt neben klassischen Instrumenten auch Haushaltsgegenstände als Klangquellen ein.",
+    "Gegründet wurde sie aus dem Brüderduo Shaban & Käptn Peng, dessen Album „Die Zähmung der Hydra“ 2012 erschien.",
+    "„Expedition ins O“ erschien 2013 auf dem bandeigenen Label Kreismusik und stieg in die deutschen Albumcharts ein.",
+    "Mit „Das Nullte Kapitel“ (2017) gelang der Band der Sprung auf Platz 12 der deutschen und Platz 15 der österreichischen Charts.",
+    "Robert Gwisdek ist hauptberuflich Schauspieler und veröffentlichte 2014 den Roman „Der unsichtbare Apfel“."
+  ],
+  "discography": [
+    { "title": "Expedition ins O", "year": 2013, "type": "Studioalbum", "note": "Das Debüt auf Kreismusik, großteils akustisch, mit Wortspielen im Zentrum; Platz 60." },
+    { "title": "Alki Alki (Muzik zum Film)", "year": 2015, "type": "Soundtrack", "note": "Das Soundtrackalbum der Band zum Film „Alki Alki“, ebenfalls auf Kreismusik." },
+    { "title": "Das Nullte Kapitel", "year": 2017, "type": "Studioalbum", "note": "Das zweite reguläre Album der Band, erschien am 19. Mai 2017; Platz 12 in Deutschland." }
+  ],
+  "sources": [
+    { "label": "Wikipedia: Käptn Peng & Die Tentakel von Delphi", "url": "https://de.wikipedia.org/wiki/Käptn_Peng_&_Die_Tentakel_von_Delphi" },
+    { "label": "Wikipedia: Das nullte Kapitel", "url": "https://de.wikipedia.org/wiki/Das_nullte_Kapitel" },
+    { "label": "Wikipedia (en): Robert Gwisdek", "url": "https://en.wikipedia.org/wiki/Robert_Gwisdek" }
+  ],
+  "writtenAt": "2026-11-07"
+}

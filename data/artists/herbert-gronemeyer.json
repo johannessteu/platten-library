@@ -1,0 +1,49 @@
+{
+  "name": "Herbert Grönemeyer",
+  "summary": "Herbert Grönemeyer ist der kommerziell erfolgreichste deutsche Popmusiker der Gegenwart: In Deutschland hat er mehr als 20 Millionen Tonträger verkauft, und alle deutschsprachigen Studioalben bis „Tumult“ landeten auf Platz 1. Er kam vom Theater und aus dem Ruhrgebiet und macht Songs, die Pathos riskieren und trotzdem nach Alltag klingen. Sein markanter Sprechgesang und die Nähe zu Bochum, Liebe, Verlust und Politik machen ihn zu einer Art Nationalsänger, der Stadionkonzerte genauso füllt wie ein Akustikprogramm.",
+  "career": [
+    "Geboren 1956 in Göttingen, wuchs Grönemeyer in Bochum auf. Er lernte früh Klavier, verdiente sein erstes Geld als Pianist am Schauspielhaus Bochum und wurde dort 1976 Musikalischer Leiter. Das Studium von Musik und Jura zog sich über Jahre, ohne dass er es beendete. Seine ersten Alben „Grönemeyer“ (1979), „Zwo“ (1980) und „Total egal“ (1982) erschienen bei Intercord und verkauften sich kaum, das Debüt bekam sogar eine „Goldene Zitrone“ für das hässlichste Cover des Jahres.",
+    "Bekannt wurde er zuerst als Schauspieler: Als Leutnant Werner in Wolfgang Petersens „Das Boot“ (1981) kannte ihn plötzlich ein Millionenpublikum. Musikalisch kam der Durchbruch mit „4630 Bochum“ (1984), benannt nach der alten Postleitzahl seiner Heimatstadt; es wurde das meistverkaufte Album des Jahres in Deutschland. Mit „Sprünge“ (1986), „Ö“ (1988), „Luxus“ (1990) und „Chaos“ (1993) festigte er seine Stellung, 1991 spielte er in Ahrensfelde vor rund 100.000 Menschen. Seine Musik wanderte dabei vom Soul-Pop der frühen Jahre zu größeren Rock-Arrangements.",
+    "1994 war er der erste nicht englischsprachige Künstler bei MTV Unplugged. 1998 zog er mit der Familie nach London; dort starben im November binnen weniger Tage sein Bruder Wilhelm und seine Frau, die Schauspielerin Anna Henkel. 1999 gründete er das Label Grönland Records mit. „Mensch“ (2002) ist das erste Studioalbum nach diesem Verlust, verkaufte sich allein in Deutschland rund 3,15 Millionen Mal und gilt als zweitmeistverkauftes Album des Landes. Seit 2007 lebt er wieder in Berlin.",
+    "Auf „12“ (2007) und „Schiffsverkehr“ (2011) blieb er dem großen Stadionformat treu, 2012 folgte mit „I Walk“ ein englischsprachiges Album. „Dauernd jetzt“ (2014) und „Tumult“ (2018) führten die Linie fort, seit „Tumult“ erscheinen seine Alben bei Vertigo (Universal). „Das ist los“ (2023) kam auf Platz 2. 2025 kehrte er mit „Unplugged 2“ zum akustischen Format zurück und tourte anschließend mit einem Akustikprogramm."
+  ],
+  "sound": "Grönemeyer macht deutschsprachigen Pop und Rock, der sich auf Klavier, Gitarre und seine ungewöhnliche, oft fast gesprochene Stimme stützt. Die frühen Platten tragen Soul- und Funk-Anteile, ab den Achtzigern kommen Synthesizer, später Streicher, Chöre und wuchtige Stadionarrangements dazu. Die Texte wechseln zwischen Alltagsbeobachtung, Liebeslied, Trauer und politischer Haltung und sind bewusst direkt gehalten.",
+  "highlights": [
+    "„Mensch“ (2002) erreichte schon durch Vorbestellungen Platin, der Titelsong war seine erste Nummer 1 in den deutschen Singlecharts.",
+    "Seit 2006 ist er Mitglied beim VfL Bochum, mit der Mitgliedsnummer 4630. Sein Song „Bochum“ gilt als inoffizielle Stadthymne.",
+    "Sein MTV-Unplugged-Konzert fand am 15. Mai 1994 in den Studios Babelsberg statt; das Album dazu erschien 1995.",
+    "Das Livealbum „Live in Bochum“ entstand bei den Konzerten im Ruhrstadion am 19. und 20. Juni 2015.",
+    "Auf „Unplugged 2 – Von allem anders“ (2025) singt der Rundfunkchor Berlin mit, aufgenommen wurde in den Berliner Hansa Studios.",
+    "Für die Olympischen Spiele 2004 in Athen und die Fußball-WM 2006 steuerte er Songs bei; 2005 nannte ihn das Time Magazine einen „European Hero“."
+  ],
+  "discography": [
+    { "title": "Grönemeyer", "year": 1979, "type": "Studioalbum", "note": "Das Debüt bei Intercord blieb kommerziell unbeachtet und bekam eine „Goldene Zitrone“ für das schlechteste Cover." },
+    { "title": "Zwo", "year": 1980, "type": "Studioalbum" },
+    { "title": "Total egal", "year": 1982, "type": "Studioalbum", "note": "Das dritte Album bei Intercord, noch ohne Durchbruch, aber mit mehr Soul und Groove als die Vorgänger." },
+    { "title": "Gemischte Gefühle", "year": 1983, "type": "Studioalbum" },
+    { "title": "4630 Bochum", "year": 1984, "type": "Studioalbum", "note": "Der Durchbruch: Platz 1 und das meistverkaufte Album des Jahres in Deutschland." },
+    { "title": "Sprünge", "year": 1986, "type": "Studioalbum" },
+    { "title": "Ö", "year": 1988, "type": "Studioalbum", "note": "Erreichte Platz 1; auch als englische Fassung „What's All This“ veröffentlicht." },
+    { "title": "Luxus", "year": 1990, "type": "Studioalbum" },
+    { "title": "Chaos", "year": 1993, "type": "Studioalbum" },
+    { "title": "Unplugged Herbert", "year": 1995, "type": "Livealbum", "note": "Der Mitschnitt seines MTV-Unplugged-Konzerts von 1994." },
+    { "title": "Bleibt alles anders", "year": 1998, "type": "Studioalbum" },
+    { "title": "Mensch", "year": 2002, "type": "Studioalbum", "note": "Das Album über Verlust und Weiterleben, in Deutschland rund 3,15 Millionen Mal verkauft." },
+    { "title": "12", "year": 2007, "type": "Studioalbum" },
+    { "title": "Was muss muss", "year": 2008, "type": "Compilation", "note": "Doppel-Best-of mit 33 Songs aus elf Alben." },
+    { "title": "Schiffsverkehr", "year": 2011, "type": "Studioalbum" },
+    { "title": "I Walk", "year": 2012, "type": "Studioalbum", "note": "Englischsprachiges Album." },
+    { "title": "Dauernd jetzt", "year": 2014, "type": "Studioalbum" },
+    { "title": "Live in Bochum", "year": 2016, "type": "Livealbum", "note": "Doppelalbum von den Konzerten im Ruhrstadion im Juni 2015." },
+    { "title": "Tumult", "year": 2018, "type": "Studioalbum", "note": "Das erste Album bei Vertigo (Universal)." },
+    { "title": "Das ist los", "year": 2023, "type": "Studioalbum", "note": "Kam auf Platz 2 der deutschen Albumcharts." },
+    { "title": "Von allem anders (Unplugged 2)", "year": 2025, "type": "Livealbum", "note": "Zweites Akustikalbum, aufgenommen in den Berliner Hansa Studios, mit dem Rundfunkchor Berlin. Offizieller Titel: „Unplugged 2 – Von allem anders“." }
+  ],
+  "sources": [
+    { "label": "Wikipedia (de): Herbert Grönemeyer", "url": "https://de.wikipedia.org/wiki/Herbert_Grönemeyer" },
+    { "label": "Wikipedia (de): Diskografie", "url": "https://de.wikipedia.org/wiki/Herbert_Grönemeyer/Diskografie" },
+    { "label": "Wikipedia (en): Herbert Grönemeyer", "url": "https://en.wikipedia.org/wiki/Herbert_Grönemeyer" },
+    { "label": "Rundfunkchor Berlin zu Unplugged 2", "url": "https://www.rundfunkchor-berlin.de/en/press/rundfunkchor-berlin-features-on-herbert-groenemeyers-new-album-unplugged-2-von-allem-anders/" }
+  ],
+  "writtenAt": "2026-11-07"
+}

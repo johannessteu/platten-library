@@ -1,0 +1,58 @@
+{
+  "name": "Amy Winehouse",
+  "summary": "Amy Winehouse war eine britische Sängerin und Songwriterin, die Jazz, Soul und die Girlgroup-Sounds der Sechziger in die Gegenwart holte. Ihr Debüt „Frank“ erschien 2003, ihr zweites Album „Back to Black“ machte sie 2006 weltweit bekannt und brachte ihr 2008 fünf Grammys ein. Ihre tiefe Altstimme und ihre sehr persönlichen Texte prägten den Retro-Soul der Zweitausender. Sie starb 2011 mit 27 Jahren.",
+  "career": [
+    "Winehouse wurde am 14. September 1983 in Enfield, London, geboren und wuchs in einer jazzbegeisterten Familie in Southgate auf. Nach einer Demo-Aufnahme, die einen A&R-Scout erreichte, unterschrieb sie 2002 bei Island Records; einen Musikverlagsvertrag mit EMI hatte sie schon. Ihr Debüt „Frank“ erschien 2003, wurde überwiegend von Salaam Remi produziert und von der Kritik gelobt. „Stronger Than Me“ gewann einen Ivor Novello Award.",
+    "„Back to Black“ (2006) entstand mit Salaam Remi und Mark Ronson, die Dap-Kings spielten die Begleitung. Das Album wurde ein internationaler Hit; „Rehab“ erreichte weltweit die Top Ten. Bei den Grammys 2008 gewann sie fünf Preise, darunter Aufnahme und Song des Jahres sowie Beste Newcomerin, und war die erste Britin mit fünf Grammys.",
+    "In ihren letzten Jahren überschatteten Drogen- und Alkoholprobleme, psychische Belastungen und abgesagte Konzerte ihre Karriere. Ihre letzte Aufnahme war das Duett „Body and Soul“ mit Tony Bennett. Amy Winehouse starb am 23. Juli 2011 in London an Alkoholvergiftung; die gerichtliche Untersuchung stellte 2013 einen Tod durch Unglücksfall fest. Eine Stiftung in ihrem Namen setzt ihre Arbeit fort, 2015 erschien der Dokumentarfilm „Amy“."
+  ],
+  "sound": "Winehouse mischte Jazz-Phrasierung mit klassischem Soul und R&B und orientierte sich dabei an den Girlgroups der Sechziger wie den Ronettes. Ihre Stimme ist ein tiefer, rauchiger Alt. Auf „Frank“ klingt vieles noch jazziger und lockerer, „Back to Black“ setzt auf das Retro-Soul-Fundament der Dap-Kings: Bläser, Hall und trockene Drums, dazu Texte über Liebe, Sucht und Selbstzweifel.",
+  "highlights": [
+    "2008 wurde sie die erste Britin mit fünf Grammys an einem Abend, darunter Aufnahme des Jahres und Song des Jahres.",
+    "„Back to Black“ wurde weltweit rund 20 Millionen Mal verkauft (Stand 2015).",
+    "„Stronger Than Me“ von „Frank“ gewann einen Ivor Novello Award.",
+    "Ihre letzte Aufnahme war „Body and Soul“, ein Duett mit Tony Bennett für dessen Album „Duets II“.",
+    "Das posthume Album „Lioness: Hidden Treasures“ erreichte 2011 Platz 1 der britischen Charts."
+  ],
+  "discography": [
+    {
+      "title": "Frank",
+      "year": 2003,
+      "type": "Studioalbum",
+      "note": "Das jazzige Debüt, in Großbritannien auf Platz 3 und später mit mehr als einer Million verkauften Exemplaren."
+    },
+    {
+      "title": "Back to Black",
+      "year": 2006,
+      "type": "Studioalbum",
+      "note": "Retro-Soul mit Mark Ronson und Salaam Remi, UK-Nummer-eins und ihr internationaler Durchbruch."
+    },
+    {
+      "title": "Lioness: Hidden Treasures",
+      "year": 2011,
+      "type": "Compilation",
+      "note": "Posthume Sammlung unveröffentlichter Aufnahmen, in Großbritannien auf Platz 1."
+    },
+    {
+      "title": "Amy Winehouse at the BBC",
+      "year": 2012,
+      "type": "Livealbum",
+      "note": "Livemitschnitte aus BBC-Auftritten, als CD mit DVD und als LP erschienen."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia: Amy Winehouse",
+      "url": "https://en.wikipedia.org/wiki/Amy_Winehouse"
+    },
+    {
+      "label": "Wikipedia: Amy Winehouse discography",
+      "url": "https://en.wikipedia.org/wiki/Amy_Winehouse_discography"
+    },
+    {
+      "label": "NBC News: Zweite Untersuchung",
+      "url": "https://www.nbcnews.com/pop-culture/pop-culture-news/amy-winehouse-died-alcohol-second-death-inquest-confirms-flna1b7877888"
+    }
+  ],
+  "writtenAt": "2026-11-07"
+}

@@ -1,0 +1,66 @@
+{
+  "name": "AnnenMayKantereit",
+  "summary": "AnnenMayKantereit sind eine Band aus Köln, die aus drei Schulfreunden hervorging und als Straßenmusiker begann. Mit deutschen Texten, Pop-Rock-Arrangements und der rauen Stimme von Henning May wurden sie zu einem der größten deutschsprachigen Acts ihrer Generation; zwei Alben erreichten Platz 1 der deutschen Charts. Seit 2021 managen sie sich selbst und veröffentlichen auf dem eigenen Label.",
+  "career": [
+    "Christopher Annen, Henning May und Severin Kantereit lernten sich am Schiller-Gymnasium in Köln-Sülz kennen und gründeten 2011 die Band, deren Name aus ihren Nachnamen besteht. Sie spielten zunächst auf der Straße. Der Kontrabassist Lars Lötgering stieß hinzu und ging 2014 wieder, danach spielte Malte Huck bis 2020 den Bass. Erste Aufmerksamkeit brachte ihnen ein Auftritt bei „Circus HalliGalli“ 2014; 2015 unterschrieben sie bei Universal und veröffentlichten die EP „Wird schon irgendwie gehen“.",
+    "2016 stieg das Debütalbum „Alles Nix Konkretes“ auf Platz 1 ein, 2018 folgte „Schlagschatten“ (Platz 2). 2017 gewann die Band zwei Echos, 2019 die 1LIVE Krone als beste Band. Während der Pandemie erschien im November 2020 überraschend „12“ als Eigenveröffentlichung; zugleich wurde Hucks Abschied bekannt. Seit 2022 spielt Sophie Chassée Bass, live kommen Streicher und Bläser dazu.",
+    "Ab 2021 managen sich AnnenMayKantereit selbst und veröffentlichen über AnnenMayKantereit Records. „Es ist Abend und wir sitzen bei mir“ (März 2023) erreichte erneut Platz 1, im selben Jahr spielten sie ein ausverkauftes Konzert im Kölner RheinEnergieStadion vor rund 40.000 Menschen. 2025 erhielt die Band den Deutschen Musikautor*innenpreis."
+  ],
+  "sound": "Die Band spielt deutschsprachigen Pop-Rock mit Singer-Songwriter-Wurzeln: Klavier, Gitarre und Schlagzeug, später immer öfter mit Streichern, Bläsern und jazzigen Einschlägen. Das Markenzeichen ist Henning Mays raue, rauchige Stimme. Textlich bleiben die Songs nah am Alltag, mit Liebe, Fernweh und Zweifel als Themen, was ihnen den Ruf als Stimme einer Generation eingebracht hat.",
+  "highlights": [
+    "Die Band engagiert sich politisch, etwa 2023 bei einer Greenpeace-Mahnwache gegen den Abriss von Lützerath, und tritt bei Konzerten für LGBT-Rechte ein.",
+    "Mit Giant Rooks nahmen sie eine Version von Suzanne Vegas „Tom's Diner“ auf, die 2022 Platz 63 der britischen Charts erreichte.",
+    "Ein erstes selbst aufgenommenes Album von 2013 ist nicht mehr erhältlich.",
+    "2019 schloss die Band einen weltweiten Verlagsvertrag mit BMG.",
+    "Alle Konzerte wurden ab März 2020 wegen der Pandemie abgesagt, „12“ entstand in dieser Zeit."
+  ],
+  "discography": [
+    {
+      "title": "Wird schon irgendwie gehen",
+      "year": 2015,
+      "type": "EP",
+      "note": "Die erste EP bei Universal."
+    },
+    {
+      "title": "Alles Nix Konkretes",
+      "year": 2016,
+      "type": "Studioalbum",
+      "note": "Das Debüt auf Platz 1 der deutschen Charts."
+    },
+    {
+      "title": "AnnenMayKantereit & Freunde – Live in Berlin",
+      "year": 2016,
+      "type": "Livealbum",
+      "note": "Livemitschnitt „& Freunde“ aus Berlin."
+    },
+    {
+      "title": "Schlagschatten",
+      "year": 2018,
+      "type": "Studioalbum",
+      "note": "Zweites Album, Platz 2 in Deutschland."
+    },
+    {
+      "title": "12",
+      "year": 2020,
+      "type": "Studioalbum",
+      "note": "Überraschungsveröffentlichung im Eigenvertrieb, entstanden in der Pandemie."
+    },
+    {
+      "title": "Es ist Abend und wir sitzen bei mir",
+      "year": 2023,
+      "type": "Studioalbum",
+      "note": "Platz 1 der deutschen Charts; erstes Album auf dem eigenen Label."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia: AnnenMayKantereit (de)",
+      "url": "https://de.wikipedia.org/wiki/AnnenMayKantereit"
+    },
+    {
+      "label": "Wikipedia: AnnenMayKantereit (en)",
+      "url": "https://en.wikipedia.org/wiki/AnnenMayKantereit"
+    }
+  ],
+  "writtenAt": "2026-11-07"
+}

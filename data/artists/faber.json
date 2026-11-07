@@ -1,0 +1,74 @@
+{
+  "name": "Faber",
+  "summary": "Faber ist das Soloprojekt des Zürcher Liedermachers Julian Pollina. Er verbindet deutschsprachigen Pop mit Balkan-Brass, Chanson und Streichern und schreibt Texte, in denen oft fiktive Figuren in Ich-Form sprechen, was ihm Aufmerksamkeit und gelegentlich Missverständnisse eingebracht hat. Seit dem Debüt „Sei ein Faber im Wind“ (2017) gehört er zu den profiliertesten Stimmen der jungen Liedermacher-Szene im deutschsprachigen Raum.",
+  "career": [
+    "Julian Vincenzo Pollina wurde 1993 in Zürich geboren, als Sohn des sizilianisch-schweizerischen Liedermachers Pippo Pollina und der Fernsehjournalistin Christina Pollina-Roos. Erste Auftritte als Faber hatte er als Vorgruppe von Sophie Hunger. 2015 erschien die per Crowdfunding finanzierte EP „Alles Gute“ beim Independent-Label Two Gentlemen, ein Jahr später folgte „Abstinenz“.",
+    "2017 kam das Debütalbum „Sei ein Faber im Wind“ heraus, das neu eingespielte Songs der frühen EPs enthielt und in der Schweiz auf Platz 3 einstieg. Mit „I Fucking Love My Life“ (2019) kam er auf Platz 3 der deutschen Charts. Der Song „Das Boot ist voll“ zur Flüchtlingspolitik sorgte für Kritik, woraufhin Faber eine Textzeile änderte und das Stück neu hochlud.",
+    "2020 veröffentlichte er mit Dino Brandão und Sophie Hunger als Brandão Faber Hunger das Mundartalbum „Ich liebe Dich“ (Platz 2 in der Schweiz); das Trio gewann 2022 einen Swiss Music Award als beste Gruppe. Das Livealbum „Orpheum“ entstand 2022 in Graz. Das vierte Studioalbum „Addio“ (2024) produzierte Thomas Azier, es setzt stärker auf Elektronik, Chöre und orientalische Anklänge. Neben der Musik arbeitet Faber auch als Schauspieler."
+  ],
+  "sound": "Faber macht Pop im weitesten Sinn, getragen von Gitarre, Streichern, Perkussion und Bläsern. Live begleitet ihn die Band Goran Koč y Vocalist Orkestar, was dem Sound einen Balkan-Brass-Einschlag gibt, den der Deutschlandfunk 2019 als „Blaskapellen-Balkan-Musik“ beschrieb. Die Lieder sind meist deutsch, vereinzelt schweizerdeutsch, italienisch oder französisch. Die Tradition des Chansons und des italienischen Cantautore, aus der auch sein Vater kommt, ist hörbar; spätere Platten öffnen sich elektronischen Klängen.",
+  "highlights": [
+    "Sein Künstlername verbindet Max Frischs „Homo Faber“ mit dem Beinamen des italienischen Liedermachers Fabrizio De André.",
+    "Die EP „Alles Gute“ (2015) wurde per Crowdfunding finanziert.",
+    "Faber spielte die Hauptrolle in der Hyper-Pop-Oper „Porno mit Adorno“ (2022) und im Film „Der Junge dem die Welt gehört“ (2023).",
+    "„Addio“ (2024) kam schon ab Oktober 2023 als Schallplatte heraus, bevor es gestreamt werden konnte; statt Musikvideos erschien ein sechsteiliger Musikfilm.",
+    "2025 gab es mit Kraftklub den gemeinsamen Song „All die schönen Worte“."
+  ],
+  "discography": [
+    {
+      "title": "Alles Gute",
+      "year": 2015,
+      "type": "EP",
+      "note": "Crowdfinanzierte erste EP beim Label Two Gentlemen."
+    },
+    {
+      "title": "Abstinenz",
+      "year": 2016,
+      "type": "EP",
+      "note": "Zweite EP, ebenfalls bei Two Gentlemen."
+    },
+    {
+      "title": "Sei ein Faber im Wind",
+      "year": 2017,
+      "type": "Studioalbum",
+      "note": "Das Debüt mit neu eingespielten Songs der EPs; Platz 3 in der Schweiz, Platz 17 in Deutschland."
+    },
+    {
+      "title": "I Fucking Love My Life",
+      "year": 2019,
+      "type": "Studioalbum",
+      "note": "Kam auf Platz 3 der deutschen Charts; mit der umstrittenen Single „Das Boot ist voll“."
+    },
+    {
+      "title": "Gefällt euch Faber so besser?",
+      "year": 2020,
+      "type": "EP",
+      "note": "EP aus dem Frühjahr 2020."
+    },
+    {
+      "title": "Ich liebe Dich",
+      "year": 2020,
+      "type": "Studioalbum",
+      "note": "Mundartalbum als Trio Brandão Faber Hunger; Platz 2 in der Schweiz."
+    },
+    {
+      "title": "Orpheum",
+      "year": 2022,
+      "type": "Livealbum",
+      "note": "Live im Grazer Orpheum mitgeschnitten."
+    },
+    {
+      "title": "Addio",
+      "year": 2024,
+      "type": "Studioalbum",
+      "note": "Von Thomas Azier produziert, mit Elektronik, Chören und orientalischen Anklängen."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia: Faber (Sänger)",
+      "url": "https://de.wikipedia.org/wiki/Faber_(Sänger)"
+    }
+  ],
+  "writtenAt": "2026-11-07"
+}

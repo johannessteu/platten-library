@@ -1,0 +1,57 @@
+{
+  "name": "Bruckner",
+  "summary": "Bruckner sind die Brüder Jakob und Matti Bruckner aus Regensburg, aufgewachsen in Pittenhart am Chiemsee. Seit 2017 machen sie als Duo deutschsprachigen Indie-Pop, die Texte erzählen von Nähe, Abschied und Heimweh. Nach zwei Alben bei Columbia erschien 2026 „Zusammenbleiben“ auf dem eigenen Label Worst Case Band Records.",
+  "career": [
+    "Die Söhne eines Musiklehrers lernten früh Klavier, Gitarre und Bass. Jakob zog 2010 zum Lehramtsstudium nach Regensburg, Matti folgte später. 2013 gewann Jakob einen Musikwettbewerb der Passauer Neuen Presse, bis 2017 entwickelte sich daraus das Duo. Es folgten die EPs „Berg“ (2017) und „Sprungturm“ (2019), danach der Vertrag mit Sony Music.",
+    "Das Debütalbum „Hier“ erschien im Juni 2020 und kam auf Platz 32 der deutschen Charts, „Zerrissen“ (2023) auf Platz 36. Die Tour zum Debüt musste wegen der Pandemie verschoben werden. 2026 erschien „Zusammenbleiben“ bei Worst Case Band Records, anschließend ging die Band auf Tour."
+  ],
+  "sound": "Bruckner spielen deutschsprachigen Indie-Pop mit Akustikgitarre und Klavier, dazu gibt es Rap-Flows, Autotune und ruhige Balladen. Die Songs sind persönlich und alltagsnah und halten die Balance zwischen Wehmut und Zuversicht.",
+  "highlights": [
+    "Im April 2020 gründeten sie gemeinsam mit Antje Schomaker das Social Sofa Festival, ein Instagram-Live-Format, das Spenden für die zivile Seenotrettung sammelte.",
+    "Der Song „Worst Case Band“ (2020) trägt den Namen, den das eigene Label heute führt.",
+    "Als Support spielten sie unter anderem für Christina Stürmer, Mark Forster, Sarah Connor, Max Giesinger und Cro."
+  ],
+  "discography": [
+    {
+      "title": "Berg",
+      "year": 2017,
+      "type": "EP",
+      "note": "Die erste EP, produziert von David Jürgens und Michael Haves."
+    },
+    {
+      "title": "Sprungturm",
+      "year": 2019,
+      "type": "EP",
+      "note": "Die zweite EP erschien kurz vor dem Plattenvertrag bei Sony Music."
+    },
+    {
+      "title": "Hier",
+      "year": 2020,
+      "type": "Studioalbum",
+      "note": "Das Debüt bei Columbia erreichte Platz 32 der deutschen Albumcharts."
+    },
+    {
+      "title": "Zerrissen",
+      "year": 2023,
+      "type": "Studioalbum",
+      "note": "Das zweite Album kam im April 2023 auf Platz 36."
+    },
+    {
+      "title": "Zusammenbleiben",
+      "year": 2026,
+      "type": "Studioalbum",
+      "note": "Das dritte Album erschien bei Worst Case Band Records."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia: Bruckner (Duo)",
+      "url": "https://de.wikipedia.org/wiki/Bruckner_(Duo)"
+    },
+    {
+      "label": "Regioactive: Zusammenbleiben-Tour",
+      "url": "https://www.regioactive.de/bruckner/tour-termine-tickets"
+    }
+  ],
+  "writtenAt": "2026-11-07"
+}

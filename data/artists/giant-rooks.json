@@ -1,0 +1,69 @@
+{
+  "name": "Giant Rooks",
+  "summary": "Giant Rooks sind eine Indie-Pop-Band aus Hamm in Westfalen, die von Anfang an auf Englisch singt. Gegründet von den Cousins Frederik Rabe und Finn Schwieters, wurden sie von Schüler-Newcomern zu einer der erfolgreichsten deutschen Indie-Bands: Das zweite Album „How Have You Been?“ stieg 2024 auf Platz 1 der deutschen Charts. Ihr Sound verbindet Klavier und Gitarre mit geschichteten Synthesizern.",
+  "career": [
+    "Frederik Rabe und Finn Schwieters machten schon als Kinder zusammen Musik und gründeten 2014 in Hamm die Band; Jonathan Wischniowski, Finn Thomas und Luca Göttner komplettierten die Besetzung. 2015 erschien die EP „The Times Are Bursting the Lines“, 2016 gewannen sie den popNRW-Preis für Newcomer. Die EP „New Estate“ (2017) führte zu einem Vertrag bei Irrsinn Tonträger (Universal), 2018 zog die Band nach Berlin.",
+    "Mit der EP „Wild Stare“ (2019) kam der Durchbruch, im selben Jahr bekamen sie den Preis für Popkultur als hoffnungsvollste Newcomer und die 1LIVE Krone als Förderpreis. Das Debütalbum „Rookery“ (August 2020) erreichte Platz 3 der deutschen Charts. 2022 nahm die Band mit AnnenMayKantereit „Tom's Diner“ auf, ihr erster Charterfolg in Großbritannien; 2021 und 2023 tourte sie durch Nordamerika, unter anderem mit Milky Chance und Louis Tomlinson.",
+    "„How Have You Been?“ (Februar 2024) erreichte Platz 1. Im September 2025 gab die Band zwei „Homecoming“-Konzerte im Kurpark ihrer Heimatstadt Hamm mit jeweils knapp 10.000 Zuschauern. Das dritte Album „If Heaven Exists, This Might Be It“ erschien am 16. Oktober 2026 bei Vertigo Berlin, mit zwölf Songs und Gästen wie Solann."
+  ],
+  "sound": "Giant Rooks gelten als Indie-Pop- und Art-Rock-Band. Als Einflüsse nennen sie Bob Dylan und Bon Iver sowie James Blake, Celeste und Joy Crookes. Im Mittelpunkt stehen Klavier, Gitarre und Schlagzeug, ergänzt von geschichteten Synthesizern, über denen Frederik Rabes helle Stimme liegt. Die Band singt englisch, weil ihr der Klang besser gefällt, und hat ihren Sound über die Alben von folkigen Anfängen zu opulenteren Arrangements entwickelt.",
+  "highlights": [
+    "Ihre Version von „Tom's Diner“ mit AnnenMayKantereit stieg 2022 auf Platz 63 der UK-Charts und erhielt unter anderem Gold in Deutschland und den USA.",
+    "Musik der Band lief im Tatort „Querschläger“ (2019).",
+    "2022 wurden sie bei den MTV Europe Music Awards als bester deutscher Act nominiert.",
+    "2021 gewannen sie den Preis für Popkultur als Lieblingsband."
+  ],
+  "discography": [
+    {
+      "title": "The Times Are Bursting the Lines",
+      "year": 2015,
+      "type": "EP",
+      "note": "Selbstveröffentlichte erste EP."
+    },
+    {
+      "title": "New Estate",
+      "year": 2017,
+      "type": "EP",
+      "note": "Die EP, die zum Plattenvertrag mit Irrsinn Tonträger führte."
+    },
+    {
+      "title": "Wild Stare",
+      "year": 2019,
+      "type": "EP",
+      "note": "EP mit dem Durchbruch und den Newcomer-Preisen."
+    },
+    {
+      "title": "Rookery",
+      "year": 2020,
+      "type": "Studioalbum",
+      "note": "Debütalbum, Platz 3 in Deutschland."
+    },
+    {
+      "title": "How Have You Been?",
+      "year": 2024,
+      "type": "Studioalbum",
+      "note": "Zweites Album und erster Nummer-eins-Erfolg in Deutschland."
+    },
+    {
+      "title": "If Heaven Exists, This Might Be It",
+      "year": 2026,
+      "type": "Studioalbum",
+      "note": "Drittes Album mit zwölf Songs, erschienen am 16. Oktober 2026 bei Vertigo Berlin."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia: Giant Rooks (de)",
+      "url": "https://de.wikipedia.org/wiki/Giant_Rooks"
+    },
+    {
+      "label": "Wikipedia: Giant Rooks (en)",
+      "url": "https://en.wikipedia.org/wiki/Giant_Rooks"
+    },
+    {
+      "label": "MS aktuell: drittes Studioalbum",
+      "url": "https://ms-aktuell.de/welt/giant-rooks-album-16-10-2026/"
+    }
+  ],
+  "writtenAt": "2026-11-07"
+}

@@ -1,0 +1,90 @@
+{
+  "name": "The Tremeloes",
+  "summary": "Die Tremeloes sind eine englische Beatgruppe aus Dagenham, gegründet 1958. Sie hatten zwei Karrierephasen: erst als Begleitband von Brian Poole mit dem Nummer-1-Hit „Do You Love Me“ (1963), dann als eigenständiges Quartett um Chip Hawkes mit „Silence Is Golden“ (1967). Poppiger Beat mit schönen Harmonien machte sie in Großbritannien und besonders in Europa erfolgreich.",
+  "career": [
+    "Die Band entstand 1958 in Dagenham und trat als Brian Poole and the Tremeloes auf. 1962 entschied sich Decca nach einem Vorspielen Berichten zufolge für sie und gegen die Beatles, auch weil sie aus dem Raum London kamen. Zwischen 1963 und 1965 hatten sie acht Top-40-Hits in Großbritannien, darunter „Do You Love Me“ auf Platz 1 und „Someone, Someone“ auf Platz 2.",
+    "1966 verließ Poole die Gruppe, die als Quartett weitermachte. Später im Jahr kam Len „Chip“ Hawkes als Bassist hinzu. Bei CBS folgten bis 1971 13 weitere britische Top-40-Hits, darunter „Silence Is Golden“ als Nummer 1 (1967), „(Call Me) Number One“ auf Platz 2 (1969) und „Me and My Life“ auf Platz 4 (1970).",
+    "Nach 1971 gab es keine Hits mehr in Großbritannien, doch in Europa, vor allem in Deutschland und den Niederlanden, blieb die Band in den Charts. Die Besetzung wechselte ab 1972 oft, Schlagzeuger Dave Munden war lange der einzige Konstante. Er starb im Oktober 2020. Heute tritt die Band mit Chip Hawkes und Rick Westwood auf der britischen Nostalgie-Szene auf."
+  ],
+  "sound": "Die Tremeloes spielten britischen Beat mit Pop-Gespür und mehrstimmigem Gesang. Mit dem Wechsel zu CBS 1966/67 rückten Radiotauglichkeit und Melodie in den Vordergrund, der Beat der frühen Jahre wurde zum glatten Sixties-Pop. „Silence Is Golden“ ist die Version eines Songs, den die Four Seasons 1964 nur als B-Seite veröffentlicht hatten.",
+  "highlights": [
+    "Brian Poole and the Tremeloes erreichten 1963 mit „Do You Love Me“ Platz 1 der britischen Charts.",
+    "Die Tremeloes hatten auch in Europa, besonders in Deutschland und den Niederlanden, viele Hits.",
+    "Brian Pooles Töchter bildeten später Alisha's Attic; Hawkes' Sohn Chesney Hawkes landete einen britischen Nummer-1-Hit mit „The One and Only“ und sang 2022 mit der Band.",
+    "Rick Westwood und Chip Hawkes wurden 2015 wegen eines Vorwurfs aus dem Jahr 1968 angeklagt und 2016 freigesprochen."
+  ],
+  "discography": [
+    {
+      "title": "Big Big Hits of '62",
+      "year": 1963,
+      "type": "Studioalbum",
+      "note": "Noch als Brian Poole and the Tremeloes erschienen."
+    },
+    {
+      "title": "Twist and Shout",
+      "year": 1963,
+      "type": "Studioalbum",
+      "note": "Zweites Album als Brian Poole and the Tremeloes."
+    },
+    {
+      "title": "It's About Time",
+      "year": 1965,
+      "type": "Studioalbum"
+    },
+    {
+      "title": "Brian Poole Is Here!",
+      "year": 1965,
+      "type": "Studioalbum"
+    },
+    {
+      "title": "Here Come the Tremeloes",
+      "year": 1967,
+      "type": "Studioalbum",
+      "note": "Das erste Album der Quartett-Phase, Platz 15 in Großbritannien."
+    },
+    {
+      "title": "Even the Bad Times Are Good / Silence Is Golden",
+      "year": 1967,
+      "type": "Studioalbum",
+      "note": "Fassung für Nordamerika mit dem Hit „Silence Is Golden“."
+    },
+    {
+      "title": "Alan, Dave, Rick and Chip",
+      "year": 1967,
+      "type": "Studioalbum"
+    },
+    {
+      "title": "Suddenly You Love Me",
+      "year": 1968,
+      "type": "Studioalbum",
+      "note": "Fassung für Nordamerika."
+    },
+    {
+      "title": "World Explosion!",
+      "year": 1968,
+      "type": "Studioalbum",
+      "note": "Fassung für Nordamerika."
+    },
+    {
+      "title": "Master",
+      "year": 1970,
+      "type": "Studioalbum"
+    },
+    {
+      "title": "Shiner",
+      "year": 1974,
+      "type": "Studioalbum"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia: The Tremeloes",
+      "url": "https://en.wikipedia.org/wiki/The_Tremeloes"
+    },
+    {
+      "label": "Wikipedia: Diskografie",
+      "url": "https://en.wikipedia.org/wiki/The_Tremeloes_discography"
+    }
+  ],
+  "writtenAt": "2026-11-07"
+}

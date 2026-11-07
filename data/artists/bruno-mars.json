@@ -1,0 +1,58 @@
+{
+  "name": "Bruno Mars",
+  "summary": "Bruno Mars, geboren als Peter Gene Hernandez, ist ein US-Sänger, Songwriter und Produzent aus Honolulu. Er verbindet Pop mit Soul, Funk, Doo-Wop und R&B der Siebziger bis Neunziger und gilt als Showmann, der auf der Bühne wie ein Retro-Revue-Act auftritt. Er schreibt und produziert seit Jahren auch für andere, und seine Soloalben erscheinen in langen Abständen.",
+  "career": [
+    "Mars wurde 1985 in Honolulu geboren und trat schon als Kind auf, lokal bekannt als Elvis-Imitator. 2003 zog er nach Los Angeles. Mit Philip Lawrence und Ari Levine gründete er das Produktionsteam The Smeezingtons, das Hits für andere schrieb und produzierte. Der Durchbruch als Sänger kam 2009 mit dem Feature auf B.o.B's „Nothin' on You“, das die US-Hot-100 anführte.",
+    "Das Solodebüt „Doo-Wops & Hooligans“ erschien im Oktober 2010 und machte ihn weltweit bekannt. „Unorthodox Jukebox“ (2012) öffnete den Sound Richtung Rock, Reggae und Funk. Gleich danach spielte er die Halbzeitshow des Super Bowl XLVIII. „24K Magic“ (2016) setzte auf Funk und New Jack Swing und gewann den Grammy als Album des Jahres.",
+    "2021 tat er sich mit Anderson .Paak als Silk Sonic zusammen und veröffentlichte „An Evening with Silk Sonic“, eine Hommage an Philly Soul. 2024 landete er mit Lady Gaga („Die with a Smile“) und Rosé („APT.“) zwei große Hits. Im Februar 2026 erschien nach fast zehn Jahren mit „The Romantic“ wieder ein Soloalbum."
+  ],
+  "sound": "Mars macht handwerklich dichten Pop mit Wurzeln in Soul, Funk, R&B und Doo-Wop. Auf „Doo-Wops & Hooligans“ klingt das noch nach Radio-Pop, „Unorthodox Jukebox“ öffnet sich Richtung Rock, Reggae und Funk, „24K Magic“ und Silk Sonic zitieren Funk, New Jack Swing und Philly Soul. Live-Band, Choreografie und ein Retro-Look gehören fest zum Auftritt.",
+  "highlights": [
+    "Er trat schon als Kind in Honolulu als Elvis-Imitator auf.",
+    "Sein Songwriter-Team The Smeezingtons schrieb unter anderem „Nothin' on You“ für B.o.B.",
+    "Er gewann 16 Grammys und hatte zehn Nummer-eins-Singles in den US-Hot-100.",
+    "Er spielte die Halbzeitshow des Super Bowl XLVIII und war beim Super Bowl 50 dabei.",
+    "„An Evening with Silk Sonic“ entstand 2021 zusammen mit Anderson .Paak."
+  ],
+  "discography": [
+    {
+      "title": "Doo-Wops & Hooligans",
+      "year": 2010,
+      "type": "Studioalbum",
+      "note": "Das Solodebüt mit „Just the Way You Are“; ihre Platte im Regal."
+    },
+    {
+      "title": "Unorthodox Jukebox",
+      "year": 2012,
+      "type": "Studioalbum",
+      "note": "Das zweite Album, das Pop um Rock, Reggae und Funk erweitert."
+    },
+    {
+      "title": "24K Magic",
+      "year": 2016,
+      "type": "Studioalbum",
+      "note": "Funk und New Jack Swing, mit dem Grammy als Album des Jahres ausgezeichnet."
+    },
+    {
+      "title": "The Romantic",
+      "year": 2026,
+      "type": "Studioalbum",
+      "note": "Erstes Soloalbum seit fast zehn Jahren, erschienen am 27. Februar 2026 bei Atlantic."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia: Bruno Mars",
+      "url": "https://en.wikipedia.org/wiki/Bruno_Mars"
+    },
+    {
+      "label": "Wikipedia: Bruno Mars discography",
+      "url": "https://en.wikipedia.org/wiki/Bruno_Mars_discography"
+    },
+    {
+      "label": "Wikipedia: The Romantic",
+      "url": "https://en.wikipedia.org/wiki/The_Romantic_(album)"
+    }
+  ],
+  "writtenAt": "2026-11-07"
+}

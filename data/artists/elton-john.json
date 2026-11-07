@@ -1,0 +1,222 @@
+{
+  "name": "Elton John",
+  "summary": "Elton John, geboren 1947 als Reginald Dwight in Pinner bei London, ist Sänger, Pianist und Komponist und gehört zu den erfolgreichsten Solokünstlern der Popgeschichte. Mit Texter Bernie Taupin schrieb er ab 1967 die Songs, die ihn in den Siebzigern zum Superstar machten. Seine Mischung aus Piano-Pop, Rock und großer Ballade prägte das Jahrzehnt, später kamen Filmmusik, Musicals und karitatives Engagement dazu.",
+  "career": [
+    "Mit elf Jahren bekam Reginald Dwight ein Stipendium der Royal Academy of Music, 1962 gründete er die Band Bluesology. 1967 meldete er sich auf eine Anzeige und begann die Zusammenarbeit mit Bernie Taupin, ab 1968 waren beide Hausautoren bei Dick James' Label DJM. Das Debüt „Empty Sky“ erschien 1969 und blieb fast unbemerkt.",
+    "Den Durchbruch brachte das Album „Elton John“ (1970) mit „Your Song“, produziert von Gus Dudgeon mit Orchesterarrangements von Paul Buckmaster. Der erste US-Auftritt am 25. August 1970 im Troubadour in Los Angeles wurde ein Triumph. „Honky Château“ (1972) war sein erstes US-Nummer-1-Album, „Goodbye Yellow Brick Road“ (1973) erreichte die Spitze in den USA und Großbritannien. „Captain Fantastic and the Brown Dirt Cowboy“ (1975) stieg als erstes Album überhaupt direkt auf Platz 1 der US-Charts ein.",
+    "Nach „Blue Moves“ (1976) ging die Zusammenarbeit mit Taupin zeitweise auseinander: „A Single Man“ (1978) entstand mit Texter Gary Osborne. „Too Low for Zero“ (1983) brachte Taupin und die klassische Band um Dee Murray, Nigel Olsson und Davey Johnstone zurück und lieferte „I'm Still Standing“. 1985 spielte er beim Live Aid, 1992 gründete er die Elton John AIDS Foundation.",
+    "In den Neunzigern wurde er zum Allrounder: Für „The Lion King“ (1994) schrieb er mit Tim Rice Songs und gewann einen Oscar für „Can You Feel the Love Tonight“. „Candle in the Wind 1997“, für die Trauerfeier von Prinzessin Diana, gilt mit rund 33 Millionen Exemplaren als meistverkaufte Single überhaupt. 1998 wurde er zum Ritter geschlagen. Die Farewell Yellow Brick Road Tour (2018 bis 2023) endete am 8. Juli 2023 in Stockholm, zuvor hatte er am 25. Juni 2023 Glastonbury als Headliner gespielt."
+  ],
+  "sound": "Im Zentrum steht das Klavier: Elton John verbindet Singer-Songwriter-Pop mit Rock'n'Roll, Gospel-Einflüssen, Country-Anklängen und orchestralen Arrangements. Die frühen Alben mit Gus Dudgeon schwanken zwischen intimer Ballade, Americana-Fantasie („Tumbleweed Connection“) und Stadionrock. Taupins bildreiche Texte und Johns melodischer Instinkt geben den Songs ihren Wiedererkennungswert, live prägte er zudem ein glamouröses Bühnenbild.",
+  "highlights": [
+    "Zwischen 1972 und 1975 landete er sieben US-Nummer-1-Alben in Folge; „Goodbye Yellow Brick Road“ ist mit mehr als 20 Millionen verkauften Exemplaren sein meistverkauftes Studioalbum.",
+    "Am 28. November 1974 holte er John Lennon im Madison Square Garden auf die Bühne, der dort mit „Whatever Gets You Through The Night“, „Lucy In The Sky With Diamonds“ und „I Saw Her Standing There“ seinen letzten Konzertauftritt hatte.",
+    "„Regimental Sgt. Zippo“ wurde 1968 als sein Debüt aufgenommen, aber zugunsten von „Empty Sky“ zurückgehalten und erst 2021 veröffentlicht.",
+    "Für „Wonderful Crazy Night“ (2016) und „The Diving Board“ (2013) arbeitete er mit Produzent T-Bone Burnett zusammen.",
+    "2020 wurde er zum Companion of Honour ernannt; das Biopic „Rocketman“ erschien 2019."
+  ],
+  "discography": [
+    {
+      "title": "Empty Sky",
+      "year": 1969,
+      "type": "Studioalbum",
+      "note": "Das kaum beachtete Debüt, noch ohne den späteren Sound."
+    },
+    {
+      "title": "Elton John",
+      "year": 1970,
+      "type": "Studioalbum",
+      "note": "Mit „Your Song“ und Buckmasters Orchester der Durchbruch."
+    },
+    {
+      "title": "Tumbleweed Connection",
+      "year": 1970,
+      "type": "Studioalbum",
+      "note": "Ein Americana-Konzeptalbum mit Country-Anklängen, Platz 2 in Großbritannien."
+    },
+    {
+      "title": "Madman Across the Water",
+      "year": 1971,
+      "type": "Studioalbum",
+      "note": "Düster-dichtes Orchesteralbum mit „Tiny Dancer“ und „Levon“."
+    },
+    {
+      "title": "Honky Château",
+      "year": 1972,
+      "type": "Studioalbum",
+      "note": "In Frankreich aufgenommen, erstes US-Nummer-1-Album, mit „Rocket Man“."
+    },
+    {
+      "title": "Don't Shoot Me I'm Only the Piano Player",
+      "year": 1973,
+      "type": "Studioalbum"
+    },
+    {
+      "title": "Goodbye Yellow Brick Road",
+      "year": 1973,
+      "type": "Studioalbum",
+      "note": "Das Doppelalbum, sein größter Studioerfolg, mit „Bennie and the Jets“ und „Candle in the Wind“."
+    },
+    {
+      "title": "Caribou",
+      "year": 1974,
+      "type": "Studioalbum"
+    },
+    {
+      "title": "Captain Fantastic and the Brown Dirt Cowboy",
+      "year": 1975,
+      "type": "Studioalbum",
+      "note": "Autobiografisches Konzeptalbum über die Anfangsjahre mit Taupin, erster Direkteinstieg auf US-Platz 1."
+    },
+    {
+      "title": "Rock of the Westies",
+      "year": 1975,
+      "type": "Studioalbum"
+    },
+    {
+      "title": "Blue Moves",
+      "year": 1976,
+      "type": "Studioalbum"
+    },
+    {
+      "title": "A Single Man",
+      "year": 1978,
+      "type": "Studioalbum",
+      "note": "Das erste Album ohne Taupin-Texte, geschrieben mit Gary Osborne; enthält „Song for Guy“."
+    },
+    {
+      "title": "Victim of Love",
+      "year": 1979,
+      "type": "Studioalbum"
+    },
+    {
+      "title": "21 at 33",
+      "year": 1980,
+      "type": "Studioalbum"
+    },
+    {
+      "title": "The Fox",
+      "year": 1981,
+      "type": "Studioalbum"
+    },
+    {
+      "title": "Jump Up!",
+      "year": 1982,
+      "type": "Studioalbum"
+    },
+    {
+      "title": "Too Low for Zero",
+      "year": 1983,
+      "type": "Studioalbum",
+      "note": "Die klassische Band und Taupin kehren zurück, mit „I'm Still Standing“."
+    },
+    {
+      "title": "Breaking Hearts",
+      "year": 1984,
+      "type": "Studioalbum"
+    },
+    {
+      "title": "Ice on Fire",
+      "year": 1985,
+      "type": "Studioalbum"
+    },
+    {
+      "title": "Leather Jackets",
+      "year": 1986,
+      "type": "Studioalbum"
+    },
+    {
+      "title": "Reg Strikes Back",
+      "year": 1988,
+      "type": "Studioalbum"
+    },
+    {
+      "title": "Sleeping with the Past",
+      "year": 1989,
+      "type": "Studioalbum"
+    },
+    {
+      "title": "The One",
+      "year": 1992,
+      "type": "Studioalbum"
+    },
+    {
+      "title": "Made in England",
+      "year": 1995,
+      "type": "Studioalbum"
+    },
+    {
+      "title": "The Big Picture",
+      "year": 1997,
+      "type": "Studioalbum"
+    },
+    {
+      "title": "Songs from the West Coast",
+      "year": 2001,
+      "type": "Studioalbum",
+      "note": "Bewusste Rückkehr zum Klavier-Sound der frühen Siebziger, produziert von Patrick Leonard."
+    },
+    {
+      "title": "Peachtree Road",
+      "year": 2004,
+      "type": "Studioalbum"
+    },
+    {
+      "title": "The Captain & the Kid",
+      "year": 2006,
+      "type": "Studioalbum"
+    },
+    {
+      "title": "The Diving Board",
+      "year": 2013,
+      "type": "Studioalbum"
+    },
+    {
+      "title": "Wonderful Crazy Night",
+      "year": 2016,
+      "type": "Studioalbum"
+    },
+    {
+      "title": "Regimental Sgt. Zippo",
+      "year": 2021,
+      "type": "Studioalbum",
+      "note": "1968 aufgenommen, erst 2021 vinyl-exklusiv zum Record Store Day veröffentlicht."
+    },
+    {
+      "title": "17-11-70",
+      "year": 1971,
+      "type": "Livealbum"
+    },
+    {
+      "title": "Here and There",
+      "year": 1976,
+      "type": "Livealbum",
+      "note": "Zweiteiliger Mitschnitt; „There“ stammt vom Konzert im Madison Square Garden am 28. November 1974."
+    },
+    {
+      "title": "28th November 1974",
+      "year": 1981,
+      "type": "Livealbum",
+      "note": "Das Lennon-Gastspiel im Madison Square Garden, 1981 bei DJM veröffentlicht; mit „I Saw Her Standing There“."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia: Elton John",
+      "url": "https://en.wikipedia.org/wiki/Elton_John"
+    },
+    {
+      "label": "Wikipedia: Albums-Diskografie",
+      "url": "https://en.wikipedia.org/wiki/Elton_John_albums_discography"
+    },
+    {
+      "label": "Wikipedia: Goodbye Yellow Brick Road",
+      "url": "https://en.wikipedia.org/wiki/Goodbye_Yellow_Brick_Road"
+    },
+    {
+      "label": "Beatles Bible: Lennon im MSG",
+      "url": "https://www.beatlesbible.com/1974/11/28/john-lennon-elton-john-madison-square-garden-new-york/"
+    }
+  ],
+  "writtenAt": "2026-11-07"
+}

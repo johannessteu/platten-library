@@ -1,0 +1,51 @@
+{
+  "name": "Stevie Wonder",
+  "summary": "Stevie Wonder ist einer der prägenden Songwriter und Multiinstrumentalisten der Soul- und Popgeschichte. Als Kind bei Motown entdeckt, erkämpfte er sich mit Anfang zwanzig die künstlerische Kontrolle und machte in den Siebzigern Synthesizer zum Herzstück des Soul. Seine Alben von „Music of My Mind“ bis „Songs in the Key of Life“ gelten als Höhepunkt des Genres. Mit 25 Grammys ist er der meistausgezeichnete Solokünstler.",
+  "career": [
+    "Stevland Hardaway Judkins wurde 1950 in Saginaw, Michigan, geboren und ist seit kurz nach der Geburt blind. 1961 unterschrieb er mit elf Jahren bei Motowns Label Tamla und trat als „Little Stevie Wonder“ auf. Mit der live aufgenommenen Single „Fingertips“ stand er mit 13 an der Spitze der US-Charts, als jüngster Solokünstler bis dahin. In den Sechzigern folgten Hits wie „Uptight (Everything's Alright)“ und „I Was Made to Love Her“, außerdem schrieb er Songs für andere Motown-Acts.",
+    "Der Wendepunkt kam 1971, als sein ursprünglicher Vertrag mit dem 21. Geburtstag auslief. Der neue Vertrag vom Juli 1971 brachte ihm einen höheren Tantiemensatz von 14 Prozent, auch weil er bereits Aufnahmen mit Synthesizern vorweisen konnte. Mit „Music of My Mind“ und „Talking Book“ begann 1972 eine Phase, in der er vieles selbst schrieb, einspielte und produzierte. „Innervisions“, „Fulfillingness' First Finale“ und „Songs in the Key of Life“ gewannen jeweils den Grammy als Album des Jahres, bis heute einmalig für drei Alben in Folge.",
+    "In den Achtzigern verband er Pop-Erfolge wie „Ebony and Ivory“ mit Paul McCartney und „I Just Called to Say I Love You“, das einen Oscar für den besten Filmsong gewann, mit politischem Engagement. Der Song „Happy Birthday“ vom Album „Hotter than July“ unterstützte seine Kampagne für einen Bundesfeiertag zu Ehren Martin Luther Kings. Danach wurden die Veröffentlichungen seltener: „A Time to Love“ erschien 2005 als erstes Album seit rund zehn Jahren. Er wurde 2009 UN-Friedensbotschafter und erhielt 2014 die Presidential Medal of Freedom."
+  ],
+  "sound": "Wonders Musik steht im Zentrum des Soul und Funk der Siebziger, öffnet sich aber zu Pop, Jazz, Rock und Gospel. Prägend war der Einsatz von Synthesizern und elektrischen Tasteninstrumenten: Große Teile seines frühen Siebziger-Sounds entstanden mit dem Synthesizer-Setup TONTO, das ARP-, Oberheim- und Moog-Module kombinierte, und das Hohner Clavinet trägt „Superstition“. Er spielt Klavier, Synthesizer, Mundharmonika und Schlagzeug, oft mehrspurig selbst, und baut lange, harmonisch reiche Songs mit gesellschaftskritischen Texten.",
+  "highlights": [
+    "Mit „Fingertips“ erreichte er mit 13 Jahren Platz 1 der US-Charts und war damals der jüngste Solokünstler an der Spitze.",
+    "Er ist der einzige Künstler, der den Grammy als Album des Jahres mit drei aufeinanderfolgenden Alben gewonnen hat.",
+    "Mit 25 Grammys hält er den Rekord unter den Solokünstlern; zudem erhielt er einen Lifetime Achievement Award.",
+    "Seine Kampagne für einen Feiertag zu Ehren von Martin Luther King Jr. begleitete er 1980 mit dem Song „Happy Birthday“.",
+    "Als Gast spielte er auf Aufnahmen vieler Kollegen Mundharmonika und sang beim Wohltätigkeitssong „We Are the World“ mit."
+  ],
+  "discography": [
+    { "title": "The Jazz Soul of Little Stevie", "year": 1962, "type": "Studioalbum" },
+    { "title": "Tribute to Uncle Ray", "year": 1962, "type": "Studioalbum" },
+    { "title": "Recorded Live: The 12 Year Old Genius", "year": 1963, "type": "Livealbum", "note": "Enthält den live aufgenommenen Hit „Fingertips“, mit dem er mit 13 die US-Charts anführte." },
+    { "title": "With a Song in My Heart", "year": 1963, "type": "Studioalbum" },
+    { "title": "Stevie at the Beach", "year": 1964, "type": "Studioalbum" },
+    { "title": "Up-Tight", "year": 1966, "type": "Studioalbum" },
+    { "title": "Down to Earth", "year": 1966, "type": "Studioalbum" },
+    { "title": "I Was Made to Love Her", "year": 1967, "type": "Studioalbum" },
+    { "title": "Someday at Christmas", "year": 1967, "type": "Studioalbum" },
+    { "title": "Eivets Rednow", "year": 1968, "type": "Studioalbum" },
+    { "title": "For Once in My Life", "year": 1968, "type": "Studioalbum" },
+    { "title": "My Cherie Amour", "year": 1969, "type": "Studioalbum" },
+    { "title": "Signed, Sealed & Delivered", "year": 1970, "type": "Studioalbum" },
+    { "title": "Where I'm Coming From", "year": 1971, "type": "Studioalbum", "note": "Erstes Album nach dem neuen Motown-Vertrag, an dessen Songs er stärker selbst beteiligt war." },
+    { "title": "Music of My Mind", "year": 1972, "type": "Studioalbum", "note": "Der Auftakt der klassischen Phase, geprägt vom Synthesizer-Setup TONTO." },
+    { "title": "Talking Book", "year": 1972, "type": "Studioalbum", "note": "Enthält „Superstition“ mit dem berühmten Clavinet-Riff." },
+    { "title": "Innervisions", "year": 1973, "type": "Studioalbum", "note": "Gewann den Grammy als Album des Jahres, den ersten von dreien in Folge." },
+    { "title": "Fulfillingness' First Finale", "year": 1974, "type": "Studioalbum", "note": "Zweites Album des Jahres in Folge bei den Grammys." },
+    { "title": "Songs in the Key of Life", "year": 1976, "type": "Studioalbum", "note": "Das Doppelalbum gilt als Gipfel seiner Siebziger-Phase und gewann ebenfalls den Grammy als Album des Jahres." },
+    { "title": "Stevie Wonder's Journey Through „The Secret Life of Plants“", "year": 1979, "type": "Soundtrack", "note": "Weitgehend instrumentales, synthesizerlastiges Soundtrackalbum." },
+    { "title": "Hotter than July", "year": 1980, "type": "Studioalbum", "note": "Enthält „Happy Birthday“, den Song zur Kampagne für den Martin-Luther-King-Feiertag." },
+    { "title": "The Woman in Red", "year": 1984, "type": "Soundtrack", "note": "Soundtrack, aus dem „I Just Called to Say I Love You“ stammt, ausgezeichnet mit einem Oscar." },
+    { "title": "In Square Circle", "year": 1985, "type": "Studioalbum" },
+    { "title": "Characters", "year": 1987, "type": "Studioalbum" },
+    { "title": "Jungle Fever", "year": 1991, "type": "Soundtrack" },
+    { "title": "Conversation Peace", "year": 1995, "type": "Studioalbum" },
+    { "title": "A Time to Love", "year": 2005, "type": "Studioalbum", "note": "Sein erstes Album seit rund zehn Jahren." }
+  ],
+  "sources": [
+    { "label": "Wikipedia: Stevie Wonder", "url": "https://en.wikipedia.org/wiki/Stevie_Wonder" },
+    { "label": "Wikipedia: Stevie Wonder discography", "url": "https://en.wikipedia.org/wiki/Stevie_Wonder_discography" }
+  ],
+  "writtenAt": "2026-11-07"
+}

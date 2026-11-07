@@ -1,0 +1,44 @@
+{
+  "name": "Fleetwood Mac",
+  "summary": "Fleetwood Mac begannen 1967 in London als Bluesband und wurden in den Siebzigern in Kalifornien zu einer der erfolgreichsten Rockbands der Welt. Ihre Geschichte ist von Besetzungswechseln und Beziehungsdramen geprägt, die sich direkt in den Songs spiegeln. „Rumours“ (1977) gilt mit rund 40 Millionen verkauften Exemplaren als eines der meistverkauften Alben aller Zeiten. Die Band wurde 1998 in die Rock and Roll Hall of Fame aufgenommen.",
+  "career": [
+    "Gitarrist Peter Green gründete die Band im Juli 1967 in London, nachdem er John Mayall & the Bluesbreakers verlassen hatte. Mick Fleetwood und John McVie, ebenfalls Ex-Bluesbreaker, bildeten die Rhythmusgruppe, Jeremy Spencer und später Danny Kirwan stießen dazu. Das Instrumental „Albatross“ wurde 1968 in Europa ein Nummer-eins-Hit. Green verließ die Band 1970 nach psychischen Problemen, die sein früherer Manager auf einen schlechten LSD-Trip zurückführte.",
+    "Nach Greens Abgang kam Christine McVie, die Frau von John McVie, 1970 als Keyboarderin und Sängerin dazu. Spencer verschwand 1971 plötzlich zu einer religiösen Gruppe, Bob Welch kam und lenkte den Sound zu melodischem Rock mit Gesang. Kirwan flog 1972 wegen Alkoholproblemen raus. Ein Streit um den Bandnamen mit Manager Clifford Davis, der eine falsche Fleetwood-Mac-Besetzung auf Tour schickte, brachte die Band 1973/74 fast zum Aufgeben. Danach zog sie nach Kalifornien.",
+    "Ende 1974 holte Mick Fleetwood Lindsey Buckingham und Stevie Nicks, unter der Bedingung, dass Nicks mitkam. Das Album „Fleetwood Mac“ (1975) erreichte Platz 1 der US-Charts. „Rumours“ (1977) entstand mitten in den Trennungen innerhalb der Band, gewann den Grammy als Album des Jahres und brachte vier Top-Ten-Singles hervor, darunter Nicks' US-Nummer-eins „Dreams“. Der Nachfolger „Tusk“ (1979) war ein experimentelles Doppelalbum, auf das Buckingham gedrängt hatte, und blieb mit rund vier Millionen Verkäufen hinter „Rumours“ zurück.",
+    "Mit „Tango in the Night“ (1987) gelang das erfolgreichste Album seit „Rumours“, doch Buckingham ging im August 1987. Mit Billy Burnette und Rick Vito erschien „Behind the Mask“ (1990), in Großbritannien Nummer eins. Die klassische Besetzung kam 1997 für „The Dance“ zurück; Christine McVie schied bald nach der Hall-of-Fame-Aufnahme 1998 aus. „Say You Will“ (2003) entstand ohne sie. 2014 kehrte sie zurück, Buckingham wurde 2018 entlassen und durch Mike Campbell und Neil Finn ersetzt. Christine McVie starb am 30. November 2022 mit 79 Jahren."
+  ],
+  "sound": "Die frühen Fleetwood Mac spielten britischen Blues, später wurde daraus kalifornischer Soft Rock und Pop-Rock mit dreistimmigem Gesang. Das Besondere an der Rumours-Besetzung ist die Mischung dreier Songwriter: Buckinghams Folk-Picking und Studio-Experimente, Nicks' mystische Songs und McVies melodischer Pop. Die Texte handeln oft von Trennung und Beziehungskrisen, die Produktion ist trotzdem sauber und radiotauglich.",
+  "highlights": [
+    "Der Bandname setzt sich aus den Namen von Schlagzeuger Mick Fleetwood und Bassist John McVie zusammen.",
+    "1974 schickte Manager Clifford Davis eine Fake-Besetzung unter dem Namen „The New Fleetwood Mac“ auf Tour; es folgte ein Rechtsstreit um den Namen.",
+    "„Rumours“ entstand, während die Beziehungen innerhalb der Band zerbrachen, und gewann den Grammy als Album des Jahres.",
+    "„The Dance“ (1997) brachte die Band erstmals seit einem Jahrzehnt an die Spitze der US-Charts und wurde fünffach mit Platin ausgezeichnet.",
+    "Die Band wurde 1998 in die Rock and Roll Hall of Fame aufgenommen und erhielt im selben Jahr den Brit Award für Outstanding Contribution to Music."
+  ],
+  "discography": [
+    { "title": "Fleetwood Mac", "year": 1968, "type": "Studioalbum", "note": "Das Bluesdebüt unter Peter Green." },
+    { "title": "Mr. Wonderful", "year": 1968, "type": "Studioalbum" },
+    { "title": "Then Play On", "year": 1969, "type": "Studioalbum" },
+    { "title": "Kiln House", "year": 1970, "type": "Studioalbum" },
+    { "title": "Future Games", "year": 1971, "type": "Studioalbum" },
+    { "title": "Bare Trees", "year": 1972, "type": "Studioalbum" },
+    { "title": "Penguin", "year": 1973, "type": "Studioalbum" },
+    { "title": "Mystery to Me", "year": 1973, "type": "Studioalbum" },
+    { "title": "Heroes Are Hard to Find", "year": 1974, "type": "Studioalbum", "note": "Das letzte Album mit Bob Welch." },
+    { "title": "Fleetwood Mac", "year": 1975, "type": "Studioalbum", "note": "Das erste Album mit Buckingham und Nicks und die Nummer eins der US-Charts; enthält „Rhiannon“." },
+    { "title": "Rumours", "year": 1977, "type": "Studioalbum", "note": "Rund 40 Millionen Mal verkauft, Grammy als Album des Jahres, enthält „Dreams“." },
+    { "title": "Tusk", "year": 1979, "type": "Studioalbum", "note": "Experimentelles Doppelalbum, auf das Buckingham gedrängt hatte." },
+    { "title": "Mirage", "year": 1982, "type": "Studioalbum", "note": "Konventionellerer Versuch, an „Rumours“ anzuknüpfen, mit „Hold Me“." },
+    { "title": "Tango in the Night", "year": 1987, "type": "Studioalbum", "note": "Das erfolgreichste Album seit „Rumours“." },
+    { "title": "Behind the Mask", "year": 1990, "type": "Studioalbum", "note": "Erstes Album nach Buckinghams Abschied, in Großbritannien Nummer eins." },
+    { "title": "Time", "year": 1995, "type": "Studioalbum" },
+    { "title": "The Dance", "year": 1997, "type": "Livealbum", "note": "Reunion-Livealbum der Rumours-Besetzung, das die Band zurück an die US-Spitze brachte." },
+    { "title": "Say You Will", "year": 2003, "type": "Studioalbum", "note": "Entstand ohne Christine McVie, in den USA auf Platz 3." },
+    { "title": "Extended Play", "year": 2013, "type": "EP" }
+  ],
+  "sources": [
+    { "label": "Wikipedia: Fleetwood Mac", "url": "https://en.wikipedia.org/wiki/Fleetwood_Mac" },
+    { "label": "CBS News: Christine McVie gestorben", "url": "https://www.cbsnews.com/philadelphia/news/christine-mcvie-of-fleetwood-mac-dies-at-79/" }
+  ],
+  "writtenAt": "2026-11-07"
+}

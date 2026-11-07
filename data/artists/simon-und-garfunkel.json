@@ -1,0 +1,81 @@
+{
+  "name": "Simon & Garfunkel",
+  "summary": "Simon & Garfunkel waren das New Yorker Folk-Rock-Duo aus Paul Simon und Art Garfunkel und eine der erfolgreichsten Gruppen der Sechziger mit mehr als 100 Millionen verkauften Tonträgern. Ihr Markenzeichen sind der Zweiklang der beiden Stimmen und Simons Songs zwischen Poesie und Alltag. Zwischen 1964 und 1970 veröffentlichten sie fünf Studioalben, danach gingen beide eigene Wege, kamen aber immer wieder zusammen.",
+  "career": [
+    "Beide wuchsen in Queens auf und lernten sich 1953 in der Schule kennen. Als Tom & Jerry nahmen sie 1957 die Single „Hey, Schoolgirl“ auf. 1963 fanden sie wieder zusammen und unterschrieben bei Columbia Records. Ihr Debüt „Wednesday Morning, 3 A.M.“ (1964) blieb im Schatten der British Invasion erfolglos, Simon ging nach England und Garfunkel an die Universität zurück.",
+    "Dann überraschte Produzent Tom Wilson die beiden: Ohne ihr Wissen legte er Gitarren, Bass und Schlagzeug unter „The Sound of Silence“. Die Single erschien im September 1965 und wurde ein Hit, das gleichnamige Album kam im Januar 1966. Mit „Parsley, Sage, Rosemary and Thyme“ (1966) übernahmen sie gemeinsam mit Ingenieur Roy Halee selbst die Produktion.",
+    "„Bookends“ (April 1968) erzählt auf Seite eins eine Lebensreise von der Kindheit bis ins Alter und enthielt „Mrs. Robinson“, geschrieben für den Film „Die Reifeprüfung“. „Bridge over Troubled Water“ (26. Januar 1970) entstand über ein Jahr lang, auch weil Garfunkel währenddessen „Catch-22“ drehte. Die Spannungen führten zur Trennung, der letzte Auftritt war am 18. Juli 1970 in Forest Hills.",
+    "Danach folgten Solokarrieren und gelegentliche Reunions. Am 19. September 1981 spielten sie im Central Park vor mehr als 500.000 Menschen, daraus entstand das Livealbum „The Concert in Central Park“ (1982). Weitere Tourneen folgten 2003/2004 und 2009/2010."
+  ],
+  "sound": "Grundlage ist Folk, zunächst akustisch und von der New Yorker Szene der frühen Sechziger geprägt, dann mit Rock-Instrumentierung. Charakteristisch sind der eng geführte Zweigesang, Simons präzise, bildhafte Songs und eine zunehmend aufwändige Studioarbeit mit Halee. „Bridge over Troubled Water“ öffnet den Sound hin zu Gospel, R&B, Jazz und Weltmusik.",
+  "highlights": [
+    "„The Sound of Silence“ wurde 1966 durch ein Rock-Arrangement von Tom Wilson, das die beiden zunächst nicht kannten, ein Nummer-1-Hit in den US-Charts.",
+    "„Bridge over Troubled Water“ gewann bei den Grammys 1971 unter anderem Album des Jahres und Aufnahme des Jahres und wurde 1970, 1971 und 1972 zum meistverkauften Album des Jahres.",
+    "„Mrs. Robinson“ erhielt 1969 den Grammy für die Aufnahme des Jahres.",
+    "Das Duo wurde 1990 in die Rock and Roll Hall of Fame aufgenommen, 2003 gab es einen Grammy für das Lebenswerk.",
+    "Das Konzert im Central Park 1981 war ein kostenloses Benefizkonzert für die Instandhaltung des Parks und wurde bei HBO ausgestrahlt."
+  ],
+  "discography": [
+    {
+      "title": "Wednesday Morning, 3 A.M.",
+      "year": 1964,
+      "type": "Studioalbum",
+      "note": "Das akustische Debüt, zunächst ein Misserfolg und nach dem Hit 1966 neu aufgelegt."
+    },
+    {
+      "title": "Sounds of Silence",
+      "year": 1966,
+      "type": "Studioalbum",
+      "note": "Folk-Rock mit dem von Tom Wilson elektrifizierten Titelsong."
+    },
+    {
+      "title": "Parsley, Sage, Rosemary and Thyme",
+      "year": 1966,
+      "type": "Studioalbum",
+      "note": "Mit „Scarborough Fair/Canticle“ und „The 59th Street Bridge Song“; Platz 4 in den USA."
+    },
+    {
+      "title": "Bookends",
+      "year": 1968,
+      "type": "Studioalbum",
+      "note": "Das Konzeptalbum mit „Mrs. Robinson“, in den USA und Großbritannien auf Platz 1."
+    },
+    {
+      "title": "Bridge over Troubled Water",
+      "year": 1970,
+      "type": "Studioalbum",
+      "note": "Das letzte und erfolgreichste Album, mehr als 25 Millionen Mal verkauft."
+    },
+    {
+      "title": "The Simon & Garfunkel Collection",
+      "year": 1981,
+      "type": "Compilation",
+      "note": "Die Best-of von 1981; in Großbritannien auf Platz 4."
+    },
+    {
+      "title": "The Concert in Central Park",
+      "year": 1982,
+      "type": "Livealbum",
+      "note": "Der Mitschnitt des Reunion-Konzerts vom 19. September 1981."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia: Simon & Garfunkel",
+      "url": "https://en.wikipedia.org/wiki/Simon_%26_Garfunkel"
+    },
+    {
+      "label": "Wikipedia: Diskografie",
+      "url": "https://en.wikipedia.org/wiki/Simon_%26_Garfunkel_discography"
+    },
+    {
+      "label": "Wikipedia: Bridge over Troubled Water",
+      "url": "https://en.wikipedia.org/wiki/Bridge_over_Troubled_Water_(album)"
+    },
+    {
+      "label": "Wikipedia: The Concert in Central Park",
+      "url": "https://en.wikipedia.org/wiki/The_Concert_in_Central_Park"
+    }
+  ],
+  "writtenAt": "2026-11-07"
+}

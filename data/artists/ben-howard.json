@@ -1,0 +1,75 @@
+{
+  "name": "Ben Howard",
+  "summary": "Ben Howard ist ein englischer Singer-Songwriter aus Devon, der Folk mit Ambient, Postrock und Experimentierfreude verbindet. Mit „Every Kingdom“ wurde er 2011 zum Star der britischen Folk-Welle, mit „I Forget Where We Were“ stand er 2014 auf Platz 1 der UK-Charts. Seither hat er sein Klangbild konsequent ins Dunkle, Weite und Elektronische verschoben und sich vom Radiofolk entfernt, ohne sein Publikum zu verlieren.",
+  "career": [
+    "Geboren 1987 in Richmond im Südwesten Londons, wuchs Howard ab etwa acht Jahren nahe Totnes in Devon auf, er wird mit Bantham an der Küste Devons in Verbindung gebracht. Ab 2008 erschienen erste EPs in Eigenregie, darunter „Games in the Dark“ und „Old Pine“. Nach ausverkauften Konzerten in Großbritannien unterschrieb er bei Island Records.",
+    "Das Debüt „Every Kingdom“ (2011), produziert von Chris Bond, kam auf Platz 4 der UK-Charts und brachte ihm 2013 gleich zwei Brit Awards ein: British Breakthrough Act und British Male Solo Artist. Das Album war auch deshalb so erfolgreich, weil es leise und körperlich zugleich klang, nicht wie ein bloßer Gitarre-und-Stimme-Entwurf.",
+    "Mit „I Forget Where We Were“ (2014) erreichte er Platz 1, wurde aber bewusst weniger gefällig: längere Songs, mehr Hall, Postrock-Dynamik. „Noonday Dream“ (2018) und „Collections from the Whiteout“ (2021, produziert von Aaron Dessner von The National) gingen diesen Weg weiter, mit Mickey Smith als Mitautor. „Is It?“ (2023) entstand gemeinsam mit Nathan Jenkins und klingt noch elektronischer."
+  ],
+  "sound": "Der Kern ist Folk: Howard spielt Linkshänder-Gitarre in vielen alternativen Stimmungen und mit teilweisem Kapo, oft perkussiv. Darum herum baut er Ambient-Flächen, Postrock-Crescendi und später Elektronik. Als Einflüsse gelten John Martyn, Van Morrison, Joni Mitchell und Simon & Garfunkel. Die Stimme bleibt dabei meist nah und gedämpft, die Texte sind eher Stimmungsbilder als Geschichten.",
+  "highlights": [
+    "2013 gewann er bei den Brit Awards British Breakthrough Act und British Male Solo Artist.",
+    "„Every Kingdom“ wurde 2012 für den Mercury Prize nominiert.",
+    "Aaron Dessner von The National produzierte „Collections from the Whiteout“.",
+    "Mickey Smith ist Mitautor und Mitmusiker auf allen späteren Studioalben."
+  ],
+  "discography": [
+    {
+      "title": "Games in the Dark",
+      "year": 2008,
+      "type": "EP",
+      "note": "Erste, in Eigenregie veröffentlichte EP aus der Zeit vor dem Plattenvertrag."
+    },
+    {
+      "title": "Old Pine",
+      "year": 2010,
+      "type": "EP",
+      "note": "Frühe EP vor dem Plattenvertrag bei Island."
+    },
+    {
+      "title": "Every Kingdom",
+      "year": 2011,
+      "type": "Studioalbum",
+      "note": "Das Debüt bei Island, Platz 4 in UK, Grundlage für die beiden Brit Awards."
+    },
+    {
+      "title": "I Forget Where We Were",
+      "year": 2014,
+      "type": "Studioalbum",
+      "note": "Platz 1 in UK, deutlich dunkler, langsamer und weiter als das Debüt."
+    },
+    {
+      "title": "Noonday Dream",
+      "year": 2018,
+      "type": "Studioalbum",
+      "note": "Platz 4 in UK, atmosphärisch und experimentell."
+    },
+    {
+      "title": "Collections from the Whiteout",
+      "year": 2021,
+      "type": "Studioalbum",
+      "note": "Produziert von Aaron Dessner, in der Kritik gemischt bis sehr positiv aufgenommen."
+    },
+    {
+      "title": "Is It?",
+      "year": 2023,
+      "type": "Studioalbum",
+      "note": "Fünftes Studioalbum, aufgenommen mit Nathan Jenkins."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia: Ben Howard",
+      "url": "https://en.wikipedia.org/wiki/Ben_Howard"
+    },
+    {
+      "label": "Wikipedia (de): Ben Howard",
+      "url": "https://de.wikipedia.org/wiki/Ben_Howard"
+    },
+    {
+      "label": "NME: Collections From The Whiteout",
+      "url": "https://www.nme.com/reviews/ben-howard-collections-from-the-whiteout-review-2908021"
+    }
+  ],
+  "writtenAt": "2026-11-07"
+}

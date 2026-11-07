@@ -1,0 +1,77 @@
+{
+  "name": "The Strokes",
+  "summary": "The Strokes sind eine New Yorker Rockband, die 2001 mit „Is This It“ den Gitarrenrock der frühen 2000er neu auf die Landkarte setzte. Knappe Songs, verzerrter Gesang und ineinander verzahnte Gitarren wurden zum Vorbild für unzählige Bands des Garage-Rock-Revivals. In unveränderter Besetzung machen sie bis heute weiter, zuletzt mit dem Rick-Rubin-Album „The New Abnormal“, das 2021 den Grammy als bestes Rockalbum gewann.",
+  "career": [
+    "Julian Casablancas, Nick Valensi und Fabrizio Moretti lernten sich als Teenager an der Dwight School in Manhattan kennen. Bassist Nikolai Fraiture kam dazu, Albert Hammond Jr. stieß Ende 1998 als letztes Mitglied hinzu. Die Demo-EP „The Modern Age“ weckte das Interesse von Rough Trade und löste ein Bieterrennen der Majors aus; unterschrieben haben sie bei RCA.",
+    "„Is This It“ erschien 2001 zunächst in Australien, Japan und Großbritannien, in den USA verzögerte sich die Veröffentlichung. Das Album galt schnell als Meilenstein und löste das sogenannte Garage-Rock-Revival aus. „Room on Fire“ (2003) knüpfte unter Produzent Gordon Raphael nahtlos daran an, „First Impressions of Earth“ (2006) war größer angelegt, wurde aber schwächer aufgenommen. Danach legte die Band eine längere Pause ein.",
+    "Mit „Angles“ (2011) kehrte sie nach fünf Jahren zurück, diesmal kollaborativer geschrieben, mit mehr Synthesizern; „Comedown Machine“ (2013) erschien fast ohne Promotion. 2016 gründete Casablancas das Label Cult Records, das die EP „Future Present Past“ und „The New Abnormal“ (2020) herausbrachte. Mit „Reality Awaits“, aufgenommen mit Rubin in Costa Rica, erschien im Juli 2026 das siebte Studioalbum."
+  ],
+  "sound": "Indie- und Garage-Rock mit Post-Punk- und New-Wave-Wurzeln, später auch Synth-Pop. Casablancas nennt Lou Reed und die Velvet Underground, die Doors, Nirvana und Bob Marley als Einflüsse. Kennzeichnend sind Casablancas' verzerrter, distanzierter Gesang und das Zusammenspiel zweier Gitarren, das den Songs ihre knappe, kontrollierte Wirkung gibt.",
+  "highlights": [
+    "„Is This It“ wurde vom NME zum besten Album 2001 gewählt und taucht in vielen „Beste Alben“-Listen auf.",
+    "Die Besetzung ist seit Gründung unverändert; aktuell fehlt Valensi auf der Tour zu „Reality Awaits“, für ihn spielt Steve Schiltz von Longwave.",
+    "„Comedown Machine“ erschien 2013 ohne nennenswerte Werbekampagne.",
+    "Die Band gilt als Einfluss für The Killers, Arctic Monkeys, Franz Ferdinand und Wet Leg."
+  ],
+  "discography": [
+    {
+      "title": "Is This It",
+      "year": 2001,
+      "type": "Studioalbum",
+      "note": "Das Debüt, das den Gitarrenrock der 2000er neu definierte."
+    },
+    {
+      "title": "Room on Fire",
+      "year": 2003,
+      "type": "Studioalbum",
+      "note": "Unter Gordon Raphael entstanden; gut besprochen, verkaufte sich aber schwächer als das Debüt."
+    },
+    {
+      "title": "First Impressions of Earth",
+      "year": 2006,
+      "type": "Studioalbum",
+      "note": "Mit David Kahne produziert; Platz 1 in Großbritannien, aber die schwächste Kritikerresonanz der Band."
+    },
+    {
+      "title": "Angles",
+      "year": 2011,
+      "type": "Studioalbum",
+      "note": "Nach fünf Jahren Pause, bewusst als Gemeinschaftsarbeit angelegt."
+    },
+    {
+      "title": "Comedown Machine",
+      "year": 2013,
+      "type": "Studioalbum",
+      "note": "Erschien im März 2013 ohne Promotion-Kampagne."
+    },
+    {
+      "title": "Future Present Past",
+      "year": 2016,
+      "type": "EP",
+      "note": "Vier-Song-EP und erste Veröffentlichung auf Cult Records."
+    },
+    {
+      "title": "The New Abnormal",
+      "year": 2020,
+      "type": "Studioalbum",
+      "note": "Von Rick Rubin produziert; Grammy für das beste Rockalbum."
+    },
+    {
+      "title": "Reality Awaits",
+      "year": 2026,
+      "type": "Studioalbum",
+      "note": "Siebtes Album, mit Rubin in Costa Rica aufgenommen; die ersten Kritiken fielen gemischt aus."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia: The Strokes",
+      "url": "https://en.wikipedia.org/wiki/The_Strokes"
+    },
+    {
+      "label": "Wikipedia: Reality Awaits",
+      "url": "https://en.wikipedia.org/wiki/Reality_Awaits"
+    }
+  ],
+  "writtenAt": "2026-11-07"
+}

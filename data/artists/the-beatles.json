@@ -1,0 +1,133 @@
+{
+  "name": "The Beatles",
+  "summary": "Die Beatles aus Liverpool veränderten zwischen 1962 und 1970 die Popmusik. Aus einer Beat-Band wurde binnen weniger Jahre eine Gruppe, die das Album als Kunstform und das Studio als Instrument etablierte. John Lennon und Paul McCartney schrieben die meisten Songs, George Harrison und Ringo Starr vervollständigten die Besetzung. Sie gelten als meistverkaufte Band der Geschichte und haben fast alle späteren Gitarrenbands geprägt.",
+  "career": [
+    "Die Gruppe ging 1960 aus Lennons Skiffle-Band The Quarrymen hervor, mit McCartney und Harrison als Kern. Residenzen in Hamburger Clubs und Auftritte in Liverpool schärften sie als Liveband. Ringo Starr kam 1962 als Schlagzeuger dazu. Nach der Ablehnung durch Decca nahm George Martin sie bei Parlophone unter Vertrag; die erste Single „Love Me Do“ erschien im Oktober 1962.",
+    "Ab 1963 folgte mit „Please Please Me“ eine Serie britischer Nummer-eins-Alben (elf in Folge). Auf „A Hard Day's Night“ (1964) stammten erstmals alle Songs von Lennon und McCartney. Mit „Rubber Soul“ (1965) und „Revolver“ (1966) verlagerten sie sich vom Konzertbetrieb ins Studio, wo Bandexperimente, Streicher und indische Instrumente den Pop erweiterten.",
+    "„Sgt. Pepper's Lonely Hearts Club Band“ (1967) wurde als Konzeptalbum zum Sinnbild der Zeit, das Doppelalbum „The Beatles“ (1968) zeigte dagegen vier zunehmend eigenständige Songwriter. „Abbey Road“ (1969) wurde das letzte aufgenommene Album, „Let It Be“ erschien erst im Mai 1970, kurz nach der Trennung der Band.",
+    "Die Diskografie hier folgt den britischen Originalveröffentlichungen. In den USA erschienen Alben oft mit anderer Titelauswahl, etwa „Magical Mystery Tour“ als LP, während Parlophone in Großbritannien eine Doppel-EP herausbrachte."
+  ],
+  "sound": "Beat und Pop mit Wurzeln in Rock 'n' Roll, Skiffle und amerikanischem R&B, die sich zu Folk-Rock, Psychedelic und Hardrock-Ansätzen weiterentwickelten. Prägend sind dreistimmige Harmonien, melodisch einfallsreiche Basslinien und die Arbeit mit George Martin, die Streichquartette, Tonbandschleifen und neue Aufnahmetechniken in den Pop brachte. Texte reichen von einfachen Liebesliedern bis zu Surrealem und Politischem.",
+  "highlights": [
+    "Die erste Single „Love Me Do“ erschien im Oktober 1962; 1982 erinnerte die Compilation „20 Greatest Hits“ an das 20-jährige Jubiläum.",
+    "Decca lehnte die Band 1962 ab, bevor George Martin sie zu Parlophone holte.",
+    "„Sgt. Pepper“ gilt als Prototyp des Konzeptalbums im Pop.",
+    "Die Doppelalben „1962–1966“ und „1967–1970“ (die „rote“ und die „blaue“) erschienen 1973 und waren lange Standard-Einstiege."
+  ],
+  "discography": [
+    {
+      "title": "Please Please Me",
+      "year": 1963,
+      "type": "Studioalbum",
+      "note": "Das Debüt vom März 1963, geprägt von Beat und Rock 'n' Roll."
+    },
+    {
+      "title": "With the Beatles",
+      "year": 1963,
+      "type": "Studioalbum"
+    },
+    {
+      "title": "A Hard Day's Night",
+      "year": 1964,
+      "type": "Studioalbum",
+      "note": "Erstes Album mit ausschließlich Lennon/McCartney-Songs."
+    },
+    {
+      "title": "Beatles for Sale",
+      "year": 1964,
+      "type": "Studioalbum"
+    },
+    {
+      "title": "Help!",
+      "year": 1965,
+      "type": "Studioalbum"
+    },
+    {
+      "title": "Rubber Soul",
+      "year": 1965,
+      "type": "Studioalbum",
+      "note": "Der Wendepunkt zum reiferen, folkigeren Songwriting."
+    },
+    {
+      "title": "Revolver",
+      "year": 1966,
+      "type": "Studioalbum",
+      "note": "Studioexperimente und stilistische Breite."
+    },
+    {
+      "title": "Sgt. Pepper's Lonely Hearts Club Band",
+      "year": 1967,
+      "type": "Studioalbum",
+      "note": "Konzeptalbum und Aushängeschild der Psychedelic-Ära."
+    },
+    {
+      "title": "Magical Mystery Tour",
+      "year": 1967,
+      "type": "EP",
+      "note": "In Großbritannien als Doppel-EP erschienen; als LP kam es zuerst in den USA (UK-Album erst 1976)."
+    },
+    {
+      "title": "The Beatles",
+      "year": 1968,
+      "type": "Studioalbum",
+      "note": "Das „White Album“: Doppelalbum mit stilistisch sehr breiter Songauswahl."
+    },
+    {
+      "title": "Yellow Submarine",
+      "year": 1969,
+      "type": "Studioalbum",
+      "note": "Soundtrack-nahes Album, zählt zu den UK-Studioalben, enthält aber auch Orchesterstücke von George Martin."
+    },
+    {
+      "title": "Abbey Road",
+      "year": 1969,
+      "type": "Studioalbum",
+      "note": "Das zuletzt aufgenommene Album, mit dem Medley auf der zweiten Seite."
+    },
+    {
+      "title": "Let It Be",
+      "year": 1970,
+      "type": "Studioalbum",
+      "note": "Erschien nach der Trennung, zuvor aufgenommen während der Get-Back-Sessions."
+    },
+    {
+      "title": "1962–1966",
+      "year": 1973,
+      "type": "Compilation",
+      "note": "Die „rote“ Doppel-Compilation der frühen Jahre."
+    },
+    {
+      "title": "1967–1970",
+      "year": 1973,
+      "type": "Compilation",
+      "note": "Die „blaue“ Doppel-Compilation der späteren Jahre."
+    },
+    {
+      "title": "20 Greatest Hits",
+      "year": 1982,
+      "type": "Compilation",
+      "note": "Zum 20. Jahrestag von „Love Me Do“; die Titelauswahl unterscheidet sich je nach Land (UK und US)."
+    },
+    {
+      "title": "1",
+      "year": 2000,
+      "type": "Compilation",
+      "note": "Sammlung der Nummer-eins-Singles aus Großbritannien und den USA."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia: The Beatles",
+      "url": "https://en.wikipedia.org/wiki/The_Beatles"
+    },
+    {
+      "label": "Wikipedia: Albums discography",
+      "url": "https://en.wikipedia.org/wiki/The_Beatles_albums_discography"
+    },
+    {
+      "label": "Wikipedia: 20 Greatest Hits",
+      "url": "https://en.wikipedia.org/wiki/20_Greatest_Hits_(The_Beatles_album)"
+    }
+  ],
+  "writtenAt": "2026-11-07"
+}

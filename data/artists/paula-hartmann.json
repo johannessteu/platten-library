@@ -1,0 +1,24 @@
+{
+  "name": "Paula Hartmann",
+  "summary": "Paula Hartmann, geboren 2001 in Berlin, ist Schauspielerin und Musikerin. Sie stand schon als Kind vor der Kamera und wurde ab 2021 mit düster-melancholischem Pop-Rap bekannt. Ihr zweites Album „Kleine Feuer“ erreichte 2024 Platz 2 der deutschen Charts. Dass sie parallel Jura an der Bucerius Law School studierte und 2025 den Bachelor machte, gehört zu den ungewöhnlichen Eckpunkten ihrer Biografie.",
+  "career": [
+    "Hartmann wuchs in Berlin auf und machte 2019 am Schiller-Gymnasium in Potsdam Abitur. Als Kind spielte sie ab 2007 in Film und Fernsehen, unter anderem im Kinofilm „Alle anderen“ und in „Die Gräfin“. Seit 2010 moderiert sie außerdem die Verleihung des Märchenkulturpreises Goldene Erbse.",
+    "Musikalisch begann sie mit dem Produzenten Biztram und den Singles „Nie verliebt“ und „Truman Show Boot“. 2021 unterschrieb sie bei Four Music, im April 2022 erschien das Debütalbum „Nie verliebt“, das Platz 20 erreichte. Im März 2024 folgte „Kleine Feuer“ mit Platz 2 in Deutschland, Platz 5 in Österreich und Platz 8 in der Schweiz."
+  ],
+  "sound": "Hartmann bewegt sich zwischen Pop-Rap und Singer-Songwriter-Pop mit melancholischer Grundstimmung. Ihre Texte kreisen um Einsamkeit, Beziehungen und das Aufwachsen im Rampenlicht, vorgetragen meist halb gesprochen, halb gesungen. Produktion und Schreiben stehen im Vordergrund und wurden mehrfach ausgezeichnet.",
+  "highlights": [
+    "Sie bekam 2024 den 1 Live Krone als Beste Künstlerin.",
+    "Beim Preis für Popkultur 2025 wurde „Kleine Feuer“ zum Lieblingsalbum gewählt, sie selbst zur Lieblingskünstlerin.",
+    "2025 erhielt sie den Deutschen Musikautor:innenpreis in der Kategorie Text Hip-Hop.",
+    "Ihren Bachelor of Laws an der Bucerius Law School in Hamburg schloss sie im Mai 2025 ab."
+  ],
+  "discography": [
+    { "title": "Nie verliebt – Und andere Gute-Nacht-Geschichten", "year": 2022, "type": "Studioalbum", "note": "Das Debüt erschien im April 2022 bei Four Music und kam auf Platz 20." },
+    { "title": "Kleine Feuer", "year": 2024, "type": "Studioalbum", "note": "Das zweite Album stieg in Deutschland auf Platz 2 ein und gilt als ihr Durchbruch." }
+  ],
+  "sources": [
+    { "label": "Wikipedia: Paula Hartmann", "url": "https://de.wikipedia.org/wiki/Paula_Hartmann" },
+    { "label": "Wikipedia: Paula Hartmann (en)", "url": "https://en.wikipedia.org/wiki/Paula_Hartmann" }
+  ],
+  "writtenAt": "2026-11-07"
+}

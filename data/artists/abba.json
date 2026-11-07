@@ -1,0 +1,97 @@
+{
+  "name": "ABBA",
+  "summary": "ABBA waren ein schwedisches Popquartett aus Agnetha Fältskog, Björn Ulvaeus, Benny Andersson und Anni-Frid Lyngstad. Mit dem Sieg beim Eurovision Song Contest 1974 begann ein Aufstieg, der sie zu Schwedens erfolgreichster Popgruppe machte, mit mehr als 150 Millionen verkauften Tonträgern. Perfekt gebaute Melodien, glasklare Produktion und Texte voller Wehmut machten Songs wie „Dancing Queen“ zu Klassikern.",
+  "career": [
+    "Die beiden Paare lernten sich in der schwedischen Szene kennen und traten ab 1970 gemeinsam auf. Zunächst erschien alles unter Einzelnamen, 1973 gelang „Ring Ring“ im Vorentscheid, ohne es zum Eurovision Song Contest zu schaffen. Der Name ABBA, aus den Anfangsbuchstaben ihrer Vornamen, tauchte im Oktober 1973 erstmals auf einem Studiozettel auf. Manager Stig Anderson baute mit seinem Label Polar Music den internationalen Weg auf.",
+    "Am 6. April 1974 gewannen sie mit „Waterloo“ den Eurovision Song Contest, der Song erreichte in neun Ländern Platz 1. Es folgten „SOS“ und „Mamma Mia“ (1975) sowie „Fernando“ und „Dancing Queen“ (1976), ihre einzige US-Nummer-1. „Arrival“ (1976) und „ABBA: The Album“ (1977) festigten den Status, „Voulez-Vous“ (1979) stand in vielen Ländern an der Spitze.",
+    "Die privaten Brüche prägten die Spätphase: Fältskog und Ulvaeus gaben im Januar 1979 ihre Scheidung bekannt, Andersson und Lyngstad im Februar 1981. „Super Trouper“ (1980) klingt synthesizerlastiger und persönlicher, „The Visitors“ (1981) noch düsterer. Nach der Single-Sammlung „The Singles: The First Ten Years“ löste sich die Gruppe im Dezember 1982 auf.",
+    "Das Interesse riss nie ab: „ABBA Gold“ (1992) wurde weltweit zum Dauerseller, das Musical „Mamma Mia!“ startete 1999, der Film 2008. Am 5. November 2021 erschien mit „Voyage“ das erste neue Album seit 40 Jahren, im Mai 2022 eröffnete die Show „ABBA Voyage“ in einer eigens gebauten Arena in London."
+  ],
+  "sound": "ABBA stehen für kunstvoll produzierten Pop mit Einflüssen aus Schlager, Folk und Disco. Ulvaeus und Andersson schrieben und produzierten fast alles selbst; markant sind die geschichteten Doppelstimmen von Fältskog und Lyngstad, dichte Klavier- und Synthesizer-Arrangements und ein Hang zu Moll-Melancholie unter glänzenden Refrains. Ab „Super Trouper“ rückten Synthesizer und persönlichere Texte in den Vordergrund.",
+  "highlights": [
+    "Ihr Eurovision-Sieg 1974 mit „Waterloo“ gilt als einer der größten Karrieresprünge der Wettbewerbsgeschichte.",
+    "1978 bauten sie ein ehemaliges Kino in Stockholm zum Polar Music Studio um, das auch andere Bands nutzten.",
+    "„Dancing Queen“ ist ihre einzige Nummer 1 der US-Singlecharts.",
+    "Mit „Gracias Por La Música“ (1980) nahmen sie spanische Fassungen ihrer Hits auf und erschlossen damit Lateinamerika.",
+    "2023 erhielten sie den BRIT Billion Award."
+  ],
+  "discography": [
+    {
+      "title": "Ring Ring",
+      "year": 1973,
+      "type": "Studioalbum",
+      "note": "Das Debüt, noch mit schlagernahem Pop."
+    },
+    {
+      "title": "Waterloo",
+      "year": 1974,
+      "type": "Studioalbum",
+      "note": "Das Eurovision-Album mit dem Titelsong, der in neun Ländern Platz 1 erreichte."
+    },
+    {
+      "title": "ABBA",
+      "year": 1975,
+      "type": "Studioalbum",
+      "note": "Das selbstbetitelte dritte Album mit „SOS“ und „Mamma Mia“."
+    },
+    {
+      "title": "Arrival",
+      "year": 1976,
+      "type": "Studioalbum",
+      "note": "Mit „Dancing Queen“; ihr Durchbruch auch in den USA."
+    },
+    {
+      "title": "ABBA: The Album",
+      "year": 1977,
+      "type": "Studioalbum",
+      "note": "Mit „The Name of the Game“ und „Take a Chance on Me“; Platz 14 in den USA."
+    },
+    {
+      "title": "Voulez-Vous",
+      "year": 1979,
+      "type": "Studioalbum",
+      "note": "Disco-Album, in vielen Ländern an der Spitze der Charts."
+    },
+    {
+      "title": "Super Trouper",
+      "year": 1980,
+      "type": "Studioalbum",
+      "note": "Mehr Synthesizer und persönlichere Texte."
+    },
+    {
+      "title": "The Visitors",
+      "year": 1981,
+      "type": "Studioalbum",
+      "note": "Das düstere letzte Album vor der Trennung, mit „One of Us“."
+    },
+    {
+      "title": "Voyage",
+      "year": 2021,
+      "type": "Studioalbum",
+      "note": "Das Comeback-Album, 40 Jahre nach dem letzten."
+    },
+    {
+      "title": "Greatest Hits Vol. 2",
+      "year": 1979,
+      "type": "Compilation",
+      "note": "Die zweite Best-of mit der neuen Single „Gimme! Gimme! Gimme!“, in Großbritannien auf Platz 1."
+    },
+    {
+      "title": "ABBA Gold",
+      "year": 1992,
+      "type": "Compilation",
+      "note": "Die Best-of, die zehn Jahre nach der Trennung weltweit zum Bestseller wurde."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia: ABBA",
+      "url": "https://en.wikipedia.org/wiki/ABBA"
+    },
+    {
+      "label": "Wikipedia: ABBA discography",
+      "url": "https://en.wikipedia.org/wiki/ABBA_discography"
+    }
+  ],
+  "writtenAt": "2026-11-07"
+}

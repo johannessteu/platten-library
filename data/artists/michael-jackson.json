@@ -1,0 +1,91 @@
+{
+  "name": "Michael Jackson",
+  "summary": "Michael Jackson war einer der erfolgreichsten Popkünstler überhaupt. Als Kind sang er in den Jackson 5, ab 1979 prägte er mit „Off the Wall“ und „Thriller“ gemeinsam mit Produzent Quincy Jones den Pop der Achtziger. „Thriller“ gilt mit geschätzt 70 Millionen verkauften Exemplaren als meistverkauftes Album aller Zeiten. Er gewann 13 Grammys und starb 2009 mit 50 Jahren.",
+  "career": [
+    "Jackson, das achte von zehn Kindern einer Familie aus Gary, Indiana, trat mit sechs Jahren erstmals öffentlich auf, als Leadsänger der Jackson 5. Die Gruppe unterschrieb bei Motown, und „I Want You Back“ erreichte im Januar 1970 Platz 1 der US-Charts. Parallel erschienen bei Motown vier Soloalben: „Got to Be There“ und „Ben“ (beide 1972), „Music & Me“ (1973) und „Forever, Michael“ (1975). Im selben Jahr wechselte die Gruppe zu Epic und nannte sich fortan The Jacksons.",
+    "Den Durchbruch als erwachsener Solokünstler brachte 1979 „Off the Wall“, mit über 20 Millionen verkauften Exemplaren. Mit „Thriller“ (1982) folgte der Höhepunkt, aus dem sieben Singles die US-Top-Ten erreichten. Bei den Grammys im Februar 1984 gewann er acht Preise in einer Nacht, ein Rekord, den bisher nur einer ein weiteres Mal erreicht hat. „Bad“ (1987) brachte fünf US-Nummer-eins-Singles hervor.",
+    "„Dangerous“ (1991), „HIStory“ (1995) und „Invincible“ (2001) setzten die Reihe fort, blieben aber hinter den Verkaufszahlen von „Thriller“ zurück; „Invincible“ gilt als das teuerste je produzierte Album. Jackson starb am 25. Juni 2009 mit 50 Jahren in Los Angeles an einem Herzstillstand infolge einer akuten Propofol-Vergiftung. Danach erschienen die Alben „Michael“ (2010) und „Xscape“ (2014) aus nachgelassenen Aufnahmen."
+  ],
+  "sound": "Jacksons Musik verbindet Soul, Funk, R&B und Pop zu einem glatt produzierten, tanzbaren Mainstream-Sound. Auf „Off the Wall“ und „Thriller“ liegt der Schwerpunkt auf Quincy Jones' sorgfältiger Studioproduktion, dazu kommen Jacksons markante Stimme mit Atemgeräuschen und Rhythmuseffekten und ein starker Fokus auf Single und Videoclip. In den Achtzigern öffnete er den Pop auch für Rock-Elemente und etablierte das Musikvideo als eigene Kunstform.",
+  "highlights": [
+    "Mit „Thriller“ gewann Jackson 1984 acht Grammys an einem Abend und hielt damit den Rekord für eine einzelne Verleihung; insgesamt erhielt er 13 Grammys.",
+    "„Thriller“ brachte sieben Top-Ten-Singles in den US-Charts hervor, „Bad“ fünf US-Nummer-eins-Singles.",
+    "Quincy Jones produzierte „Off the Wall“ und „Thriller“; „Bad“ war das letzte Jackson-Album, das er produzierte.",
+    "„Bad“ verkaufte sich über 35 Millionen Mal, „Dangerous“ über 32 Millionen Mal.",
+    "Jackson, Jones und „Thriller“ teilten sich 1984 die Grammys für Album des Jahres und Produzent des Jahres."
+  ],
+  "discography": [
+    {
+      "title": "Got to Be There",
+      "year": 1972,
+      "type": "Studioalbum",
+      "note": "Das erste Soloalbum, erschienen bei Motown neben seiner Arbeit mit den Jackson 5."
+    },
+    {
+      "title": "Ben",
+      "year": 1972,
+      "type": "Studioalbum"
+    },
+    {
+      "title": "Music & Me",
+      "year": 1973,
+      "type": "Studioalbum"
+    },
+    {
+      "title": "Forever, Michael",
+      "year": 1975,
+      "type": "Studioalbum",
+      "note": "Das letzte Motown-Soloalbum, im Jahr des Wechsels der Familie zu Epic."
+    },
+    {
+      "title": "Off the Wall",
+      "year": 1979,
+      "type": "Studioalbum",
+      "note": "Erstes Album mit Quincy Jones und der Durchbruch als erwachsener Solokünstler, über 20 Millionen Mal verkauft."
+    },
+    {
+      "title": "Thriller",
+      "year": 1982,
+      "type": "Studioalbum",
+      "note": "Mit geschätzt 70 Millionen Exemplaren das meistverkaufte Album; sieben Singles in den US-Top-Ten."
+    },
+    {
+      "title": "Bad",
+      "year": 1987,
+      "type": "Studioalbum",
+      "note": "Fünf US-Nummer-eins-Singles, über 35 Millionen Mal verkauft."
+    },
+    {
+      "title": "Dangerous",
+      "year": 1991,
+      "type": "Studioalbum",
+      "note": "Kommerzieller Blockbuster mit über 32 Millionen verkauften Exemplaren."
+    },
+    {
+      "title": "HIStory: Past, Present and Future, Book I",
+      "year": 1995,
+      "type": "Studioalbum"
+    },
+    {
+      "title": "Invincible",
+      "year": 2001,
+      "type": "Studioalbum",
+      "note": "Sein letztes zu Lebzeiten erschienenes Album und als teuerstes je produziertes beschrieben."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia: Michael Jackson",
+      "url": "https://en.wikipedia.org/wiki/Michael_Jackson"
+    },
+    {
+      "label": "Wikipedia: Michael Jackson albums discography",
+      "url": "https://en.wikipedia.org/wiki/Michael_Jackson_albums_discography"
+    },
+    {
+      "label": "Recording Academy: Jacksons Grammy-Nacht",
+      "url": "https://grammy.com/news/30-years-later-michael-jacksons-thrilling-grammy-night"
+    }
+  ],
+  "writtenAt": "2026-11-07"
+}

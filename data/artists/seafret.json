@@ -1,0 +1,62 @@
+{
+  "name": "Seafret",
+  "summary": "Seafret sind ein englisches Duo aus Bridlington an der Küste Yorkshires: Sänger Jack Sedman und Gitarrist Harry Draper. Sie machen Indie-Folk mit Rock-Anteilen und großem Refrain, erst auf Sweet Jane Recordings, später bei Nettwerk. Ihr größter Hit „Atlantis“ erschien 2015 und wurde 2022 über eine beschleunigte Version bei TikTok noch einmal ein Phänomen.",
+  "career": [
+    "Sedman und Draper lernten sich bei einem Open-Mic-Abend nahe Bridlington kennen. Die Band begann 2011; als ihre Songs 2014 online Aufmerksamkeit bekamen, zogen sie nach London. Dort erschienen die EPs „Give Me Something“ (2014) und „Oceans“ (2015).",
+    "„Atlantis“ (2015) war ihre Debütsingle und kam auf Platz 38 der UK-Charts. Das Debütalbum „Tell Me It's Real“ folgte im Januar 2016 bei Sweet Jane und erreichte Platz 59 in UK. 2020 erschien „Most of Us Are Strangers“, 2023 „Wonderland“ bei Nettwerk. Dazwischen veröffentlichten sie EPs wie „Monsters“ (2018) und „Piano Sessions“ (2021).",
+    "2022 verbreitete sich eine beschleunigte Fassung von „Atlantis“ auf TikTok, chartete in Europa und trug zu über 400 Millionen Spotify-Streams bei. Die Platte im Regal ist die Jubiläumsausgabe des Debüts."
+  ],
+  "sound": "Seafret liegen zwischen Indie-Folk und Indie-Rock: Akustikgitarre und eine warme, oft emotional angespannte Stimme, dazu Streicher, Klavier oder Bandarrangements, die auf den Refrain zielen. Die Songs sind direkt und melodisch, Themen sind meist Liebe, Verlust und Neuanfang. Nah verwandt ist das mit der britischen Folk-Welle um Ben Howard, nur poppiger und weniger experimentell.",
+  "highlights": [
+    "Der Name kombiniert „sea fret“, den Küstennebel der Nordsee, mit dem englischen Wort „fret“ für den Bund auf dem Gitarrenhals.",
+    "Die beschleunigte „Atlantis“-Version wurde 2022 zum TikTok-Hit und chartete europaweit.",
+    "Mit KT Tunstall nahmen sie „Five More Seconds“ auf."
+  ],
+  "discography": [
+    {
+      "title": "Give Me Something",
+      "year": 2014,
+      "type": "EP",
+      "note": "Erste EP, erschienen im September 2014."
+    },
+    {
+      "title": "Oceans",
+      "year": 2015,
+      "type": "EP",
+      "note": "Zweite EP, erschienen im Januar 2015, im selben Jahr wie „Atlantis“."
+    },
+    {
+      "title": "Tell Me It's Real",
+      "year": 2016,
+      "type": "Studioalbum",
+      "note": "Das Debüt, UK Platz 59; steht als 10th Anniversary Edition im Regal."
+    },
+    {
+      "title": "Most of Us Are Strangers",
+      "year": 2020,
+      "type": "Studioalbum",
+      "note": "Zweites Album, erschienen im März 2020 bei Sweet Jane."
+    },
+    {
+      "title": "Wonderland",
+      "year": 2023,
+      "type": "Studioalbum",
+      "note": "Das erste Album bei Nettwerk, mit der Single „Remind Me to Forget You“."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia: Seafret",
+      "url": "https://en.wikipedia.org/wiki/Seafret"
+    },
+    {
+      "label": "Nettwerk: Wonderland",
+      "url": "https://nettwerk.com/?p=18908"
+    },
+    {
+      "label": "Mystic Sons: Wonderland",
+      "url": "https://mysticsons.com/article/seafret-announce-new-album-wonderland"
+    }
+  ],
+  "writtenAt": "2026-11-07"
+}

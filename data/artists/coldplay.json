@@ -1,0 +1,86 @@
+{
+  "name": "Coldplay",
+  "summary": "Coldplay sind eine britische Band aus London um Sänger und Pianist Chris Martin. Sie machen große, melodische Gitarren- und Klavier-Popmusik, die sich über die Jahre von nachdenklichem Gitarrenpop zu Stadion-Pop mit elektronischen Anteilen entwickelt hat. Sie gehören zu den Bands, die die Stadionkonzerte der Jahrtausendwende geprägt haben, und stehen heute auch für ihre Tour-Konzepte mit Nachhaltigkeitsansatz.",
+  "career": [
+    "Chris Martin und Jonny Buckland lernten sich im September 1996 am University College London kennen. Bassist Guy Berryman stieß noch im selben Jahr dazu, Schlagzeuger Will Champion im Januar 1998. Zuvor hießen sie Big Fat Noises und Starfish. Die selbst veröffentlichte EP „Safety“ (1998) brachte im April 1999 den Vertrag bei Parlophone.",
+    "„Parachutes“ (2000) mit „Yellow“ machte sie bekannt; es gewann einen Brit Award und einen Grammy. „A Rush of Blood to the Head“ (2002) und „X&Y“ (2005) festigten ihren Status, wobei die Band „X&Y“ als Abschluss einer Art Trilogie ansah. Für „Viva la Vida or Death and All His Friends“ (2008) holten sie Brian Eno als Produzenten; das Album gewann einen Grammy als bestes Rock-Album.",
+    "Seitdem experimentierten sie mit Pop und Elektronik: „Mylo Xyloto“ (2011), „Ghost Stories“ (2014), „A Head Full of Dreams“ (2015) und das Doppelalbum „Everyday Life“ (2019). „Music of the Spheres“ (2021) entstand mit Max Martins Team, die Single „My Universe“ mit BTS stieg auf Platz 1 der US-Hot-100 ein. 2024 folgte „Moon Music“. Die Band spendet nach eigenen Angaben zehn Prozent ihrer Gewinne und will das Touren möglichst CO2-neutral gestalten."
+  ],
+  "sound": "Coldplay machen melodischen Gitarren- und Klavierpop mit hymnischen Refrains und viel Raum im Klang. Seit „Viva la Vida“ mischen sie Elektronik, Chöre und Weltmusik-Einflüsse unter, später auch Pop-Produktion mit Songwritern aus dem Mainstream. Der Kern bleibt der große, mitsingbare Refrain, der für große Hallen und Stadien gebaut ist.",
+  "highlights": [
+    "Manager Phil Harvey gilt als weiteres Mitglied der Band.",
+    "Das Cover von „Parachutes“ zeigt einen gelben Globus, den die Band für zehn Pfund kaufte und mit einer Einwegkamera fotografierte.",
+    "Coldplay hält den Rekord für die meisten Brit Awards einer Band.",
+    "„Viva la Vida“ ist mit Brian Eno als Produzent entstanden.",
+    "„My Universe“ mit BTS stieg 2021 direkt auf Platz 1 der US-Hot-100 ein."
+  ],
+  "discography": [
+    {
+      "title": "Parachutes",
+      "year": 2000,
+      "type": "Studioalbum",
+      "note": "Das Debüt mit „Yellow“, mit Ken Nelson produziert; ihre Platte im Regal."
+    },
+    {
+      "title": "A Rush of Blood to the Head",
+      "year": 2002,
+      "type": "Studioalbum",
+      "note": "Das zweite Album, ebenfalls mit Ken Nelson produziert."
+    },
+    {
+      "title": "X&Y",
+      "year": 2005,
+      "type": "Studioalbum",
+      "note": "Nach Aussage der Band der Abschluss einer Trilogie."
+    },
+    {
+      "title": "Viva la Vida or Death and All His Friends",
+      "year": 2008,
+      "type": "Studioalbum",
+      "note": "Mit Brian Eno produziert und mit einem Grammy als bestes Rock-Album ausgezeichnet."
+    },
+    {
+      "title": "Mylo Xyloto",
+      "year": 2011,
+      "type": "Studioalbum"
+    },
+    {
+      "title": "Ghost Stories",
+      "year": 2014,
+      "type": "Studioalbum"
+    },
+    {
+      "title": "A Head Full of Dreams",
+      "year": 2015,
+      "type": "Studioalbum"
+    },
+    {
+      "title": "Everyday Life",
+      "year": 2019,
+      "type": "Studioalbum",
+      "note": "Ein Doppelalbum."
+    },
+    {
+      "title": "Music of the Spheres",
+      "year": 2021,
+      "type": "Studioalbum",
+      "note": "Entstand mit Max Martins Produzententeam; enthält „My Universe“ mit BTS."
+    },
+    {
+      "title": "Moon Music",
+      "year": 2024,
+      "type": "Studioalbum"
+    }
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia: Coldplay",
+      "url": "https://en.wikipedia.org/wiki/Coldplay"
+    },
+    {
+      "label": "Wikipedia: Coldplay discography",
+      "url": "https://en.wikipedia.org/wiki/Coldplay_discography"
+    }
+  ],
+  "writtenAt": "2026-11-07"
+}

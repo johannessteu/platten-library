@@ -1,0 +1,67 @@
+{
+  "name": "Arctic Monkeys",
+  "summary": "Arctic Monkeys kommen aus Sheffield und wurden Mitte der 2000er mit dem schnellsten verkauften Debütalbum der britischen Chartgeschichte zur wichtigsten Gitarrenband ihrer Generation. Alex Turners Texte im breiten Sheffield-Akzent bilden den roten Faden, während die Band ihren Sound mit nahezu jedem Album neu erfindet: vom hektischen Indie-Rock über Stoner-Riffs bis zu Lounge-Piano. Sie gewannen Mercury Prize und mehrere Brit Awards und headlinten dreimal Glastonbury.",
+  "career": [
+    "Alex Turner, Matt Helders und Andy Nicholson kannten sich aus der Schule, Jamie Cook stieß als zweiter Gitarrist dazu. Der erste Auftritt fand im Juni 2003 im Sheffielder Pub The Grapes statt. Die Band verschenkte ihre Demos („Beneath the Boardwalk“) bei Konzerten, Fans tauschten sie im Netz, und so entstand eine Gefolgschaft, bevor es einen Vertrag gab. Im Juni 2005 unterschrieben sie bei Domino.",
+    "Die Debütsingle „I Bet You Look Good on the Dancefloor“ ging im Oktober 2005 direkt auf Platz 1 der britischen Charts. Das Debütalbum „Whatever People Say I Am, That's What I'm Not“ war damals das am schnellsten verkaufte Debüt der UK-Chartgeschichte und gewann 2006 den Mercury Prize. 2006 verließ Nicholson die Band, Nick O'Malley übernahm den Bass; seitdem ist die Besetzung stabil.",
+    "Ab „Humbug“ (2009), produziert mit Josh Homme von den Queens of the Stone Age, löste sich die Band vom schnellen Indie-Rock der Anfangstage und wandte sich dunkleren, psychedelischen Klängen zu. „AM“ (2013) machte sie mit Riffs, Hip-Hop-Beats und Falsett-Chören auch in den USA zu Stars. Danach drehte Turner das Konzept um: „Tranquility Base Hotel & Casino“ (2018) und „The Car“ (2022) setzen auf Piano, Streicher und Filmmusik-Ästhetik statt auf Gitarrenwände."
+  ],
+  "sound": "Im Kern Indie-Rock mit Garage- und Post-Punk-Revival-Wurzeln, später mit Einflüssen aus Psychedelic- und Stoner-Rock sowie Hip-Hop. Als Vorbilder nennt die Band unter anderem Outkast, Wu-Tang Clan, Nick Cave und Oasis; Turner hat außerdem ein Gedicht von John Cooper Clarke für „AM“ vertont. Markenzeichen sind Turners pointierte, erzählende Texte und das präzise, treibende Schlagzeug von Matt Helders.",
+  "highlights": [
+    "Sieben Brit Awards, darunter dreimal Bestes Album und dreimal Beste Gruppe, dazu ein Mercury Prize (2006) und ein Ivor Novello Award.",
+    "Die ersten sechs Studioalben stiegen allesamt auf Platz 1 der britischen Charts ein; „The Car“ (2022) erreichte Platz 2 hinter Taylor Swifts „Midnights“.",
+    "Headliner in Glastonbury 2007, 2013 und 2023; 2012 traten sie bei der Eröffnungsfeier der Olympischen Spiele in London auf.",
+    "Mit „AM“ waren sie die erste Independent-Label-Band mit fünf britischen Nummer-1-Alben in Folge."
+  ],
+  "discography": [
+    {
+      "title": "Whatever People Say I Am, That's What I'm Not",
+      "year": 2006,
+      "type": "Studioalbum",
+      "note": "Das Debüt; damals das am schnellsten verkaufte Debütalbum der UK-Chartgeschichte und Mercury-Prize-Gewinner."
+    },
+    {
+      "title": "Favourite Worst Nightmare",
+      "year": 2007,
+      "type": "Studioalbum",
+      "note": "Zweites Album, wieder Platz 1 in Großbritannien und ein weiterer Brit Award als Album des Jahres."
+    },
+    {
+      "title": "Humbug",
+      "year": 2009,
+      "type": "Studioalbum",
+      "note": "Mit Josh Homme produziert: der Wechsel zu Psychedelic- und Stoner-Rock."
+    },
+    {
+      "title": "Suck It and See",
+      "year": 2011,
+      "type": "Studioalbum",
+      "note": "Viertes Album, ebenfalls Platz 1 in Großbritannien."
+    },
+    {
+      "title": "AM",
+      "year": 2013,
+      "type": "Studioalbum",
+      "note": "Der internationale Durchbruch mit „Do I Wanna Know?“, Riffs, R&B-Grooves und Falsett."
+    },
+    {
+      "title": "Tranquility Base Hotel & Casino",
+      "year": 2018,
+      "type": "Studioalbum",
+      "note": "Klavierbasiertes, deutlich ruhigeres Album; Grammy-Nominierung und sechster UK-Nummer-1-Einstieg in Folge."
+    },
+    {
+      "title": "The Car",
+      "year": 2022,
+      "type": "Studioalbum",
+      "note": "Platz 2 in Großbritannien; nominiert für den Mercury Prize und den Grammy."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia: Arctic Monkeys",
+      "url": "https://en.wikipedia.org/wiki/Arctic_Monkeys"
+    }
+  ],
+  "writtenAt": "2026-11-07"
+}

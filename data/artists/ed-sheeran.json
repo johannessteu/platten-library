@@ -1,0 +1,78 @@
+{
+  "name": "Ed Sheeran",
+  "summary": "Ed Sheeran stammt aus Halifax und wuchs in Suffolk auf. Er verbindet Folk-Pop und Singer-Songwriter-Tradition mit Hip-Hop-Phrasierung und R&B, spielt als Soloact mit Gitarre und Loop-Station und füllt damit Stadien. Seine Alben tragen mathematische Symbole als Titel. Er schreibt außerdem für andere, etwa für Taylor Swift und Justin Bieber.",
+  "career": [
+    "Sheeran wurde am 17. Februar 1991 in Halifax geboren, wuchs in Framlingham auf und schrieb ab etwa elf Jahren Songs. Mit 13 brachte er die Sammlung „Spinning Man“ selbst heraus. 2008 zog er nach London und spielte in kleinen Clubs; mehrere selbst veröffentlichte EPs, darunter „Loose Change“ (2010) mit „The A Team“, bauten seine Fanbasis auf. Das „No.5 Collaborations Project“ von Anfang 2011 kam in die iTunes-Top-Charts und führte zum Vertrag mit Asylum.",
+    "Sein Debüt „+“ erschien im September 2011 und stand an der Spitze der UK-Charts. „×“ (2014) machte ihn international zum Star und erreichte Platz 1 in Großbritannien und den USA. 2015 gründete er sein eigenes Label Gingerbread Man Records im Rahmen eines Deals mit Warner. „÷“ (2017) war das weltweit meistverkaufte Album des Jahres.",
+    "Danach wurde sein Werk breiter: „No.6 Collaborations Project“ (2019) mit vielen Gästen, „=“ (2021) und „−“ (2023). Im selben Jahr folgte „Autumn Variations“, 2025 „Play“. Als Autor hat er Songs für andere geschrieben: „Everything Has Changed“ für Taylor Swifts „Red“, nach dem er 2013 deren Support-Act war, und „Love Yourself“ für Justin Bieber."
+  ],
+  "sound": "Sheeran macht Pop auf Folk-Basis: akustische Gitarre, eingängige Melodien und Texte, die oft erzählerisch angelegt sind. Mit Loop-Station baut er als Solokünstler live ganze Arrangements auf, und seine Phrasierung nähert sich teils dem Rap an. Auf späteren Alben kommen Tanzpop und Gastbeiträge aus Rap und R&B dazu, sein Kern bleibt aber der Songwriter mit Gitarre.",
+  "highlights": [
+    "Seine Alben tragen mathematische Symbole als Titel: Plus, Multiply, Divide, Equals, Subtract.",
+    "Er war 2013 Support-Act von Taylor Swift auf der Red Tour, nachdem er mit ihr „Everything Has Changed“ geschrieben hatte.",
+    "„Love Yourself“, geschrieben für Justin Bieber, und das Duett „I Don't Care“ (2019) verbinden ihn mit Bieber.",
+    "„×“ gewann bei den Brit Awards 2015 den Preis als Britisches Album des Jahres.",
+    "2015 gründete er Gingerbread Man Records, das seit „Autumn Variations“ auch seine Veröffentlichungen trägt."
+  ],
+  "discography": [
+    {
+      "title": "+",
+      "year": 2011,
+      "type": "Studioalbum",
+      "note": "Das Debüt mit „The A Team“ stand in Großbritannien auf Platz 1."
+    },
+    {
+      "title": "x",
+      "year": 2014,
+      "type": "Studioalbum",
+      "note": "Der internationale Durchbruch, u. a. mit Rick Rubin produziert; ihre Platte im Regal."
+    },
+    {
+      "title": "÷",
+      "year": 2017,
+      "type": "Studioalbum",
+      "note": "Das weltweit meistverkaufte Album des Jahres 2017."
+    },
+    {
+      "title": "No.6 Collaborations Project",
+      "year": 2019,
+      "type": "Studioalbum",
+      "note": "Ein Gästealbum mit Rap-, R&B- und Pop-Kollaborationen."
+    },
+    {
+      "title": "=",
+      "year": 2021,
+      "type": "Studioalbum",
+      "note": "Erschienen am 29. Oktober 2021."
+    },
+    {
+      "title": "−",
+      "year": 2023,
+      "type": "Studioalbum",
+      "note": "Erschienen am 5. Mai 2023."
+    },
+    {
+      "title": "Autumn Variations",
+      "year": 2023,
+      "type": "Studioalbum",
+      "note": "Zweites Album des Jahres, erschienen im September 2023."
+    },
+    {
+      "title": "Play",
+      "year": 2025,
+      "type": "Studioalbum",
+      "note": "Bislang jüngstes Studioalbum, erschienen im September 2025."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia: Ed Sheeran",
+      "url": "https://en.wikipedia.org/wiki/Ed_Sheeran"
+    },
+    {
+      "label": "Wikipedia: Ed Sheeran discography",
+      "url": "https://en.wikipedia.org/wiki/Ed_Sheeran_discography"
+    }
+  ],
+  "writtenAt": "2026-11-07"
+}

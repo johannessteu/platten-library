@@ -1,0 +1,30 @@
+{
+  "name": "Das Paradies",
+  "summary": "Das Paradies ist das deutschsprachige Soloprojekt des Leipziger Musikers Florian Sievers. Er verbindet leichten Indie-Pop mit Dub-, Reggae- und House-Anklängen und schreibt Texte, die Alltag und Absurdes poetisch zusammenbringen. Rezensionen rücken das Projekt in die Nähe der Hamburger Schule. Bislang gibt es drei Alben, die ersten beiden bei Grönland Records, das dritte auf Sievers' eigenem Label Krokant.",
+  "career": [
+    "Florian Sievers, Jahrgang 1983, stammt aus Halle an der Saale und lebt in Leipzig. Bekannt war er zunächst als Mitglied der Band Talking to Turtles, die seit 2010 besteht und englischsprachige Folksongs spielt. Mit Das Paradies, gestartet 2017, wechselte er die Sprache: Zum ersten Mal schrieb er auf Deutsch. Eine erste EP namens „Goldene Zukunft“ erschien 2017 bei Staatsakt.",
+    "Das gleichnamige Debütalbum „Goldene Zukunft“ folgte 2018 bei Grönland Records, dem Label von Herbert Grönemeyer. Danach erschienen die EPs „Die Giraffe streckt sich“ (2018) und „Sammlung 1 / Pause an der Kurve in Vektoria“ (2020). Das zweite Album „Transit“ (2022) hat laut jmc-magazin flirrende Elektronik und üppigere Arrangements; die Gitarren treten dort hinter Beats und Synthesizer zurück.",
+    "Sievers arbeitet nebenher als Theatermusiker und Produzent und betreibt mit Albrecht Schrader das Label Krokant. Dort erschien 2024 die EP „Sammlung 2 / Soft Floor“, und das dritte Album „Überall wo Menschen sind“ (2025) wurde ebenfalls über Krokant veröffentlicht. Der Wechsel vom größeren Label zum eigenen passt zu einem Projekt, das als Nebenschauplatz begann und unabhängig geblieben ist."
+  ],
+  "sound": "Das Paradies bewegt sich im deutschsprachigen Indie-Pop. Auf dem Debüt mischt Sievers Indie-Rock mit Reggae, Dub und Deep House, auf „Transit“ kamen Beats, Synthesizer und kollagenhafte Arrangements dazu. Die Musik wirkt gelassen und tanzbar, die Texte sind verspielt, beobachtend und oft absurd-poetisch; zum dritten Album ziehen Kritiker den Vergleich zur Hamburger Schule.",
+  "highlights": [
+    "Sievers spielt parallel bei Talking to Turtles, wo er auf Englisch sang; Das Paradies ist sein erstes Projekt mit deutschen Texten.",
+    "Das Debüt erschien bei Grönland Records, dem Label, das Herbert Grönemeyer 1999 mitgegründet hat.",
+    "Mit Albrecht Schrader betreibt Sievers das Label Krokant, auf dem das dritte Album erschien.",
+    "Sievers arbeitet auch als Theatermusiker, unter anderem für das Theater der Jungen Welt in Leipzig."
+  ],
+  "discography": [
+    { "title": "Goldene Zukunft", "year": 2018, "type": "Studioalbum", "note": "Das Debüt und das erste Album mit deutschen Texten, zwischen Indie-Rock, Reggae, Dub und Deep House." },
+    { "title": "Die Giraffe streckt sich", "year": 2018, "type": "EP" },
+    { "title": "Sammlung 1 / Pause an der Kurve in Vektoria", "year": 2020, "type": "EP" },
+    { "title": "Transit", "year": 2022, "type": "Studioalbum", "note": "Das zweite Album mit mehr Elektronik und dichteren Arrangements." },
+    { "title": "Sammlung 2 / Soft Floor", "year": 2024, "type": "EP" },
+    { "title": "Überall wo Menschen sind", "year": 2025, "type": "Studioalbum", "note": "Das dritte Album, erschienen auf dem eigenen Label Krokant." }
+  ],
+  "sources": [
+    { "label": "Wikipedia (de): Das Paradies", "url": "https://de.wikipedia.org/wiki/Das_Paradies_(Band)" },
+    { "label": "jmc-magazin zu Transit", "url": "https://jmc-magazin.de/?p=200051" },
+    { "label": "jpc: Transit", "url": "https://www.jpc.de/s/florian+sievers" }
+  ],
+  "writtenAt": "2026-11-07"
+}

@@ -1,0 +1,132 @@
+{
+  "name": "Queen",
+  "summary": "Queen aus London verbanden Hardrock, Pop, Oper und Glam zu einem Sound, den sonst niemand hatte. Freddie Mercury, Brian May, Roger Taylor und John Deacon waren alle Songwriter, was dem Repertoire seine Breite gab. „Bohemian Rhapsody“ (1975), „We Will Rock You“ und „We Are the Champions“ (1977) wurden zu Stadionhymnen. Mercurys Tod 1991 beendete die Originalbesetzung, May und Taylor halten die Band bis heute live am Leben.",
+  "career": [
+    "Brian May gründete 1968 mit Tim Staffell die Band Smile, bald kam Roger Taylor als Schlagzeuger dazu. 1970 stieß Freddie Mercury hinzu und schlug den Namen Queen vor; im Februar 1971 komplettierte John Deacon am Bass die Besetzung. Das Debüt „Queen“ erschien 1973, „Queen II“ (1974) war die erste Chartplatzierung in Großbritannien.",
+    "Der Durchbruch folgte mit „A Night at the Opera“ (1975) und „Bohemian Rhapsody“, das neun Wochen die britische Spitze hielt. „News of the World“ (1977) enthielt „We Will Rock You“ und „We Are the Champions“. „Greatest Hits“ (1981) wurde das meistverkaufte Album Großbritanniens.",
+    "In den Achtzigern wandte sich die Band zeitweise stärker Funk, Disco und Synthesizern zu („The Game“, „Hot Space“). 1985 gehörte ihr Auftritt beim Live Aid zu den meistgenannten Rockkonzerten. Das Magic-Tour-Konzert im Wembley-Stadion im Juli 1986 wurde später als „Live at Wembley Stadium“ veröffentlicht; Mercurys letzter Auftritt mit Queen war im August 1986 in Knebworth.",
+    "Mercury machte seine Aids-Erkrankung am 23. November 1991 öffentlich und starb einen Tag später. „Made in Heaven“ (1995) enthält seine letzten Gesangsaufnahmen. Deacon zog sich 1997 zurück. May und Taylor tourten 2004 bis 2009 mit Paul Rodgers und treten seit 2011 mit Adam Lambert auf; 2001 hatte die Band den Eintritt in die Rock and Roll Hall of Fame erhalten."
+  ],
+  "sound": "Hardrock mit Pop-Gespür, geprägt von Mays selbstgebauter Gitarre und mehrfach übereinandergelegten Gitarrenharmonien, Mercurys Stimme und Klavier sowie Taylors und Deacons Rhythmusgruppe. Im Studio setzten sie auf aufwendige Chor-Arrangements und Genre-Sprünge von Oper über Rockabilly und Funk bis zu Synth-Pop. Auf der Bühne wurde daraus ein Stadionrock, bei dem das Publikum mitsingt und -klatscht.",
+  "highlights": [
+    "„Bohemian Rhapsody“ hielt 1975 neun Wochen die Spitze der britischen Charts.",
+    "Sowohl Mercury als auch May, Taylor und Deacon schrieben Hits für die Band.",
+    "Der Live-Aid-Auftritt 1985 wird häufig unter die besten Rockkonzerte gezählt.",
+    "„Made in Heaven“ (1995) enthält Mercurys letzte Gesangsaufnahmen.",
+    "Seit 2011 tritt Queen mit Adam Lambert als Sänger auf."
+  ],
+  "discography": [
+    {
+      "title": "Queen",
+      "year": 1973,
+      "type": "Studioalbum"
+    },
+    {
+      "title": "Queen II",
+      "year": 1974,
+      "type": "Studioalbum",
+      "note": "Erste Chartplatzierung der Band in Großbritannien."
+    },
+    {
+      "title": "Sheer Heart Attack",
+      "year": 1974,
+      "type": "Studioalbum"
+    },
+    {
+      "title": "A Night at the Opera",
+      "year": 1975,
+      "type": "Studioalbum",
+      "note": "Mit „Bohemian Rhapsody“ der kommerzielle Durchbruch."
+    },
+    {
+      "title": "A Day at the Races",
+      "year": 1976,
+      "type": "Studioalbum"
+    },
+    {
+      "title": "News of the World",
+      "year": 1977,
+      "type": "Studioalbum",
+      "note": "Mit „We Will Rock You“ und „We Are the Champions“."
+    },
+    {
+      "title": "Jazz",
+      "year": 1978,
+      "type": "Studioalbum"
+    },
+    {
+      "title": "Live Killers",
+      "year": 1979,
+      "type": "Livealbum"
+    },
+    {
+      "title": "The Game",
+      "year": 1980,
+      "type": "Studioalbum"
+    },
+    {
+      "title": "Flash Gordon",
+      "year": 1980,
+      "type": "Soundtrack"
+    },
+    {
+      "title": "Greatest Hits",
+      "year": 1981,
+      "type": "Compilation",
+      "note": "Das meistverkaufte Album Großbritanniens."
+    },
+    {
+      "title": "Hot Space",
+      "year": 1982,
+      "type": "Studioalbum"
+    },
+    {
+      "title": "The Works",
+      "year": 1984,
+      "type": "Studioalbum"
+    },
+    {
+      "title": "A Kind of Magic",
+      "year": 1986,
+      "type": "Studioalbum"
+    },
+    {
+      "title": "The Miracle",
+      "year": 1989,
+      "type": "Studioalbum"
+    },
+    {
+      "title": "Innuendo",
+      "year": 1991,
+      "type": "Studioalbum",
+      "note": "Das letzte Album zu Mercurys Lebzeiten."
+    },
+    {
+      "title": "Live at Wembley Stadium",
+      "year": 1992,
+      "type": "Livealbum",
+      "note": "Mitschnitt vom 12. Juli 1986, zuerst als „Live at Wembley '86“ erschienen."
+    },
+    {
+      "title": "Made in Heaven",
+      "year": 1995,
+      "type": "Studioalbum",
+      "note": "Entstanden nach Mercurys Tod, mit seinen letzten Gesangsaufnahmen."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia: Queen",
+      "url": "https://en.wikipedia.org/wiki/Queen_(band)"
+    },
+    {
+      "label": "Wikipedia: Queen discography",
+      "url": "https://en.wikipedia.org/wiki/Queen_discography"
+    },
+    {
+      "label": "Wikipedia: Live at Wembley '86",
+      "url": "https://en.wikipedia.org/wiki/Live_at_Wembley_%2786"
+    }
+  ],
+  "writtenAt": "2026-11-07"
+}

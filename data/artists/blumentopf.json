@@ -1,0 +1,34 @@
+{
+  "name": "Blumentopf",
+  "summary": "Blumentopf waren eine Hip-Hop-Crew aus Freising bei München und über Jahrzehnte eine der beständigsten Gruppen des deutschen Raps: vier Rapper, ein DJ, kaum Besetzungswechsel. Sie standen für wortwitzigen, selbstironischen Rap über Alltag, Party und Kleinstadtleben statt für Härte. Ihre Alben chartete ab 2003 regelmäßig in den deutschen Top Ten, ihre Liveshows brachten ihnen Preise der Szene ein. 2015 gaben sie die Auflösung bekannt, 2016 folgte das Abschlusskonzert.",
+  "career": [
+    "Blumentopf gründen sich 1992 in Freising. Die Besetzung bleibt in der gesamten Bandgeschichte gleich: die Rapper Cajus, Holunder, Schu und Roger sowie DJ Sepalot. Nach der EP „Abhängen“ (1996) erscheint 1997 das Debüt „Kein Zufall“ beim Label Four Music; die Single „6 Meter 90“ verfehlt die Charts, läuft aber stark im Musikfernsehen. 2001 und 2002 küren die Leser des Magazins „Juice“ sie zur besten Live-Band.",
+    "Mit „Gern Geschehen“ (2003) erreichen sie Platz 7 der deutschen Albumcharts, ebenso „Musikmaschine“ (2006). Ab 2006 bekommen sie über die „Raportagen“ in der ARD-Berichterstattung zu Fußball-WM und -EM (bis 2014) auch außerhalb der Szene Aufmerksamkeit. 2005 spielen sie auf einer Tournee des Goethe-Instituts im Nahen Osten, unter anderem in Tel Aviv, Bethlehem, Beirut und Amman, und arbeiten dort mit lokalen Musikern zusammen.",
+    "2007 und 2008 verfolgen die Mitglieder Soloprojekte, danach folgen „Wir“ (2010, mit dem Single-Hit „SoLaLa“, Vertretung Bayerns beim Bundesvision Song Contest 2010) und „Nieder mit der GbR“ (2012, Platz 6). 2015 erscheint gemeinsam mit der österreichischen Gruppe Texta das Album „#HLMR“. Im Oktober 2015 geben Blumentopf ihre Auflösung bekannt; am 22. Oktober 2016 spielen sie ihr letztes Konzert im Münchner Zenith."
+  ],
+  "sound": "Blumentopf stehen in der Tradition des deutschsprachigen Fun- und Boom-Bap-Raps der späten 1990er, mit viel Wortspiel, Selbstironie und Alltagsbeobachtung. Vier Rapper wechseln sich in kurzen Parts ab, was ihre Stücke beweglicher macht als viele Solo-Rap-Alben. DJ Sepalot sorgt mit Samples, Scratches und Live-Instrumenten für einen warmen, funkigen Unterbau. Regionale Färbung und Münchner Humor bleiben ein Markenzeichen.",
+  "highlights": [
+    "Die ARD-„Raportagen“ zu Weltmeisterschaften und Europameisterschaften (2006 bis 2014) machten die Gruppe auch Menschen bekannt, die kaum Deutschrap hörten.",
+    "2001 erhielten sie den Bronzenen Bravo Otto in der Kategorie „Hip-Hop National“.",
+    "Beim Bundesvision Song Contest 2010 belegten sie für Bayern mit „SoLaLa“ den vierten Platz.",
+    "Auf „Rosi“ (2012) singt Günther Sigl von der Spider Murphy Gang mit; „Better Life GmbH“ (2003) entstand mit Smudo.",
+    "Der erste Eintrag in den deutschen Single-Charts war „Horst“ (2006), nach mehreren erfolglosen Singles zuvor."
+  ],
+  "discography": [
+    { "title": "Kein Zufall", "year": 1997, "type": "Studioalbum", "note": "Das Debüt, zu dem „6 Meter 90“ im Musikfernsehen lief." },
+    { "title": "Großes Kino", "year": 1999, "type": "Studioalbum", "note": "Das zweite Album, Platz 21 in Deutschland." },
+    { "title": "Eins A", "year": 2001, "type": "Studioalbum", "note": "Platz 16 in den deutschen Charts, im selben Jahr als beste Live-Band geehrt." },
+    { "title": "Gern Geschehen", "year": 2003, "type": "Studioalbum", "note": "Der Durchbruch in die Top Ten: Platz 7 in Deutschland." },
+    { "title": "Musikmaschine", "year": 2006, "type": "Studioalbum", "note": "Wieder Platz 7; enthält die erste Chartsingle „Horst“." },
+    { "title": "Wir", "year": 2010, "type": "Studioalbum", "note": "Enthält „SoLaLa“, mit dem sie Bayern beim Bundesvision Song Contest vertraten." },
+    { "title": "Nieder mit der GbR", "year": 2012, "type": "Studioalbum", "note": "Das höchstplatzierte Album der Band, Platz 6 in Deutschland." },
+    { "title": "B-Seiten und Raritäten", "year": 2012, "type": "Compilation", "note": "Seltenes und unveröffentlichtes Material aus der Bandgeschichte." },
+    { "title": "Die letzte Show (Live)", "year": 2017, "type": "Livealbum", "note": "Mitschnitt des Abschlusskonzerts im Münchner Zenith." }
+  ],
+  "sources": [
+    { "label": "Wikipedia: Blumentopf (Band)", "url": "https://de.wikipedia.org/wiki/Blumentopf_(Band)" },
+    { "label": "Wikipedia (en): Blumentopf", "url": "https://en.wikipedia.org/wiki/Blumentopf" },
+    { "label": "MünchenWiki: Blumentopf", "url": "https://www.muenchenwiki.de/wiki/Blumentopf" }
+  ],
+  "writtenAt": "2026-11-07"
+}

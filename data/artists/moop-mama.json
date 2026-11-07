@@ -1,0 +1,31 @@
+{
+  "name": "Moop Mama",
+  "summary": "Moop Mama sind eine Münchner Brass-Hip-Hop-Band: ein Bläsersatz, Schlagzeug und Sousafon tragen den Rap, und sie nennen ihren Stil selbst „Urban Brass“. Bekannt wurden sie über unangekündigte Straßenkonzerte und Festivalbühnen, nicht über Radio oder Charts. Ihre Platten sind deshalb nie nur Studioarbeit, sondern immer auch der Versuch, diese Live-Energie einzufangen. Seit 2023 läuft die Band mit neuer Besetzung unter dem Namen „Moop Mama × Älice“.",
+  "career": [
+    "2009 gründet der Tenorsaxofonist Marcus Kesselbauer die Band in München und holt den Rapper Keno und den Produzenten Lukas „Bustla“ Roth dazu, beide kamen aus der Rapcrew Creme Fresh. Gespielt wird zuerst auf der Straße: Keno rappt durchs Megafon, um gegen die Bläser anzukommen, was immer wieder die Polizei wegen Ruhestörung auf den Plan ruft. Auch Fatoni, ebenfalls aus dem Creme-Fresh-Umfeld, gehörte anfangs als Rapper dazu und verließ die Band etwa 2010.",
+    "Mit „Deine Mutter“ (2011) und „Das Rote Album“ (2013) erscheinen die ersten beiden Alben auf Millaphon Records. 2012 folgt auf Einladung des Goethe-Instituts eine Reise nach Thessaloniki und Athen, die ersten Auftritte außerhalb des deutschsprachigen Raums. Mit „M.O.O.P. Topia“ (2016) und „ICH“ (2018) auf dem eigenen Label Mutterkomplex steigen sie in die Top 25 der deutschen Albumcharts ein. Für „M.O.O.P. Topia“ tourten sie 2016 mit dem Fahrrad durch Deutschland.",
+    "Die Band versteht sich auch politisch: 2018 spielen sie ein Solidaritätskonzert im Hambacher Forst, 2019 bei einer Fridays-for-Future-Demo in Aachen. 2022 trennen sich Moop Mama von Keno, Posaunist Peter Palmer verlässt die Band ebenfalls, 2023 geht auch Gründer Kesselbauer. Statt aufzuhören, holt die Band die Sängerin und Rapperin Älice (früher bei Chefboss) und tritt seither als „Moop Mama × Älice“ auf, unter anderem mit dem Projekt „Wieder Laut“ (2024)."
+  ],
+  "sound": "Moop Mama verbinden Hip-Hop mit Marching Band, Funk und Brass-Tradition: Trompeten, Saxofone, Posaunen, Sousafon, Snare und Bass Drum spielen die Beats, die sonst aus dem Sampler kämen. Die Texte wechseln zwischen Party, Selbstironie und gesellschaftskritischer Haltung. Die Band selbst nennt das „Urban Brass“; ihre Verwandtschaft liegt bei Brass-Kollektiven und dem deutschen Rap, der Humor über Härte stellt.",
+  "highlights": [
+    "Die ersten Konzerte waren unangekündigte Guerilla-Auftritte im öffentlichen Raum, bei denen Keno durchs Megafon rappte; das führte wiederholt zu Konflikten mit der Polizei.",
+    "2012 spielte die Band im Rahmenprogramm des Champions-League-Finales in München.",
+    "Der Song „Helden“ ist das Titelthema der BR-Sendung „Vereinsheim Schwabing“, bei der die Band lange Teil des Programms war.",
+    "Für den Film „Vatertage – Opa über Nacht“ steuerte die Band Musik bei und trat darin auch als Darsteller auf.",
+    "Zu „Alle Kinder“ (2016) gibt es ein Video mit Jan Delay."
+  ],
+  "discography": [
+    { "title": "Deine Mutter", "year": 2011, "type": "Studioalbum", "note": "Das Debüt auf Millaphon Records, aus dem Straßenkonzert-Sound heraus gebaut." },
+    { "title": "Das Rote Album", "year": 2013, "type": "Studioalbum", "note": "Das zweite Album, erreichte Platz 58 der deutschen Charts." },
+    { "title": "M.O.O.P. Topia", "year": 2016, "type": "Studioalbum", "note": "Das erste Album auf dem eigenen Label Mutterkomplex, Platz 23 in Deutschland." },
+    { "title": "Live Vol. 1", "year": 2017, "type": "Livealbum", "note": "Das erste Livealbum, mit Live-Fassungen von „25/8“ und „Komplize“ aus 2016." },
+    { "title": "ICH", "year": 2018, "type": "Studioalbum", "note": "Die bis dahin höchste Chartplatzierung der Band, Platz 18 in Deutschland." },
+    { "title": "Live Vol. 2", "year": 2020, "type": "Livealbum", "note": "Das zweite Livealbum der Band, 2020 auf Mutterkomplex erschienen." }
+  ],
+  "sources": [
+    { "label": "Wikipedia: Moop Mama", "url": "https://de.wikipedia.org/wiki/Moop_Mama" },
+    { "label": "Wikipedia (en): Moop Mama", "url": "https://en.wikipedia.org/wiki/Moop_Mama" },
+    { "label": "Abendzeitung München", "url": "https://www.abendzeitung-muenchen.de/kultur/spassvolle-ruhestoerung-art-138070" }
+  ],
+  "writtenAt": "2026-11-07"
+}

@@ -1,0 +1,185 @@
+{
+  "name": "The Rolling Stones",
+  "summary": "Die Rolling Stones sind seit 1962 eine der prägenden Rockbands Großbritanniens. Sie begannen als Blues-Coverband in London und wurden zum Gegenentwurf zu den Beatles: rauer, bluesiger, gefährlicher. Das Songwriter-Duo Mick Jagger und Keith Richards lieferte Hits wie „(I Can't Get No) Satisfaction“, das Album-Quartett von „Beggars Banquet“ bis „Exile on Main St.“ gilt als Höhepunkt. 2026 erschien mit „Foreign Tongues“ ihr 25. Studioalbum.",
+  "career": [
+    "Die Band entstand 1962 in London, ihr erster Auftritt unter dem Namen „the Rollin' Stones“ fand am 12. Juli im Marquee Club statt. Brian Jones, Mick Jagger und Keith Richards bildeten den Kern, die Musik kam aus dem amerikanischen Blues und Rhythm and Blues. 1963 wurde Andrew Loog Oldham ihr Manager, Decca nahm sie unter Vertrag, und er drängte Jagger und Richards zum eigenen Schreiben.",
+    "Mit „(I Can't Get No) Satisfaction“ gelang 1965 der erste internationale Nummer-eins-Hit, „Aftermath“ (1966) war das erste Album ausschließlich mit eigenen Songs. Nach dem Flop des psychedelischen „Their Satanic Majesties Request“ (1967) kehrten die Stones mit „Beggars Banquet“ (1968) zu ihren Wurzeln zurück. 1969 verließ Jones die Band und starb wenige Wochen später; Mick Taylor ersetzte ihn.",
+    "1970 gründeten sie ihr eigenes Label Rolling Stones Records mit dem Zungen-Logo und brachten dort „Sticky Fingers“ und „Exile on Main St.“ heraus. Taylor ging Ende 1974, Ronnie Wood kam 1975 dazu. Bill Wyman verließ die Band 1993, Darryl Jones wurde der feste Bassist. Nach dem Tod von Charlie Watts 2021 übernahm Steve Jordan das Schlagzeug.",
+    "Mit „Blue & Lonesome“ (2016), einem Album voller Bluescovers, schloss sich der Kreis zu den Anfängen. „Hackney Diamonds“ (2023) wurde ihr 14. britisches Nummer-eins-Album, „Foreign Tongues“ (10. Juli 2026) folgte als 15. Die Band ist bis heute live aktiv."
+  ],
+  "sound": "Im Kern Blues-getriebener Rock 'n' Roll: zwei verzahnte Gitarren von Richards und später Wood, offene Stimmungen, ein Groove, der eher swingt als stampft, und Jaggers Stimme als Mittelpunkt. Wichtige Einflüsse sind Chicago-Blues (Muddy Waters), Country, Soul und Gospel. In den Sechzigern kamen Pop und Psychedelic dazu, in den Siebzigern Funk, Reggae und Disco. Die Produktion klingt bewusst locker und lebendig statt glatt.",
+  "highlights": [
+    "Die Band benannte sich nach dem Muddy-Waters-Stück „Rollin' Stone“.",
+    "„Aftermath“ (1966) war das erste Stones-Album, das nur Jagger/Richards-Songs enthielt.",
+    "Beim Hyde-Park-Konzert 1969 spielten sie wenige Tage nach Brian Jones' Tod ein Gedenkkonzert.",
+    "1970 entstand mit Rolling Stones Records das eigene Label und das bis heute genutzte Zungen-Logo.",
+    "1989 wurden sie in die Rock and Roll Hall of Fame aufgenommen.",
+    "„Hackney Diamonds“ (2023) und „Foreign Tongues“ (2026) sind ihre Nummer-eins-Alben 14 und 15 in Großbritannien."
+  ],
+  "discography": [
+    {
+      "title": "The Rolling Stones",
+      "year": 1964,
+      "type": "Studioalbum",
+      "note": "Das Debüt, noch überwiegend Blues- und R&B-Cover; in den USA als „England's Newest Hit Makers“ erschienen."
+    },
+    {
+      "title": "The Rolling Stones No. 2",
+      "year": 1965,
+      "type": "Studioalbum"
+    },
+    {
+      "title": "Out of Our Heads",
+      "year": 1965,
+      "type": "Studioalbum",
+      "note": "Mit „Satisfaction“ in der US-Fassung; UK- und US-Version unterscheiden sich."
+    },
+    {
+      "title": "Aftermath",
+      "year": 1966,
+      "type": "Studioalbum",
+      "note": "Das erste Album komplett aus eigener Feder."
+    },
+    {
+      "title": "Between the Buttons",
+      "year": 1967,
+      "type": "Studioalbum"
+    },
+    {
+      "title": "Their Satanic Majesties Request",
+      "year": 1967,
+      "type": "Studioalbum",
+      "note": "Psychedelische Ausnahme im Katalog."
+    },
+    {
+      "title": "Beggars Banquet",
+      "year": 1968,
+      "type": "Studioalbum",
+      "note": "Rückkehr zu Blues und Roots, Beginn der klassischen Phase."
+    },
+    {
+      "title": "Let It Bleed",
+      "year": 1969,
+      "type": "Studioalbum",
+      "note": "Erschien Ende 1969, kurz nach Brian Jones' Tod."
+    },
+    {
+      "title": "Sticky Fingers",
+      "year": 1971,
+      "type": "Studioalbum",
+      "note": "Das erste Album auf dem eigenen Label."
+    },
+    {
+      "title": "Exile on Main St.",
+      "year": 1972,
+      "type": "Studioalbum",
+      "note": "Doppelalbum, oft als ihr Meisterwerk genannt."
+    },
+    {
+      "title": "Goats Head Soup",
+      "year": 1973,
+      "type": "Studioalbum"
+    },
+    {
+      "title": "It's Only Rock 'n Roll",
+      "year": 1974,
+      "type": "Studioalbum",
+      "note": "Das letzte Album mit Mick Taylor."
+    },
+    {
+      "title": "Made In The Shade",
+      "year": 1975,
+      "type": "Compilation",
+      "note": "Zusammenstellung von Songs aus den Alben auf dem eigenen Label, erschienen im Juni 1975."
+    },
+    {
+      "title": "Black and Blue",
+      "year": 1976,
+      "type": "Studioalbum",
+      "note": "Das erste mit Ronnie Wood."
+    },
+    {
+      "title": "Some Girls",
+      "year": 1978,
+      "type": "Studioalbum",
+      "note": "Rock, Disco und Punk-Energie; ein Comeback nach schwächeren Jahren."
+    },
+    {
+      "title": "Emotional Rescue",
+      "year": 1980,
+      "type": "Studioalbum"
+    },
+    {
+      "title": "Tattoo You",
+      "year": 1981,
+      "type": "Studioalbum"
+    },
+    {
+      "title": "Undercover",
+      "year": 1983,
+      "type": "Studioalbum"
+    },
+    {
+      "title": "Dirty Work",
+      "year": 1986,
+      "type": "Studioalbum"
+    },
+    {
+      "title": "Steel Wheels",
+      "year": 1989,
+      "type": "Studioalbum"
+    },
+    {
+      "title": "Voodoo Lounge",
+      "year": 1994,
+      "type": "Studioalbum"
+    },
+    {
+      "title": "Bridges to Babylon",
+      "year": 1997,
+      "type": "Studioalbum"
+    },
+    {
+      "title": "A Bigger Bang",
+      "year": 2005,
+      "type": "Studioalbum"
+    },
+    {
+      "title": "Blue & Lonesome",
+      "year": 2016,
+      "type": "Studioalbum",
+      "note": "Ein reines Bluescover-Album."
+    },
+    {
+      "title": "Hackney Diamonds",
+      "year": 2023,
+      "type": "Studioalbum",
+      "note": "Das erste Album mit neuen Songs seit 2005."
+    },
+    {
+      "title": "Foreign Tongues",
+      "year": 2026,
+      "type": "Studioalbum",
+      "note": "Das 25. Studioalbum, mit Andrew Watt produziert und 14 Titeln; erschienen am 10. Juli 2026."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia: The Rolling Stones",
+      "url": "https://en.wikipedia.org/wiki/The_Rolling_Stones"
+    },
+    {
+      "label": "Wikipedia: Diskografie",
+      "url": "https://en.wikipedia.org/wiki/The_Rolling_Stones_discography"
+    },
+    {
+      "label": "Official Charts: Foreign Tongues",
+      "url": "https://www.officialcharts.com/albums/rolling-stones-foreign-tongues/"
+    },
+    {
+      "label": "PBS NewsHour: Foreign Tongues",
+      "url": "https://www.pbs.org/newshour/arts/the-rolling-stones-are-releasing-a-new-album-titled-foreign-tongues"
+    }
+  ],
+  "writtenAt": "2026-11-07"
+}
