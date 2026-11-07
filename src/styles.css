@@ -1242,6 +1242,18 @@ a:hover {
   font-weight: 700;
 }
 
+a.disco-title {
+  color: inherit;
+  text-decoration: underline;
+  text-decoration-color: var(--line-2);
+  text-underline-offset: 3px;
+}
+
+a.disco-title:hover {
+  color: inherit;
+  text-decoration-color: var(--ink);
+}
+
 .disco-type {
   margin-left: 8px;
   font-size: 12px;

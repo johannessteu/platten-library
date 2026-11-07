@@ -1,0 +1,183 @@
+{
+  "artist": "Coldplay",
+  "discogsArtistIds": [
+    29735
+  ],
+  "dump": "2026-11-01",
+  "releases": [
+    {
+      "title": "Safety E.P.",
+      "year": 1998,
+      "type": "EP",
+      "master": 1615516
+    },
+    {
+      "title": "The Blue Room E.P.",
+      "year": 1999,
+      "type": "EP",
+      "master": 26670
+    },
+    {
+      "title": "Acoustic",
+      "year": 2000,
+      "type": "EP",
+      "master": 2151985
+    },
+    {
+      "title": "Live At KCRW's \"Morning Becomes Eclectic\"",
+      "year": 2000,
+      "type": "EP",
+      "master": 537138
+    },
+    {
+      "title": "Parachutes",
+      "year": 2000,
+      "type": "Studioalbum",
+      "master": 3334
+    },
+    {
+      "title": "Trouble - Norwegian Live EP",
+      "year": 2001,
+      "type": "EP",
+      "master": 27121
+    },
+    {
+      "title": "A Rush Of Blood To The Head",
+      "year": 2002,
+      "type": "Studioalbum",
+      "master": 3354
+    },
+    {
+      "title": "Live 2003",
+      "year": 2003,
+      "type": "Livealbum",
+      "master": 27105
+    },
+    {
+      "title": "X&Y",
+      "year": 2005,
+      "type": "Studioalbum",
+      "master": 26787
+    },
+    {
+      "title": "A Rush Of Blood To The Head / Parachutes",
+      "year": 2006,
+      "type": "Compilation",
+      "master": 991274
+    },
+    {
+      "title": "Parachutes / A Rush Of Blood To The Head / Live 2003 DVD",
+      "year": 2007,
+      "type": "Compilation",
+      "master": 357654
+    },
+    {
+      "title": "Prospekt's March EP",
+      "year": 2008,
+      "type": "EP",
+      "master": 26622
+    },
+    {
+      "title": "Viva La Vida Or Death And All His Friends",
+      "year": 2008,
+      "type": "Studioalbum",
+      "master": 26600
+    },
+    {
+      "title": "Left Right Left Right Left",
+      "year": 2009,
+      "type": "Studioalbum",
+      "master": 121496
+    },
+    {
+      "title": "Viva La Vida / X&Y",
+      "year": 2010,
+      "type": "Compilation",
+      "master": 439715
+    },
+    {
+      "title": "iTunes Festival: London 2011 EP",
+      "year": 2011,
+      "type": "EP",
+      "master": 1215122
+    },
+    {
+      "title": "Live In Madrid",
+      "year": 2011,
+      "type": "EP",
+      "master": 3099426
+    },
+    {
+      "title": "Mylo Xyloto",
+      "year": 2011,
+      "type": "Studioalbum",
+      "master": 377924
+    },
+    {
+      "title": "4CD Catalogue Set",
+      "year": 2012,
+      "type": "Compilation",
+      "master": 991292
+    },
+    {
+      "title": "Live 2012",
+      "year": 2012,
+      "type": "Livealbum",
+      "master": 493773
+    },
+    {
+      "title": "Ghost Stories",
+      "year": 2014,
+      "type": "Studioalbum",
+      "master": 688112
+    },
+    {
+      "title": "Ghost Stories · Live 2014",
+      "year": 2014,
+      "type": "Livealbum",
+      "master": 762254
+    },
+    {
+      "title": "A Head Full Of Dreams",
+      "year": 2015,
+      "type": "Studioalbum",
+      "master": 922111
+    },
+    {
+      "title": "Kaleidoscope EP",
+      "year": 2017,
+      "type": "EP",
+      "master": 1217245
+    },
+    {
+      "title": "Live In Buenos Aires",
+      "year": 2018,
+      "type": "Livealbum",
+      "master": 1787073
+    },
+    {
+      "title": "Love In Tokyo",
+      "year": 2018,
+      "type": "Studioalbum",
+      "master": 1467398
+    },
+    {
+      "title": "Everyday Life",
+      "year": 2019,
+      "type": "Studioalbum",
+      "master": 1638967
+    },
+    {
+      "title": "Music Of The Spheres",
+      "year": 2021,
+      "type": "Studioalbum",
+      "master": 2337988
+    },
+    {
+      "title": "Moon Music",
+      "year": 2024,
+      "type": "Studioalbum",
+      "master": 3614440
+    }
+  ]
+}

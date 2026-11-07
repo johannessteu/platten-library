@@ -1,0 +1,507 @@
+{
+  "artist": "Stevie Wonder",
+  "discogsArtistIds": [
+    18956
+  ],
+  "dump": "2026-11-01",
+  "releases": [
+    {
+      "title": "Tribute To Uncle Ray",
+      "year": 1962,
+      "type": "Studioalbum",
+      "master": 87479
+    },
+    {
+      "title": "Fingertips",
+      "year": 1963,
+      "type": "EP",
+      "master": 936891
+    },
+    {
+      "title": "The 12 Year Old Genius - Recorded Live",
+      "year": 1963,
+      "type": "Livealbum",
+      "master": 279183
+    },
+    {
+      "title": "The Jazz Soul Of Little Stevie",
+      "year": 1963,
+      "type": "Studioalbum",
+      "master": 86444
+    },
+    {
+      "title": "With A Song In My Heart",
+      "year": 1963,
+      "type": "Studioalbum",
+      "master": 283018
+    },
+    {
+      "title": "Hey Harmonica Man",
+      "year": 1964,
+      "type": "EP",
+      "master": 1339218
+    },
+    {
+      "title": "La La La La La",
+      "year": 1964,
+      "type": "EP",
+      "master": 3278314
+    },
+    {
+      "title": "Stevie At The Beach",
+      "year": 1964,
+      "type": "Studioalbum",
+      "master": 260122
+    },
+    {
+      "title": "A Place In The Sun",
+      "year": 1966,
+      "type": "EP",
+      "master": 4218387
+    },
+    {
+      "title": "Down To Earth",
+      "year": 1966,
+      "type": "Studioalbum",
+      "master": 90313
+    },
+    {
+      "title": "Up-Tight",
+      "year": 1966,
+      "type": "Studioalbum",
+      "master": 90309
+    },
+    {
+      "title": "I Was Made To Love Her",
+      "year": 1967,
+      "type": "Studioalbum",
+      "master": 173645
+    },
+    {
+      "title": "Someday At Christmas",
+      "year": 1967,
+      "type": "Studioalbum",
+      "master": 139848
+    },
+    {
+      "title": "Eivets Rednow",
+      "year": 1968,
+      "type": "Studioalbum",
+      "master": 216654
+    },
+    {
+      "title": "For Once In My Life",
+      "year": 1968,
+      "type": "Studioalbum",
+      "master": 112066
+    },
+    {
+      "title": "Greatest Hits",
+      "year": 1968,
+      "type": "Compilation",
+      "master": 90317
+    },
+    {
+      "title": "Greatest Hits",
+      "year": 1968,
+      "type": "EP",
+      "master": 1245880
+    },
+    {
+      "title": "My Cherie Amour",
+      "year": 1969,
+      "type": "Studioalbum",
+      "master": 87452
+    },
+    {
+      "title": "'Live' At The Talk Of The Town",
+      "year": 1970,
+      "type": "Livealbum",
+      "master": 403494
+    },
+    {
+      "title": "Diana Ross And The Supremes Plus",
+      "year": 1970,
+      "type": "Compilation",
+      "master": 1093624
+    },
+    {
+      "title": "Signed Sealed & Delivered",
+      "year": 1970,
+      "type": "Studioalbum",
+      "master": 87478
+    },
+    {
+      "title": "Stevie Wonder Live",
+      "year": 1970,
+      "type": "Livealbum",
+      "master": 173609
+    },
+    {
+      "title": "Stevie Wonder Super Deluxe",
+      "year": 1970,
+      "type": "Compilation",
+      "master": 1664650
+    },
+    {
+      "title": "The Best Of Stevie Wonder - Greatest Hits Volume 2",
+      "year": 1970,
+      "type": "Compilation",
+      "master": 354087
+    },
+    {
+      "title": "Portrait Of Stevie Wonder",
+      "year": 1971,
+      "type": "Compilation",
+      "master": 517496
+    },
+    {
+      "title": "Sky's The Limit / Where I'm Coming From",
+      "year": 1971,
+      "type": "Compilation",
+      "master": 414640
+    },
+    {
+      "title": "Stevie Wonder's Greatest Hits Vol. 2",
+      "year": 1971,
+      "type": "Compilation",
+      "master": 90318
+    },
+    {
+      "title": "Where I'm Coming From",
+      "year": 1971,
+      "type": "Studioalbum",
+      "master": 86474
+    },
+    {
+      "title": "Music Of My Mind",
+      "year": 1972,
+      "type": "Studioalbum",
+      "master": 87436
+    },
+    {
+      "title": "Music Of My Mind / Where I'm Coming From",
+      "year": 1972,
+      "type": "Compilation",
+      "master": 1423575
+    },
+    {
+      "title": "Talking Book",
+      "year": 1972,
+      "type": "Studioalbum",
+      "master": 87446
+    },
+    {
+      "title": "Zázračný  Stevie Wonder",
+      "year": 1972,
+      "type": "Compilation",
+      "master": 652138
+    },
+    {
+      "title": "Innervisions",
+      "year": 1973,
+      "type": "Studioalbum",
+      "master": 86466
+    },
+    {
+      "title": "Innervisions",
+      "year": 1973,
+      "type": "EP",
+      "master": 1420033
+    },
+    {
+      "title": "Milestones - Talking Book / Music Of My Mind",
+      "year": 1973,
+      "type": "Compilation",
+      "master": 1481076
+    },
+    {
+      "title": "1962 - 74 Wonderland",
+      "year": 1974,
+      "type": "Compilation",
+      "master": 90315
+    },
+    {
+      "title": "1963-1974 \"Wonderland\"",
+      "year": 1974,
+      "type": "Compilation",
+      "master": 2031619
+    },
+    {
+      "title": "Best Collection",
+      "year": 1974,
+      "type": "Compilation",
+      "master": 880179
+    },
+    {
+      "title": "Best Rarities Of Stevie Wonder Vol 3",
+      "year": 1974,
+      "type": "Compilation",
+      "master": 1312096
+    },
+    {
+      "title": "Fulfillingness' First Finale",
+      "year": 1974,
+      "type": "Studioalbum",
+      "master": 87463
+    },
+    {
+      "title": "His Twenty Greatest Hits",
+      "year": 1974,
+      "type": "Compilation",
+      "master": 1171010
+    },
+    {
+      "title": "Stevie Wonder's Greatest Hits",
+      "year": 1974,
+      "type": "Compilation",
+      "master": 1398713
+    },
+    {
+      "title": "Syreeta",
+      "year": 1974,
+      "type": "Studioalbum",
+      "master": 101760
+    },
+    {
+      "title": "Twin Deluxe",
+      "year": 1974,
+      "type": "Compilation",
+      "master": 1021145
+    },
+    {
+      "title": "Songs In The Key Of Life",
+      "year": 1976,
+      "type": "EP",
+      "master": 87440
+    },
+    {
+      "title": "Looking Back",
+      "year": 1977,
+      "type": "Compilation",
+      "master": 154569
+    },
+    {
+      "title": "Light My Fire",
+      "year": 1979,
+      "type": "Compilation",
+      "master": 183118
+    },
+    {
+      "title": "Stevie Wonder's Journey Through The Secret Life Of Plants",
+      "year": 1979,
+      "type": "Studioalbum",
+      "master": 86450
+    },
+    {
+      "title": "Hotter Than July",
+      "year": 1980,
+      "type": "Studioalbum",
+      "master": 87442
+    },
+    {
+      "title": "Best One'82",
+      "year": 1982,
+      "type": "Compilation",
+      "master": 4298907
+    },
+    {
+      "title": "The Original Musiquarium I",
+      "year": 1982,
+      "type": "Compilation",
+      "master": 87469
+    },
+    {
+      "title": "The Stevie Wonder Collection",
+      "year": 1982,
+      "type": "Compilation",
+      "master": 1225947
+    },
+    {
+      "title": "The History Of Rock (Volume Fourteen)",
+      "year": 1983,
+      "type": "Compilation",
+      "master": 1157236
+    },
+    {
+      "title": "Love Songs - 16 Classic Hits",
+      "year": 1984,
+      "type": "Compilation",
+      "master": 433293
+    },
+    {
+      "title": "Motown Legends",
+      "year": 1984,
+      "type": "Compilation",
+      "master": 433296
+    },
+    {
+      "title": "The Woman In Red (Selections From The Original Motion Picture Soundtrack)",
+      "year": 1984,
+      "type": "Soundtrack",
+      "master": 86441
+    },
+    {
+      "title": "In Square Circle",
+      "year": 1985,
+      "type": "Studioalbum",
+      "master": 87474
+    },
+    {
+      "title": "For Once In My Life / Uptight",
+      "year": 1986,
+      "type": "Compilation",
+      "master": 820195
+    },
+    {
+      "title": "Greatest Hits - The Early Years",
+      "year": 1986,
+      "type": "Compilation",
+      "master": 1263742
+    },
+    {
+      "title": "I Was Made To Love Her / Down To Earth",
+      "year": 1986,
+      "type": "Compilation",
+      "master": 836893
+    },
+    {
+      "title": "Merry Christmas / Someday At Christmas",
+      "year": 1986,
+      "type": "Compilation",
+      "master": 1639673
+    },
+    {
+      "title": "My Cherie Amour / Signed, Sealed And Delivered",
+      "year": 1986,
+      "type": "Compilation",
+      "master": 333753
+    },
+    {
+      "title": "Characters",
+      "year": 1987,
+      "type": "Studioalbum",
+      "master": 86476
+    },
+    {
+      "title": "Essential Stevie Wonder",
+      "year": 1987,
+      "type": "Compilation",
+      "master": 168579
+    },
+    {
+      "title": "Sunshine Of My Life = Солнце Моей Жизни",
+      "year": 1988,
+      "type": "Compilation",
+      "master": 183102
+    },
+    {
+      "title": "For Once In My Life",
+      "year": 1989,
+      "type": "Compilation",
+      "master": 2624234
+    },
+    {
+      "title": "Stevie Wonder",
+      "year": 1989,
+      "type": "Compilation",
+      "master": 1856859
+    },
+    {
+      "title": "(Music From The Movie) Jungle Fever",
+      "year": 1991,
+      "type": "Soundtrack",
+      "master": 90322
+    },
+    {
+      "title": "Conversation Peace",
+      "year": 1995,
+      "type": "Studioalbum",
+      "master": 87480
+    },
+    {
+      "title": "Natural Wonder (Stevie Wonder Live In Concert)",
+      "year": 1995,
+      "type": "Livealbum",
+      "master": 173616
+    },
+    {
+      "title": "Song Review (A Greatest Hits Collection)",
+      "year": 1996,
+      "type": "Compilation",
+      "master": 1331112
+    },
+    {
+      "title": "At The Movies",
+      "year": 1998,
+      "type": "Compilation",
+      "master": 3025679
+    },
+    {
+      "title": "At The Close Of A Century",
+      "year": 1999,
+      "type": "Compilation",
+      "master": 133663
+    },
+    {
+      "title": "Ballad Collection",
+      "year": 1999,
+      "type": "Compilation",
+      "master": 517497
+    },
+    {
+      "title": "Classic Stevie Wonder",
+      "year": 1999,
+      "type": "Compilation",
+      "master": 770102
+    },
+    {
+      "title": "Early Classics",
+      "year": 2000,
+      "type": "Compilation",
+      "master": 983443
+    },
+    {
+      "title": "The Definitive Collection",
+      "year": 2002,
+      "type": "Compilation",
+      "master": 151356
+    },
+    {
+      "title": "A Time 2 Love",
+      "year": 2005,
+      "type": "Studioalbum",
+      "master": 171148
+    },
+    {
+      "title": "The Best Of Stevie Wonder",
+      "year": 2005,
+      "type": "Compilation",
+      "master": 1320042
+    },
+    {
+      "title": "Number Ones",
+      "year": 2007,
+      "type": "Compilation",
+      "master": 261956
+    },
+    {
+      "title": "Talking Book + Innervisions",
+      "year": 2009,
+      "type": "Compilation",
+      "master": 3861061
+    },
+    {
+      "title": "The Jazz Soul Of Little Stevie + Tribute To Uncle Ray",
+      "year": 2013,
+      "type": "Compilation",
+      "master": 1330803
+    },
+    {
+      "title": "Songs In The Key Of Life - The EP",
+      "year": 2026,
+      "type": "EP",
+      "master": 4359585
+    }
+  ]
+}

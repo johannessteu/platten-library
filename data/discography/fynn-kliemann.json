@@ -1,0 +1,27 @@
+{
+  "artist": "Fynn Kliemann",
+  "discogsArtistIds": [
+    6728786
+  ],
+  "dump": "2026-11-01",
+  "releases": [
+    {
+      "title": "Nie",
+      "year": 2018,
+      "type": "Studioalbum",
+      "master": 1432174
+    },
+    {
+      "title": "POP",
+      "year": 2020,
+      "type": "Studioalbum",
+      "master": 1746862
+    },
+    {
+      "title": "Tod",
+      "year": 2025,
+      "type": "Studioalbum",
+      "master": 3717438
+    }
+  ]
+}

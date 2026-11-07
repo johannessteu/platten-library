@@ -1,0 +1,51 @@
+{
+  "artist": "Giant Rooks",
+  "discogsArtistIds": [
+    5052279
+  ],
+  "dump": "2026-11-01",
+  "releases": [
+    {
+      "title": "The Times Are Bursting The Lines",
+      "year": 2015,
+      "type": "EP",
+      "master": 1126045
+    },
+    {
+      "title": "New Estate",
+      "year": 2017,
+      "type": "EP",
+      "master": 1164108
+    },
+    {
+      "title": "Wild Stare",
+      "year": 2019,
+      "type": "EP",
+      "master": 1536591
+    },
+    {
+      "title": "Rookery",
+      "year": 2020,
+      "type": "Studioalbum",
+      "master": 1795787
+    },
+    {
+      "title": "Rookery Live Tapes",
+      "year": 2021,
+      "type": "EP",
+      "master": 2249821
+    },
+    {
+      "title": "How Have You Been?",
+      "year": 2024,
+      "type": "Studioalbum",
+      "master": 3391993
+    },
+    {
+      "title": "If Heaven Exists, This Might Be It",
+      "year": 2026,
+      "type": "Studioalbum",
+      "master": 4380261
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "artist": "Amy Winehouse",
+  "discogsArtistIds": [
+    151223
+  ],
+  "dump": "2026-11-01",
+  "releases": [
+    {
+      "title": "Frank",
+      "year": 2003,
+      "type": "Studioalbum",
+      "master": 51290
+    },
+    {
+      "title": "Back To Black",
+      "year": 2006,
+      "type": "Studioalbum",
+      "master": 51256
+    },
+    {
+      "title": "Frank - Remixes",
+      "year": 2007,
+      "type": "Compilation",
+      "master": 201632
+    },
+    {
+      "title": "Frank & Back To Black",
+      "year": 2008,
+      "type": "Compilation",
+      "master": 571995
+    },
+    {
+      "title": "Lioness: Hidden Treasures",
+      "year": 2011,
+      "type": "Studioalbum",
+      "master": 389826
+    },
+    {
+      "title": "At The BBC",
+      "year": 2012,
+      "type": "Soundtrack",
+      "master": 494743
+    },
+    {
+      "title": "The Album Collection",
+      "year": 2012,
+      "type": "Compilation",
+      "master": 939863
+    },
+    {
+      "title": "Amy (The Original Soundtrack)",
+      "year": 2015,
+      "type": "Studioalbum",
+      "master": 909848
+    },
+    {
+      "title": "The Collection",
+      "year": 2015,
+      "type": "Compilation",
+      "master": 1851024
+    },
+    {
+      "title": "Live At Glastonbury 2007",
+      "year": 2022,
+      "type": "Livealbum",
+      "master": 2655206
+    },
+    {
+      "title": "Back To Black (Songs From The Original Motion Picture)",
+      "year": 2024,
+      "type": "Compilation",
+      "master": 3488584
+    }
+  ]
+}

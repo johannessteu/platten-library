@@ -1,0 +1,33 @@
+{
+  "artist": "Provinz",
+  "discogsArtistIds": [
+    7746279
+  ],
+  "dump": "2026-11-01",
+  "releases": [
+    {
+      "title": "Reicht Dir Das",
+      "year": 2019,
+      "type": "EP",
+      "master": 3711069
+    },
+    {
+      "title": "Wir Bauten Uns Amerika",
+      "year": 2020,
+      "type": "Studioalbum",
+      "master": 1785618
+    },
+    {
+      "title": "Zorn & Liebe",
+      "year": 2022,
+      "type": "Studioalbum",
+      "master": 2810144
+    },
+    {
+      "title": "Pazifik",
+      "year": 2025,
+      "type": "Studioalbum",
+      "master": 3783683
+    }
+  ]
+}

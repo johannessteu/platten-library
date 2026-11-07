@@ -1,0 +1,87 @@
+{
+  "artist": "Arctic Monkeys",
+  "discogsArtistIds": [
+    391170
+  ],
+  "dump": "2026-11-01",
+  "releases": [
+    {
+      "title": "Demo Compilation",
+      "year": 2005,
+      "type": "Compilation",
+      "master": 2953873
+    },
+    {
+      "title": "Whatever People Say I Am, That's What I'm Not",
+      "year": 2006,
+      "type": "Studioalbum",
+      "master": 76279
+    },
+    {
+      "title": "Who The Fuck Are Arctic Monkeys?",
+      "year": 2006,
+      "type": "EP",
+      "master": 93220
+    },
+    {
+      "title": "Favourite Worst Nightmare",
+      "year": 2007,
+      "type": "Studioalbum",
+      "master": 69774
+    },
+    {
+      "title": "At The Apollo / Live In Texas - 7 June 2006",
+      "year": 2008,
+      "type": "Livealbum",
+      "master": 2316130
+    },
+    {
+      "title": "LateNightTales",
+      "year": 2008,
+      "type": "Compilation",
+      "master": 723806
+    },
+    {
+      "title": "Live In Texas - 7 June 2006",
+      "year": 2008,
+      "type": "Livealbum",
+      "master": 262621
+    },
+    {
+      "title": "Humbug",
+      "year": 2009,
+      "type": "Studioalbum",
+      "master": 172482
+    },
+    {
+      "title": "Suck It And See",
+      "year": 2011,
+      "type": "Studioalbum",
+      "master": 341083
+    },
+    {
+      "title": "AM",
+      "year": 2013,
+      "type": "Studioalbum",
+      "master": 593987
+    },
+    {
+      "title": "Tranquility Base Hotel + Casino",
+      "year": 2018,
+      "type": "Studioalbum",
+      "master": 1360573
+    },
+    {
+      "title": "Live At The Royal Albert Hall",
+      "year": 2020,
+      "type": "Livealbum",
+      "master": 1849689
+    },
+    {
+      "title": "The Car",
+      "year": 2022,
+      "type": "Studioalbum",
+      "master": 2830043
+    }
+  ]
+}

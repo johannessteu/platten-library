@@ -1,0 +1,675 @@
+{
+  "artist": "Michael Jackson",
+  "discogsArtistIds": [
+    15885
+  ],
+  "dump": "2026-11-01",
+  "releases": [
+    {
+      "title": "Ben",
+      "year": 1972,
+      "type": "Soundtrack",
+      "master": 8910
+    },
+    {
+      "title": "Ben",
+      "year": 1972,
+      "type": "EP",
+      "master": 1046831
+    },
+    {
+      "title": "Got To Be There",
+      "year": 1972,
+      "type": "Studioalbum",
+      "master": 121917
+    },
+    {
+      "title": "Music & Me",
+      "year": 1973,
+      "type": "Studioalbum",
+      "master": 121919
+    },
+    {
+      "title": "Portrait Of Michael Jackson / Portrait Of Jackson 5",
+      "year": 1973,
+      "type": "Compilation",
+      "master": 480408
+    },
+    {
+      "title": "Forever, Michael",
+      "year": 1975,
+      "type": "Studioalbum",
+      "master": 112680
+    },
+    {
+      "title": "Music & Me",
+      "year": 1975,
+      "type": "EP",
+      "master": 1687636
+    },
+    {
+      "title": "The Best Of Michael Jackson",
+      "year": 1975,
+      "type": "Compilation",
+      "master": 101877
+    },
+    {
+      "title": "Joyful Jukebox Music",
+      "year": 1976,
+      "type": "Compilation",
+      "master": 121912
+    },
+    {
+      "title": "Os Grandes Sucessos De Michael Jackson",
+      "year": 1976,
+      "type": "EP",
+      "master": 2116861
+    },
+    {
+      "title": "Off The Wall",
+      "year": 1979,
+      "type": "Studioalbum",
+      "master": 435524
+    },
+    {
+      "title": "Michael Jackson",
+      "year": 1980,
+      "type": "Compilation",
+      "master": 101866
+    },
+    {
+      "title": "Os Grandes Sucessos De Michael Jackson Vol. 2",
+      "year": 1980,
+      "type": "Compilation",
+      "master": 1222652
+    },
+    {
+      "title": "One Day In Your Life",
+      "year": 1981,
+      "type": "Compilation",
+      "master": 101861
+    },
+    {
+      "title": "Ain't No Sunshine",
+      "year": 1982,
+      "type": "Compilation",
+      "master": 308987
+    },
+    {
+      "title": "E.T. The Extra-Terrestrial",
+      "year": 1982,
+      "type": "Studioalbum",
+      "master": 168998
+    },
+    {
+      "title": "Greatest Original Hits-4 Track E.P.",
+      "year": 1982,
+      "type": "Compilation",
+      "master": 1303291
+    },
+    {
+      "title": "Thriller",
+      "year": 1982,
+      "type": "Studioalbum",
+      "master": 8883
+    },
+    {
+      "title": "14 Of Their Greatest Hits",
+      "year": 1983,
+      "type": "Compilation",
+      "master": 1439291
+    },
+    {
+      "title": "18 Greatest Hits",
+      "year": 1983,
+      "type": "Compilation",
+      "master": 8498
+    },
+    {
+      "title": "Great Songs And Performances That Inspired The  Motown 25th Anniversary T.V. Special",
+      "year": 1983,
+      "type": "Compilation",
+      "master": 444727
+    },
+    {
+      "title": "14 Greatest Hits",
+      "year": 1984,
+      "type": "Compilation",
+      "master": 101843
+    },
+    {
+      "title": "16 Greatest Hits",
+      "year": 1984,
+      "type": "Compilation",
+      "master": 782323
+    },
+    {
+      "title": "Farewell My Summer Love",
+      "year": 1984,
+      "type": "Studioalbum",
+      "master": 101834
+    },
+    {
+      "title": "Music And Me (Gravações Originais)",
+      "year": 1984,
+      "type": "Compilation",
+      "master": 1294514
+    },
+    {
+      "title": "The Great Love Songs Of Michael Jackson",
+      "year": 1984,
+      "type": "Compilation",
+      "master": 288932
+    },
+    {
+      "title": "Anthology",
+      "year": 1986,
+      "type": "Compilation",
+      "master": 316510
+    },
+    {
+      "title": "Got To Be There / Ben",
+      "year": 1986,
+      "type": "Compilation",
+      "master": 476201
+    },
+    {
+      "title": "Looking Back To Yesterday",
+      "year": 1986,
+      "type": "Compilation",
+      "master": 101816
+    },
+    {
+      "title": "Original Love Ballads",
+      "year": 1986,
+      "type": "Compilation",
+      "master": 1525737
+    },
+    {
+      "title": "The 12\" Tape (Five 12\" Mixes On One Cassette)",
+      "year": 1986,
+      "type": "Compilation",
+      "master": 204046
+    },
+    {
+      "title": "Bad",
+      "year": 1987,
+      "type": "Studioalbum",
+      "master": 8517
+    },
+    {
+      "title": "The Michael Jackson Mix - 40 Specially Sequenced Hits By The World Superstar",
+      "year": 1987,
+      "type": "Compilation",
+      "master": 275440
+    },
+    {
+      "title": "The Original Soul Of Michael Jackson",
+      "year": 1987,
+      "type": "Compilation",
+      "master": 35086
+    },
+    {
+      "title": "Instrumental Version Collection",
+      "year": 1988,
+      "type": "Compilation",
+      "master": 141737
+    },
+    {
+      "title": "Michael Jackson - Jackson Five 8LP Box",
+      "year": 1988,
+      "type": "Compilation",
+      "master": 699888
+    },
+    {
+      "title": "The Motown Years ...His Greatest Hits",
+      "year": 1988,
+      "type": "Compilation",
+      "master": 502847
+    },
+    {
+      "title": "Michael Jackson & The Jackson Five",
+      "year": 1989,
+      "type": "Compilation",
+      "master": 1825523
+    },
+    {
+      "title": "The Bad Mixes",
+      "year": 1989,
+      "type": "Compilation",
+      "master": 142529
+    },
+    {
+      "title": "Het Beste Van Michael Jackson De Motown Hits",
+      "year": 1990,
+      "type": "Compilation",
+      "master": 551218
+    },
+    {
+      "title": "Dangerous",
+      "year": 1991,
+      "type": "Studioalbum",
+      "master": 14641
+    },
+    {
+      "title": "The ★ Collection",
+      "year": 1991,
+      "type": "Compilation",
+      "master": 3934508
+    },
+    {
+      "title": "The Best Of Michael Jackson = 麦克.杰克逊金曲集",
+      "year": 1991,
+      "type": "Compilation",
+      "master": 1405205
+    },
+    {
+      "title": "The History Of Michael Jackson",
+      "year": 1991,
+      "type": "Compilation",
+      "master": 756827
+    },
+    {
+      "title": "Thriller / Bad",
+      "year": 1991,
+      "type": "Compilation",
+      "master": 1805309
+    },
+    {
+      "title": "Michael Jackson II",
+      "year": 1992,
+      "type": "Compilation",
+      "master": 756828
+    },
+    {
+      "title": "Motown's Greatest Hits",
+      "year": 1992,
+      "type": "Compilation",
+      "master": 190290
+    },
+    {
+      "title": "The Very Best Of Michael Jackson I",
+      "year": 1992,
+      "type": "Compilation",
+      "master": 1048341
+    },
+    {
+      "title": "Dangerous - The Remix Collection",
+      "year": 1993,
+      "type": "Compilation",
+      "master": 1407126
+    },
+    {
+      "title": "Dangerous (The Short Films)",
+      "year": 1993,
+      "type": "Compilation",
+      "master": 357723
+    },
+    {
+      "title": "Dangerous Tour Souvenir",
+      "year": 1993,
+      "type": "Compilation",
+      "master": 416645
+    },
+    {
+      "title": "The Mega Remixes",
+      "year": 1993,
+      "type": "Compilation",
+      "master": 463731
+    },
+    {
+      "title": "The Michael Jackson Collection",
+      "year": 1993,
+      "type": "Compilation",
+      "master": 1689609
+    },
+    {
+      "title": "The Jackson 5",
+      "year": 1994,
+      "type": "Compilation",
+      "master": 418039
+    },
+    {
+      "title": "The Love Songs",
+      "year": 1994,
+      "type": "Compilation",
+      "master": 463733
+    },
+    {
+      "title": "HIStory - Past, Present And Future - Book I",
+      "year": 1995,
+      "type": "Compilation",
+      "master": 66271
+    },
+    {
+      "title": "HIStory LIFEstyle Promo CD",
+      "year": 1995,
+      "type": "Compilation",
+      "master": 373322
+    },
+    {
+      "title": "The Beginning - 1968-1969",
+      "year": 1995,
+      "type": "Compilation",
+      "master": 1478452
+    },
+    {
+      "title": "The Very Best Of Michael Jackson With The Jackson Five",
+      "year": 1995,
+      "type": "Compilation",
+      "master": 355007
+    },
+    {
+      "title": "Video Greatest Hits - HIStory",
+      "year": 1995,
+      "type": "Compilation",
+      "master": 228054
+    },
+    {
+      "title": "Early Classics",
+      "year": 1996,
+      "type": "Compilation",
+      "master": 802935
+    },
+    {
+      "title": "Blood On The Dance Floor (HIStory In The Mix)",
+      "year": 1997,
+      "type": "Studioalbum",
+      "master": 101747
+    },
+    {
+      "title": "The Best Of Michael Jackson & Jackson 5ive",
+      "year": 1997,
+      "type": "Compilation",
+      "master": 698297
+    },
+    {
+      "title": "Master Serie",
+      "year": 1998,
+      "type": "Compilation",
+      "master": 2637332
+    },
+    {
+      "title": "Classic Michael Jackson",
+      "year": 2001,
+      "type": "Compilation",
+      "master": 142525
+    },
+    {
+      "title": "Greatest Hits - HIStory Volume I",
+      "year": 2001,
+      "type": "Compilation",
+      "master": 141734
+    },
+    {
+      "title": "Greatest Hits - HIStory Volume I + Invincible",
+      "year": 2001,
+      "type": "Compilation",
+      "master": 2653553
+    },
+    {
+      "title": "Invincible",
+      "year": 2001,
+      "type": "Studioalbum",
+      "master": 101715
+    },
+    {
+      "title": "Special Edition Box Set",
+      "year": 2001,
+      "type": "Compilation",
+      "master": 2122645
+    },
+    {
+      "title": "Love Songs",
+      "year": 2002,
+      "type": "Compilation",
+      "master": 1169519
+    },
+    {
+      "title": "Number Ones",
+      "year": 2003,
+      "type": "Compilation",
+      "master": 141657
+    },
+    {
+      "title": "Bad / Dangerous",
+      "year": 2004,
+      "type": "Compilation",
+      "master": 245323
+    },
+    {
+      "title": "Off The Wall / Thriller",
+      "year": 2004,
+      "type": "Compilation",
+      "master": 462040
+    },
+    {
+      "title": "The Jacksons Story",
+      "year": 2004,
+      "type": "Compilation",
+      "master": 398066
+    },
+    {
+      "title": "The Ultimate Collection",
+      "year": 2004,
+      "type": "Compilation",
+      "master": 198280
+    },
+    {
+      "title": "Legends",
+      "year": 2005,
+      "type": "Compilation",
+      "master": 1016373
+    },
+    {
+      "title": "The Essential Michael Jackson",
+      "year": 2005,
+      "type": "Compilation",
+      "master": 35097
+    },
+    {
+      "title": "Definitive Collection",
+      "year": 2006,
+      "type": "Compilation",
+      "master": 1461415
+    },
+    {
+      "title": "Blood On The Dance Floor / Invincible",
+      "year": 2007,
+      "type": "Compilation",
+      "master": 1016372
+    },
+    {
+      "title": "Dangerous / Dangerous: The Short Films",
+      "year": 2008,
+      "type": "Compilation",
+      "master": 1778153
+    },
+    {
+      "title": "Gold",
+      "year": 2008,
+      "type": "Compilation",
+      "master": 1067866
+    },
+    {
+      "title": "History I + II",
+      "year": 2008,
+      "type": "Compilation",
+      "master": 1001492
+    },
+    {
+      "title": "King Of Pop (German Edition)",
+      "year": 2008,
+      "type": "Compilation",
+      "master": 195990
+    },
+    {
+      "title": "The Motown Years",
+      "year": 2008,
+      "type": "Compilation",
+      "master": 343331
+    },
+    {
+      "title": "DMC Megamixes Vol. 2",
+      "year": 2009,
+      "type": "Compilation",
+      "master": 294895
+    },
+    {
+      "title": "Hello World: The Motown Solo Collection",
+      "year": 2009,
+      "type": "Compilation",
+      "master": 311224
+    },
+    {
+      "title": "Hommage à Michael Jackson - 17 Reprises Du Roi de la Pop",
+      "year": 2009,
+      "type": "Compilation",
+      "master": 1841599
+    },
+    {
+      "title": "Mind Is The Magic",
+      "year": 2009,
+      "type": "Studioalbum",
+      "master": 2883166
+    },
+    {
+      "title": "Pure Michael: Motown A Cappella",
+      "year": 2009,
+      "type": "Compilation",
+      "master": 2072965
+    },
+    {
+      "title": "The Collection",
+      "year": 2009,
+      "type": "Compilation",
+      "master": 256565
+    },
+    {
+      "title": "The Definitive Collection",
+      "year": 2009,
+      "type": "Compilation",
+      "master": 713024
+    },
+    {
+      "title": "The First Recordings",
+      "year": 2009,
+      "type": "Compilation",
+      "master": 1068382
+    },
+    {
+      "title": "The Remix Suite",
+      "year": 2009,
+      "type": "Compilation",
+      "master": 205098
+    },
+    {
+      "title": "The Stripped Mixes",
+      "year": 2009,
+      "type": "Compilation",
+      "master": 279382
+    },
+    {
+      "title": "This Is It",
+      "year": 2009,
+      "type": "Compilation",
+      "master": 195991
+    },
+    {
+      "title": "Got To Be There + Forever, Michael",
+      "year": 2010,
+      "type": "Compilation",
+      "master": 1812855
+    },
+    {
+      "title": "Michael",
+      "year": 2010,
+      "type": "Studioalbum",
+      "master": 293695
+    },
+    {
+      "title": "Michael Jackson / Jackson 5 - Remixes",
+      "year": 2010,
+      "type": "Compilation",
+      "master": 536757
+    },
+    {
+      "title": "Michael Jackson's Vision",
+      "year": 2010,
+      "type": "Compilation",
+      "master": 327919
+    },
+    {
+      "title": "The King Of Pop",
+      "year": 2010,
+      "type": "Compilation",
+      "master": 3603275
+    },
+    {
+      "title": "Immortal",
+      "year": 2011,
+      "type": "Soundtrack",
+      "master": 387099
+    },
+    {
+      "title": "The Very Best Of",
+      "year": 2011,
+      "type": "Compilation",
+      "master": 1161797
+    },
+    {
+      "title": "Icon",
+      "year": 2012,
+      "type": "Compilation",
+      "master": 524903
+    },
+    {
+      "title": "The Ultimate Mixtape",
+      "year": 2013,
+      "type": "Compilation",
+      "master": 4359315
+    },
+    {
+      "title": "Essential",
+      "year": 2014,
+      "type": "Compilation",
+      "master": 1169300
+    },
+    {
+      "title": "Xscape",
+      "year": 2014,
+      "type": "Studioalbum",
+      "master": 685646
+    },
+    {
+      "title": "Michael Jackson Monsterjam",
+      "year": 2017,
+      "type": "Compilation",
+      "master": 1347059
+    },
+    {
+      "title": "Scream",
+      "year": 2017,
+      "type": "Compilation",
+      "master": 1243945
+    },
+    {
+      "title": "Motown Anniversary",
+      "year": 2019,
+      "type": "Compilation",
+      "master": 3269257
+    },
+    {
+      "title": "Michael (Songs From The Motion Picture)",
+      "year": 2026,
+      "type": "Compilation",
+      "master": 4205058
+    },
+    {
+      "title": "The Best",
+      "year": 2026,
+      "type": "Compilation",
+      "master": 4234428
+    }
+  ]
+}

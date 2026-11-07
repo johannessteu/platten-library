@@ -1,0 +1,45 @@
+{
+  "artist": "Nathaniel Rateliff",
+  "discogsArtistIds": [
+    2153687
+  ],
+  "dump": "2026-11-01",
+  "releases": [
+    {
+      "title": "Shroud EP",
+      "year": 2010,
+      "type": "EP",
+      "master": 704610
+    },
+    {
+      "title": "In Memory Of Loss",
+      "year": 2011,
+      "type": "Studioalbum",
+      "master": 500531
+    },
+    {
+      "title": "Falling Faster Than You Can Run",
+      "year": 2013,
+      "type": "Studioalbum",
+      "master": 703088
+    },
+    {
+      "title": "Closer",
+      "year": 2015,
+      "type": "EP",
+      "master": 851917
+    },
+    {
+      "title": "And It's Still Alright",
+      "year": 2020,
+      "type": "Studioalbum",
+      "master": 1683267
+    },
+    {
+      "title": "Red Rocks 2020",
+      "year": 2021,
+      "type": "Studioalbum",
+      "master": 2244760
+    }
+  ]
+}

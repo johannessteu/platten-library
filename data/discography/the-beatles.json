@@ -1,0 +1,1989 @@
+{
+  "artist": "The Beatles",
+  "discogsArtistIds": [
+    82730
+  ],
+  "dump": "2026-11-01",
+  "releases": [
+    {
+      "title": "Ella Te Ama / Quiero Estrechar Tu Mano / La Vi Alla / Seras Mia",
+      "year": 1963,
+      "type": "EP",
+      "master": 1000558
+    },
+    {
+      "title": "From Me To You",
+      "year": 1963,
+      "type": "EP",
+      "master": 352505
+    },
+    {
+      "title": "My Bonnie",
+      "year": 1963,
+      "type": "EP",
+      "master": 504890
+    },
+    {
+      "title": "Please Please Me",
+      "year": 1963,
+      "type": "Studioalbum",
+      "master": 45362
+    },
+    {
+      "title": "She Loves You",
+      "year": 1963,
+      "type": "EP",
+      "master": 279447
+    },
+    {
+      "title": "The Beatles (No.1)",
+      "year": 1963,
+      "type": "EP",
+      "master": 46127
+    },
+    {
+      "title": "The Beatles' Hits",
+      "year": 1963,
+      "type": "EP",
+      "master": 45689
+    },
+    {
+      "title": "The Liverpool Sound",
+      "year": 1963,
+      "type": "EP",
+      "master": 1253324
+    },
+    {
+      "title": "Twist And Shout",
+      "year": 1963,
+      "type": "EP",
+      "master": 45697
+    },
+    {
+      "title": "With The Beatles",
+      "year": 1963,
+      "type": "Studioalbum",
+      "master": 45729
+    },
+    {
+      "title": "A Hard Day's Night",
+      "year": 1964,
+      "type": "Soundtrack",
+      "master": 24003
+    },
+    {
+      "title": "A Hard Day's Night",
+      "year": 1964,
+      "type": "EP",
+      "master": 762632
+    },
+    {
+      "title": "A Hard Day's Night (Original Motion Picture Sound Track)",
+      "year": 1964,
+      "type": "Soundtrack",
+      "master": 507400
+    },
+    {
+      "title": "A Hard Day's Night No.1",
+      "year": 1964,
+      "type": "EP",
+      "master": 3900406
+    },
+    {
+      "title": "A Hard Day's Night Vol. II",
+      "year": 1964,
+      "type": "EP",
+      "master": 1520301
+    },
+    {
+      "title": "Ain't She Sweet",
+      "year": 1964,
+      "type": "Compilation",
+      "master": 490432
+    },
+    {
+      "title": "Ain't She Sweet",
+      "year": 1964,
+      "type": "EP",
+      "master": 846190
+    },
+    {
+      "title": "Al Compas De Beethoven",
+      "year": 1964,
+      "type": "EP",
+      "master": 1211440
+    },
+    {
+      "title": "All My Loving",
+      "year": 1964,
+      "type": "EP",
+      "master": 54434
+    },
+    {
+      "title": "Beatles '65",
+      "year": 1964,
+      "type": "Studioalbum",
+      "master": 45760
+    },
+    {
+      "title": "Beatles For Sale",
+      "year": 1964,
+      "type": "Studioalbum",
+      "master": 45799
+    },
+    {
+      "title": "Boys",
+      "year": 1964,
+      "type": "EP",
+      "master": 841360
+    },
+    {
+      "title": "Can't Buy Me Love",
+      "year": 1964,
+      "type": "EP",
+      "master": 579015
+    },
+    {
+      "title": "Chansons Du Film \"4 Garçons Dans Le Vent\"",
+      "year": 1964,
+      "type": "EP",
+      "master": 993052
+    },
+    {
+      "title": "El Diablo En Su Corazon",
+      "year": 1964,
+      "type": "EP",
+      "master": 1147564
+    },
+    {
+      "title": "Extracts From The Album A Hard Day's Night",
+      "year": 1964,
+      "type": "EP",
+      "master": 246372
+    },
+    {
+      "title": "Extracts From The Film A Hard Day's Night",
+      "year": 1964,
+      "type": "EP",
+      "master": 65609
+    },
+    {
+      "title": "Four By The Beatles",
+      "year": 1964,
+      "type": "EP",
+      "master": 374904
+    },
+    {
+      "title": "Hear The Beatles Tell All",
+      "year": 1964,
+      "type": "Studioalbum",
+      "master": 295663
+    },
+    {
+      "title": "I Feel Fine",
+      "year": 1964,
+      "type": "EP",
+      "master": 442736
+    },
+    {
+      "title": "I Should Have Known Better",
+      "year": 1964,
+      "type": "EP",
+      "master": 1968511
+    },
+    {
+      "title": "I Want To Hold Your Hand",
+      "year": 1964,
+      "type": "EP",
+      "master": 246391
+    },
+    {
+      "title": "Jolly What!",
+      "year": 1964,
+      "type": "Compilation",
+      "master": 333213
+    },
+    {
+      "title": "Kansas City",
+      "year": 1964,
+      "type": "EP",
+      "master": 926082
+    },
+    {
+      "title": "Les Beatles",
+      "year": 1964,
+      "type": "Compilation",
+      "master": 441341
+    },
+    {
+      "title": "Little Child",
+      "year": 1964,
+      "type": "EP",
+      "master": 745156
+    },
+    {
+      "title": "Long Tall Sally",
+      "year": 1964,
+      "type": "EP",
+      "master": 199460
+    },
+    {
+      "title": "Long Tall Sally",
+      "year": 1964,
+      "type": "Studioalbum",
+      "master": 216645
+    },
+    {
+      "title": "Meet The Beatles!",
+      "year": 1964,
+      "type": "Studioalbum",
+      "master": 75259
+    },
+    {
+      "title": "Misery / Anna (Go To Him) / P.S. I Love You / I Saw Her Standing There",
+      "year": 1964,
+      "type": "EP",
+      "master": 766721
+    },
+    {
+      "title": "More Requests",
+      "year": 1964,
+      "type": "EP",
+      "master": 241642
+    },
+    {
+      "title": "Musica De Rock",
+      "year": 1964,
+      "type": "EP",
+      "master": 1263158
+    },
+    {
+      "title": "Musica De Su Pelicula Yeah, Yeah, Yeah",
+      "year": 1964,
+      "type": "Compilation",
+      "master": 1546556
+    },
+    {
+      "title": "No Falta Mucho = It Won’t Be Long",
+      "year": 1964,
+      "type": "EP",
+      "master": 1236779
+    },
+    {
+      "title": "No Puedo Comprar Mi Amor / Ese Muchacho / De Mi Para Ti / No Puedes Hacer Eso = Can't Buy Me Love / This Boy / From Me To You / You Can't Do That",
+      "year": 1964,
+      "type": "EP",
+      "master": 1179059
+    },
+    {
+      "title": "No.2",
+      "year": 1964,
+      "type": "EP",
+      "master": 1342690
+    },
+    {
+      "title": "Open-End Interview With The Beatles",
+      "year": 1964,
+      "type": "EP",
+      "master": 1178559
+    },
+    {
+      "title": "Para Tí",
+      "year": 1964,
+      "type": "Compilation",
+      "master": 548019
+    },
+    {
+      "title": "Please Please Me",
+      "year": 1964,
+      "type": "EP",
+      "master": 767754
+    },
+    {
+      "title": "Que Noche La De Aquel Dia",
+      "year": 1964,
+      "type": "EP",
+      "master": 926200
+    },
+    {
+      "title": "Quiero Ser Tu Hombre = I Wanna Be Your Man",
+      "year": 1964,
+      "type": "EP",
+      "master": 1236773
+    },
+    {
+      "title": "Requests",
+      "year": 1964,
+      "type": "EP",
+      "master": 237541
+    },
+    {
+      "title": "Rock And Roll Music",
+      "year": 1964,
+      "type": "EP",
+      "master": 442732
+    },
+    {
+      "title": "Roll Over Beethoven",
+      "year": 1964,
+      "type": "EP",
+      "master": 982293
+    },
+    {
+      "title": "Roll Over Beethoven / You Really Gotta Hold On Me / Boys / Love Me Do",
+      "year": 1964,
+      "type": "EP",
+      "master": 612324
+    },
+    {
+      "title": "Something New",
+      "year": 1964,
+      "type": "Studioalbum",
+      "master": 46151
+    },
+    {
+      "title": "Souvenir Of Their Visit To America",
+      "year": 1964,
+      "type": "EP",
+      "master": 300391
+    },
+    {
+      "title": "Surfin Con Los Beatles",
+      "year": 1964,
+      "type": "Compilation",
+      "master": 2324836
+    },
+    {
+      "title": "The Beatles 3",
+      "year": 1964,
+      "type": "Compilation",
+      "master": 3611213
+    },
+    {
+      "title": "The Beatles Again",
+      "year": 1964,
+      "type": "Compilation",
+      "master": 845004
+    },
+    {
+      "title": "The Beatles Again!!!",
+      "year": 1964,
+      "type": "EP",
+      "master": 1617404
+    },
+    {
+      "title": "The Beatles Beat",
+      "year": 1964,
+      "type": "Compilation",
+      "master": 230679
+    },
+    {
+      "title": "The Beatles Hits",
+      "year": 1964,
+      "type": "Compilation",
+      "master": 2324833
+    },
+    {
+      "title": "The Beatles Introduce New Songs",
+      "year": 1964,
+      "type": "EP",
+      "master": 1633588
+    },
+    {
+      "title": "The Beatles Vol. 3",
+      "year": 1964,
+      "type": "Compilation",
+      "master": 976696
+    },
+    {
+      "title": "The Beatles Vs The Four Seasons",
+      "year": 1964,
+      "type": "Compilation",
+      "master": 570218
+    },
+    {
+      "title": "The Beatles With Tony Sheridan And Guests",
+      "year": 1964,
+      "type": "Compilation",
+      "master": 470136
+    },
+    {
+      "title": "The Beatles' First !",
+      "year": 1964,
+      "type": "Compilation",
+      "master": 81047
+    },
+    {
+      "title": "The Beatles' Second Album",
+      "year": 1964,
+      "type": "Studioalbum",
+      "master": 54549
+    },
+    {
+      "title": "The Beatles' Sound",
+      "year": 1964,
+      "type": "EP",
+      "master": 1677445
+    },
+    {
+      "title": "The Beatles' Story",
+      "year": 1964,
+      "type": "Studioalbum",
+      "master": 329854
+    },
+    {
+      "title": "Twist And Shout",
+      "year": 1964,
+      "type": "Compilation",
+      "master": 230677
+    },
+    {
+      "title": "Una Dura Noche",
+      "year": 1964,
+      "type": "EP",
+      "master": 641130
+    },
+    {
+      "title": "Vol. 2",
+      "year": 1964,
+      "type": "Compilation",
+      "master": 1007206
+    },
+    {
+      "title": "What You're Doing",
+      "year": 1964,
+      "type": "EP",
+      "master": 933553
+    },
+    {
+      "title": "1965",
+      "year": 1965,
+      "type": "EP",
+      "master": 751087
+    },
+    {
+      "title": "4 By 4 / 4 - By The Beatles",
+      "year": 1965,
+      "type": "EP",
+      "master": 756643
+    },
+    {
+      "title": "Beatles '65 / The Early Beatles",
+      "year": 1965,
+      "type": "Compilation",
+      "master": 1628314
+    },
+    {
+      "title": "Beatles For Sale",
+      "year": 1965,
+      "type": "EP",
+      "master": 241873
+    },
+    {
+      "title": "Beatles For Sale (No. 2)",
+      "year": 1965,
+      "type": "EP",
+      "master": 232568
+    },
+    {
+      "title": "Beatles Forever",
+      "year": 1965,
+      "type": "EP",
+      "master": 742226
+    },
+    {
+      "title": "Beatles No. 5 = ビートルズ No. 5",
+      "year": 1965,
+      "type": "Compilation",
+      "master": 284686
+    },
+    {
+      "title": "Beatles VI",
+      "year": 1965,
+      "type": "Studioalbum",
+      "master": 67473
+    },
+    {
+      "title": "Beatles VI / Something New",
+      "year": 1965,
+      "type": "Compilation",
+      "master": 1679195
+    },
+    {
+      "title": "Boleto Para Pasear",
+      "year": 1965,
+      "type": "EP",
+      "master": 1222823
+    },
+    {
+      "title": "Chansons Du Film \"Help !\"",
+      "year": 1965,
+      "type": "EP",
+      "master": 448496
+    },
+    {
+      "title": "Dans Leurs 14 Plus Grands Succès",
+      "year": 1965,
+      "type": "Compilation",
+      "master": 333212
+    },
+    {
+      "title": "Dizzy Miss Lizzy",
+      "year": 1965,
+      "type": "EP",
+      "master": 527243
+    },
+    {
+      "title": "Help !",
+      "year": 1965,
+      "type": "EP",
+      "master": 456372
+    },
+    {
+      "title": "Help!",
+      "year": 1965,
+      "type": "Soundtrack",
+      "master": 45895
+    },
+    {
+      "title": "Help!",
+      "year": 1965,
+      "type": "EP",
+      "master": 504884
+    },
+    {
+      "title": "Help! (Original Motion Picture Soundtrack)",
+      "year": 1965,
+      "type": "Soundtrack",
+      "master": 557656
+    },
+    {
+      "title": "Help! = ¡Socorro!",
+      "year": 1965,
+      "type": "EP",
+      "master": 45950
+    },
+    {
+      "title": "It's Here Luv: The American Tour With Ed Rudy (INS Radio News: Documentary 3)",
+      "year": 1965,
+      "type": "Studioalbum",
+      "master": 1786016
+    },
+    {
+      "title": "Los Beatles",
+      "year": 1965,
+      "type": "Compilation",
+      "master": 985595
+    },
+    {
+      "title": "Meet The Beat",
+      "year": 1965,
+      "type": "Compilation",
+      "master": 599995
+    },
+    {
+      "title": "Ocho Dias A La Semana = Eight Days A Week",
+      "year": 1965,
+      "type": "EP",
+      "master": 1426864
+    },
+    {
+      "title": "Palabras De Amor",
+      "year": 1965,
+      "type": "EP",
+      "master": 1001943
+    },
+    {
+      "title": "Rubber Soul",
+      "year": 1965,
+      "type": "Studioalbum",
+      "master": 45526
+    },
+    {
+      "title": "Stars Of The Stars",
+      "year": 1965,
+      "type": "EP",
+      "master": 1599560
+    },
+    {
+      "title": "The Beatles In Italy",
+      "year": 1965,
+      "type": "Compilation",
+      "master": 230680
+    },
+    {
+      "title": "The Beatles' Greatest",
+      "year": 1965,
+      "type": "Compilation",
+      "master": 81019
+    },
+    {
+      "title": "The Beatles' Hottest Hits",
+      "year": 1965,
+      "type": "Compilation",
+      "master": 335381
+    },
+    {
+      "title": "The Beatles' Million Sellers",
+      "year": 1965,
+      "type": "EP",
+      "master": 302426
+    },
+    {
+      "title": "The Beatles' Soul",
+      "year": 1965,
+      "type": "EP",
+      "master": 862417
+    },
+    {
+      "title": "The Early Beatles",
+      "year": 1965,
+      "type": "Compilation",
+      "master": 81055
+    },
+    {
+      "title": "Ticket To Ride",
+      "year": 1965,
+      "type": "EP",
+      "master": 381159
+    },
+    {
+      "title": "Una Probada de Miel",
+      "year": 1965,
+      "type": "EP",
+      "master": 1262649
+    },
+    {
+      "title": "With The Beatles",
+      "year": 1965,
+      "type": "EP",
+      "master": 825635
+    },
+    {
+      "title": "You've Got To Hide Your Love Away  ( Du Film \"Help!\" )",
+      "year": 1965,
+      "type": "EP",
+      "master": 315049
+    },
+    {
+      "title": "A Collection Of Beatles Oldies",
+      "year": 1966,
+      "type": "Compilation",
+      "master": 31249
+    },
+    {
+      "title": "A Collection Of Beatles Oldies Vol. 2",
+      "year": 1966,
+      "type": "EP",
+      "master": 1616979
+    },
+    {
+      "title": "Bad Boy",
+      "year": 1966,
+      "type": "EP",
+      "master": 1001583
+    },
+    {
+      "title": "Beatle-Views",
+      "year": 1966,
+      "type": "Studioalbum",
+      "master": 4030879
+    },
+    {
+      "title": "Day Tripper",
+      "year": 1966,
+      "type": "EP",
+      "master": 1216650
+    },
+    {
+      "title": "Drive My Car",
+      "year": 1966,
+      "type": "EP",
+      "master": 558558
+    },
+    {
+      "title": "Eleanor Rigby",
+      "year": 1966,
+      "type": "EP",
+      "master": 772705
+    },
+    {
+      "title": "Girl",
+      "year": 1966,
+      "type": "EP",
+      "master": 772732
+    },
+    {
+      "title": "Greatest Hits Volume 1",
+      "year": 1966,
+      "type": "Compilation",
+      "master": 230675
+    },
+    {
+      "title": "Here, There And Everywhere",
+      "year": 1966,
+      "type": "EP",
+      "master": 982305
+    },
+    {
+      "title": "Michelle",
+      "year": 1966,
+      "type": "EP",
+      "master": 356849
+    },
+    {
+      "title": "Nowhere Man",
+      "year": 1966,
+      "type": "EP",
+      "master": 303783
+    },
+    {
+      "title": "Paperback Writer",
+      "year": 1966,
+      "type": "EP",
+      "master": 507280
+    },
+    {
+      "title": "Revolver",
+      "year": 1966,
+      "type": "Studioalbum",
+      "master": 45284
+    },
+    {
+      "title": "Revolver",
+      "year": 1966,
+      "type": "EP",
+      "master": 927549
+    },
+    {
+      "title": "Rubber Soul / The Beatles' Second Album",
+      "year": 1966,
+      "type": "Compilation",
+      "master": 3108171
+    },
+    {
+      "title": "Vol. 3 - Ticket To Ride",
+      "year": 1966,
+      "type": "EP",
+      "master": 1308107
+    },
+    {
+      "title": "Volume 1",
+      "year": 1966,
+      "type": "EP",
+      "master": 1457911
+    },
+    {
+      "title": "Volume 4",
+      "year": 1966,
+      "type": "EP",
+      "master": 1194181
+    },
+    {
+      "title": "We Can Work It Out",
+      "year": 1966,
+      "type": "EP",
+      "master": 334019
+    },
+    {
+      "title": "Yellow Submarine",
+      "year": 1966,
+      "type": "EP",
+      "master": 777963
+    },
+    {
+      "title": "Yesterday",
+      "year": 1966,
+      "type": "EP",
+      "master": 241874
+    },
+    {
+      "title": "Yesterday And Today",
+      "year": 1966,
+      "type": "Compilation",
+      "master": 59364
+    },
+    {
+      "title": "You Like Me Too Much / Tell Me What You See / Dizzy Miss Lizzy / Yes It Is",
+      "year": 1966,
+      "type": "EP",
+      "master": 855100
+    },
+    {
+      "title": "A Collection of Beatles Oldies (Vol. 1)",
+      "year": 1967,
+      "type": "EP",
+      "master": 1457928
+    },
+    {
+      "title": "All You Need Is Love",
+      "year": 1967,
+      "type": "EP",
+      "master": 1178914
+    },
+    {
+      "title": "Greatest Hits Volume 2",
+      "year": 1967,
+      "type": "Compilation",
+      "master": 81028
+    },
+    {
+      "title": "La Banda Del Sargento Pepper",
+      "year": 1967,
+      "type": "EP",
+      "master": 1907175
+    },
+    {
+      "title": "Magical Mystery Tour",
+      "year": 1967,
+      "type": "EP",
+      "master": 54445
+    },
+    {
+      "title": "Magical Mystery Tour",
+      "year": 1967,
+      "type": "Studioalbum",
+      "master": 54463
+    },
+    {
+      "title": "Norwegian Wood",
+      "year": 1967,
+      "type": "EP",
+      "master": 742221
+    },
+    {
+      "title": "Penny Lane / Strawberry Fields Forever / Good Day Sunshine/ I Want To Tell You",
+      "year": 1967,
+      "type": "EP",
+      "master": 846205
+    },
+    {
+      "title": "Sgt. Pepper's Lonely Hearts Club Band",
+      "year": 1967,
+      "type": "Studioalbum",
+      "master": 23934
+    },
+    {
+      "title": "Sgt. Pepper's Lonely Hearts Club Band",
+      "year": 1967,
+      "type": "EP",
+      "master": 3037667
+    },
+    {
+      "title": "Strawberry Fields Forever",
+      "year": 1967,
+      "type": "EP",
+      "master": 1693354
+    },
+    {
+      "title": "Strawberry Fields Forever / Penny Lane",
+      "year": 1967,
+      "type": "EP",
+      "master": 456358
+    },
+    {
+      "title": "The Beatles",
+      "year": 1967,
+      "type": "Compilation",
+      "master": 81057
+    },
+    {
+      "title": "Yesterday......And Today",
+      "year": 1967,
+      "type": "Compilation",
+      "master": 3712242
+    },
+    {
+      "title": "Yesterday…..And Today",
+      "year": 1967,
+      "type": "EP",
+      "master": 3713058
+    },
+    {
+      "title": "Penny Lane",
+      "year": 1968,
+      "type": "EP",
+      "master": 980954
+    },
+    {
+      "title": "The Beatles",
+      "year": 1968,
+      "type": "Studioalbum",
+      "master": 46402
+    },
+    {
+      "title": "The Beatles Volume One",
+      "year": 1968,
+      "type": "Studioalbum",
+      "master": 873157
+    },
+    {
+      "title": "With A Little Help From My Friends / When I'm Sixty-Four / Lovely Rita / Lucy In The Sky With Diamonds",
+      "year": 1968,
+      "type": "EP",
+      "master": 749061
+    },
+    {
+      "title": "Abbey Road",
+      "year": 1969,
+      "type": "Studioalbum",
+      "master": 24047
+    },
+    {
+      "title": "The Beatles Vol. II",
+      "year": 1969,
+      "type": "Studioalbum",
+      "master": 873161
+    },
+    {
+      "title": "Yellow Submarine",
+      "year": 1969,
+      "type": "Soundtrack",
+      "master": 54565
+    },
+    {
+      "title": "A Day In The Life = Un Día En La Vida",
+      "year": 1970,
+      "type": "EP",
+      "master": 1161830
+    },
+    {
+      "title": "Bad Boy / Dizzy Miss Lizzie / You Like Me Too Much / Yes, It Is",
+      "year": 1970,
+      "type": "EP",
+      "master": 3486877
+    },
+    {
+      "title": "From Then To You (The Beatles Christmas Record, 1970)",
+      "year": 1970,
+      "type": "Compilation",
+      "master": 297993
+    },
+    {
+      "title": "Hey Jude (The Beatles Again)",
+      "year": 1970,
+      "type": "Compilation",
+      "master": 46382
+    },
+    {
+      "title": "I Want You (She's So Heavy)",
+      "year": 1970,
+      "type": "EP",
+      "master": 1024578
+    },
+    {
+      "title": "Let It Be",
+      "year": 1970,
+      "type": "Studioalbum",
+      "master": 24212
+    },
+    {
+      "title": "Vengan Juntos / Algo",
+      "year": 1970,
+      "type": "EP",
+      "master": 1520290
+    },
+    {
+      "title": "Cobrador De Impuestos = Taxman",
+      "year": 1971,
+      "type": "EP",
+      "master": 2045446
+    },
+    {
+      "title": "Honey Don't",
+      "year": 1971,
+      "type": "EP",
+      "master": 1294485
+    },
+    {
+      "title": "Old Brown Shoe / Blue Jay Way",
+      "year": 1971,
+      "type": "EP",
+      "master": 475873
+    },
+    {
+      "title": "Por Siempre Beatles",
+      "year": 1971,
+      "type": "Compilation",
+      "master": 465737
+    },
+    {
+      "title": "Get Back = Regresa",
+      "year": 1972,
+      "type": "EP",
+      "master": 2698781
+    },
+    {
+      "title": "The Beatles Story: The Authentic B.B.C. Production",
+      "year": 1972,
+      "type": "Studioalbum",
+      "master": 4133902
+    },
+    {
+      "title": "The Essential Beatles",
+      "year": 1972,
+      "type": "Compilation",
+      "master": 293672
+    },
+    {
+      "title": "1962-1966",
+      "year": 1973,
+      "type": "Compilation",
+      "master": 23881
+    },
+    {
+      "title": "1967-1970",
+      "year": 1973,
+      "type": "Compilation",
+      "master": 24155
+    },
+    {
+      "title": "Greatest Hits Volume 1 And 2",
+      "year": 1973,
+      "type": "Compilation",
+      "master": 1524463
+    },
+    {
+      "title": "The Beatles Versus The Bee Gees Popular",
+      "year": 1973,
+      "type": "Compilation",
+      "master": 1049845
+    },
+    {
+      "title": "Lo Primero De Los Beatles Con Tony Sheridan",
+      "year": 1974,
+      "type": "Compilation",
+      "master": 1313874
+    },
+    {
+      "title": "The Beatles First",
+      "year": 1974,
+      "type": "Compilation",
+      "master": 332074
+    },
+    {
+      "title": "Within You Without You / The Inner Light",
+      "year": 1975,
+      "type": "EP",
+      "master": 3033119
+    },
+    {
+      "title": "Hey Jude",
+      "year": 1976,
+      "type": "EP",
+      "master": 1242711
+    },
+    {
+      "title": "Rock 'N' Roll Music",
+      "year": 1976,
+      "type": "Compilation",
+      "master": 54585
+    },
+    {
+      "title": "The Beatles Tapes From The David Wigg Interviews",
+      "year": 1976,
+      "type": "Studioalbum",
+      "master": 357077
+    },
+    {
+      "title": "16 x The Beatles",
+      "year": 1977,
+      "type": "Compilation",
+      "master": 1060855
+    },
+    {
+      "title": "Live! At The Star-Club In Hamburg, Germany; 1962",
+      "year": 1977,
+      "type": "Livealbum",
+      "master": 54479
+    },
+    {
+      "title": "Love Songs",
+      "year": 1977,
+      "type": "Compilation",
+      "master": 54819
+    },
+    {
+      "title": "The Beatles At The Hollywood Bowl",
+      "year": 1977,
+      "type": "Studioalbum",
+      "master": 54829
+    },
+    {
+      "title": "Beatle Talk...",
+      "year": 1978,
+      "type": "Studioalbum",
+      "master": 845007
+    },
+    {
+      "title": "Greatest Hits",
+      "year": 1978,
+      "type": "Compilation",
+      "master": 1505854
+    },
+    {
+      "title": "Let It Be",
+      "year": 1978,
+      "type": "EP",
+      "master": 2056558
+    },
+    {
+      "title": "Live Im Star-Club 1962",
+      "year": 1978,
+      "type": "Livealbum",
+      "master": 1119089
+    },
+    {
+      "title": "Lucy In The Sky With Diamonds",
+      "year": 1978,
+      "type": "EP",
+      "master": 4166665
+    },
+    {
+      "title": "Recorded Live In Hamburg 1962 (Volume 3)",
+      "year": 1978,
+      "type": "Livealbum",
+      "master": 1057935
+    },
+    {
+      "title": "The Beatles",
+      "year": 1978,
+      "type": "EP",
+      "master": 468838
+    },
+    {
+      "title": "The Beatles Collection",
+      "year": 1978,
+      "type": "Compilation",
+      "master": 59435
+    },
+    {
+      "title": "1st Live Recordings (Volume One)",
+      "year": 1979,
+      "type": "Livealbum",
+      "master": 409612
+    },
+    {
+      "title": "1st Live Recordings (Volume Two)",
+      "year": 1979,
+      "type": "Livealbum",
+      "master": 499821
+    },
+    {
+      "title": "20 Golden Hits (Original Recordings)",
+      "year": 1979,
+      "type": "Compilation",
+      "master": 31271
+    },
+    {
+      "title": "Further Requests",
+      "year": 1979,
+      "type": "Compilation",
+      "master": 558560
+    },
+    {
+      "title": "Golden Greatest Hits",
+      "year": 1979,
+      "type": "Compilation",
+      "master": 219986
+    },
+    {
+      "title": "Here Comes The Sun",
+      "year": 1979,
+      "type": "EP",
+      "master": 1314973
+    },
+    {
+      "title": "Paul, John, George Y Ringo!!! Banda de Sonido de la Película Ye, Ye, Ye.",
+      "year": 1979,
+      "type": "Compilation",
+      "master": 985594
+    },
+    {
+      "title": "Rarities",
+      "year": 1979,
+      "type": "Compilation",
+      "master": 75276
+    },
+    {
+      "title": "From Liverpool - The Beatles Box",
+      "year": 1980,
+      "type": "Compilation",
+      "master": 199472
+    },
+    {
+      "title": "Rock 'N' Roll Music Vol. 1",
+      "year": 1980,
+      "type": "Compilation",
+      "master": 67453
+    },
+    {
+      "title": "Rock 'N' Roll Music Vol. 2",
+      "year": 1980,
+      "type": "Compilation",
+      "master": 67459
+    },
+    {
+      "title": "Rock Legends - The Beatles",
+      "year": 1980,
+      "type": "Compilation",
+      "master": 579026
+    },
+    {
+      "title": "The Beatles Ballads (20 Original Tracks)",
+      "year": 1980,
+      "type": "Compilation",
+      "master": 81051
+    },
+    {
+      "title": "1962-1966 / 1967-1970",
+      "year": 1981,
+      "type": "Compilation",
+      "master": 621376
+    },
+    {
+      "title": "Beatles Oldies",
+      "year": 1981,
+      "type": "Compilation",
+      "master": 948112
+    },
+    {
+      "title": "Cry For A Shadow",
+      "year": 1981,
+      "type": "Compilation",
+      "master": 1281145
+    },
+    {
+      "title": "E.P.s Collection",
+      "year": 1981,
+      "type": "Compilation",
+      "master": 333151
+    },
+    {
+      "title": "Early Years (1)",
+      "year": 1981,
+      "type": "Compilation",
+      "master": 584225
+    },
+    {
+      "title": "Early Years (2)",
+      "year": 1981,
+      "type": "Compilation",
+      "master": 677803
+    },
+    {
+      "title": "Rock 'N' Roll",
+      "year": 1981,
+      "type": "Compilation",
+      "master": 426974
+    },
+    {
+      "title": "Talk Downunder",
+      "year": 1981,
+      "type": "Studioalbum",
+      "master": 276319
+    },
+    {
+      "title": "The Beatles With Tony Sheridan",
+      "year": 1981,
+      "type": "Compilation",
+      "master": 1660607
+    },
+    {
+      "title": "The Days In Their Life",
+      "year": 1981,
+      "type": "Studioalbum",
+      "master": 3491597
+    },
+    {
+      "title": "1961",
+      "year": 1982,
+      "type": "Compilation",
+      "master": 3775865
+    },
+    {
+      "title": "20 Greatest Hits",
+      "year": 1982,
+      "type": "Compilation",
+      "master": 31261
+    },
+    {
+      "title": "Birth Of The Beatles",
+      "year": 1982,
+      "type": "Compilation",
+      "master": 578223
+    },
+    {
+      "title": "Birth Of The Beatles Vol. 2",
+      "year": 1982,
+      "type": "Compilation",
+      "master": 1713700
+    },
+    {
+      "title": "Los Numero Uno",
+      "year": 1982,
+      "type": "Compilation",
+      "master": 1143909
+    },
+    {
+      "title": "Mono Collection",
+      "year": 1982,
+      "type": "Compilation",
+      "master": 683556
+    },
+    {
+      "title": "Rare Beatles",
+      "year": 1982,
+      "type": "Compilation",
+      "master": 293154
+    },
+    {
+      "title": "Reel Music",
+      "year": 1982,
+      "type": "Compilation",
+      "master": 230676
+    },
+    {
+      "title": "Silver Beatles (Volume 1)",
+      "year": 1982,
+      "type": "Compilation",
+      "master": 449183
+    },
+    {
+      "title": "The Beatle Interviews",
+      "year": 1982,
+      "type": "Studioalbum",
+      "master": 1783698
+    },
+    {
+      "title": "The British Are Coming",
+      "year": 1982,
+      "type": "Studioalbum",
+      "master": 199493
+    },
+    {
+      "title": "The Collection",
+      "year": 1982,
+      "type": "Compilation",
+      "master": 2201920
+    },
+    {
+      "title": "The Silver Beatles",
+      "year": 1982,
+      "type": "EP",
+      "master": 1630144
+    },
+    {
+      "title": "Timeless II",
+      "year": 1982,
+      "type": "Studioalbum",
+      "master": 267661
+    },
+    {
+      "title": "16 Originales De Los Beatles",
+      "year": 1983,
+      "type": "Compilation",
+      "master": 3505479
+    },
+    {
+      "title": "20 Hits",
+      "year": 1983,
+      "type": "Compilation",
+      "master": 641144
+    },
+    {
+      "title": "At The Beeb The Story Of Their Radio Career",
+      "year": 1983,
+      "type": "Studioalbum",
+      "master": 815371
+    },
+    {
+      "title": "Don't Pass Me By",
+      "year": 1983,
+      "type": "EP",
+      "master": 1485423
+    },
+    {
+      "title": "Early Years (3)",
+      "year": 1983,
+      "type": "Compilation",
+      "master": 802215
+    },
+    {
+      "title": "Expedice R'n'R",
+      "year": 1983,
+      "type": "Compilation",
+      "master": 1158570
+    },
+    {
+      "title": "Silver Beatles (Volume 2)",
+      "year": 1983,
+      "type": "Compilation",
+      "master": 449184
+    },
+    {
+      "title": "The Hamburg Tapes Volume 1",
+      "year": 1983,
+      "type": "Studioalbum",
+      "master": 1060859
+    },
+    {
+      "title": "The Hamburg Tapes Volume 2",
+      "year": 1983,
+      "type": "Studioalbum",
+      "master": 3438248
+    },
+    {
+      "title": "The Number Ones",
+      "year": 1983,
+      "type": "Compilation",
+      "master": 333201
+    },
+    {
+      "title": "30 Años de Musica Rock",
+      "year": 1984,
+      "type": "Compilation",
+      "master": 1400874
+    },
+    {
+      "title": "BBC Rock Hour #BC 551",
+      "year": 1984,
+      "type": "Studioalbum",
+      "master": 1917264
+    },
+    {
+      "title": "The Beatles At Christmas",
+      "year": 1984,
+      "type": "Studioalbum",
+      "master": 1513707
+    },
+    {
+      "title": "The History Of Rock - Rock-Vol. 26",
+      "year": 1984,
+      "type": "Compilation",
+      "master": 1124833
+    },
+    {
+      "title": "East Coast Invasion!",
+      "year": 1985,
+      "type": "Studioalbum",
+      "master": 797144
+    },
+    {
+      "title": "Live! At The Star Club, Hamburg, Germany 1962 (Volume 1)",
+      "year": 1985,
+      "type": "Livealbum",
+      "master": 433362
+    },
+    {
+      "title": "Live! At The Star Club, Hamburg, Germany 1962 (Volume 2)",
+      "year": 1985,
+      "type": "Livealbum",
+      "master": 1060866
+    },
+    {
+      "title": "The Golden Beatles",
+      "year": 1985,
+      "type": "Studioalbum",
+      "master": 576364
+    },
+    {
+      "title": "Tres 33, Nº 9",
+      "year": 1985,
+      "type": "Compilation",
+      "master": 3318313
+    },
+    {
+      "title": "West Coast Invasion",
+      "year": 1985,
+      "type": "Studioalbum",
+      "master": 573413
+    },
+    {
+      "title": "Words & Music",
+      "year": 1985,
+      "type": "Compilation",
+      "master": 1280323
+    },
+    {
+      "title": "'Round The World!",
+      "year": 1986,
+      "type": "Studioalbum",
+      "master": 1358595
+    },
+    {
+      "title": "A Hard Day's Night / A Taste Of Honey",
+      "year": 1986,
+      "type": "Compilation",
+      "master": 1977889
+    },
+    {
+      "title": "A Taste Of Honey = Вкус Мёда",
+      "year": 1986,
+      "type": "Compilation",
+      "master": 185122
+    },
+    {
+      "title": "All Our Loving",
+      "year": 1986,
+      "type": "Studioalbum",
+      "master": 482448
+    },
+    {
+      "title": "Not A Second Time",
+      "year": 1986,
+      "type": "Studioalbum",
+      "master": 664912
+    },
+    {
+      "title": "Only The Beatles ...",
+      "year": 1986,
+      "type": "Compilation",
+      "master": 601337
+    },
+    {
+      "title": "Rock'n Roll Beatles",
+      "year": 1986,
+      "type": "Compilation",
+      "master": 1165464
+    },
+    {
+      "title": "Talk Downunder (And All Over) = トーク・ダウンアンダー",
+      "year": 1986,
+      "type": "Studioalbum",
+      "master": 566858
+    },
+    {
+      "title": "The Beatles 1960-1962",
+      "year": 1986,
+      "type": "Compilation",
+      "master": 1030086
+    },
+    {
+      "title": "Things We Said Today",
+      "year": 1986,
+      "type": "Studioalbum",
+      "master": 853990
+    },
+    {
+      "title": "Tokyo Days",
+      "year": 1986,
+      "type": "Compilation",
+      "master": 1642433
+    },
+    {
+      "title": "Best The Beatles Vol. 10",
+      "year": 1987,
+      "type": "Compilation",
+      "master": 579023
+    },
+    {
+      "title": "Best The Beatles Vol. 4",
+      "year": 1987,
+      "type": "Compilation",
+      "master": 579022
+    },
+    {
+      "title": "Best The Beatles: Greatest Hits Volume 11 (1967)",
+      "year": 1987,
+      "type": "Compilation",
+      "master": 1584347
+    },
+    {
+      "title": "Birthday",
+      "year": 1987,
+      "type": "Compilation",
+      "master": 1843405
+    },
+    {
+      "title": "From Britain... With Beat!",
+      "year": 1987,
+      "type": "Studioalbum",
+      "master": 902512
+    },
+    {
+      "title": "Interviews II",
+      "year": 1987,
+      "type": "Studioalbum",
+      "master": 900226
+    },
+    {
+      "title": "Moviemania!",
+      "year": 1987,
+      "type": "Soundtrack",
+      "master": 555619
+    },
+    {
+      "title": "The Beatles Anthology",
+      "year": 1987,
+      "type": "Compilation",
+      "master": 1770972
+    },
+    {
+      "title": "Here There And Everywhere",
+      "year": 1988,
+      "type": "Studioalbum",
+      "master": 902449
+    },
+    {
+      "title": "McCartney Tracks",
+      "year": 1988,
+      "type": "Compilation",
+      "master": 1313088
+    },
+    {
+      "title": "Past Masters • Volume One",
+      "year": 1988,
+      "type": "Compilation",
+      "master": 59378
+    },
+    {
+      "title": "Past Masters • Volume Two",
+      "year": 1988,
+      "type": "Compilation",
+      "master": 81036
+    },
+    {
+      "title": "Past Masters Volumes One & Two",
+      "year": 1988,
+      "type": "Compilation",
+      "master": 123245
+    },
+    {
+      "title": "The Beatles Box Set",
+      "year": 1988,
+      "type": "Compilation",
+      "master": 576374
+    },
+    {
+      "title": "The Beeb's Lost Beatles Tapes",
+      "year": 1989,
+      "type": "Studioalbum",
+      "master": 1528090
+    },
+    {
+      "title": "Beatles II",
+      "year": 1990,
+      "type": "Compilation",
+      "master": 3197382
+    },
+    {
+      "title": "Live! At The Star-Club In Hamburg, Germany; 1962 (Vol. 1)",
+      "year": 1991,
+      "type": "Livealbum",
+      "master": 1180927
+    },
+    {
+      "title": "Live! At The Star-Club In Hamburg, Germany; 1962 (Vol. 2)",
+      "year": 1991,
+      "type": "Compilation",
+      "master": 435995
+    },
+    {
+      "title": "Rockin' At The Star-Club, 1962",
+      "year": 1991,
+      "type": "Compilation",
+      "master": 499817
+    },
+    {
+      "title": "Mach Schau!",
+      "year": 1992,
+      "type": "EP",
+      "master": 1457925
+    },
+    {
+      "title": "Gli Indimenticabili Beatles",
+      "year": 1993,
+      "type": "Compilation",
+      "master": 1630168
+    },
+    {
+      "title": "Live At The BBC",
+      "year": 1994,
+      "type": "Livealbum",
+      "master": 45540
+    },
+    {
+      "title": "The Beatles Vol.3 The Classic Collection",
+      "year": 1994,
+      "type": "Compilation",
+      "master": 1962172
+    },
+    {
+      "title": "Anthology",
+      "year": 1995,
+      "type": "Compilation",
+      "master": 584766
+    },
+    {
+      "title": "Anthology 1",
+      "year": 1995,
+      "type": "Studioalbum",
+      "master": 59388
+    },
+    {
+      "title": "Baby It's You",
+      "year": 1995,
+      "type": "EP",
+      "master": 81016
+    },
+    {
+      "title": "The Beatles In Their Own Words - A Rockumentary",
+      "year": 1995,
+      "type": "Compilation",
+      "master": 3747090
+    },
+    {
+      "title": "The Beatles Inside Interviews",
+      "year": 1995,
+      "type": "Compilation",
+      "master": 1593153
+    },
+    {
+      "title": "Anthology - All Together Now",
+      "year": 1996,
+      "type": "Compilation",
+      "master": 1737355
+    },
+    {
+      "title": "Anthology 2",
+      "year": 1996,
+      "type": "Studioalbum",
+      "master": 59393
+    },
+    {
+      "title": "Anthology 2",
+      "year": 1996,
+      "type": "Compilation",
+      "master": 619299
+    },
+    {
+      "title": "Anthology 3",
+      "year": 1996,
+      "type": "Studioalbum",
+      "master": 59397
+    },
+    {
+      "title": "Anthology 3",
+      "year": 1996,
+      "type": "Compilation",
+      "master": 786157
+    },
+    {
+      "title": "The Best Of Beatles",
+      "year": 1999,
+      "type": "Compilation",
+      "master": 3780728
+    },
+    {
+      "title": "The Best Of Beatles III.",
+      "year": 1999,
+      "type": "Compilation",
+      "master": 3309667
+    },
+    {
+      "title": "Yellow Submarine Songtrack",
+      "year": 1999,
+      "type": "Compilation",
+      "master": 65554
+    },
+    {
+      "title": "1",
+      "year": 2000,
+      "type": "Compilation",
+      "master": 447254
+    },
+    {
+      "title": "Beatles Bop - Hamburg Days",
+      "year": 2001,
+      "type": "Compilation",
+      "master": 954720
+    },
+    {
+      "title": "The Very Best Of John Lennon = 不朽傳奇 世紀限量珍藏版 / The Beatles 4ever",
+      "year": 2002,
+      "type": "Compilation",
+      "master": 2668241
+    },
+    {
+      "title": "By Beatles Tracks",
+      "year": 2003,
+      "type": "Compilation",
+      "master": 3332131
+    },
+    {
+      "title": "Let It Be... Naked",
+      "year": 2003,
+      "type": "Studioalbum",
+      "master": 59442
+    },
+    {
+      "title": "The Capitol Albums Vol.1",
+      "year": 2004,
+      "type": "Compilation",
+      "master": 303956
+    },
+    {
+      "title": "The Capitol Albums Volume 1 Sampler",
+      "year": 2004,
+      "type": "Compilation",
+      "master": 1037602
+    },
+    {
+      "title": "Love",
+      "year": 2006,
+      "type": "Soundtrack",
+      "master": 45547
+    },
+    {
+      "title": "The Capitol Albums Vol. 2 Sampler",
+      "year": 2006,
+      "type": "Compilation",
+      "master": 1565834
+    },
+    {
+      "title": "The Capitol Albums Vol.2",
+      "year": 2006,
+      "type": "Compilation",
+      "master": 212948
+    },
+    {
+      "title": "The Beatles In Mono",
+      "year": 2009,
+      "type": "Compilation",
+      "master": 490445
+    },
+    {
+      "title": "With Love From Me To You",
+      "year": 2009,
+      "type": "Compilation",
+      "master": 1800249
+    },
+    {
+      "title": "Tomorrow Never Knows",
+      "year": 2012,
+      "type": "Compilation",
+      "master": 485717
+    },
+    {
+      "title": "Bootleg Recordings 1963",
+      "year": 2013,
+      "type": "Studioalbum",
+      "master": 632092
+    },
+    {
+      "title": "I Saw Her Standing There...",
+      "year": 2013,
+      "type": "Compilation",
+      "master": 653150
+    },
+    {
+      "title": "In The Beginning",
+      "year": 2013,
+      "type": "Studioalbum",
+      "master": 603709
+    },
+    {
+      "title": "Live At The BBC - The Collection (Vol. 1 & 2)",
+      "year": 2013,
+      "type": "Compilation",
+      "master": 638130
+    },
+    {
+      "title": "On Air - Live At The BBC Volume 2",
+      "year": 2013,
+      "type": "EP",
+      "master": 610646
+    },
+    {
+      "title": "On Air - Live At The BBC Volume 2",
+      "year": 2013,
+      "type": "Livealbum",
+      "master": 618247
+    },
+    {
+      "title": "Meet The Beatles! (Japan Box)",
+      "year": 2014,
+      "type": "Compilation",
+      "master": 3368482
+    },
+    {
+      "title": "The U.S. Albums",
+      "year": 2014,
+      "type": "Compilation",
+      "master": 670143
+    },
+    {
+      "title": "Can't Buy Me Love",
+      "year": 2015,
+      "type": "Compilation",
+      "master": 4249878
+    },
+    {
+      "title": "Love Me Do",
+      "year": 2015,
+      "type": "Compilation",
+      "master": 1573962
+    },
+    {
+      "title": "White Hits Collection",
+      "year": 2015,
+      "type": "Compilation",
+      "master": 4343397
+    },
+    {
+      "title": "Live At The Hollywood Bowl",
+      "year": 2016,
+      "type": "Livealbum",
+      "master": 1103767
+    },
+    {
+      "title": "20 Original Studio Recordings",
+      "year": 2017,
+      "type": "Compilation",
+      "master": 2265739
+    },
+    {
+      "title": "The Hits Volume 1",
+      "year": 2017,
+      "type": "Compilation",
+      "master": 1526452
+    },
+    {
+      "title": "The Hits Volume 2",
+      "year": 2017,
+      "type": "Compilation",
+      "master": 1574052
+    },
+    {
+      "title": "First Hits",
+      "year": 2020,
+      "type": "Compilation",
+      "master": 3916717
+    },
+    {
+      "title": "1964 US Albums In Mono",
+      "year": 2024,
+      "type": "Compilation",
+      "master": 3712119
+    },
+    {
+      "title": "Anthology 4",
+      "year": 2025,
+      "type": "Compilation",
+      "master": 4043479
+    },
+    {
+      "title": "Anthology Collection",
+      "year": 2025,
+      "type": "Compilation",
+      "master": 4043860
+    },
+    {
+      "title": "Here We Go",
+      "year": 2025,
+      "type": "EP",
+      "master": 4043188
+    }
+  ]
+}

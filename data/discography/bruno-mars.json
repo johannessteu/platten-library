@@ -1,0 +1,51 @@
+{
+  "artist": "Bruno Mars",
+  "discogsArtistIds": [
+    1357693
+  ],
+  "dump": "2026-11-01",
+  "releases": [
+    {
+      "title": "Doo-Wops & Hooligans",
+      "year": 2010,
+      "type": "Studioalbum",
+      "master": 297460
+    },
+    {
+      "title": "It's Better If You Don't Understand",
+      "year": 2010,
+      "type": "EP",
+      "master": 4051234
+    },
+    {
+      "title": "The Grenade Sessions",
+      "year": 2011,
+      "type": "EP",
+      "master": 501445
+    },
+    {
+      "title": "Unorthodox Jukebox",
+      "year": 2012,
+      "type": "Studioalbum",
+      "master": 505655
+    },
+    {
+      "title": "XXIVK Magic",
+      "year": 2016,
+      "type": "Studioalbum",
+      "master": 1092070
+    },
+    {
+      "title": "Collaborations",
+      "year": 2026,
+      "type": "Compilation",
+      "master": 4199298
+    },
+    {
+      "title": "The Romantic",
+      "year": 2026,
+      "type": "Studioalbum",
+      "master": 4146559
+    }
+  ]
+}

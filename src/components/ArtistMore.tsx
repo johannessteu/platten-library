@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'preact/hooks';
-import { BY_PROFILE, PROFILE_NAME, loadArtist, titleKey, type Rec } from '../data.ts';
+import { BY_PROFILE, PROFILE_NAME, loadArtist, sameTitle, type Rec } from '../data.ts';
 import type { ArtistProfile } from '../types.ts';
 import { IconChevronDown } from './Icons.tsx';
 
@@ -63,13 +63,25 @@ export function ArtistMore({ rec, onPick }: Props) {
               <h4>Diskografie</h4>
               <ol class="disco">
                 {profile.discography.map((d) => {
-                  const mine = owned.find((r) => titleKey(r.title) === titleKey(d.title));
+                  const mine = owned.find((r) => sameTitle(r.title, d.title));
                   return (
                     <li key={`${d.year}-${d.title}`}>
                       <span class="disco-year">{d.year}</span>
                       <span class="disco-main">
-                        <span class="disco-title">
-                          {d.title}
+                        <span class="disco-head">
+                          {d.master ? (
+                            <a
+                              class="disco-title"
+                              href={`https://www.discogs.com/master/${d.master}`}
+                              target="_blank"
+                              rel="noopener"
+                              aria-label={`${d.title} auf Discogs`}
+                            >
+                              {d.title}
+                            </a>
+                          ) : (
+                            <span class="disco-title">{d.title}</span>
+                          )}
                           {d.type !== 'Studioalbum' && <span class="disco-type">{d.type}</span>}
                         </span>
                         {d.note && <span class="disco-note">{d.note}</span>}

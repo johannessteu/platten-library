@@ -1,0 +1,39 @@
+{
+  "artist": "Olli Schulz",
+  "discogsArtistIds": [
+    642119
+  ],
+  "dump": "2026-11-01",
+  "releases": [
+    {
+      "title": "Es Brennt So Schön",
+      "year": 2009,
+      "type": "Studioalbum",
+      "master": 334578
+    },
+    {
+      "title": "SOS Save Olli Schulz",
+      "year": 2012,
+      "type": "Studioalbum",
+      "master": 449277
+    },
+    {
+      "title": "Feelings Aus Der Asche",
+      "year": 2015,
+      "type": "Studioalbum",
+      "master": 818995
+    },
+    {
+      "title": "Scheiss Leben, Gut Erzählt.",
+      "year": 2018,
+      "type": "Studioalbum",
+      "master": 1317112
+    },
+    {
+      "title": "Vom Rand Der Zeit",
+      "year": 2024,
+      "type": "Studioalbum",
+      "master": 3433772
+    }
+  ]
+}

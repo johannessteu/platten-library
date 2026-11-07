@@ -1,0 +1,51 @@
+{
+  "artist": "Adele",
+  "discogsArtistIds": [
+    819015
+  ],
+  "dump": "2026-11-01",
+  "releases": [
+    {
+      "title": "19",
+      "year": 2008,
+      "type": "Studioalbum",
+      "master": 28398
+    },
+    {
+      "title": "iTunes Live From SoHo",
+      "year": 2009,
+      "type": "EP",
+      "master": 4188210
+    },
+    {
+      "title": "21",
+      "year": 2011,
+      "type": "Studioalbum",
+      "master": 303567
+    },
+    {
+      "title": "iTunes Festival: London 2011",
+      "year": 2011,
+      "type": "EP",
+      "master": 1316639
+    },
+    {
+      "title": "Live At The Royal Albert Hall",
+      "year": 2011,
+      "type": "Soundtrack",
+      "master": 390704
+    },
+    {
+      "title": "25",
+      "year": 2015,
+      "type": "Studioalbum",
+      "master": 912912
+    },
+    {
+      "title": "30",
+      "year": 2021,
+      "type": "Studioalbum",
+      "master": 2383843
+    }
+  ]
+}

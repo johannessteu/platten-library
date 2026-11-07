@@ -1,0 +1,39 @@
+{
+  "artist": "Bukahara",
+  "discogsArtistIds": [
+    4709295
+  ],
+  "dump": "2026-11-01",
+  "releases": [
+    {
+      "title": "Strange Delight",
+      "year": 2015,
+      "type": "Studioalbum",
+      "master": 956625
+    },
+    {
+      "title": "Phantasma",
+      "year": 2017,
+      "type": "Studioalbum",
+      "master": 1161577
+    },
+    {
+      "title": "Live Session",
+      "year": 2019,
+      "type": "Livealbum",
+      "master": 1699234
+    },
+    {
+      "title": "Canaries In A Coalmine",
+      "year": 2020,
+      "type": "Studioalbum",
+      "master": 1707447
+    },
+    {
+      "title": "Tales Of The Tides",
+      "year": 2023,
+      "type": "Studioalbum",
+      "master": 3030125
+    }
+  ]
+}

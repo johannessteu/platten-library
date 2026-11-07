@@ -1,0 +1,63 @@
+{
+  "artist": "Ben Howard",
+  "discogsArtistIds": [
+    1650054
+  ],
+  "dump": "2026-11-01",
+  "releases": [
+    {
+      "title": "Games In The Dark",
+      "year": 2008,
+      "type": "EP",
+      "master": 1464410
+    },
+    {
+      "title": "These Waters.",
+      "year": 2009,
+      "type": "EP",
+      "master": 1174139
+    },
+    {
+      "title": "Every Kingdom",
+      "year": 2011,
+      "type": "Studioalbum",
+      "master": 375249
+    },
+    {
+      "title": "The Burgh Island E.P.",
+      "year": 2012,
+      "type": "EP",
+      "master": 511998
+    },
+    {
+      "title": "I Forget Where We Were",
+      "year": 2014,
+      "type": "Studioalbum",
+      "master": 747245
+    },
+    {
+      "title": "Noonday Dream",
+      "year": 2018,
+      "type": "Studioalbum",
+      "master": 1372584
+    },
+    {
+      "title": "Collections From The Whiteout",
+      "year": 2021,
+      "type": "Studioalbum",
+      "master": 2045008
+    },
+    {
+      "title": "Is It?",
+      "year": 2023,
+      "type": "Studioalbum",
+      "master": 3136110
+    },
+    {
+      "title": "How Are You Feeling?",
+      "year": 2024,
+      "type": "EP",
+      "master": 3629237
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "artist": "Faber",
+  "discogsArtistIds": [
+    5481382
+  ],
+  "dump": "2026-11-01",
+  "releases": [
+    {
+      "title": "Alles Gute",
+      "year": 2015,
+      "type": "EP",
+      "master": 1207860
+    },
+    {
+      "title": "Abstinenz",
+      "year": 2016,
+      "type": "EP",
+      "master": 1097209
+    },
+    {
+      "title": "Sei Ein Faber Im Wind",
+      "year": 2017,
+      "type": "Studioalbum",
+      "master": 1212265
+    },
+    {
+      "title": "I Fucking Love My Life",
+      "year": 2019,
+      "type": "Studioalbum",
+      "master": 1629284
+    },
+    {
+      "title": "Ich Liebe Dich",
+      "year": 2020,
+      "type": "Studioalbum",
+      "master": 1874784
+    },
+    {
+      "title": "Orpheum",
+      "year": 2022,
+      "type": "Studioalbum",
+      "master": 2808710
+    },
+    {
+      "title": "Addio",
+      "year": 2023,
+      "type": "Studioalbum",
+      "master": 3511614
+    }
+  ]
+}

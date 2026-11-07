@@ -1,0 +1,21 @@
+{
+  "artist": "Paula Hartmann",
+  "discogsArtistIds": [
+    10852792
+  ],
+  "dump": "2026-11-01",
+  "releases": [
+    {
+      "title": "Nie Verliebt",
+      "year": 2022,
+      "type": "Studioalbum",
+      "master": 2584769
+    },
+    {
+      "title": "Kleine Feuer",
+      "year": 2024,
+      "type": "Studioalbum",
+      "master": 3418393
+    }
+  ]
+}

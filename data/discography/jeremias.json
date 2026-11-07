@@ -1,0 +1,27 @@
+{
+  "artist": "Jeremias",
+  "discogsArtistIds": [
+    7553263
+  ],
+  "dump": "2026-11-01",
+  "releases": [
+    {
+      "title": "Alma",
+      "year": 2020,
+      "type": "EP",
+      "master": 3048239
+    },
+    {
+      "title": "Golden Hour",
+      "year": 2021,
+      "type": "Studioalbum",
+      "master": 3048236
+    },
+    {
+      "title": "Von Wind Und Anonymität",
+      "year": 2023,
+      "type": "Studioalbum",
+      "master": 3263899
+    }
+  ]
+}

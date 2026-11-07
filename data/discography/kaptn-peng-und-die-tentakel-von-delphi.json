@@ -1,0 +1,27 @@
+{
+  "artist": "Käptn Peng & Die Tentakel von Delphi",
+  "discogsArtistIds": [
+    3491522
+  ],
+  "dump": "2026-11-01",
+  "releases": [
+    {
+      "title": "Expedition Ins O",
+      "year": 2013,
+      "type": "Studioalbum",
+      "master": 573263
+    },
+    {
+      "title": "Das Nullte Kapitel",
+      "year": 2017,
+      "type": "Studioalbum",
+      "master": 1183056
+    },
+    {
+      "title": "Drachendressur",
+      "year": 2019,
+      "type": "EP",
+      "master": 1600706
+    }
+  ]
+}

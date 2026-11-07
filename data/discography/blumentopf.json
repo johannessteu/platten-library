@@ -1,0 +1,81 @@
+{
+  "artist": "Blumentopf",
+  "discogsArtistIds": [
+    71256
+  ],
+  "dump": "2026-11-01",
+  "releases": [
+    {
+      "title": "Kein Zufall",
+      "year": 1997,
+      "type": "Studioalbum",
+      "master": 51232
+    },
+    {
+      "title": "Grosses Kino",
+      "year": 1999,
+      "type": "Studioalbum",
+      "master": 51208
+    },
+    {
+      "title": "Eins A",
+      "year": 2001,
+      "type": "Studioalbum",
+      "master": 51237
+    },
+    {
+      "title": "R'n'B",
+      "year": 2001,
+      "type": "EP",
+      "master": 51238
+    },
+    {
+      "title": "Gern Geschehen",
+      "year": 2003,
+      "type": "Studioalbum",
+      "master": 50886
+    },
+    {
+      "title": "Alt EP/Remixes",
+      "year": 2005,
+      "type": "EP",
+      "master": 1152227
+    },
+    {
+      "title": "Musikmaschine",
+      "year": 2006,
+      "type": "Studioalbum",
+      "master": 50888
+    },
+    {
+      "title": "Wir",
+      "year": 2010,
+      "type": "Studioalbum",
+      "master": 412811
+    },
+    {
+      "title": "Nieder Mit Der GbR",
+      "year": 2012,
+      "type": "Studioalbum",
+      "master": 472965
+    },
+    {
+      "title": "B-Seiten & Raritäten",
+      "year": 2013,
+      "type": "Compilation",
+      "master": 548092
+    },
+    {
+      "title": "Nieder Mit Der GbR_Live",
+      "year": 2013,
+      "type": "Studioalbum",
+      "master": 2913667
+    },
+    {
+      "title": "#HMLR",
+      "year": 2015,
+      "type": "Studioalbum",
+      "master": 803016
+    }
+  ]
+}

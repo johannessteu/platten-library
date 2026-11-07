@@ -1,0 +1,885 @@
+{
+  "artist": "Elton John",
+  "discogsArtistIds": [
+    57103
+  ],
+  "dump": "2026-11-01",
+  "releases": [
+    {
+      "title": "I've Been Loving You",
+      "year": 1968,
+      "type": "EP",
+      "master": 1597294
+    },
+    {
+      "title": "Empty Sky",
+      "year": 1969,
+      "type": "Studioalbum",
+      "master": 84198
+    },
+    {
+      "title": "Elton John",
+      "year": 1970,
+      "type": "Studioalbum",
+      "master": 84203
+    },
+    {
+      "title": "Tumbleweed Connection",
+      "year": 1970,
+      "type": "Studioalbum",
+      "master": 84216
+    },
+    {
+      "title": "17-11-70",
+      "year": 1971,
+      "type": "Studioalbum",
+      "master": 30532
+    },
+    {
+      "title": "A Very Special Collection",
+      "year": 1971,
+      "type": "Compilation",
+      "master": 681686
+    },
+    {
+      "title": "Best 4",
+      "year": 1971,
+      "type": "EP",
+      "master": 1481917
+    },
+    {
+      "title": "Friends",
+      "year": 1971,
+      "type": "Soundtrack",
+      "master": 86132
+    },
+    {
+      "title": "Friends",
+      "year": 1971,
+      "type": "EP",
+      "master": 771392
+    },
+    {
+      "title": "Madman Across The Water",
+      "year": 1971,
+      "type": "Studioalbum",
+      "master": 85550
+    },
+    {
+      "title": "Honky Château",
+      "year": 1972,
+      "type": "Studioalbum",
+      "master": 85555
+    },
+    {
+      "title": "Your Song",
+      "year": 1972,
+      "type": "Compilation",
+      "master": 1572399
+    },
+    {
+      "title": "Best 20",
+      "year": 1973,
+      "type": "Compilation",
+      "master": 1015073
+    },
+    {
+      "title": "Daniel",
+      "year": 1973,
+      "type": "EP",
+      "master": 3937088
+    },
+    {
+      "title": "Don't Shoot Me, I'm Only The Piano Player",
+      "year": 1973,
+      "type": "Studioalbum",
+      "master": 30583
+    },
+    {
+      "title": "From My Song Book",
+      "year": 1973,
+      "type": "Compilation",
+      "master": 85562
+    },
+    {
+      "title": "Goodbye Yellow Brick Road",
+      "year": 1973,
+      "type": "Studioalbum",
+      "master": 30577
+    },
+    {
+      "title": "Caribou",
+      "year": 1974,
+      "type": "Studioalbum",
+      "master": 85565
+    },
+    {
+      "title": "Lady Samantha",
+      "year": 1974,
+      "type": "Compilation",
+      "master": 86149
+    },
+    {
+      "title": "Stereo Pop Special-61 & 62",
+      "year": 1974,
+      "type": "Studioalbum",
+      "master": 853797
+    },
+    {
+      "title": "Captain Fantastic And The Brown Dirt Cowboy",
+      "year": 1975,
+      "type": "Studioalbum",
+      "master": 30569
+    },
+    {
+      "title": "Rock Of The Westies",
+      "year": 1975,
+      "type": "Studioalbum",
+      "master": 86110
+    },
+    {
+      "title": "Stereo Pop Special-95 & 96",
+      "year": 1975,
+      "type": "Studioalbum",
+      "master": 1037519
+    },
+    {
+      "title": "Blue Moves",
+      "year": 1976,
+      "type": "Studioalbum",
+      "master": 30558
+    },
+    {
+      "title": "Here And There",
+      "year": 1976,
+      "type": "Studioalbum",
+      "master": 86111
+    },
+    {
+      "title": "One Day At A Time",
+      "year": 1976,
+      "type": "Compilation",
+      "master": 1994983
+    },
+    {
+      "title": "18 Supershow Hits",
+      "year": 1977,
+      "type": "Compilation",
+      "master": 1507756
+    },
+    {
+      "title": "Elton John's Greatest Hits Volume II",
+      "year": 1977,
+      "type": "Compilation",
+      "master": 86120
+    },
+    {
+      "title": "Four From Four Eyes",
+      "year": 1977,
+      "type": "EP",
+      "master": 431173
+    },
+    {
+      "title": "Os Grandes Sucessos De Elton John",
+      "year": 1977,
+      "type": "Compilation",
+      "master": 1725758
+    },
+    {
+      "title": "The Story Of Pop",
+      "year": 1977,
+      "type": "Compilation",
+      "master": 1542113
+    },
+    {
+      "title": "A Single Man",
+      "year": 1978,
+      "type": "Studioalbum",
+      "master": 11909
+    },
+    {
+      "title": "Candle In The Wind",
+      "year": 1978,
+      "type": "Compilation",
+      "master": 1153074
+    },
+    {
+      "title": "Star Gold",
+      "year": 1978,
+      "type": "Compilation",
+      "master": 850205
+    },
+    {
+      "title": "20 Golden Greats",
+      "year": 1979,
+      "type": "Compilation",
+      "master": 1805227
+    },
+    {
+      "title": "Canciones De Oro",
+      "year": 1979,
+      "type": "Compilation",
+      "master": 1918212
+    },
+    {
+      "title": "Golden Collection",
+      "year": 1979,
+      "type": "Compilation",
+      "master": 400236
+    },
+    {
+      "title": "The Definitive Elton John",
+      "year": 1979,
+      "type": "Compilation",
+      "master": 597263
+    },
+    {
+      "title": "The Elton John 'Live' Collection",
+      "year": 1979,
+      "type": "Compilation",
+      "master": 757860
+    },
+    {
+      "title": "The Elton John Collection",
+      "year": 1979,
+      "type": "Compilation",
+      "master": 3226492
+    },
+    {
+      "title": "Victim Of Love",
+      "year": 1979,
+      "type": "Studioalbum",
+      "master": 86142
+    },
+    {
+      "title": "21 At 33",
+      "year": 1980,
+      "type": "Studioalbum",
+      "master": 30541
+    },
+    {
+      "title": "Alle Hits",
+      "year": 1980,
+      "type": "Compilation",
+      "master": 1728020
+    },
+    {
+      "title": "Honky Château / Don't Shoot Me I'm Only The Piano Player - 2 Album Special Cassette",
+      "year": 1980,
+      "type": "Compilation",
+      "master": 871197
+    },
+    {
+      "title": "Milestones",
+      "year": 1980,
+      "type": "Compilation",
+      "master": 567275
+    },
+    {
+      "title": "The Very Best Of....Elton John",
+      "year": 1980,
+      "type": "Compilation",
+      "master": 754498
+    },
+    {
+      "title": "Captain Fantastic And The Brown Dirt Cowboy / Elton John",
+      "year": 1981,
+      "type": "Compilation",
+      "master": 1253749
+    },
+    {
+      "title": "Elton John's Greatest Hits / Rock Of The Westies",
+      "year": 1981,
+      "type": "Compilation",
+      "master": 3710982
+    },
+    {
+      "title": "Greatest Hits",
+      "year": 1981,
+      "type": "Compilation",
+      "master": 877403
+    },
+    {
+      "title": "Greatest Hits Volume Il / Empty Sky",
+      "year": 1981,
+      "type": "Compilation",
+      "master": 3710985
+    },
+    {
+      "title": "Greatest Hits Volumes One And Two",
+      "year": 1981,
+      "type": "Compilation",
+      "master": 444792
+    },
+    {
+      "title": "The Album",
+      "year": 1981,
+      "type": "Compilation",
+      "master": 822387
+    },
+    {
+      "title": "The Best Of Elton John Volume One",
+      "year": 1981,
+      "type": "Compilation",
+      "master": 724550
+    },
+    {
+      "title": "The Best Of Elton John Volume Two",
+      "year": 1981,
+      "type": "Compilation",
+      "master": 590302
+    },
+    {
+      "title": "The Fox",
+      "year": 1981,
+      "type": "Studioalbum",
+      "master": 86281
+    },
+    {
+      "title": "Jump Up!",
+      "year": 1982,
+      "type": "Studioalbum",
+      "master": 86516
+    },
+    {
+      "title": "Your Songs (Die Grosse Edition Seiner Romantischen Welthits)",
+      "year": 1982,
+      "type": "Compilation",
+      "master": 588911
+    },
+    {
+      "title": "Die Großen Erfolge",
+      "year": 1983,
+      "type": "Compilation",
+      "master": 1396410
+    },
+    {
+      "title": "Double Pleasure",
+      "year": 1983,
+      "type": "Compilation",
+      "master": 3245002
+    },
+    {
+      "title": "The Elton Album - 23 Greatest Hits",
+      "year": 1983,
+      "type": "Compilation",
+      "master": 710181
+    },
+    {
+      "title": "The History Of Rock (Volume Nineteen)",
+      "year": 1983,
+      "type": "Compilation",
+      "master": 1237079
+    },
+    {
+      "title": "The New Collection",
+      "year": 1983,
+      "type": "Compilation",
+      "master": 796435
+    },
+    {
+      "title": "The New Collection - Vol. II",
+      "year": 1983,
+      "type": "Compilation",
+      "master": 754494
+    },
+    {
+      "title": "The Superior Sound Of Elton John (1970-1975)",
+      "year": 1983,
+      "type": "Compilation",
+      "master": 231889
+    },
+    {
+      "title": "Too Low For Zero",
+      "year": 1983,
+      "type": "Studioalbum",
+      "master": 87201
+    },
+    {
+      "title": "Visions: 33 Instrumental Favourites Volume 1",
+      "year": 1983,
+      "type": "Compilation",
+      "master": 3368461
+    },
+    {
+      "title": "Breaking Hearts",
+      "year": 1984,
+      "type": "Studioalbum",
+      "master": 74547
+    },
+    {
+      "title": "Goodbye Yellow Brick Road",
+      "year": 1984,
+      "type": "Compilation",
+      "master": 1788246
+    },
+    {
+      "title": "His Greatest Hits",
+      "year": 1984,
+      "type": "Compilation",
+      "master": 879574
+    },
+    {
+      "title": "The VideoSingles",
+      "year": 1984,
+      "type": "Compilation",
+      "master": 1641864
+    },
+    {
+      "title": "16 Grandes Exitos",
+      "year": 1985,
+      "type": "Compilation",
+      "master": 1725759
+    },
+    {
+      "title": "Biggest",
+      "year": 1985,
+      "type": "Compilation",
+      "master": 633339
+    },
+    {
+      "title": "Ice On Fire",
+      "year": 1985,
+      "type": "Studioalbum",
+      "master": 87214
+    },
+    {
+      "title": "Solo Éxitos",
+      "year": 1985,
+      "type": "Compilation",
+      "master": 1460793
+    },
+    {
+      "title": "The Best Of Elton John",
+      "year": 1985,
+      "type": "Compilation",
+      "master": 1756162
+    },
+    {
+      "title": "The Big Star",
+      "year": 1985,
+      "type": "Compilation",
+      "master": 1725754
+    },
+    {
+      "title": "Your Songs",
+      "year": 1985,
+      "type": "Compilation",
+      "master": 292207
+    },
+    {
+      "title": "A Arte De Elton John",
+      "year": 1986,
+      "type": "Compilation",
+      "master": 1488013
+    },
+    {
+      "title": "Leather Jackets",
+      "year": 1986,
+      "type": "Studioalbum",
+      "master": 90444
+    },
+    {
+      "title": "Elton John",
+      "year": 1987,
+      "type": "EP",
+      "master": 493620
+    },
+    {
+      "title": "Greatest Hits Volume III, 1979-1987",
+      "year": 1987,
+      "type": "Compilation",
+      "master": 126932
+    },
+    {
+      "title": "Honky Cat = Городской Бродяга",
+      "year": 1987,
+      "type": "Compilation",
+      "master": 252346
+    },
+    {
+      "title": "Live In Australia (With The Melbourne Symphony Orchestra)",
+      "year": 1987,
+      "type": "Livealbum",
+      "master": 101262
+    },
+    {
+      "title": "The King Biscuit Flower Hour",
+      "year": 1987,
+      "type": "Studioalbum",
+      "master": 3695490
+    },
+    {
+      "title": "Your Song = Твоя Песня",
+      "year": 1987,
+      "type": "Compilation",
+      "master": 251150
+    },
+    {
+      "title": "Reg Strikes Back",
+      "year": 1988,
+      "type": "Studioalbum",
+      "master": 95890
+    },
+    {
+      "title": "Sleeping With The Past",
+      "year": 1989,
+      "type": "Studioalbum",
+      "master": 97835
+    },
+    {
+      "title": "The Collection",
+      "year": 1989,
+      "type": "Compilation",
+      "master": 97838
+    },
+    {
+      "title": "The Complete Thom Bell Sessions",
+      "year": 1989,
+      "type": "Studioalbum",
+      "master": 303419
+    },
+    {
+      "title": "Best Of Elton John",
+      "year": 1990,
+      "type": "Compilation",
+      "master": 2070415
+    },
+    {
+      "title": "Elton John",
+      "year": 1990,
+      "type": "Compilation",
+      "master": 1173421
+    },
+    {
+      "title": "Excerpts From To Be Continued...",
+      "year": 1990,
+      "type": "Compilation",
+      "master": 936774
+    },
+    {
+      "title": "The Very Best Of Elton John",
+      "year": 1990,
+      "type": "Compilation",
+      "master": 97842
+    },
+    {
+      "title": "To Be Continued...",
+      "year": 1990,
+      "type": "Compilation",
+      "master": 230022
+    },
+    {
+      "title": "The Rock Collection (Elton John)",
+      "year": 1991,
+      "type": "Compilation",
+      "master": 1325914
+    },
+    {
+      "title": "Greatest Hits 1976-1986",
+      "year": 1992,
+      "type": "Compilation",
+      "master": 384784
+    },
+    {
+      "title": "Rare Masters",
+      "year": 1992,
+      "type": "Compilation",
+      "master": 304780
+    },
+    {
+      "title": "The One",
+      "year": 1992,
+      "type": "Studioalbum",
+      "master": 97857
+    },
+    {
+      "title": "Duets",
+      "year": 1993,
+      "type": "Studioalbum",
+      "master": 126944
+    },
+    {
+      "title": "Chartbusters Go Pop (20 Legendary Covers From 1969/70 As Sung By)",
+      "year": 1994,
+      "type": "Compilation",
+      "master": 356450
+    },
+    {
+      "title": "Classic Elton John",
+      "year": 1994,
+      "type": "Compilation",
+      "master": 663771
+    },
+    {
+      "title": "Der König Der Löwen (Deutscher Original Film-Soundtrack)",
+      "year": 1994,
+      "type": "Studioalbum",
+      "master": 3560150
+    },
+    {
+      "title": "El Rey León - Banda Sonora En Español",
+      "year": 1994,
+      "type": "Soundtrack",
+      "master": 3560186
+    },
+    {
+      "title": "Il Re Leone (Colonna Sonora Originale Italiana)",
+      "year": 1994,
+      "type": "Soundtrack",
+      "master": 3560165
+    },
+    {
+      "title": "Lví Král",
+      "year": 1994,
+      "type": "Soundtrack",
+      "master": 3560126
+    },
+    {
+      "title": "The Lion King (Original Motion Picture Soundtrack)",
+      "year": 1994,
+      "type": "Soundtrack",
+      "master": 41794
+    },
+    {
+      "title": "Love Songs",
+      "year": 1995,
+      "type": "Compilation",
+      "master": 101251
+    },
+    {
+      "title": "Made In England",
+      "year": 1995,
+      "type": "Studioalbum",
+      "master": 101254
+    },
+    {
+      "title": "The Very Best Of Elton John (Lo Mejor De Elton John)",
+      "year": 1995,
+      "type": "Compilation",
+      "master": 1190962
+    },
+    {
+      "title": "Celebrating Elton John's 50th Birthday",
+      "year": 1997,
+      "type": "Compilation",
+      "master": 567256
+    },
+    {
+      "title": "The Big Picture",
+      "year": 1997,
+      "type": "Studioalbum",
+      "master": 291880
+    },
+    {
+      "title": "Rarest Series",
+      "year": 1998,
+      "type": "Compilation",
+      "master": 1542199
+    },
+    {
+      "title": "Aida",
+      "year": 1999,
+      "type": "Soundtrack",
+      "master": 126930
+    },
+    {
+      "title": "The Muse (Original Motion Picture Soundtrack)",
+      "year": 1999,
+      "type": "Soundtrack",
+      "master": 918960
+    },
+    {
+      "title": "Aida (Original Broadway Cast Recording)",
+      "year": 2000,
+      "type": "Soundtrack",
+      "master": 730461
+    },
+    {
+      "title": "One Night Only (The Greatest Hits)",
+      "year": 2000,
+      "type": "Studioalbum",
+      "master": 126937
+    },
+    {
+      "title": "The Road To El Dorado",
+      "year": 2000,
+      "type": "Soundtrack",
+      "master": 314694
+    },
+    {
+      "title": "16 Legendary Covers From 1969/70",
+      "year": 2001,
+      "type": "Compilation",
+      "master": 637447
+    },
+    {
+      "title": "Songs From The West Coast",
+      "year": 2001,
+      "type": "Studioalbum",
+      "master": 126938
+    },
+    {
+      "title": "West Coast Songs",
+      "year": 2001,
+      "type": "Compilation",
+      "master": 415713
+    },
+    {
+      "title": "Greatest Hits 1970-2002",
+      "year": 2002,
+      "type": "Compilation",
+      "master": 92176
+    },
+    {
+      "title": "Disneys Der König Der Löwen (Das Broadway Musical Im Hamburger Hafen)",
+      "year": 2003,
+      "type": "Soundtrack",
+      "master": 970733
+    },
+    {
+      "title": "Kralj Lavova - Specijalno Izdanje (Originalna Filmska Glazba Na Hrvatskom)",
+      "year": 2003,
+      "type": "Soundtrack",
+      "master": 3560120
+    },
+    {
+      "title": "Remixed",
+      "year": 2003,
+      "type": "EP",
+      "master": 1618974
+    },
+    {
+      "title": "Peachtree Road",
+      "year": 2004,
+      "type": "Studioalbum",
+      "master": 126943
+    },
+    {
+      "title": "The Captain & The Kid",
+      "year": 2006,
+      "type": "Studioalbum",
+      "master": 126942
+    },
+    {
+      "title": "Rocket Man · The Definitive Hits",
+      "year": 2007,
+      "type": "Compilation",
+      "master": 304859
+    },
+    {
+      "title": "The Red Piano",
+      "year": 2008,
+      "type": "Studioalbum",
+      "master": 503058
+    },
+    {
+      "title": "Goodbye Yellow Brick Road + Don't Shoot Me I'm Only The Piano Player",
+      "year": 2009,
+      "type": "Compilation",
+      "master": 366438
+    },
+    {
+      "title": "The Union",
+      "year": 2010,
+      "type": "Studioalbum",
+      "master": 287084
+    },
+    {
+      "title": "5 Classic Albums (1970-1973)",
+      "year": 2012,
+      "type": "Compilation",
+      "master": 977801
+    },
+    {
+      "title": "Good Morning To The Night",
+      "year": 2012,
+      "type": "Studioalbum",
+      "master": 457068
+    },
+    {
+      "title": "The Diving Board",
+      "year": 2013,
+      "type": "Studioalbum",
+      "master": 598369
+    },
+    {
+      "title": "I Wish We Were Leaving",
+      "year": 2014,
+      "type": "EP",
+      "master": 673149
+    },
+    {
+      "title": "Legendary Covers '69/'70",
+      "year": 2014,
+      "type": "Studioalbum",
+      "master": 1064212
+    },
+    {
+      "title": "The Lion King (The Legacy Collection)",
+      "year": 2014,
+      "type": "Soundtrack",
+      "master": 4014661
+    },
+    {
+      "title": "Wonderful Crazy Night",
+      "year": 2016,
+      "type": "Studioalbum",
+      "master": 953440
+    },
+    {
+      "title": "Diamonds",
+      "year": 2017,
+      "type": "Compilation",
+      "master": 1269948
+    },
+    {
+      "title": "Live From Moscow",
+      "year": 2019,
+      "type": "Livealbum",
+      "master": 1533199
+    },
+    {
+      "title": "Jewel Box",
+      "year": 2020,
+      "type": "Compilation",
+      "master": 1839172
+    },
+    {
+      "title": "Regimental Sgt. Zippo",
+      "year": 2021,
+      "type": "Studioalbum",
+      "master": 2569637
+    },
+    {
+      "title": "The Lockdown Sessions",
+      "year": 2021,
+      "type": "Studioalbum",
+      "master": 2348338
+    },
+    {
+      "title": "Live From The Rainbow Theatre",
+      "year": 2025,
+      "type": "Livealbum",
+      "master": 3918841
+    },
+    {
+      "title": "The Devil Wears Prada A New Musical (Original West End Cast Recording)",
+      "year": 2025,
+      "type": "Soundtrack",
+      "master": 3986539
+    },
+    {
+      "title": "Who Believes In Angels?",
+      "year": 2025,
+      "type": "Studioalbum",
+      "master": 3801717
+    },
+    {
+      "title": "Positiva Presents Elton John The Remixes",
+      "year": 2026,
+      "type": "Compilation",
+      "master": 4210461
+    }
+  ]
+}

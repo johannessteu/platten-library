@@ -1,0 +1,63 @@
+{
+  "artist": "The Strokes",
+  "discogsArtistIds": [
+    55980
+  ],
+  "dump": "2026-11-01",
+  "releases": [
+    {
+      "title": "Is This It",
+      "year": 2001,
+      "type": "Studioalbum",
+      "master": 12347
+    },
+    {
+      "title": "Room On Fire",
+      "year": 2003,
+      "type": "Studioalbum",
+      "master": 12403
+    },
+    {
+      "title": "First Impressions Of Earth",
+      "year": 2006,
+      "type": "Studioalbum",
+      "master": 12410
+    },
+    {
+      "title": "Angles",
+      "year": 2011,
+      "type": "Studioalbum",
+      "master": 319839
+    },
+    {
+      "title": "Comedown Machine",
+      "year": 2013,
+      "type": "Studioalbum",
+      "master": 537613
+    },
+    {
+      "title": "Future Present Past EP",
+      "year": 2016,
+      "type": "EP",
+      "master": 1009914
+    },
+    {
+      "title": "The New Abnormal",
+      "year": 2020,
+      "type": "Studioalbum",
+      "master": 1712601
+    },
+    {
+      "title": "The Singles, Vol 1",
+      "year": 2023,
+      "type": "Compilation",
+      "master": 2992886
+    },
+    {
+      "title": "Reality Awaits",
+      "year": 2026,
+      "type": "Studioalbum",
+      "master": 4293972
+    }
+  ]
+}

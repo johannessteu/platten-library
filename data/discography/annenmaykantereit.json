@@ -1,0 +1,45 @@
+{
+  "artist": "AnnenMayKantereit",
+  "discogsArtistIds": [
+    4272333
+  ],
+  "dump": "2026-11-01",
+  "releases": [
+    {
+      "title": "AnnenMayKantereit",
+      "year": 2013,
+      "type": "Studioalbum",
+      "master": 1399842
+    },
+    {
+      "title": "Wird Schon Irgendwie Gehen",
+      "year": 2015,
+      "type": "EP",
+      "master": 827308
+    },
+    {
+      "title": "Alles Nix Konkretes",
+      "year": 2016,
+      "type": "Studioalbum",
+      "master": 974644
+    },
+    {
+      "title": "Schlagschatten",
+      "year": 2018,
+      "type": "Studioalbum",
+      "master": 1465551
+    },
+    {
+      "title": "12",
+      "year": 2020,
+      "type": "Studioalbum",
+      "master": 1847313
+    },
+    {
+      "title": "Es Ist Abend Und Wir Sitzen Bei Mir",
+      "year": 2023,
+      "type": "Studioalbum",
+      "master": 3005960
+    }
+  ]
+}

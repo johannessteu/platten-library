@@ -1,0 +1,645 @@
+{
+  "artist": "Fleetwood Mac",
+  "discogsArtistIds": [
+    47333
+  ],
+  "dump": "2026-11-01",
+  "releases": [
+    {
+      "title": "7936 South Rhodes",
+      "year": 1968,
+      "type": "Studioalbum",
+      "master": 426662
+    },
+    {
+      "title": "English Rose",
+      "year": 1968,
+      "type": "Studioalbum",
+      "master": 123742
+    },
+    {
+      "title": "Mr. Wonderful",
+      "year": 1968,
+      "type": "Studioalbum",
+      "master": 38715
+    },
+    {
+      "title": "Peter Green's Fleetwood Mac",
+      "year": 1968,
+      "type": "Studioalbum",
+      "master": 38785
+    },
+    {
+      "title": "Albatross / Jigsaw Puzzle Blues / Merry Go Round / Hellhound On My Trail",
+      "year": 1969,
+      "type": "EP",
+      "master": 1068005
+    },
+    {
+      "title": "Blues Jam At Chess",
+      "year": 1969,
+      "type": "Studioalbum",
+      "master": 263587
+    },
+    {
+      "title": "Blues Jam In Chicago - Volume One",
+      "year": 1969,
+      "type": "Studioalbum",
+      "master": 522125
+    },
+    {
+      "title": "The Biggest Thing Since Colossus",
+      "year": 1969,
+      "type": "Studioalbum",
+      "master": 305776
+    },
+    {
+      "title": "The Pious Bird Of Good Omen",
+      "year": 1969,
+      "type": "Compilation",
+      "master": 38872
+    },
+    {
+      "title": "Then Play On",
+      "year": 1969,
+      "type": "Studioalbum",
+      "master": 38756
+    },
+    {
+      "title": "Blues Jam In Chicago - Volume Two",
+      "year": 1970,
+      "type": "Studioalbum",
+      "master": 379355
+    },
+    {
+      "title": "Kiln House",
+      "year": 1970,
+      "type": "Studioalbum",
+      "master": 38682
+    },
+    {
+      "title": "Fleetwood Mac Greatest Hits",
+      "year": 1971,
+      "type": "Compilation",
+      "master": 119892
+    },
+    {
+      "title": "Future Games",
+      "year": 1971,
+      "type": "Studioalbum",
+      "master": 38688
+    },
+    {
+      "title": "The Original Fleetwood Mac",
+      "year": 1971,
+      "type": "Studioalbum",
+      "master": 109228
+    },
+    {
+      "title": "Bare Trees",
+      "year": 1972,
+      "type": "Studioalbum",
+      "master": 38626
+    },
+    {
+      "title": "The Best Of Fleetwood Mac",
+      "year": 1972,
+      "type": "Compilation",
+      "master": 147914
+    },
+    {
+      "title": "The Golden Era Of Pop Music",
+      "year": 1972,
+      "type": "Compilation",
+      "master": 398427
+    },
+    {
+      "title": "Fleetwood Mac / English Rose",
+      "year": 1973,
+      "type": "Compilation",
+      "master": 1644962
+    },
+    {
+      "title": "Mystery To Me",
+      "year": 1973,
+      "type": "Studioalbum",
+      "master": 38846
+    },
+    {
+      "title": "Penguin",
+      "year": 1973,
+      "type": "Studioalbum",
+      "master": 38841
+    },
+    {
+      "title": "Stereo Pop Special-52",
+      "year": 1973,
+      "type": "Studioalbum",
+      "master": 754432
+    },
+    {
+      "title": "Heroes Are Hard To Find",
+      "year": 1974,
+      "type": "Studioalbum",
+      "master": 38823
+    },
+    {
+      "title": "Fleetwood Mac",
+      "year": 1975,
+      "type": "Studioalbum",
+      "master": 38776
+    },
+    {
+      "title": "2 Originals Of Fleetwood Mac",
+      "year": 1976,
+      "type": "Compilation",
+      "master": 290861
+    },
+    {
+      "title": "The Best Of The Original Fleetwood Mac",
+      "year": 1976,
+      "type": "Compilation",
+      "master": 616053
+    },
+    {
+      "title": "The Original Fleetwood Mac / English Rose",
+      "year": 1976,
+      "type": "Compilation",
+      "master": 609221
+    },
+    {
+      "title": "Albatross",
+      "year": 1977,
+      "type": "Compilation",
+      "master": 38646
+    },
+    {
+      "title": "Rumours",
+      "year": 1977,
+      "type": "Studioalbum",
+      "master": 38722
+    },
+    {
+      "title": "Kiln House / Then Play On",
+      "year": 1978,
+      "type": "Compilation",
+      "master": 2119132
+    },
+    {
+      "title": "Man Of The World",
+      "year": 1978,
+      "type": "Compilation",
+      "master": 310396
+    },
+    {
+      "title": "Fleetwood Mac",
+      "year": 1979,
+      "type": "Compilation",
+      "master": 579089
+    },
+    {
+      "title": "Tusk",
+      "year": 1979,
+      "type": "Studioalbum",
+      "master": 38741
+    },
+    {
+      "title": "Black Magic Woman",
+      "year": 1980,
+      "type": "Compilation",
+      "master": 348463
+    },
+    {
+      "title": "Fleetwood Mac Live",
+      "year": 1980,
+      "type": "Livealbum",
+      "master": 38758
+    },
+    {
+      "title": "Fleetwood Mac / Rumours",
+      "year": 1981,
+      "type": "Compilation",
+      "master": 651007
+    },
+    {
+      "title": "Mirage",
+      "year": 1982,
+      "type": "Studioalbum",
+      "master": 38703
+    },
+    {
+      "title": "1968 - 1971 The Collection",
+      "year": 1983,
+      "type": "Compilation",
+      "master": 1749580
+    },
+    {
+      "title": "Starsound Collection",
+      "year": 1983,
+      "type": "Compilation",
+      "master": 1449758
+    },
+    {
+      "title": "Superstar Concert Series",
+      "year": 1983,
+      "type": "Studioalbum",
+      "master": 2436697
+    },
+    {
+      "title": "The History Of Rock (Volume Twelve)",
+      "year": 1983,
+      "type": "Compilation",
+      "master": 1237067
+    },
+    {
+      "title": "\"Live\" In Boston",
+      "year": 1984,
+      "type": "Livealbum",
+      "master": 297435
+    },
+    {
+      "title": "Cerulean",
+      "year": 1985,
+      "type": "Studioalbum",
+      "master": 534770
+    },
+    {
+      "title": "London Live '68",
+      "year": 1986,
+      "type": "Livealbum",
+      "master": 406557
+    },
+    {
+      "title": "Tango In The Night",
+      "year": 1987,
+      "type": "Studioalbum",
+      "master": 38735
+    },
+    {
+      "title": "The Collection",
+      "year": 1987,
+      "type": "Compilation",
+      "master": 543063
+    },
+    {
+      "title": "The Very Best Of",
+      "year": 1987,
+      "type": "Compilation",
+      "master": 42213
+    },
+    {
+      "title": "Greatest Hits",
+      "year": 1988,
+      "type": "Compilation",
+      "master": 119888
+    },
+    {
+      "title": "Greatest Hits Live",
+      "year": 1988,
+      "type": "Compilation",
+      "master": 38828
+    },
+    {
+      "title": "Oh Well (Greatest Hits Live)",
+      "year": 1988,
+      "type": "Compilation",
+      "master": 510374
+    },
+    {
+      "title": "The Early Years",
+      "year": 1988,
+      "type": "Compilation",
+      "master": 825561
+    },
+    {
+      "title": "Looking Back On Fleetwood Mac",
+      "year": 1989,
+      "type": "Compilation",
+      "master": 446779
+    },
+    {
+      "title": "Behind The Mask",
+      "year": 1990,
+      "type": "Studioalbum",
+      "master": 38633
+    },
+    {
+      "title": "British Blues Heroes",
+      "year": 1990,
+      "type": "Compilation",
+      "master": 862072
+    },
+    {
+      "title": "Collection Gold (16 Titres Originaux)",
+      "year": 1990,
+      "type": "Compilation",
+      "master": 777924
+    },
+    {
+      "title": "The Blues Years",
+      "year": 1990,
+      "type": "Compilation",
+      "master": 446777
+    },
+    {
+      "title": "Like It This Way",
+      "year": 1991,
+      "type": "Compilation",
+      "master": 1127889
+    },
+    {
+      "title": "Live",
+      "year": 1991,
+      "type": "Compilation",
+      "master": 659986
+    },
+    {
+      "title": "25 Years The Chain",
+      "year": 1992,
+      "type": "Compilation",
+      "master": 417050
+    },
+    {
+      "title": "Fleetwood Mac / Muddy Waters",
+      "year": 1992,
+      "type": "Compilation",
+      "master": 2851834
+    },
+    {
+      "title": "Live At The Marquee",
+      "year": 1992,
+      "type": "Livealbum",
+      "master": 505809
+    },
+    {
+      "title": "Selections From 25 Years The Chain",
+      "year": 1992,
+      "type": "Compilation",
+      "master": 704550
+    },
+    {
+      "title": "Madison Blues Live",
+      "year": 1994,
+      "type": "Livealbum",
+      "master": 666498
+    },
+    {
+      "title": "The Early Years 1967 - 1970 15 Track Video Collection",
+      "year": 1994,
+      "type": "Compilation",
+      "master": 1042748
+    },
+    {
+      "title": "Live At The BBC",
+      "year": 1995,
+      "type": "Livealbum",
+      "master": 447794
+    },
+    {
+      "title": "Time",
+      "year": 1995,
+      "type": "Studioalbum",
+      "master": 270139
+    },
+    {
+      "title": "The Dance",
+      "year": 1997,
+      "type": "Studioalbum",
+      "master": 128600
+    },
+    {
+      "title": "The Vaudeville Years Of Fleetwood Mac 1968 To 1970",
+      "year": 1998,
+      "type": "Studioalbum",
+      "master": 1067637
+    },
+    {
+      "title": "Live In Boston - Volume Three - Remastered",
+      "year": 1999,
+      "type": "Compilation",
+      "master": 184007
+    },
+    {
+      "title": "Live In Boston - Volume Two - Remastered",
+      "year": 1999,
+      "type": "Compilation",
+      "master": 184011
+    },
+    {
+      "title": "Shrine '69",
+      "year": 1999,
+      "type": "Studioalbum",
+      "master": 251251
+    },
+    {
+      "title": "The Boston Box",
+      "year": 1999,
+      "type": "Compilation",
+      "master": 653873
+    },
+    {
+      "title": "The Complete Blue Horizon Sessions 1967-1969",
+      "year": 1999,
+      "type": "Compilation",
+      "master": 314078
+    },
+    {
+      "title": "Alone With The Blues",
+      "year": 2000,
+      "type": "Compilation",
+      "master": 1206911
+    },
+    {
+      "title": "Show-Biz Blues 1968 To 1970 Volume 2",
+      "year": 2000,
+      "type": "Compilation",
+      "master": 671656
+    },
+    {
+      "title": "The Best Of Peter Green's Fleetwood Mac",
+      "year": 2002,
+      "type": "Compilation",
+      "master": 422007
+    },
+    {
+      "title": "The Very Best Of Fleetwood Mac",
+      "year": 2002,
+      "type": "Compilation",
+      "master": 211495
+    },
+    {
+      "title": "Madison Blues (Live & Studio Recordings)",
+      "year": 2003,
+      "type": "Compilation",
+      "master": 1469019
+    },
+    {
+      "title": "Say You Will",
+      "year": 2003,
+      "type": "Studioalbum",
+      "master": 38895
+    },
+    {
+      "title": "Live In Boston",
+      "year": 2004,
+      "type": "Soundtrack",
+      "master": 251003
+    },
+    {
+      "title": "Men Of The World: The Early Years",
+      "year": 2005,
+      "type": "Compilation",
+      "master": 885174
+    },
+    {
+      "title": "Trilogy - Three Classic Albums",
+      "year": 2005,
+      "type": "Compilation",
+      "master": 1459312
+    },
+    {
+      "title": "The Essential Fleetwood Mac",
+      "year": 2007,
+      "type": "Compilation",
+      "master": 1680567
+    },
+    {
+      "title": "Collections",
+      "year": 2008,
+      "type": "Compilation",
+      "master": 974410
+    },
+    {
+      "title": "Black Magic Woman: The Best Of Fleetwood Mac",
+      "year": 2009,
+      "type": "Compilation",
+      "master": 605434
+    },
+    {
+      "title": "3 Original Album Classics",
+      "year": 2010,
+      "type": "Compilation",
+      "master": 767807
+    },
+    {
+      "title": "Perfect In Every Way",
+      "year": 2010,
+      "type": "Compilation",
+      "master": 1176154
+    },
+    {
+      "title": "Original Album Series",
+      "year": 2012,
+      "type": "Compilation",
+      "master": 1028748
+    },
+    {
+      "title": "Extended Play",
+      "year": 2013,
+      "type": "EP",
+      "master": 840163
+    },
+    {
+      "title": "In Concert",
+      "year": 2016,
+      "type": "Livealbum",
+      "master": 995765
+    },
+    {
+      "title": "The Alternate Tusk",
+      "year": 2016,
+      "type": "Studioalbum",
+      "master": 988716
+    },
+    {
+      "title": "Alternate Mirage",
+      "year": 2017,
+      "type": "Studioalbum",
+      "master": 2877247
+    },
+    {
+      "title": "50 Years - Don't Stop",
+      "year": 2018,
+      "type": "Compilation",
+      "master": 1455116
+    },
+    {
+      "title": "The Alternate Tango In The Night",
+      "year": 2018,
+      "type": "Studioalbum",
+      "master": 1352330
+    },
+    {
+      "title": "1975 To 1987",
+      "year": 2019,
+      "type": "Compilation",
+      "master": 3787019
+    },
+    {
+      "title": "Before The Beginning (1968-1970 Live & Demo Sessions)",
+      "year": 2019,
+      "type": "Livealbum",
+      "master": 3470404
+    },
+    {
+      "title": "Before The Beginning Vol 1: Live 1968",
+      "year": 2019,
+      "type": "Livealbum",
+      "master": 1637409
+    },
+    {
+      "title": "The Alternate Fleetwood Mac",
+      "year": 2019,
+      "type": "Studioalbum",
+      "master": 1530706
+    },
+    {
+      "title": "1973 To 1974",
+      "year": 2020,
+      "type": "Compilation",
+      "master": 1811383
+    },
+    {
+      "title": "Before The Beginning Vol 2: Live & Demo Sessions 1970",
+      "year": 2020,
+      "type": "Livealbum",
+      "master": 1794368
+    },
+    {
+      "title": "The Alternate Rumours",
+      "year": 2020,
+      "type": "Studioalbum",
+      "master": 2715251
+    },
+    {
+      "title": "The Alternate Collection",
+      "year": 2022,
+      "type": "Compilation",
+      "master": 2882785
+    },
+    {
+      "title": "Rumours Live",
+      "year": 2023,
+      "type": "Livealbum",
+      "master": 3229870
+    },
+    {
+      "title": "Best Of 1969-1974",
+      "year": 2024,
+      "type": "Compilation",
+      "master": 3555829
+    },
+    {
+      "title": "Mirage Tour '82",
+      "year": 2024,
+      "type": "Studioalbum",
+      "master": 3603788
+    },
+    {
+      "title": "Live 1975",
+      "year": 2025,
+      "type": "Livealbum",
+      "master": 4052341
+    }
+  ]
+}

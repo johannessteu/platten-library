@@ -1,0 +1,597 @@
+{
+  "artist": "Queen",
+  "discogsArtistIds": [
+    81013
+  ],
+  "dump": "2026-11-01",
+  "releases": [
+    {
+      "title": "Queen",
+      "year": 1973,
+      "type": "Studioalbum",
+      "master": 5598
+    },
+    {
+      "title": "Queen II",
+      "year": 1974,
+      "type": "Studioalbum",
+      "master": 31526
+    },
+    {
+      "title": "Sheer Heart Attack",
+      "year": 1974,
+      "type": "Studioalbum",
+      "master": 5303
+    },
+    {
+      "title": "A Night At The Opera",
+      "year": 1975,
+      "type": "Studioalbum",
+      "master": 5863
+    },
+    {
+      "title": "A Day At The Races",
+      "year": 1976,
+      "type": "Studioalbum",
+      "master": 6108
+    },
+    {
+      "title": "Stereo Pop Special-119",
+      "year": 1976,
+      "type": "Studioalbum",
+      "master": 571513
+    },
+    {
+      "title": "News Of The World",
+      "year": 1977,
+      "type": "Studioalbum",
+      "master": 6414
+    },
+    {
+      "title": "Queen's First E.P.",
+      "year": 1977,
+      "type": "EP",
+      "master": 6341
+    },
+    {
+      "title": "Jazz",
+      "year": 1978,
+      "type": "Studioalbum",
+      "master": 7103
+    },
+    {
+      "title": "Queen Best 16 / クイーンのすべて",
+      "year": 1978,
+      "type": "Compilation",
+      "master": 1581759
+    },
+    {
+      "title": "Live Killers",
+      "year": 1979,
+      "type": "Livealbum",
+      "master": 7434
+    },
+    {
+      "title": "Flash Gordon (Original Soundtrack Music)",
+      "year": 1980,
+      "type": "Studioalbum",
+      "master": 12820
+    },
+    {
+      "title": "The Best Of Queen",
+      "year": 1980,
+      "type": "Compilation",
+      "master": 709764
+    },
+    {
+      "title": "The Game",
+      "year": 1980,
+      "type": "Studioalbum",
+      "master": 13248
+    },
+    {
+      "title": "Greatest Flix",
+      "year": 1981,
+      "type": "Compilation",
+      "master": 210909
+    },
+    {
+      "title": "Greatest Hits",
+      "year": 1981,
+      "type": "Compilation",
+      "master": 7941
+    },
+    {
+      "title": "Queen",
+      "year": 1981,
+      "type": "Compilation",
+      "master": 183924
+    },
+    {
+      "title": "Hot Space",
+      "year": 1982,
+      "type": "Studioalbum",
+      "master": 8150
+    },
+    {
+      "title": "A Night At The Opera / The Game",
+      "year": 1983,
+      "type": "Compilation",
+      "master": 2977894
+    },
+    {
+      "title": "Collection - 15 Of The Best",
+      "year": 1984,
+      "type": "Compilation",
+      "master": 408287
+    },
+    {
+      "title": "Golden Collection Vol. 2",
+      "year": 1984,
+      "type": "Compilation",
+      "master": 644364
+    },
+    {
+      "title": "The Works",
+      "year": 1984,
+      "type": "Studioalbum",
+      "master": 15357
+    },
+    {
+      "title": "The Works Video EP",
+      "year": 1984,
+      "type": "EP",
+      "master": 305614
+    },
+    {
+      "title": "Live In Concert",
+      "year": 1985,
+      "type": "Livealbum",
+      "master": 8103
+    },
+    {
+      "title": "Thank God It's Christmas",
+      "year": 1985,
+      "type": "Compilation",
+      "master": 779788
+    },
+    {
+      "title": "The Complete Works",
+      "year": 1985,
+      "type": "Compilation",
+      "master": 545845
+    },
+    {
+      "title": "A Kind Of Magic",
+      "year": 1986,
+      "type": "Studioalbum",
+      "master": 16143
+    },
+    {
+      "title": "Live Magic",
+      "year": 1986,
+      "type": "Livealbum",
+      "master": 7527
+    },
+    {
+      "title": "At The Beeb",
+      "year": 1989,
+      "type": "Studioalbum",
+      "master": 7601
+    },
+    {
+      "title": "The Miracle",
+      "year": 1989,
+      "type": "Studioalbum",
+      "master": 18755
+    },
+    {
+      "title": "The Miracle EP",
+      "year": 1989,
+      "type": "EP",
+      "master": 408674
+    },
+    {
+      "title": "Box Of Flix",
+      "year": 1991,
+      "type": "Compilation",
+      "master": 305618
+    },
+    {
+      "title": "Golden Queen",
+      "year": 1991,
+      "type": "Compilation",
+      "master": 2777885
+    },
+    {
+      "title": "Greatest Flix II",
+      "year": 1991,
+      "type": "Compilation",
+      "master": 747746
+    },
+    {
+      "title": "Greatest Hits II",
+      "year": 1991,
+      "type": "Compilation",
+      "master": 19198
+    },
+    {
+      "title": "Innuendo",
+      "year": 1991,
+      "type": "Studioalbum",
+      "master": 19705
+    },
+    {
+      "title": "Live 보헤미안 랩소디",
+      "year": 1991,
+      "type": "Compilation",
+      "master": 3736158
+    },
+    {
+      "title": "Off The Record Specials With Mary Turner",
+      "year": 1991,
+      "type": "Studioalbum",
+      "master": 1586520
+    },
+    {
+      "title": "Rocks (Volume One)",
+      "year": 1991,
+      "type": "Compilation",
+      "master": 3024068
+    },
+    {
+      "title": "Rocks (Volume Two)",
+      "year": 1991,
+      "type": "Compilation",
+      "master": 200876
+    },
+    {
+      "title": "Box Of Tricks",
+      "year": 1992,
+      "type": "Compilation",
+      "master": 812865
+    },
+    {
+      "title": "Classic Queen",
+      "year": 1992,
+      "type": "Compilation",
+      "master": 296144
+    },
+    {
+      "title": "Live At Wembley '86",
+      "year": 1992,
+      "type": "Livealbum",
+      "master": 16421
+    },
+    {
+      "title": "Five Live",
+      "year": 1993,
+      "type": "EP",
+      "master": 26125
+    },
+    {
+      "title": "Greatest Hits I & II",
+      "year": 1994,
+      "type": "Compilation",
+      "master": 23877
+    },
+    {
+      "title": "Killer Queen",
+      "year": 1994,
+      "type": "Compilation",
+      "master": 1181891
+    },
+    {
+      "title": "Live Box",
+      "year": 1995,
+      "type": "Compilation",
+      "master": 2478019
+    },
+    {
+      "title": "Made In Heaven",
+      "year": 1995,
+      "type": "Studioalbum",
+      "master": 20506
+    },
+    {
+      "title": "The Greatest History - Show Must Go On",
+      "year": 1995,
+      "type": "Compilation",
+      "master": 4074382
+    },
+    {
+      "title": "Queen Rocks",
+      "year": 1997,
+      "type": "Compilation",
+      "master": 23033
+    },
+    {
+      "title": "Queen Greatest Karaoke Hits Featuring The Original Queen Hit Recordings",
+      "year": 1998,
+      "type": "Compilation",
+      "master": 274337
+    },
+    {
+      "title": "Queen Rocks (The Video)",
+      "year": 1998,
+      "type": "Compilation",
+      "master": 408684
+    },
+    {
+      "title": "Greatest Flix III",
+      "year": 1999,
+      "type": "Compilation",
+      "master": 582540
+    },
+    {
+      "title": "Greatest Hits III",
+      "year": 1999,
+      "type": "Compilation",
+      "master": 26909
+    },
+    {
+      "title": "Greatest Hits I II & III (The Platinum Collection)",
+      "year": 2000,
+      "type": "Compilation",
+      "master": 265699
+    },
+    {
+      "title": "In Vision",
+      "year": 2000,
+      "type": "Compilation",
+      "master": 1849801
+    },
+    {
+      "title": "A Night At The Opera / A Day At The Races",
+      "year": 2002,
+      "type": "Compilation",
+      "master": 3268693
+    },
+    {
+      "title": "Gold",
+      "year": 2002,
+      "type": "Compilation",
+      "master": 2410477
+    },
+    {
+      "title": "Greatest Video Hits 1",
+      "year": 2002,
+      "type": "Compilation",
+      "master": 39608
+    },
+    {
+      "title": "Greatest Video Hits 2",
+      "year": 2003,
+      "type": "Compilation",
+      "master": 262111
+    },
+    {
+      "title": "Jewels",
+      "year": 2004,
+      "type": "Compilation",
+      "master": 408707
+    },
+    {
+      "title": "Queen On Fire (Live At The Bowl)",
+      "year": 2004,
+      "type": "Livealbum",
+      "master": 42370
+    },
+    {
+      "title": "Europe Live",
+      "year": 2005,
+      "type": "Livealbum",
+      "master": 1100249
+    },
+    {
+      "title": "Jewels I & II - Japan Tour 2005 Special Edition",
+      "year": 2005,
+      "type": "Compilation",
+      "master": 751765
+    },
+    {
+      "title": "Jewels II",
+      "year": 2005,
+      "type": "Compilation",
+      "master": 630757
+    },
+    {
+      "title": "Return Of The Champions",
+      "year": 2005,
+      "type": "Studioalbum",
+      "master": 93639
+    },
+    {
+      "title": "The Making Of Plus 30th Anniversary DVD Edition Of 'A Night At The Opera'",
+      "year": 2005,
+      "type": "Soundtrack",
+      "master": 355445
+    },
+    {
+      "title": "Stone Cold Classics",
+      "year": 2006,
+      "type": "Compilation",
+      "master": 1546964
+    },
+    {
+      "title": "Collection",
+      "year": 2007,
+      "type": "Compilation",
+      "master": 1512028
+    },
+    {
+      "title": "Karaoke Volume 1",
+      "year": 2007,
+      "type": "Compilation",
+      "master": 1548402
+    },
+    {
+      "title": "Rock Montreal",
+      "year": 2007,
+      "type": "Studioalbum",
+      "master": 36037
+    },
+    {
+      "title": "The A–Z Of Queen, Volume 1",
+      "year": 2007,
+      "type": "Compilation",
+      "master": 3212796
+    },
+    {
+      "title": "The Definitive Collection",
+      "year": 2007,
+      "type": "Compilation",
+      "master": 1794858
+    },
+    {
+      "title": "Collection 2",
+      "year": 2008,
+      "type": "Compilation",
+      "master": 1271192
+    },
+    {
+      "title": "Queen In Vision 2008",
+      "year": 2008,
+      "type": "Compilation",
+      "master": 1169417
+    },
+    {
+      "title": "The Cosmos Rocks",
+      "year": 2008,
+      "type": "Studioalbum",
+      "master": 93646
+    },
+    {
+      "title": "Absolute Greatest",
+      "year": 2009,
+      "type": "Compilation",
+      "master": 199840
+    },
+    {
+      "title": "Live In Ukraine",
+      "year": 2009,
+      "type": "Livealbum",
+      "master": 390870
+    },
+    {
+      "title": "Rock You",
+      "year": 2009,
+      "type": "Compilation",
+      "master": 295529
+    },
+    {
+      "title": "Deep Cuts 2 (1977-1982)",
+      "year": 2011,
+      "type": "Compilation",
+      "master": 354444
+    },
+    {
+      "title": "Deep Cuts 3 (1984-1995)",
+      "year": 2011,
+      "type": "Compilation",
+      "master": 387498
+    },
+    {
+      "title": "Deep Cuts Volume 1 (1973-1976)",
+      "year": 2011,
+      "type": "Compilation",
+      "master": 325778
+    },
+    {
+      "title": "Queen 40",
+      "year": 2011,
+      "type": "Compilation",
+      "master": 2283235
+    },
+    {
+      "title": "Queen 40 - Limited Edition Collector's Box Set",
+      "year": 2011,
+      "type": "Compilation",
+      "master": 611024
+    },
+    {
+      "title": "Hungarian Rhapsody (Live In Budapest)",
+      "year": 2012,
+      "type": "Livealbum",
+      "master": 490975
+    },
+    {
+      "title": "Icon",
+      "year": 2013,
+      "type": "Compilation",
+      "master": 829389
+    },
+    {
+      "title": "Live At The Rainbow '74",
+      "year": 2014,
+      "type": "Livealbum",
+      "master": 729723
+    },
+    {
+      "title": "Queen Forever",
+      "year": 2014,
+      "type": "Compilation",
+      "master": 755220
+    },
+    {
+      "title": "A Night At The Odeon",
+      "year": 2015,
+      "type": "Studioalbum",
+      "master": 916145
+    },
+    {
+      "title": "Studio Collection",
+      "year": 2015,
+      "type": "Compilation",
+      "master": 893989
+    },
+    {
+      "title": "Live In Japan",
+      "year": 2016,
+      "type": "Livealbum",
+      "master": 1115004
+    },
+    {
+      "title": "On Air",
+      "year": 2016,
+      "type": "Studioalbum",
+      "master": 1085496
+    },
+    {
+      "title": "Bohemian Rhapsody (The Original Soundtrack)",
+      "year": 2018,
+      "type": "Compilation",
+      "master": 1441148
+    },
+    {
+      "title": "Greatest Hits In Japan",
+      "year": 2020,
+      "type": "Compilation",
+      "master": 1669861
+    },
+    {
+      "title": "Live Around The World",
+      "year": 2020,
+      "type": "Livealbum",
+      "master": 1812226
+    },
+    {
+      "title": "Live Around The World EP",
+      "year": 2021,
+      "type": "EP",
+      "master": 2217691
+    },
+    {
+      "title": "Kizuna",
+      "year": 2024,
+      "type": "Compilation",
+      "master": 3547054
+    },
+    {
+      "title": "De Lane Lea Demos",
+      "year": 2025,
+      "type": "EP",
+      "master": 3810558
+    }
+  ]
+}

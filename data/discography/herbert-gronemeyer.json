@@ -1,0 +1,201 @@
+{
+  "artist": "Herbert Grönemeyer",
+  "discogsArtistIds": [
+    163850
+  ],
+  "dump": "2026-11-01",
+  "releases": [
+    {
+      "title": "Grönemeyer",
+      "year": 1979,
+      "type": "Studioalbum",
+      "master": 92712
+    },
+    {
+      "title": "Zwo",
+      "year": 1980,
+      "type": "Studioalbum",
+      "master": 92713
+    },
+    {
+      "title": "Total Egal",
+      "year": 1982,
+      "type": "Studioalbum",
+      "master": 92715
+    },
+    {
+      "title": "Gemischte Gefühle",
+      "year": 1983,
+      "type": "Studioalbum",
+      "master": 90569
+    },
+    {
+      "title": "1978 - 1980",
+      "year": 1984,
+      "type": "Compilation",
+      "master": 416973
+    },
+    {
+      "title": "4630 Bochum",
+      "year": 1984,
+      "type": "Studioalbum",
+      "master": 90570
+    },
+    {
+      "title": "Sprünge",
+      "year": 1986,
+      "type": "Studioalbum",
+      "master": 90571
+    },
+    {
+      "title": "? What's All This",
+      "year": 1988,
+      "type": "Studioalbum",
+      "master": 329076
+    },
+    {
+      "title": "Ö",
+      "year": 1988,
+      "type": "Studioalbum",
+      "master": 90573
+    },
+    {
+      "title": "Luxus",
+      "year": 1990,
+      "type": "Studioalbum",
+      "master": 92733
+    },
+    {
+      "title": "Die Ersten Vier",
+      "year": 1991,
+      "type": "Compilation",
+      "master": 3983938
+    },
+    {
+      "title": "So Gut '79-'83",
+      "year": 1992,
+      "type": "Compilation",
+      "master": 551956
+    },
+    {
+      "title": "Chaos",
+      "year": 1993,
+      "type": "Studioalbum",
+      "master": 92784
+    },
+    {
+      "title": "Cosmic Chaos",
+      "year": 1994,
+      "type": "Studioalbum",
+      "master": 1198253
+    },
+    {
+      "title": "Grönemeyer Live",
+      "year": 1995,
+      "type": "Livealbum",
+      "master": 92774
+    },
+    {
+      "title": "Unplugged Herbert",
+      "year": 1995,
+      "type": "Livealbum",
+      "master": 92776
+    },
+    {
+      "title": "Bleibt Alles Anders",
+      "year": 1998,
+      "type": "Studioalbum",
+      "master": 92777
+    },
+    {
+      "title": "Stand Der Dinge",
+      "year": 2000,
+      "type": "Studioalbum",
+      "master": 164822
+    },
+    {
+      "title": "Mensch",
+      "year": 2002,
+      "type": "Studioalbum",
+      "master": 92785
+    },
+    {
+      "title": "The World Quintet",
+      "year": 2002,
+      "type": "Studioalbum",
+      "master": 1288924
+    },
+    {
+      "title": "12",
+      "year": 2007,
+      "type": "Studioalbum",
+      "master": 92788
+    },
+    {
+      "title": "Was Muss Muss - Best Of",
+      "year": 2008,
+      "type": "Compilation",
+      "master": 516685
+    },
+    {
+      "title": "Schiffsverkehr",
+      "year": 2011,
+      "type": "Studioalbum",
+      "master": 335941
+    },
+    {
+      "title": "I Walk",
+      "year": 2012,
+      "type": "Studioalbum",
+      "master": 577147
+    },
+    {
+      "title": "A Most Wanted Man (Original Motion Picture Soundtrack)",
+      "year": 2014,
+      "type": "Soundtrack",
+      "master": 3858397
+    },
+    {
+      "title": "Dauernd Jetzt",
+      "year": 2014,
+      "type": "Studioalbum",
+      "master": 760825
+    },
+    {
+      "title": "Alles",
+      "year": 2016,
+      "type": "Compilation",
+      "master": 1155351
+    },
+    {
+      "title": "Live in Bochum",
+      "year": 2016,
+      "type": "Livealbum",
+      "master": 1098542
+    },
+    {
+      "title": "Tumult",
+      "year": 2018,
+      "type": "Studioalbum",
+      "master": 1440657
+    },
+    {
+      "title": "Tumult Clubkonzert Berlin",
+      "year": 2019,
+      "type": "Studioalbum",
+      "master": 1517261
+    },
+    {
+      "title": "Das Ist Los",
+      "year": 2023,
+      "type": "Studioalbum",
+      "master": 3028409
+    },
+    {
+      "title": "Von Allem Anders (Unplugged No 2)",
+      "year": 2025,
+      "type": "Livealbum",
+      "master": 4006207
+    }
+  ]
+}

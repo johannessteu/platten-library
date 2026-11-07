@@ -13,6 +13,7 @@
     "preview": "vite preview",
     "sync": "node scripts/sync.ts",
     "notes:todo": "node scripts/notes-todo.ts",
+    "discography": "node scripts/discography.ts",
     "check": "node scripts/check.ts"
   },
   "dependencies": {

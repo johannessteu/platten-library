@@ -1,0 +1,75 @@
+{
+  "artist": "Fatoni",
+  "discogsArtistIds": [
+    1708935
+  ],
+  "dump": "2026-11-01",
+  "releases": [
+    {
+      "title": "Solange Früher Alles Besser War",
+      "year": 2011,
+      "type": "Studioalbum",
+      "master": 1403173
+    },
+    {
+      "title": "Nocebo",
+      "year": 2013,
+      "type": "Studioalbum",
+      "master": 631783
+    },
+    {
+      "title": "Die Zeit Heilt Alle Hypes",
+      "year": 2014,
+      "type": "EP",
+      "master": 740504
+    },
+    {
+      "title": "C'Mon! EP",
+      "year": 2015,
+      "type": "EP",
+      "master": 921179
+    },
+    {
+      "title": "Yo, Picasso",
+      "year": 2015,
+      "type": "Studioalbum",
+      "master": 913154
+    },
+    {
+      "title": "Alle Liebe Nachträglich",
+      "year": 2017,
+      "type": "Studioalbum",
+      "master": 1253952
+    },
+    {
+      "title": "Andorra",
+      "year": 2019,
+      "type": "Studioalbum",
+      "master": 1571230
+    },
+    {
+      "title": "Delirium",
+      "year": 2021,
+      "type": "Studioalbum",
+      "master": 2130817
+    },
+    {
+      "title": "Wunderbare Welt",
+      "year": 2023,
+      "type": "Studioalbum",
+      "master": 3110856
+    },
+    {
+      "title": "BAWRS",
+      "year": 2025,
+      "type": "Studioalbum",
+      "master": 3834093
+    },
+    {
+      "title": "Drama Endet Nie",
+      "year": 2026,
+      "type": "Studioalbum",
+      "master": 4275540
+    }
+  ]
+}

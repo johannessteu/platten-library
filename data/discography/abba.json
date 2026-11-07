@@ -1,0 +1,753 @@
+{
+  "artist": "ABBA",
+  "discogsArtistIds": [
+    69866
+  ],
+  "dump": "2026-11-01",
+  "releases": [
+    {
+      "title": "Honey Honey",
+      "year": 1974,
+      "type": "Compilation",
+      "master": 953957
+    },
+    {
+      "title": "The Best Of",
+      "year": 1974,
+      "type": "Compilation",
+      "master": 1480243
+    },
+    {
+      "title": "Waterloo",
+      "year": 1974,
+      "type": "Studioalbum",
+      "master": 25702
+    },
+    {
+      "title": "Waterloo / Watch Out / Ring Ring / Rock 'N Roll Band",
+      "year": 1974,
+      "type": "EP",
+      "master": 1030115
+    },
+    {
+      "title": "ABBA",
+      "year": 1975,
+      "type": "Studioalbum",
+      "master": 5298
+    },
+    {
+      "title": "ABBA · Rubettes",
+      "year": 1975,
+      "type": "Compilation",
+      "master": 1040535
+    },
+    {
+      "title": "Greatest Hits",
+      "year": 1975,
+      "type": "Compilation",
+      "master": 13514
+    },
+    {
+      "title": "Honey-Honey",
+      "year": 1975,
+      "type": "Compilation",
+      "master": 433281
+    },
+    {
+      "title": "S.O.S.",
+      "year": 1975,
+      "type": "EP",
+      "master": 2334838
+    },
+    {
+      "title": "The Best Of ABBA",
+      "year": 1975,
+      "type": "Compilation",
+      "master": 49774
+    },
+    {
+      "title": "16 ABBA Hits",
+      "year": 1976,
+      "type": "Compilation",
+      "master": 216854
+    },
+    {
+      "title": "ABBA (Björn, Benny, Agnetha & Frida)",
+      "year": 1976,
+      "type": "Compilation",
+      "master": 595524
+    },
+    {
+      "title": "All About ABBA / Mamma Mia",
+      "year": 1976,
+      "type": "Compilation",
+      "master": 287896
+    },
+    {
+      "title": "Arrival",
+      "year": 1976,
+      "type": "Studioalbum",
+      "master": 5649
+    },
+    {
+      "title": "Golden Double Album",
+      "year": 1976,
+      "type": "Compilation",
+      "master": 791765
+    },
+    {
+      "title": "Pop Power (The Fantastic ABBA)",
+      "year": 1976,
+      "type": "Compilation",
+      "master": 449268
+    },
+    {
+      "title": "The Very Best Of ABBA (ABBA's Greatest Hits)",
+      "year": 1976,
+      "type": "Compilation",
+      "master": 49994
+    },
+    {
+      "title": "ABBA's Greatest Hits 20",
+      "year": 1977,
+      "type": "Compilation",
+      "master": 3788843
+    },
+    {
+      "title": "ABBA's Greatest Hits 24 = アバ・グレイテスト・ヒッツ24",
+      "year": 1977,
+      "type": "Compilation",
+      "master": 969715
+    },
+    {
+      "title": "The Album",
+      "year": 1977,
+      "type": "Soundtrack",
+      "master": 25721
+    },
+    {
+      "title": "Disco De Ouro",
+      "year": 1978,
+      "type": "Compilation",
+      "master": 577003
+    },
+    {
+      "title": "El Gran Show",
+      "year": 1979,
+      "type": "Compilation",
+      "master": 979320
+    },
+    {
+      "title": "Greatest Hits Vol. 2",
+      "year": 1979,
+      "type": "Compilation",
+      "master": 14124
+    },
+    {
+      "title": "Voulez-Vous",
+      "year": 1979,
+      "type": "Studioalbum",
+      "master": 25796
+    },
+    {
+      "title": "Ансамбль АББА",
+      "year": 1979,
+      "type": "Compilation",
+      "master": 2091958
+    },
+    {
+      "title": "Conociendome, Conociendote / Al Andar / Reina Danzante / Estoy Soñando",
+      "year": 1980,
+      "type": "EP",
+      "master": 287591
+    },
+    {
+      "title": "Gracias Por La Musica",
+      "year": 1980,
+      "type": "Studioalbum",
+      "master": 38052
+    },
+    {
+      "title": "I Have A Dream",
+      "year": 1980,
+      "type": "EP",
+      "master": 1294944
+    },
+    {
+      "title": "In Concert - 221",
+      "year": 1980,
+      "type": "Livealbum",
+      "master": 2015395
+    },
+    {
+      "title": "Super Trouper",
+      "year": 1980,
+      "type": "Studioalbum",
+      "master": 25734
+    },
+    {
+      "title": "The Magic Of ABBA",
+      "year": 1980,
+      "type": "Compilation",
+      "master": 470428
+    },
+    {
+      "title": "A Wie ABBA (Die Grössten Erfolge Von »Waterloo« Bis »Super Trouper«)",
+      "year": 1981,
+      "type": "Compilation",
+      "master": 5396
+    },
+    {
+      "title": "Aniversario Los 10 Años De ABBA",
+      "year": 1981,
+      "type": "Compilation",
+      "master": 289424
+    },
+    {
+      "title": "Dez Anos",
+      "year": 1981,
+      "type": "Compilation",
+      "master": 1127973
+    },
+    {
+      "title": "Happy New Year",
+      "year": 1981,
+      "type": "EP",
+      "master": 1412860
+    },
+    {
+      "title": "Slipping Through My Fingers",
+      "year": 1981,
+      "type": "Compilation",
+      "master": 1306856
+    },
+    {
+      "title": "The Visitors",
+      "year": 1981,
+      "type": "Studioalbum",
+      "master": 50014
+    },
+    {
+      "title": "Very Best Of ABBA",
+      "year": 1981,
+      "type": "Compilation",
+      "master": 684572
+    },
+    {
+      "title": "Antologia",
+      "year": 1982,
+      "type": "Compilation",
+      "master": 5343
+    },
+    {
+      "title": "Dancing Special",
+      "year": 1982,
+      "type": "Compilation",
+      "master": 1742457
+    },
+    {
+      "title": "Disco Special-1",
+      "year": 1982,
+      "type": "Compilation",
+      "master": 1742459
+    },
+    {
+      "title": "Disco Special-2",
+      "year": 1982,
+      "type": "Compilation",
+      "master": 1512442
+    },
+    {
+      "title": "Greatest Original Hits – 4 Track E.P.",
+      "year": 1982,
+      "type": "Compilation",
+      "master": 218242
+    },
+    {
+      "title": "Love Sounds Special",
+      "year": 1982,
+      "type": "Compilation",
+      "master": 1742458
+    },
+    {
+      "title": "Por Siempre...",
+      "year": 1982,
+      "type": "Compilation",
+      "master": 1685606
+    },
+    {
+      "title": "The Must Of ABBA",
+      "year": 1982,
+      "type": "Compilation",
+      "master": 556660
+    },
+    {
+      "title": "The Singles (The First Ten Years)",
+      "year": 1982,
+      "type": "Compilation",
+      "master": 49986
+    },
+    {
+      "title": "The Singles Vol. 1",
+      "year": 1982,
+      "type": "Compilation",
+      "master": 1075782
+    },
+    {
+      "title": "ABBA Again",
+      "year": 1983,
+      "type": "Compilation",
+      "master": 467917
+    },
+    {
+      "title": "From ABBA With Love",
+      "year": 1984,
+      "type": "Compilation",
+      "master": 11587
+    },
+    {
+      "title": "Hits! Hits! Hits!",
+      "year": 1984,
+      "type": "Compilation",
+      "master": 3313063
+    },
+    {
+      "title": "I Love ABBA",
+      "year": 1984,
+      "type": "Compilation",
+      "master": 14925
+    },
+    {
+      "title": "International",
+      "year": 1984,
+      "type": "Compilation",
+      "master": 704537
+    },
+    {
+      "title": "Love Songs - A Very Special Collection",
+      "year": 1984,
+      "type": "Compilation",
+      "master": 3788903
+    },
+    {
+      "title": "The Story Of ABBA",
+      "year": 1984,
+      "type": "Compilation",
+      "master": 1009928
+    },
+    {
+      "title": "The History Of Rock (Volume Thirty Three)",
+      "year": 1985,
+      "type": "Compilation",
+      "master": 1237122
+    },
+    {
+      "title": "Das Portrait",
+      "year": 1986,
+      "type": "Compilation",
+      "master": 561448
+    },
+    {
+      "title": "Live",
+      "year": 1986,
+      "type": "Livealbum",
+      "master": 24655
+    },
+    {
+      "title": "Revival",
+      "year": 1986,
+      "type": "Compilation",
+      "master": 641288
+    },
+    {
+      "title": "The Collection",
+      "year": 1987,
+      "type": "Compilation",
+      "master": 326914
+    },
+    {
+      "title": "The Hits",
+      "year": 1987,
+      "type": "Compilation",
+      "master": 49944
+    },
+    {
+      "title": "Absolute ABBA",
+      "year": 1988,
+      "type": "Compilation",
+      "master": 253389
+    },
+    {
+      "title": "Dancing Queen",
+      "year": 1988,
+      "type": "Compilation",
+      "master": 1449842
+    },
+    {
+      "title": "Money, Money, Money",
+      "year": 1988,
+      "type": "Compilation",
+      "master": 1379222
+    },
+    {
+      "title": "Os Grandes Sucessos",
+      "year": 1988,
+      "type": "Compilation",
+      "master": 1246834
+    },
+    {
+      "title": "The Collection Volume 2",
+      "year": 1988,
+      "type": "Compilation",
+      "master": 323289
+    },
+    {
+      "title": "The Hits 2",
+      "year": 1988,
+      "type": "Compilation",
+      "master": 49957
+    },
+    {
+      "title": "The Hits 3",
+      "year": 1988,
+      "type": "Compilation",
+      "master": 49961
+    },
+    {
+      "title": "The Winner Takes It All",
+      "year": 1988,
+      "type": "Compilation",
+      "master": 1229490
+    },
+    {
+      "title": "Waterloo",
+      "year": 1988,
+      "type": "Compilation",
+      "master": 897723
+    },
+    {
+      "title": "Love Songs",
+      "year": 1989,
+      "type": "Compilation",
+      "master": 296178
+    },
+    {
+      "title": "Music Biography ABBA 1974-1982",
+      "year": 1989,
+      "type": "Compilation",
+      "master": 500705
+    },
+    {
+      "title": "The Love Songs",
+      "year": 1989,
+      "type": "Compilation",
+      "master": 626616
+    },
+    {
+      "title": "The Very Best Of ABBA",
+      "year": 1989,
+      "type": "Compilation",
+      "master": 686135
+    },
+    {
+      "title": "Unforgettable ABBA",
+      "year": 1989,
+      "type": "Compilation",
+      "master": 3135168
+    },
+    {
+      "title": "Best Of The Best",
+      "year": 1990,
+      "type": "Compilation",
+      "master": 1419411
+    },
+    {
+      "title": "The Hits Box",
+      "year": 1990,
+      "type": "Compilation",
+      "master": 49951
+    },
+    {
+      "title": "The Songbook (Australian Chart Hits)",
+      "year": 1990,
+      "type": "Compilation",
+      "master": 658041
+    },
+    {
+      "title": "Gonna Sing You My Love Song",
+      "year": 1991,
+      "type": "Compilation",
+      "master": 1249032
+    },
+    {
+      "title": "Story",
+      "year": 1991,
+      "type": "Compilation",
+      "master": 776263
+    },
+    {
+      "title": "Gold (Greatest Hits)",
+      "year": 1992,
+      "type": "Compilation",
+      "master": 12249
+    },
+    {
+      "title": "Oro (Grandes Éxitos)",
+      "year": 1992,
+      "type": "Compilation",
+      "master": 47217
+    },
+    {
+      "title": "The ABBA Collection",
+      "year": 1992,
+      "type": "Compilation",
+      "master": 362409
+    },
+    {
+      "title": "Ihre Grössten Hits Und Mehr",
+      "year": 1993,
+      "type": "Compilation",
+      "master": 1828215
+    },
+    {
+      "title": "Mas Oro (Mas ABBA Exitos)",
+      "year": 1993,
+      "type": "Compilation",
+      "master": 654091
+    },
+    {
+      "title": "More ABBA Gold (More ABBA Hits)",
+      "year": 1993,
+      "type": "Compilation",
+      "master": 30060
+    },
+    {
+      "title": "Thank You For The Music",
+      "year": 1994,
+      "type": "Compilation",
+      "master": 237491
+    },
+    {
+      "title": "Voulez-Vous / Super Trouper / Arrival",
+      "year": 1995,
+      "type": "Compilation",
+      "master": 1922838
+    },
+    {
+      "title": "ABBA",
+      "year": 1996,
+      "type": "Compilation",
+      "master": 357446
+    },
+    {
+      "title": "Forever Gold",
+      "year": 1996,
+      "type": "Compilation",
+      "master": 38020
+    },
+    {
+      "title": "The Music Still Goes On",
+      "year": 1996,
+      "type": "Compilation",
+      "master": 448694
+    },
+    {
+      "title": "ABBA / Arrival",
+      "year": 1997,
+      "type": "Compilation",
+      "master": 650863
+    },
+    {
+      "title": "Ring Ring / Waterloo",
+      "year": 1997,
+      "type": "Compilation",
+      "master": 1922832
+    },
+    {
+      "title": "The Album / Voulez-Vous",
+      "year": 1997,
+      "type": "Compilation",
+      "master": 2286028
+    },
+    {
+      "title": "Love Stories",
+      "year": 1998,
+      "type": "Compilation",
+      "master": 39133
+    },
+    {
+      "title": "25 Jaar Na 'Waterloo' (De Grootste Hits In Nederland Deel 2)",
+      "year": 1999,
+      "type": "Compilation",
+      "master": 2090248
+    },
+    {
+      "title": "25 Jaar Na 'Waterloo' (De Grootste Hits In Nederland)",
+      "year": 1999,
+      "type": "Compilation",
+      "master": 669647
+    },
+    {
+      "title": "Classic ABBA",
+      "year": 1999,
+      "type": "Compilation",
+      "master": 366446
+    },
+    {
+      "title": "Giganty Rocka",
+      "year": 1999,
+      "type": "Compilation",
+      "master": 1710841
+    },
+    {
+      "title": "The Album / Super Trouper",
+      "year": 1999,
+      "type": "Compilation",
+      "master": 2364559
+    },
+    {
+      "title": "The Complete Singles Collection",
+      "year": 1999,
+      "type": "Compilation",
+      "master": 758213
+    },
+    {
+      "title": "The Originals",
+      "year": 1999,
+      "type": "Compilation",
+      "master": 1496449
+    },
+    {
+      "title": "Waterloo / Ring Ring / ABBA",
+      "year": 1999,
+      "type": "Compilation",
+      "master": 2565716
+    },
+    {
+      "title": "S.O.S. (The Best Of ABBA)",
+      "year": 2001,
+      "type": "Compilation",
+      "master": 690214
+    },
+    {
+      "title": "The ABBA Story",
+      "year": 2004,
+      "type": "Compilation",
+      "master": 361824
+    },
+    {
+      "title": "Todo ABBA (Sus Grandes Éxitos)",
+      "year": 2004,
+      "type": "Compilation",
+      "master": 1171654
+    },
+    {
+      "title": "18 Hits",
+      "year": 2005,
+      "type": "Compilation",
+      "master": 355253
+    },
+    {
+      "title": "Classic",
+      "year": 2005,
+      "type": "Compilation",
+      "master": 652867
+    },
+    {
+      "title": "The Complete Studio Recordings",
+      "year": 2005,
+      "type": "Compilation",
+      "master": 360350
+    },
+    {
+      "title": "16 Hits",
+      "year": 2006,
+      "type": "Compilation",
+      "master": 1158461
+    },
+    {
+      "title": "Number Ones",
+      "year": 2006,
+      "type": "Compilation",
+      "master": 30043
+    },
+    {
+      "title": "The Albums",
+      "year": 2008,
+      "type": "Compilation",
+      "master": 432922
+    },
+    {
+      "title": "4 Original Albums",
+      "year": 2010,
+      "type": "Compilation",
+      "master": 741982
+    },
+    {
+      "title": "20 Golden Collections",
+      "year": 2011,
+      "type": "Compilation",
+      "master": 1562897
+    },
+    {
+      "title": "Collected",
+      "year": 2011,
+      "type": "Compilation",
+      "master": 2126335
+    },
+    {
+      "title": "The Essential Collection",
+      "year": 2012,
+      "type": "Compilation",
+      "master": 474979
+    },
+    {
+      "title": "40/40 The Best Selection = 40/40 ～ベスト・セレクション",
+      "year": 2014,
+      "type": "Compilation",
+      "master": 1286083
+    },
+    {
+      "title": "Gold (Greatest Hits) - 40th Anniversary Edition",
+      "year": 2014,
+      "type": "Compilation",
+      "master": 3009482
+    },
+    {
+      "title": "Live At Wembley Arena",
+      "year": 2014,
+      "type": "Soundtrack",
+      "master": 737665
+    },
+    {
+      "title": "The Studio Albums",
+      "year": 2014,
+      "type": "Compilation",
+      "master": 1777196
+    },
+    {
+      "title": "Voyage",
+      "year": 2021,
+      "type": "Studioalbum",
+      "master": 2365009
+    },
+    {
+      "title": "CD Album Box Set",
+      "year": 2022,
+      "type": "Compilation",
+      "master": 2647886
+    },
+    {
+      "title": "Discografía",
+      "year": 2022,
+      "type": "Compilation",
+      "master": 2853088
+    },
+    {
+      "title": "The Singles (The First Fifty Years)",
+      "year": 2024,
+      "type": "Compilation",
+      "master": 3636144
+    }
+  ]
+}

@@ -1,0 +1,417 @@
+{
+  "artist": "Moby",
+  "discogsArtistIds": [
+    1031
+  ],
+  "dump": "2026-11-01",
+  "releases": [
+    {
+      "title": "Moby",
+      "year": 1992,
+      "type": "Studioalbum",
+      "master": 2829
+    },
+    {
+      "title": "Ambient",
+      "year": 1993,
+      "type": "Studioalbum",
+      "master": 2667
+    },
+    {
+      "title": "Early Underground",
+      "year": 1993,
+      "type": "Compilation",
+      "master": 2772
+    },
+    {
+      "title": "Move",
+      "year": 1993,
+      "type": "EP",
+      "master": 22029
+    },
+    {
+      "title": "The Story So Far",
+      "year": 1993,
+      "type": "Compilation",
+      "master": 2703710
+    },
+    {
+      "title": "Disk",
+      "year": 1995,
+      "type": "EP",
+      "master": 1069848
+    },
+    {
+      "title": "Everything Is Wrong",
+      "year": 1995,
+      "type": "Studioalbum",
+      "master": 2972
+    },
+    {
+      "title": "Animal Rights",
+      "year": 1996,
+      "type": "Studioalbum",
+      "master": 22315
+    },
+    {
+      "title": "Everything Is Wrong (DJ Mix Album)",
+      "year": 1996,
+      "type": "Compilation",
+      "master": 3023
+    },
+    {
+      "title": "Rare: The Collected B-Sides (1989–1993)",
+      "year": 1996,
+      "type": "Compilation",
+      "master": 22696
+    },
+    {
+      "title": "I Like To Score",
+      "year": 1997,
+      "type": "Compilation",
+      "master": 22673
+    },
+    {
+      "title": "Play",
+      "year": 1999,
+      "type": "Studioalbum",
+      "master": 82202
+    },
+    {
+      "title": "Mobysongs 1993-1998",
+      "year": 2000,
+      "type": "Compilation",
+      "master": 324284
+    },
+    {
+      "title": "Play: The B Sides",
+      "year": 2000,
+      "type": "Compilation",
+      "master": 82421
+    },
+    {
+      "title": "Play: The Outtakes",
+      "year": 2000,
+      "type": "Compilation",
+      "master": 2132296
+    },
+    {
+      "title": "Sonic Net All Access",
+      "year": 2000,
+      "type": "Compilation",
+      "master": 3381283
+    },
+    {
+      "title": "18",
+      "year": 2002,
+      "type": "Studioalbum",
+      "master": 39061
+    },
+    {
+      "title": "Play / 18",
+      "year": 2002,
+      "type": "Compilation",
+      "master": 575750
+    },
+    {
+      "title": "18 DVD + B Sides",
+      "year": 2003,
+      "type": "Compilation",
+      "master": 82213
+    },
+    {
+      "title": "Hotel",
+      "year": 2005,
+      "type": "Studioalbum",
+      "master": 82285
+    },
+    {
+      "title": "Hotel / 18",
+      "year": 2005,
+      "type": "Compilation",
+      "master": 1588515
+    },
+    {
+      "title": "Hotel Ambient",
+      "year": 2005,
+      "type": "Studioalbum",
+      "master": 808937
+    },
+    {
+      "title": "MH One",
+      "year": 2005,
+      "type": "EP",
+      "master": 3073064
+    },
+    {
+      "title": "MH Two",
+      "year": 2005,
+      "type": "EP",
+      "master": 2313442
+    },
+    {
+      "title": "Go - The Very Best Of Moby",
+      "year": 2006,
+      "type": "Compilation",
+      "master": 82246
+    },
+    {
+      "title": "Go - The Very Best Of Moby / Go - A Film About Moby",
+      "year": 2006,
+      "type": "Compilation",
+      "master": 2238208
+    },
+    {
+      "title": "Live (Hotel Tour 2005)",
+      "year": 2006,
+      "type": "Compilation",
+      "master": 82351
+    },
+    {
+      "title": "Go - The Very Best Of Moby (Remixed)",
+      "year": 2007,
+      "type": "Compilation",
+      "master": 82277
+    },
+    {
+      "title": "The BioShock EP",
+      "year": 2007,
+      "type": "EP",
+      "master": 83379
+    },
+    {
+      "title": "A Night In NYC",
+      "year": 2008,
+      "type": "Compilation",
+      "master": 1736806
+    },
+    {
+      "title": "Last Night",
+      "year": 2008,
+      "type": "Studioalbum",
+      "master": 82343
+    },
+    {
+      "title": "Last Night : Remixed",
+      "year": 2008,
+      "type": "Studioalbum",
+      "master": 93538
+    },
+    {
+      "title": "Last Night (Special.EP)",
+      "year": 2008,
+      "type": "EP",
+      "master": 2683076
+    },
+    {
+      "title": "Last Night / Hotel",
+      "year": 2008,
+      "type": "Compilation",
+      "master": 409117
+    },
+    {
+      "title": "Wait For Me",
+      "year": 2009,
+      "type": "Studioalbum",
+      "master": 146204
+    },
+    {
+      "title": "iTunes Live: From Montreal",
+      "year": 2010,
+      "type": "Livealbum",
+      "master": 1976716
+    },
+    {
+      "title": "Wait For Me. Remixes!",
+      "year": 2010,
+      "type": "Compilation",
+      "master": 271034
+    },
+    {
+      "title": "Be The One EP",
+      "year": 2011,
+      "type": "EP",
+      "master": 321034
+    },
+    {
+      "title": "Destroyed",
+      "year": 2011,
+      "type": "Studioalbum",
+      "master": 335738
+    },
+    {
+      "title": "Destroyed",
+      "year": 2011,
+      "type": "EP",
+      "master": 2313451
+    },
+    {
+      "title": "Innocents",
+      "year": 2013,
+      "type": "Studioalbum",
+      "master": 601907
+    },
+    {
+      "title": "Para EP",
+      "year": 2013,
+      "type": "EP",
+      "master": 536733
+    },
+    {
+      "title": "Past And Present",
+      "year": 2013,
+      "type": "Compilation",
+      "master": 2249242
+    },
+    {
+      "title": "The Lonely Night",
+      "year": 2013,
+      "type": "EP",
+      "master": 549319
+    },
+    {
+      "title": "Almost Home (Live At The Fonda, LA)",
+      "year": 2014,
+      "type": "Livealbum",
+      "master": 669093
+    },
+    {
+      "title": "The Ever After (Original Motion Picture Soundtrack)",
+      "year": 2015,
+      "type": "Soundtrack",
+      "master": 2847703
+    },
+    {
+      "title": "Long Ambients 1: Calm. Sleep.",
+      "year": 2016,
+      "type": "Studioalbum",
+      "master": 1195758
+    },
+    {
+      "title": "Los Ambient",
+      "year": 2016,
+      "type": "Studioalbum",
+      "master": 3653472
+    },
+    {
+      "title": "Music From Porcelain",
+      "year": 2016,
+      "type": "Compilation",
+      "master": 1014973
+    },
+    {
+      "title": "The Remixes",
+      "year": 2016,
+      "type": "Compilation",
+      "master": 1099163
+    },
+    {
+      "title": "The Remixes (Go, Porcelain, Natural Blues)",
+      "year": 2016,
+      "type": "EP",
+      "master": 1220469
+    },
+    {
+      "title": "Black Lacquer",
+      "year": 2017,
+      "type": "EP",
+      "master": 1213222
+    },
+    {
+      "title": "The Drum & Bass Remixes",
+      "year": 2017,
+      "type": "EP",
+      "master": 2741207
+    },
+    {
+      "title": "Everything Was Beautiful, And Nothing Hurt",
+      "year": 2018,
+      "type": "Studioalbum",
+      "master": 1321725
+    },
+    {
+      "title": "Everything Was Beautiful, And Nothing Hurt (Remixes)",
+      "year": 2018,
+      "type": "Studioalbum",
+      "master": 1974901
+    },
+    {
+      "title": "Everything Was Beautiful, And Nothing Hurt (The EastWest Sessions)",
+      "year": 2018,
+      "type": "Studioalbum",
+      "master": 2107885
+    },
+    {
+      "title": "Long Ambients Two",
+      "year": 2019,
+      "type": "Studioalbum",
+      "master": 1703450
+    },
+    {
+      "title": "All Visible Objects",
+      "year": 2020,
+      "type": "Studioalbum",
+      "master": 1736973
+    },
+    {
+      "title": "All Visible Objects (Remixed : DJ Set)",
+      "year": 2020,
+      "type": "Studioalbum",
+      "master": 1882440
+    },
+    {
+      "title": "Live Ambients Improvised Recordings Vol. I",
+      "year": 2020,
+      "type": "Livealbum",
+      "master": 2149804
+    },
+    {
+      "title": "Reprise",
+      "year": 2021,
+      "type": "Studioalbum",
+      "master": 2144653
+    },
+    {
+      "title": "Medusa",
+      "year": 2022,
+      "type": "EP",
+      "master": 2746031
+    },
+    {
+      "title": "Reprise Remixes",
+      "year": 2022,
+      "type": "Studioalbum",
+      "master": 2642273
+    },
+    {
+      "title": "Ambient 23",
+      "year": 2023,
+      "type": "Studioalbum",
+      "master": 2933098
+    },
+    {
+      "title": "Resound NYC",
+      "year": 2023,
+      "type": "Studioalbum",
+      "master": 3092691
+    },
+    {
+      "title": "Always Centered At Night",
+      "year": 2024,
+      "type": "Studioalbum",
+      "master": 3514432
+    },
+    {
+      "title": "Always Centered At Night - Remixes",
+      "year": 2024,
+      "type": "Compilation",
+      "master": 3678813
+    },
+    {
+      "title": "Future Quiet",
+      "year": 2026,
+      "type": "Studioalbum",
+      "master": 4140709
+    }
+  ]
+}

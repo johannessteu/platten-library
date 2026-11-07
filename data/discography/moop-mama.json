@@ -1,0 +1,51 @@
+{
+  "artist": "Moop Mama",
+  "discogsArtistIds": [
+    2288459
+  ],
+  "dump": "2026-11-01",
+  "releases": [
+    {
+      "title": "Deine Mutter",
+      "year": 2011,
+      "type": "Studioalbum",
+      "master": 360532
+    },
+    {
+      "title": "Das Rote Album",
+      "year": 2013,
+      "type": "Studioalbum",
+      "master": 615217
+    },
+    {
+      "title": "M.O.O.P.topia",
+      "year": 2016,
+      "type": "Studioalbum",
+      "master": 1028269
+    },
+    {
+      "title": "Live Vol. 1",
+      "year": 2017,
+      "type": "Livealbum",
+      "master": 1498514
+    },
+    {
+      "title": "Ich",
+      "year": 2018,
+      "type": "Studioalbum",
+      "master": 1422728
+    },
+    {
+      "title": "Live Vol. 2",
+      "year": 2020,
+      "type": "Livealbum",
+      "master": 1790100
+    },
+    {
+      "title": "Wieder Laut",
+      "year": 2024,
+      "type": "Studioalbum",
+      "master": 3724584
+    }
+  ]
+}

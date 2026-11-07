@@ -1,0 +1,45 @@
+{
+  "artist": "Seafret",
+  "discogsArtistIds": [
+    4225289
+  ],
+  "dump": "2026-11-01",
+  "releases": [
+    {
+      "title": "Give Me Something",
+      "year": 2014,
+      "type": "EP",
+      "master": 888756
+    },
+    {
+      "title": "Oceans - EP",
+      "year": 2015,
+      "type": "EP",
+      "master": 3328954
+    },
+    {
+      "title": "Tell Me It's Real",
+      "year": 2016,
+      "type": "Studioalbum",
+      "master": 1064770
+    },
+    {
+      "title": "Most Of Us Are Strangers",
+      "year": 2020,
+      "type": "Studioalbum",
+      "master": 1721471
+    },
+    {
+      "title": "Wonderland",
+      "year": 2023,
+      "type": "Studioalbum",
+      "master": 3328951
+    },
+    {
+      "title": "Fear Of Emotion",
+      "year": 2026,
+      "type": "Studioalbum",
+      "master": 4181316
+    }
+  ]
+}

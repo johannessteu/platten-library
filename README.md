@@ -52,6 +52,12 @@ Notes are written with the project skill in `.claude/skills/liner-notes`, a tune
 
 The same skill writes one artist profile per artist for „Mehr über …“: `data/artists/<slug>.json` against `schema/artist.schema.json` (the artist-profile skill's artist mode as JSON). The slug comes from `src/lib/artists.ts`; records credited differently but belonging to the same artist are mapped in `data/artists/aliases.json`.
 
+### Discographies from the Discogs data dump: `npm run discography`
+
+`scripts/discography.ts` extracts every artist's releases from the monthly Discogs data dump (https://data.discogs.com, CC0) into `data/discography/<slug>.json`. It needs `discogs_<date>_masters.xml.gz` and `discogs_<date>_releases.xml.gz` from the same month in `~/Downloads` (or `--dir <folder>`), streams both without unpacking, and takes about two minutes. It only builds artists that have no file yet; `--all` rebuilds everything.
+
+The site doesn't show these lists as they are: for big catalogues they contain regional editions, interview records and archive releases. They verify the curated discographies in the artist profiles instead: an entry with the same title and a year within one gets a link to its Discogs master page. In the November 2026 dump, 334 of 385 curated entries were confirmed this way.
+
 The weekly task runs it for every record without notes. Notes that fail `npm run check` and can't be fixed are left out, so the record shows “Noch keine Plattennotizen” until the next run.
 
 To write or rewrite notes yourself:
@@ -67,7 +73,8 @@ Then in Claude Code in this repo: `/liner-notes 28537558` or `/liner-notes alle 
 ```sh
 npm install
 npm run dev        # http://localhost:5173
-npm run check      # validates records, covers and notes
+npm run check      # validates records, covers, notes and artist profiles
+npm run discography  # discographies from the Discogs data dump in ~/Downloads
 npm run build      # type check + static build into dist/
 ```
 

@@ -1,0 +1,27 @@
+{
+  "artist": "Bruckner",
+  "discogsArtistIds": [
+    8042572
+  ],
+  "dump": "2026-11-01",
+  "releases": [
+    {
+      "title": "Sprungturm",
+      "year": 2019,
+      "type": "EP",
+      "master": 2376448
+    },
+    {
+      "title": "Hier",
+      "year": 2020,
+      "type": "Studioalbum",
+      "master": 1793784
+    },
+    {
+      "title": "Zerrissen",
+      "year": 2023,
+      "type": "Studioalbum",
+      "master": 4110484
+    }
+  ]
+}

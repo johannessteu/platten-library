@@ -1,0 +1,111 @@
+{
+  "artist": "Ed Sheeran",
+  "discogsArtistIds": [
+    2184482
+  ],
+  "dump": "2026-11-01",
+  "releases": [
+    {
+      "title": "You Need Me",
+      "year": 2009,
+      "type": "EP",
+      "master": 764405
+    },
+    {
+      "title": "Loose Change",
+      "year": 2010,
+      "type": "EP",
+      "master": 662654
+    },
+    {
+      "title": "No.5 Collaborations Project",
+      "year": 2010,
+      "type": "EP",
+      "master": 964925
+    },
+    {
+      "title": "Songs I Wrote With Amy",
+      "year": 2010,
+      "type": "EP",
+      "master": 721560
+    },
+    {
+      "title": "+",
+      "year": 2011,
+      "type": "Studioalbum",
+      "master": 380740
+    },
+    {
+      "title": "Live At The Bedford",
+      "year": 2011,
+      "type": "EP",
+      "master": 967768
+    },
+    {
+      "title": "iTunes Festival 2012",
+      "year": 2012,
+      "type": "EP",
+      "master": 1172129
+    },
+    {
+      "title": "+ and X",
+      "year": 2014,
+      "type": "Compilation",
+      "master": 3541591
+    },
+    {
+      "title": "X",
+      "year": 2014,
+      "type": "Studioalbum",
+      "master": 701407
+    },
+    {
+      "title": "5",
+      "year": 2015,
+      "type": "Compilation",
+      "master": 895135
+    },
+    {
+      "title": "÷ (Divide)",
+      "year": 2017,
+      "type": "Studioalbum",
+      "master": 1142167
+    },
+    {
+      "title": "No.6 Collaborations Project",
+      "year": 2019,
+      "type": "Studioalbum",
+      "master": 1576004
+    },
+    {
+      "title": "= (Equals)",
+      "year": 2021,
+      "type": "Studioalbum",
+      "master": 2356768
+    },
+    {
+      "title": "- (Subtract)",
+      "year": 2023,
+      "type": "Studioalbum",
+      "master": 3082271
+    },
+    {
+      "title": "Autumn Variations",
+      "year": 2023,
+      "type": "Studioalbum",
+      "master": 3255931
+    },
+    {
+      "title": "+-=÷× (Tour Collection)",
+      "year": 2024,
+      "type": "Compilation",
+      "master": 3609548
+    },
+    {
+      "title": "Play",
+      "year": 2025,
+      "type": "Studioalbum",
+      "master": 3969131
+    }
+  ]
+}

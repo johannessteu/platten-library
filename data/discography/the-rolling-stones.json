@@ -1,0 +1,1407 @@
+{
+  "artist": "The Rolling Stones",
+  "discogsArtistIds": [
+    20991
+  ],
+  "dump": "2026-11-01",
+  "releases": [
+    {
+      "title": "12 X 5",
+      "year": 1964,
+      "type": "Studioalbum",
+      "master": 30169
+    },
+    {
+      "title": "Around And Around",
+      "year": 1964,
+      "type": "Compilation",
+      "master": 188023
+    },
+    {
+      "title": "Carol",
+      "year": 1964,
+      "type": "EP",
+      "master": 320891
+    },
+    {
+      "title": "Five By Five",
+      "year": 1964,
+      "type": "EP",
+      "master": 97885
+    },
+    {
+      "title": "Greatest Hits",
+      "year": 1964,
+      "type": "Compilation",
+      "master": 246993
+    },
+    {
+      "title": "I Wanna Be Your Man",
+      "year": 1964,
+      "type": "EP",
+      "master": 320872
+    },
+    {
+      "title": "It's All Over Now",
+      "year": 1964,
+      "type": "EP",
+      "master": 615956
+    },
+    {
+      "title": "Not Fade Away",
+      "year": 1964,
+      "type": "EP",
+      "master": 54109
+    },
+    {
+      "title": "Route 66",
+      "year": 1964,
+      "type": "EP",
+      "master": 1020845
+    },
+    {
+      "title": "The Rolling Stones",
+      "year": 1964,
+      "type": "Studioalbum",
+      "master": 9715
+    },
+    {
+      "title": "The Rolling Stones",
+      "year": 1964,
+      "type": "EP",
+      "master": 54293
+    },
+    {
+      "title": "Time Is On My Side",
+      "year": 1964,
+      "type": "EP",
+      "master": 820923
+    },
+    {
+      "title": "Volume 2",
+      "year": 1964,
+      "type": "EP",
+      "master": 749800
+    },
+    {
+      "title": "(I Can't Get No) Satisfaction",
+      "year": 1965,
+      "type": "EP",
+      "master": 54187
+    },
+    {
+      "title": "Beat Beat Beat",
+      "year": 1965,
+      "type": "Compilation",
+      "master": 474241
+    },
+    {
+      "title": "Bravo",
+      "year": 1965,
+      "type": "Compilation",
+      "master": 275727
+    },
+    {
+      "title": "December's Children (And Everybody's)",
+      "year": 1965,
+      "type": "Studioalbum",
+      "master": 30401
+    },
+    {
+      "title": "Get Off Of My Cloud",
+      "year": 1965,
+      "type": "EP",
+      "master": 1022236
+    },
+    {
+      "title": "Get Off Of My Cloud = Bájate De Mi Nube",
+      "year": 1965,
+      "type": "EP",
+      "master": 1692795
+    },
+    {
+      "title": "Got Live If You Want It!",
+      "year": 1965,
+      "type": "EP",
+      "master": 52757
+    },
+    {
+      "title": "Heart Of Stone",
+      "year": 1965,
+      "type": "EP",
+      "master": 52798
+    },
+    {
+      "title": "No. 2",
+      "year": 1965,
+      "type": "Studioalbum",
+      "master": 54105
+    },
+    {
+      "title": "Out Of Our Heads",
+      "year": 1965,
+      "type": "Studioalbum",
+      "master": 194321
+    },
+    {
+      "title": "Out Of Our Heads - \"Satisfaccion\"",
+      "year": 1965,
+      "type": "EP",
+      "master": 1009896
+    },
+    {
+      "title": "Satisfaction / Off The Hook / Little Red Rooster / The Under Assistant West Coast Promotion Man",
+      "year": 1965,
+      "type": "EP",
+      "master": 3071510
+    },
+    {
+      "title": "The Last Time",
+      "year": 1965,
+      "type": "EP",
+      "master": 779065
+    },
+    {
+      "title": "The Rolling Stones, Now!",
+      "year": 1965,
+      "type": "Studioalbum",
+      "master": 54323
+    },
+    {
+      "title": "The Unstoppable Stones",
+      "year": 1965,
+      "type": "Compilation",
+      "master": 410194
+    },
+    {
+      "title": "19 The Nervous Breakdown / The Last Time / Surprise, Surprise / Play With Fire",
+      "year": 1966,
+      "type": "EP",
+      "master": 1692801
+    },
+    {
+      "title": "19.° Colapso Nervioso",
+      "year": 1966,
+      "type": "EP",
+      "master": 1804357
+    },
+    {
+      "title": "19th Nervous Breakdown",
+      "year": 1966,
+      "type": "EP",
+      "master": 634057
+    },
+    {
+      "title": "19th Nervous Breakdown / One More Try / Mercy Mercy / As Tears Go By",
+      "year": 1966,
+      "type": "EP",
+      "master": 1813127
+    },
+    {
+      "title": "Aftermath",
+      "year": 1966,
+      "type": "Studioalbum",
+      "master": 30194
+    },
+    {
+      "title": "As Tears Go By",
+      "year": 1966,
+      "type": "EP",
+      "master": 1315156
+    },
+    {
+      "title": "Big Hits (High Tide And Green Grass)",
+      "year": 1966,
+      "type": "Compilation",
+      "master": 30247
+    },
+    {
+      "title": "Got Live If You Want It!",
+      "year": 1966,
+      "type": "Livealbum",
+      "master": 52768
+    },
+    {
+      "title": "Mother's Little Helper",
+      "year": 1966,
+      "type": "EP",
+      "master": 1098112
+    },
+    {
+      "title": "Paint It, Black",
+      "year": 1966,
+      "type": "EP",
+      "master": 1314918
+    },
+    {
+      "title": "Pintalo De Negro",
+      "year": 1966,
+      "type": "Compilation",
+      "master": 1488496
+    },
+    {
+      "title": "The Best Of The Rolling Stones",
+      "year": 1966,
+      "type": "Compilation",
+      "master": 533357
+    },
+    {
+      "title": "The Rolling Stones Golden Album",
+      "year": 1966,
+      "type": "Compilation",
+      "master": 403956
+    },
+    {
+      "title": "The Rolling Stones In Action",
+      "year": 1966,
+      "type": "Compilation",
+      "master": 663222
+    },
+    {
+      "title": "A 2000 Años Luz de la Tierra / En Otra Tierra / Eres Arco Iris / Diente de Leon",
+      "year": 1967,
+      "type": "EP",
+      "master": 1692808
+    },
+    {
+      "title": "Between The Buttons",
+      "year": 1967,
+      "type": "Studioalbum",
+      "master": 30241
+    },
+    {
+      "title": "Corazon De Roca",
+      "year": 1967,
+      "type": "EP",
+      "master": 1098068
+    },
+    {
+      "title": "Corazón De Roca",
+      "year": 1967,
+      "type": "Compilation",
+      "master": 1452594
+    },
+    {
+      "title": "Flowers",
+      "year": 1967,
+      "type": "Compilation",
+      "master": 30396
+    },
+    {
+      "title": "Let's Spend The Night Together",
+      "year": 1967,
+      "type": "EP",
+      "master": 1541026
+    },
+    {
+      "title": "Their Satanic Majesties Request",
+      "year": 1967,
+      "type": "Studioalbum",
+      "master": 54327
+    },
+    {
+      "title": "Your Poll Winners: The Rolling Stones Golden Album",
+      "year": 1967,
+      "type": "Compilation",
+      "master": 701214
+    },
+    {
+      "title": "Beggars Banquet",
+      "year": 1968,
+      "type": "Studioalbum",
+      "master": 30220
+    },
+    {
+      "title": "Deluxe",
+      "year": 1968,
+      "type": "Compilation",
+      "master": 1015890
+    },
+    {
+      "title": "Jack Flash",
+      "year": 1968,
+      "type": "EP",
+      "master": 1341507
+    },
+    {
+      "title": "The Rolling Stones - Vol. 1",
+      "year": 1968,
+      "type": "EP",
+      "master": 4321254
+    },
+    {
+      "title": "The Rolling Stones!",
+      "year": 1968,
+      "type": "EP",
+      "master": 1625396
+    },
+    {
+      "title": "A Special Radio Promotion Album In Limited Edition. Not For Sale.",
+      "year": 1969,
+      "type": "Compilation",
+      "master": 469698
+    },
+    {
+      "title": "Great Hits",
+      "year": 1969,
+      "type": "Compilation",
+      "master": 52775
+    },
+    {
+      "title": "Honky Tonk Women",
+      "year": 1969,
+      "type": "EP",
+      "master": 1692783
+    },
+    {
+      "title": "Let It Bleed",
+      "year": 1969,
+      "type": "Studioalbum",
+      "master": 52967
+    },
+    {
+      "title": "Satisfaction",
+      "year": 1969,
+      "type": "EP",
+      "master": 3057704
+    },
+    {
+      "title": "Through The Past, Darkly (Big Hits Vol. 2)",
+      "year": 1969,
+      "type": "Compilation",
+      "master": 54334
+    },
+    {
+      "title": "Deja Que Sangre",
+      "year": 1970,
+      "type": "EP",
+      "master": 1784009
+    },
+    {
+      "title": "Double Deluxe",
+      "year": 1970,
+      "type": "Compilation",
+      "master": 752321
+    },
+    {
+      "title": "Get Yer Ya-Ya's Out! - The Rolling Stones In Concert",
+      "year": 1970,
+      "type": "Livealbum",
+      "master": 30405
+    },
+    {
+      "title": "Golden Prize",
+      "year": 1970,
+      "type": "Compilation",
+      "master": 1314793
+    },
+    {
+      "title": "A Golden History Of The Rolling Stones",
+      "year": 1971,
+      "type": "Compilation",
+      "master": 930493
+    },
+    {
+      "title": "Azucar Morena / Caballos Salvajes / Ecos De Mi Onda",
+      "year": 1971,
+      "type": "EP",
+      "master": 941162
+    },
+    {
+      "title": "Com Pack",
+      "year": 1971,
+      "type": "Compilation",
+      "master": 909735
+    },
+    {
+      "title": "Gimme Shelter",
+      "year": 1971,
+      "type": "Compilation",
+      "master": 232124
+    },
+    {
+      "title": "Hot Rocks 1964-1971",
+      "year": 1971,
+      "type": "Compilation",
+      "master": 52825
+    },
+    {
+      "title": "Max 20",
+      "year": 1971,
+      "type": "Compilation",
+      "master": 2661755
+    },
+    {
+      "title": "Milestones",
+      "year": 1971,
+      "type": "Compilation",
+      "master": 53029
+    },
+    {
+      "title": "Satisfacción",
+      "year": 1971,
+      "type": "EP",
+      "master": 1586546
+    },
+    {
+      "title": "Sticky Fingers",
+      "year": 1971,
+      "type": "Studioalbum",
+      "master": 23828
+    },
+    {
+      "title": "Stone Age",
+      "year": 1971,
+      "type": "Compilation",
+      "master": 186536
+    },
+    {
+      "title": "Stone Age / Got Live If You Want It !",
+      "year": 1971,
+      "type": "Compilation",
+      "master": 302221
+    },
+    {
+      "title": "The Best The Rolling Stones",
+      "year": 1971,
+      "type": "Compilation",
+      "master": 1577345
+    },
+    {
+      "title": "Exile On Main St.",
+      "year": 1972,
+      "type": "Studioalbum",
+      "master": 30303
+    },
+    {
+      "title": "Feliz = Happy",
+      "year": 1972,
+      "type": "EP",
+      "master": 1223511
+    },
+    {
+      "title": "More Hot Rocks (Big Hits & Fazed Cookies)",
+      "year": 1972,
+      "type": "Compilation",
+      "master": 54080
+    },
+    {
+      "title": "Rock 'N' Rolling Stones",
+      "year": 1972,
+      "type": "Compilation",
+      "master": 75871
+    },
+    {
+      "title": "The Rolling Stones =  ザ・ローリングストーンズ",
+      "year": 1972,
+      "type": "EP",
+      "master": 3784997
+    },
+    {
+      "title": "Goat's Head Soup",
+      "year": 1973,
+      "type": "Studioalbum",
+      "master": 38643
+    },
+    {
+      "title": "Live! The Rolling Stones Deluxe",
+      "year": 1973,
+      "type": "Compilation",
+      "master": 275730
+    },
+    {
+      "title": "No Stone Unturned",
+      "year": 1973,
+      "type": "Compilation",
+      "master": 54101
+    },
+    {
+      "title": "It's Only Rock 'N Roll",
+      "year": 1974,
+      "type": "Studioalbum",
+      "master": 52926
+    },
+    {
+      "title": "Made In The Shade",
+      "year": 1975,
+      "type": "Compilation",
+      "master": 53019
+    },
+    {
+      "title": "Metamorphosis",
+      "year": 1975,
+      "type": "Compilation",
+      "master": 38598
+    },
+    {
+      "title": "Rolled Gold - The Very Best Of The Rolling Stones Vol. 2",
+      "year": 1975,
+      "type": "Compilation",
+      "master": 798651
+    },
+    {
+      "title": "Rolled Gold (The Very Best Of The Rolling Stones)",
+      "year": 1975,
+      "type": "Compilation",
+      "master": 54176
+    },
+    {
+      "title": "Songs Of The Rolling Stones",
+      "year": 1975,
+      "type": "Compilation",
+      "master": 1291873
+    },
+    {
+      "title": "Black And Blue",
+      "year": 1976,
+      "type": "Studioalbum",
+      "master": 30254
+    },
+    {
+      "title": "Stones",
+      "year": 1976,
+      "type": "Compilation",
+      "master": 610262
+    },
+    {
+      "title": "30 Greatest Hits",
+      "year": 1977,
+      "type": "Compilation",
+      "master": 23879
+    },
+    {
+      "title": "A Rolling Stone Gathers No Moss",
+      "year": 1977,
+      "type": "Compilation",
+      "master": 908688
+    },
+    {
+      "title": "Get Stoned",
+      "year": 1977,
+      "type": "Compilation",
+      "master": 509295
+    },
+    {
+      "title": "Greatest Hits Vol. 1",
+      "year": 1977,
+      "type": "Compilation",
+      "master": 911592
+    },
+    {
+      "title": "Greatest Hits Vol. 2",
+      "year": 1977,
+      "type": "Compilation",
+      "master": 4102315
+    },
+    {
+      "title": "Greatest Hits Vol. II",
+      "year": 1977,
+      "type": "Compilation",
+      "master": 749807
+    },
+    {
+      "title": "Love You Live",
+      "year": 1977,
+      "type": "Livealbum",
+      "master": 53009
+    },
+    {
+      "title": "20 Super Hits By The Rolling Stones",
+      "year": 1978,
+      "type": "Compilation",
+      "master": 469976
+    },
+    {
+      "title": "Some Girls",
+      "year": 1978,
+      "type": "Studioalbum",
+      "master": 54219
+    },
+    {
+      "title": "We Want The Stones",
+      "year": 1978,
+      "type": "Compilation",
+      "master": 807237
+    },
+    {
+      "title": "20 Golden Greats",
+      "year": 1979,
+      "type": "Compilation",
+      "master": 1398891
+    },
+    {
+      "title": "A Slice Of Rock 'N Roll",
+      "year": 1979,
+      "type": "Compilation",
+      "master": 792244
+    },
+    {
+      "title": "Get More...Satisfaction",
+      "year": 1979,
+      "type": "Compilation",
+      "master": 1110576
+    },
+    {
+      "title": "Gold Superdisc",
+      "year": 1979,
+      "type": "Compilation",
+      "master": 933509
+    },
+    {
+      "title": "Profile",
+      "year": 1979,
+      "type": "Compilation",
+      "master": 909771
+    },
+    {
+      "title": "Time Waits For No One (Anthology 1971-1977)",
+      "year": 1979,
+      "type": "Compilation",
+      "master": 544759
+    },
+    {
+      "title": "Best Of The Rolling Stones",
+      "year": 1980,
+      "type": "Compilation",
+      "master": 3107757
+    },
+    {
+      "title": "Collector's Only",
+      "year": 1980,
+      "type": "Compilation",
+      "master": 202234
+    },
+    {
+      "title": "Emotional Rescue",
+      "year": 1980,
+      "type": "Studioalbum",
+      "master": 39888
+    },
+    {
+      "title": "Solid Rock",
+      "year": 1980,
+      "type": "Compilation",
+      "master": 186533
+    },
+    {
+      "title": "The Legends Of Rock",
+      "year": 1980,
+      "type": "Compilation",
+      "master": 1146113
+    },
+    {
+      "title": "The Rolling Stones (Only Rock & Roll?)",
+      "year": 1980,
+      "type": "Studioalbum",
+      "master": 2421676
+    },
+    {
+      "title": "The Rolling Stones Collection",
+      "year": 1980,
+      "type": "Compilation",
+      "master": 1542244
+    },
+    {
+      "title": "Collector's Item Vol. 2",
+      "year": 1981,
+      "type": "Compilation",
+      "master": 1348400
+    },
+    {
+      "title": "Collector's Item Vol.1",
+      "year": 1981,
+      "type": "Compilation",
+      "master": 3367426
+    },
+    {
+      "title": "Heart Breakers",
+      "year": 1981,
+      "type": "Compilation",
+      "master": 52802
+    },
+    {
+      "title": "Heartbreakers 14 Rock & Shake = ハートブレイカーズ 14 ロック&シェイク",
+      "year": 1981,
+      "type": "Compilation",
+      "master": 2255875
+    },
+    {
+      "title": "Portrait",
+      "year": 1981,
+      "type": "Compilation",
+      "master": 663142
+    },
+    {
+      "title": "Precious Stones",
+      "year": 1981,
+      "type": "Studioalbum",
+      "master": 482458
+    },
+    {
+      "title": "Rampant Rock",
+      "year": 1981,
+      "type": "Compilation",
+      "master": 1313276
+    },
+    {
+      "title": "Rolled Gold, Vol. 2 - The Best Of The Rolling Stones",
+      "year": 1981,
+      "type": "Compilation",
+      "master": 614596
+    },
+    {
+      "title": "Slow Rollers",
+      "year": 1981,
+      "type": "Compilation",
+      "master": 413879
+    },
+    {
+      "title": "Stones Story 2",
+      "year": 1981,
+      "type": "Compilation",
+      "master": 1298266
+    },
+    {
+      "title": "Stones Story 3",
+      "year": 1981,
+      "type": "Compilation",
+      "master": 2734088
+    },
+    {
+      "title": "Sucking In The Seventies",
+      "year": 1981,
+      "type": "Compilation",
+      "master": 38569
+    },
+    {
+      "title": "Tattoo You",
+      "year": 1981,
+      "type": "Studioalbum",
+      "master": 38549
+    },
+    {
+      "title": "1965/70",
+      "year": 1982,
+      "type": "Compilation",
+      "master": 366217
+    },
+    {
+      "title": "Latest Greatest",
+      "year": 1982,
+      "type": "Compilation",
+      "master": 428816
+    },
+    {
+      "title": "Rolling Tickets - Live Back",
+      "year": 1982,
+      "type": "Compilation",
+      "master": 821308
+    },
+    {
+      "title": "Still Life (American Concert 1981)",
+      "year": 1982,
+      "type": "Studioalbum",
+      "master": 54242
+    },
+    {
+      "title": "Story Of The Stones",
+      "year": 1982,
+      "type": "Compilation",
+      "master": 527279
+    },
+    {
+      "title": "The Best of Rolling Stones",
+      "year": 1982,
+      "type": "Compilation",
+      "master": 1630967
+    },
+    {
+      "title": "The Great Years",
+      "year": 1982,
+      "type": "Compilation",
+      "master": 1054619
+    },
+    {
+      "title": "The History Of Rock (Volume Ten)",
+      "year": 1982,
+      "type": "Compilation",
+      "master": 1237061
+    },
+    {
+      "title": "The Rolling Stones",
+      "year": 1982,
+      "type": "Compilation",
+      "master": 286612
+    },
+    {
+      "title": "The Rolling Stones 20 Years Vol.1",
+      "year": 1982,
+      "type": "Compilation",
+      "master": 1171678
+    },
+    {
+      "title": "The Rolling Stones 20 Years Vol.2",
+      "year": 1982,
+      "type": "Compilation",
+      "master": 1170505
+    },
+    {
+      "title": "The Rolling Stones Story (Volume 1)",
+      "year": 1982,
+      "type": "Compilation",
+      "master": 1002801
+    },
+    {
+      "title": "The Stones \"Live\"",
+      "year": 1982,
+      "type": "Compilation",
+      "master": 966957
+    },
+    {
+      "title": "16 Éxitos De Oro",
+      "year": 1983,
+      "type": "Compilation",
+      "master": 1161964
+    },
+    {
+      "title": "Chicago Chess Sessions",
+      "year": 1983,
+      "type": "Compilation",
+      "master": 613797
+    },
+    {
+      "title": "El Rock En El Tiempo",
+      "year": 1983,
+      "type": "Compilation",
+      "master": 1214170
+    },
+    {
+      "title": "I Can't Get No Satisfaction",
+      "year": 1983,
+      "type": "Compilation",
+      "master": 1749070
+    },
+    {
+      "title": "Rolling Stones Hits",
+      "year": 1983,
+      "type": "Compilation",
+      "master": 2690345
+    },
+    {
+      "title": "The Best Live History '65-66-69",
+      "year": 1983,
+      "type": "Compilation",
+      "master": 2622098
+    },
+    {
+      "title": "The Rolling Stones Story - Part 2 (The Rest Of The Best - Single-Tracks And Rarities From The Decca-Period)",
+      "year": 1983,
+      "type": "Compilation",
+      "master": 368430
+    },
+    {
+      "title": "Undercover",
+      "year": 1983,
+      "type": "Studioalbum",
+      "master": 54355
+    },
+    {
+      "title": "30 Años De Musica Rock - Salvat",
+      "year": 1984,
+      "type": "Compilation",
+      "master": 862816
+    },
+    {
+      "title": "Paquete De Exitos",
+      "year": 1984,
+      "type": "Compilation",
+      "master": 1537013
+    },
+    {
+      "title": "Rewind (1971-1984)",
+      "year": 1984,
+      "type": "Compilation",
+      "master": 54168
+    },
+    {
+      "title": "Satisfaction",
+      "year": 1984,
+      "type": "Compilation",
+      "master": 580431
+    },
+    {
+      "title": "The Rolling Stones Story",
+      "year": 1984,
+      "type": "Compilation",
+      "master": 506012
+    },
+    {
+      "title": "Hot Rocks 1",
+      "year": 1985,
+      "type": "Compilation",
+      "master": 585067
+    },
+    {
+      "title": "Hot Rocks 2",
+      "year": 1985,
+      "type": "Compilation",
+      "master": 585068
+    },
+    {
+      "title": "Dirty Work",
+      "year": 1986,
+      "type": "Studioalbum",
+      "master": 30285
+    },
+    {
+      "title": "Игра С Огнем = Play With Fire",
+      "year": 1988,
+      "type": "Compilation",
+      "master": 189957
+    },
+    {
+      "title": "Леди Джейн = Lady Jane",
+      "year": 1988,
+      "type": "Compilation",
+      "master": 327566
+    },
+    {
+      "title": "Hot Rocks Collection",
+      "year": 1989,
+      "type": "Compilation",
+      "master": 1958485
+    },
+    {
+      "title": "Say Ahhh!",
+      "year": 1989,
+      "type": "Compilation",
+      "master": 532275
+    },
+    {
+      "title": "Singles Collection✱ The London Years",
+      "year": 1989,
+      "type": "Compilation",
+      "master": 54215
+    },
+    {
+      "title": "Star Box",
+      "year": 1989,
+      "type": "Compilation",
+      "master": 907398
+    },
+    {
+      "title": "Steel Wheels",
+      "year": 1989,
+      "type": "Studioalbum",
+      "master": 54231
+    },
+    {
+      "title": "19 нервных песен / 19th Nervous Songs",
+      "year": 1990,
+      "type": "Compilation",
+      "master": 1980685
+    },
+    {
+      "title": "Another Side Of Steel Wheels",
+      "year": 1990,
+      "type": "Compilation",
+      "master": 1040492
+    },
+    {
+      "title": "Paint It Black",
+      "year": 1990,
+      "type": "EP",
+      "master": 446650
+    },
+    {
+      "title": "Steel Wheels Japan Tour 1990",
+      "year": 1990,
+      "type": "Compilation",
+      "master": 2359750
+    },
+    {
+      "title": "Flashpoint",
+      "year": 1991,
+      "type": "Studioalbum",
+      "master": 39896
+    },
+    {
+      "title": "Rarities On Compact Disc Volume #16",
+      "year": 1992,
+      "type": "Compilation",
+      "master": 2109541
+    },
+    {
+      "title": "Vol. 1 / Vol. 2",
+      "year": 1992,
+      "type": "Compilation",
+      "master": 3255784
+    },
+    {
+      "title": "Jump Back (The Best Of The Rolling Stones '71 - '93)",
+      "year": 1993,
+      "type": "Compilation",
+      "master": 52943
+    },
+    {
+      "title": "Rolling Stones",
+      "year": 1993,
+      "type": "Compilation",
+      "master": 4339527
+    },
+    {
+      "title": "Rarities On Compact Disc Volume #20",
+      "year": 1994,
+      "type": "Compilation",
+      "master": 762575
+    },
+    {
+      "title": "Volumen 1",
+      "year": 1994,
+      "type": "Compilation",
+      "master": 1588067
+    },
+    {
+      "title": "Volumen 2",
+      "year": 1994,
+      "type": "Compilation",
+      "master": 2117521
+    },
+    {
+      "title": "Voodoo Lounge",
+      "year": 1994,
+      "type": "Studioalbum",
+      "master": 54387
+    },
+    {
+      "title": "Stripped",
+      "year": 1995,
+      "type": "Studioalbum",
+      "master": 54255
+    },
+    {
+      "title": "The Rolling Stones Rock And Roll Circus",
+      "year": 1996,
+      "type": "Studioalbum",
+      "master": 241253
+    },
+    {
+      "title": "Bridges To Babylon",
+      "year": 1997,
+      "type": "Studioalbum",
+      "master": 30324
+    },
+    {
+      "title": "No Security",
+      "year": 1998,
+      "type": "Studioalbum",
+      "master": 326772
+    },
+    {
+      "title": "II",
+      "year": 2000,
+      "type": "Compilation",
+      "master": 1494875
+    },
+    {
+      "title": "Forty Licks",
+      "year": 2002,
+      "type": "Compilation",
+      "master": 52742
+    },
+    {
+      "title": "Remastered",
+      "year": 2002,
+      "type": "Compilation",
+      "master": 1225689
+    },
+    {
+      "title": "Grand Collection",
+      "year": 2003,
+      "type": "Compilation",
+      "master": 2190988
+    },
+    {
+      "title": "Live Licks",
+      "year": 2004,
+      "type": "Livealbum",
+      "master": 52993
+    },
+    {
+      "title": "A Bigger Bang",
+      "year": 2005,
+      "type": "Studioalbum",
+      "master": 30203
+    },
+    {
+      "title": "A Bigger Bang (World Tour 2005-2006)",
+      "year": 2005,
+      "type": "Compilation",
+      "master": 1076347
+    },
+    {
+      "title": "Rarities 1971-2003",
+      "year": 2005,
+      "type": "Compilation",
+      "master": 54152
+    },
+    {
+      "title": "therollingstonesinstoresampler",
+      "year": 2005,
+      "type": "Compilation",
+      "master": 1306239
+    },
+    {
+      "title": "In The 60's (Paper Sleeve Collection)",
+      "year": 2006,
+      "type": "Compilation",
+      "master": 2993417
+    },
+    {
+      "title": "To Brian With Love",
+      "year": 2006,
+      "type": "Compilation",
+      "master": 3014183
+    },
+    {
+      "title": "Greatest Albums In The Sixties",
+      "year": 2008,
+      "type": "Compilation",
+      "master": 3292960
+    },
+    {
+      "title": "Shine A Light",
+      "year": 2008,
+      "type": "Studioalbum",
+      "master": 38525
+    },
+    {
+      "title": "In Studio - Greatest Album From The '70s To '00s",
+      "year": 2010,
+      "type": "Compilation",
+      "master": 3292963
+    },
+    {
+      "title": "The Rolling Stones 1964-1969",
+      "year": 2010,
+      "type": "Compilation",
+      "master": 3100140
+    },
+    {
+      "title": "The Rolling Stones Remasters",
+      "year": 2010,
+      "type": "Compilation",
+      "master": 962774
+    },
+    {
+      "title": "Some Girls (Live In Texas '78)",
+      "year": 2011,
+      "type": "Livealbum",
+      "master": 442112
+    },
+    {
+      "title": "The Singles 1971-2006",
+      "year": 2011,
+      "type": "Compilation",
+      "master": 334136
+    },
+    {
+      "title": "Carrefour Market Box",
+      "year": 2012,
+      "type": "Compilation",
+      "master": 1314902
+    },
+    {
+      "title": "Checkerboard Lounge, Live Chicago 1981",
+      "year": 2012,
+      "type": "Livealbum",
+      "master": 469951
+    },
+    {
+      "title": "Grrr!",
+      "year": 2012,
+      "type": "Compilation",
+      "master": 492088
+    },
+    {
+      "title": "Rocks Off",
+      "year": 2012,
+      "type": "Compilation",
+      "master": 3291403
+    },
+    {
+      "title": "Sweet Summer Sun - Hyde Park Live",
+      "year": 2013,
+      "type": "Livealbum",
+      "master": 619698
+    },
+    {
+      "title": "The Very Best Of The Rolling Stones 1964-1971",
+      "year": 2013,
+      "type": "Compilation",
+      "master": 2680613
+    },
+    {
+      "title": "Hampton Coliseum (Live In 1981)",
+      "year": 2014,
+      "type": "Livealbum",
+      "master": 393036
+    },
+    {
+      "title": "Rolling Stones From The Vault - The Complete Series 1",
+      "year": 2015,
+      "type": "Compilation",
+      "master": 2811095
+    },
+    {
+      "title": "The Marquee Club (Live In 1971)",
+      "year": 2015,
+      "type": "Livealbum",
+      "master": 852453
+    },
+    {
+      "title": "Blue & Lonesome",
+      "year": 2016,
+      "type": "Studioalbum",
+      "master": 1097985
+    },
+    {
+      "title": "Havana Moon",
+      "year": 2016,
+      "type": "Studioalbum",
+      "master": 1089968
+    },
+    {
+      "title": "Past Masters",
+      "year": 2016,
+      "type": "Compilation",
+      "master": 1216040
+    },
+    {
+      "title": "The Rolling Stones In Mono",
+      "year": 2016,
+      "type": "Compilation",
+      "master": 1068842
+    },
+    {
+      "title": "Totally Stripped",
+      "year": 2016,
+      "type": "Studioalbum",
+      "master": 1010191
+    },
+    {
+      "title": "From The Vault Extra - Live In Japan - Tokyo Dome 1990.2.24",
+      "year": 2017,
+      "type": "Livealbum",
+      "master": 2657630
+    },
+    {
+      "title": "Totally Stripped Paris (Live At L'Olympia Paris 1995.07.03)",
+      "year": 2017,
+      "type": "Livealbum",
+      "master": 1162984
+    },
+    {
+      "title": "No Security. San Jose '99",
+      "year": 2018,
+      "type": "Studioalbum",
+      "master": 1392510
+    },
+    {
+      "title": "Premiers Succès",
+      "year": 2018,
+      "type": "Compilation",
+      "master": 1531848
+    },
+    {
+      "title": "Voodoo Lounge Uncut",
+      "year": 2018,
+      "type": "Studioalbum",
+      "master": 1455178
+    },
+    {
+      "title": "A Songbook With Friends",
+      "year": 2019,
+      "type": "Compilation",
+      "master": 1733520
+    },
+    {
+      "title": "Bridges To Bremen",
+      "year": 2019,
+      "type": "Studioalbum",
+      "master": 1142787
+    },
+    {
+      "title": "Honk",
+      "year": 2019,
+      "type": "Compilation",
+      "master": 1535463
+    },
+    {
+      "title": "Steel Wheels Live Atlantic City New Jersey",
+      "year": 2020,
+      "type": "Livealbum",
+      "master": 1811129
+    },
+    {
+      "title": "Totally Stripped (Live At The Paradiso Amsterdam 1995)",
+      "year": 2020,
+      "type": "Livealbum",
+      "master": 3158154
+    },
+    {
+      "title": "A Bigger Bang - Live On Copacabana Beach",
+      "year": 2021,
+      "type": "Soundtrack",
+      "master": 2206108
+    },
+    {
+      "title": "El Mocambo 1977",
+      "year": 2022,
+      "type": "Studioalbum",
+      "master": 2631494
+    },
+    {
+      "title": "Licked Live In NYC",
+      "year": 2022,
+      "type": "Livealbum",
+      "master": 2667752
+    },
+    {
+      "title": "Grrr Live!",
+      "year": 2023,
+      "type": "Livealbum",
+      "master": 2974555
+    },
+    {
+      "title": "Hackney Diamonds",
+      "year": 2023,
+      "type": "Studioalbum",
+      "master": 3267886
+    },
+    {
+      "title": "\"Still Life\" (Wembley Stadium 1982)",
+      "year": 2024,
+      "type": "Studioalbum",
+      "master": 4355958
+    },
+    {
+      "title": "Live At The Wiltern",
+      "year": 2024,
+      "type": "Livealbum",
+      "master": 3419635
+    },
+    {
+      "title": "Welcome To Shepherd's Bush",
+      "year": 2024,
+      "type": "Studioalbum",
+      "master": 3714126
+    },
+    {
+      "title": "Foreign Tongues",
+      "year": 2026,
+      "type": "Studioalbum",
+      "master": 4279554
+    }
+  ]
+}
