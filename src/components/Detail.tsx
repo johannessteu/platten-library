@@ -78,7 +78,6 @@ export function Detail({ rec, onClose, onPick, onFind }: Props) {
     <div class="overlay" ref={overlay}>
       <button type="button" class="overlay-bg" aria-label="Details schließen" tabIndex={-1} onClick={onClose} />
       <div class="dialog" role="dialog" aria-modal="true" aria-labelledby="detail-title">
-        <span class="sheet-handle" aria-hidden="true" />
         <article class="detail">
           <div class="detail-top">
             {notes ? <span class="tag">{notes.tag}</span> : <span class="detail-eyebrow">Aus dem Regal</span>}
