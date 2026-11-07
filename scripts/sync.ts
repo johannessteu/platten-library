@@ -1,11 +1,15 @@
 // Syncs data/records and public/covers with the Discogs collection.
 //
-//   npm run sync               add new records, drop removed ones, refresh basics
-//   npm run sync -- --refresh  also re-fetch details and covers for every record
+//   npm run sync                         add new records, drop removed ones, refresh basics
+//   npm run sync -- --refresh            also re-fetch details and tracklists for every record
+//   npm run sync -- --refresh --covers   and re-download every cover
 //
 // New records cost two API calls (release + master) plus one cover download.
-// Existing records are updated from the collection listing alone.
+// Existing records are updated from the collection listing alone. Existing covers
+// are kept unless --covers is given: Discogs re-encodes images, so re-downloading
+// them every week would only produce byte-level churn in git.
 
+import { existsSync } from 'node:fs';
 import { appendFile, mkdir, readdir, readFile, rm, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 import type { Label, RecordData, Track } from '../src/types.ts';
@@ -26,6 +30,7 @@ const RECORDS_DIR = path.join(ROOT, 'data/records');
 const COVERS_DIR = path.join(ROOT, 'public/covers');
 const USERNAME = process.env.DISCOGS_USERNAME || 'stolle87';
 const REFRESH = process.argv.includes('--refresh');
+const REFRESH_COVERS = process.argv.includes('--covers');
 
 const cleanName = (s: string) => s.replace(/\s+\(\d+\)$/, '').replace(/\*$/, '').trim();
 
@@ -172,7 +177,7 @@ async function main() {
       originalYear ??= b.year || null;
     }
 
-    if (!cover || REFRESH) {
+    if (!cover || REFRESH_COVERS || !existsSync(path.join(ROOT, 'public', cover))) {
       cover = (await saveCover(item.id, [b.cover_image, releaseImage])) ?? cover;
     }
 

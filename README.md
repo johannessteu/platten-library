@@ -29,7 +29,7 @@ Any time, locally: npm run sync, /liner-notes <id> in Claude Code, commit and pu
 - refreshes the basics of existing records from the collection listing;
 - removes records that are no longer in the collection (their liner notes stay in `data/notes`).
 
-No token is needed. Without one Discogs allows 25 requests a minute, so a new record takes about five seconds. `npm run sync -- --refresh` re-fetches details and covers for every record.
+No token is needed. Without one Discogs allows 25 requests a minute, so a new record takes about five seconds. `npm run sync -- --refresh` re-fetches details and tracklists for every record; add `--covers` to re-download the covers as well (they are kept otherwise, since Discogs re-encodes images and every download would show up as a change in git).
 
 The **Weekly update** workflow runs `npm run sync -- --refresh` every Friday at 04:23 UTC, writes notes for new records (below), commits any changes to `main` and deploys. Run it by hand from the Actions tab (“Run workflow”) after adding records if you don't want to wait for Friday.
 
