@@ -1,0 +1,101 @@
+{
+  "id": 11742265,
+  "artist": "Various",
+  "title": "Swing With The Best Big Bands",
+  "year": 2016,
+  "originalYear": 2016,
+  "genres": [
+    "Jazz"
+  ],
+  "styles": [
+    "Swing"
+  ],
+  "format": "LP",
+  "formatDetails": [
+    "LP",
+    "Compilation"
+  ],
+  "labels": [
+    {
+      "name": "BHM Productions",
+      "catno": "BHM 1096-1"
+    }
+  ],
+  "country": "Germany",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Opus One",
+      "duration": "2:59"
+    },
+    {
+      "position": "A2",
+      "title": "For Dancers Only",
+      "duration": "2:43"
+    },
+    {
+      "position": "A3",
+      "title": "A Foggy Day",
+      "duration": "2:17"
+    },
+    {
+      "position": "A4",
+      "title": "The Man With The Golden Arm",
+      "duration": "2:48"
+    },
+    {
+      "position": "A5",
+      "title": "Peter Gunn",
+      "duration": "1:54"
+    },
+    {
+      "position": "A6",
+      "title": "All The Things You Are",
+      "duration": "3:19"
+    },
+    {
+      "position": "A7",
+      "title": "Take The “A” Train",
+      "duration": "3:47"
+    },
+    {
+      "position": "A8",
+      "title": "Paulette’s Boogie Woogie",
+      "duration": "4:49"
+    },
+    {
+      "position": "B1",
+      "title": "Sing, Sing, Sing",
+      "duration": "8:08"
+    },
+    {
+      "position": "B2",
+      "title": "Lullaby Of Birdland",
+      "duration": "3:21"
+    },
+    {
+      "position": "B3",
+      "title": "Two O’clock Jump",
+      "duration": "2:59"
+    },
+    {
+      "position": "B4",
+      "title": "When I Take My Sugar To Tea",
+      "duration": "2:37"
+    },
+    {
+      "position": "B5",
+      "title": "Basin Street Blues",
+      "duration": "5:50"
+    },
+    {
+      "position": "B6",
+      "title": "Top Hat, White Tie And Tails",
+      "duration": "2:41"
+    }
+  ],
+  "addedAt": "2026-09-28",
+  "cover": "covers/11742265.jpg",
+  "discogsUrl": "https://www.discogs.com/release/11742265",
+  "sortName": "various"
+}

@@ -1,0 +1,32 @@
+{
+  "kicker": "Sheffield · aktiv seit 2002 · Indie-Rock mit Wüstenrock-Riffs",
+  "tag": "Lässig nach Mitternacht",
+  "record": "Das fünfte Album der Arctic Monkeys und das, mit dem sie weltweit zu Headlinern wurden. Statt drahtiger Indie-Gitarren gibt es schwere Riffs, Hip-Hop-Grooves am Schlagzeug und Falsett-Chöre. In Großbritannien stieg es direkt auf Platz 1 ein.",
+  "facts": [
+    { "k": "Erschienen", "v": "September 2013" },
+    { "k": "Label", "v": "Domino" },
+    { "k": "Produktion", "v": "James Ford, Co-Produktion Ross Orton" },
+    { "k": "Aufgenommen", "v": "Sage & Sound, Los Angeles; Rancho De La Luna, Joshua Tree" }
+  ],
+  "start": [
+    { "t": "Do I Wanna Know?", "why": "Der Opener mit diesem Riff, und ihr erster Song in den US-Billboard-Hot-100." },
+    { "t": "R U Mine?", "why": "Die schnelle, rohe Single, die schon 2012 erschien, bevor das Album fertig war." },
+    { "t": "Why'd You Only Call Me When You're High?", "why": "Kurz und groovig: der Hip-Hop-lastigste Moment der Platte." }
+  ],
+  "band": "Gegründet 2002 in Sheffield von den Schulfreunden Alex Turner, Matt Helders, Andy Nicholson und Jamie Cook; 2006 übernahm Nick O’Malley den Bass. Fans verbreiteten ihre verschenkten Demos im Netz, so entstand eine Anhängerschaft, bevor Domino die Band 2005 unter Vertrag nahm. Ihr Debüt von 2006 war damals das am schnellsten verkaufte Debütalbum der britischen Chartgeschichte. Seitdem haben sie ihren Sound mit fast jeder Platte verändert.",
+  "trivia": [
+    "Josh Homme von Queens of the Stone Age singt im Hintergrund bei „One for the Road“ und „Knee Socks“.",
+    "Der Schlusssong „I Wanna Be Yours“ vertont ein Gedicht des Punk-Poeten John Cooper Clarke.",
+    "AM gewann 2014 den Brit Award als British Album of the Year und stand auf der Shortlist des Mercury Prize."
+  ],
+  "similar": [
+    { "a": "Queens of the Stone Age", "why": "Die Wüstenrock-Riffs: Josh Homme ist auf AM zu hören, ein Teil entstand in seinem Rancho De La Luna." },
+    { "a": "The Last Shadow Puppets", "why": "Alex Turners Nebenprojekt: dieselbe Lässigkeit, mit Streichern und Breitwand-Sound." },
+    { "a": "The Strokes", "why": "Die Garage-Rock-Linie, aus der die frühen Arctic Monkeys kamen, mit cool-lässigem Gesang." }
+  ],
+  "sources": [
+    { "label": "Wikipedia: AM", "url": "https://en.wikipedia.org/wiki/AM_(Arctic_Monkeys_album)" },
+    { "label": "Wikipedia: Arctic Monkeys", "url": "https://en.wikipedia.org/wiki/Arctic_Monkeys" }
+  ],
+  "writtenAt": "2026-11-07"
+}

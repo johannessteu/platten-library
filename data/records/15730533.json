@@ -1,0 +1,104 @@
+{
+  "id": 15730533,
+  "artist": "Moop Mama",
+  "title": "Live Vol. 2",
+  "year": 2020,
+  "originalYear": 2020,
+  "genres": [
+    "Hip Hop"
+  ],
+  "styles": [],
+  "format": "7\"",
+  "formatDetails": [
+    "LP",
+    "7\""
+  ],
+  "labels": [
+    {
+      "name": "Mutterkomplex",
+      "catno": "MKx017"
+    }
+  ],
+  "country": "Germany",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Intro",
+      "duration": "0:55"
+    },
+    {
+      "position": "A2",
+      "title": "Wildnis",
+      "duration": "4:59"
+    },
+    {
+      "position": "B1",
+      "title": "Wenn Ich Du Wär",
+      "duration": "3:30"
+    },
+    {
+      "position": "B2",
+      "title": "Moderation",
+      "duration": "0:12"
+    },
+    {
+      "position": "B3",
+      "title": "Kill Die Zeit",
+      "duration": "4:29"
+    },
+    {
+      "position": "B4",
+      "title": "Kapuze",
+      "duration": "3:52"
+    },
+    {
+      "position": "B5",
+      "title": "Geister",
+      "duration": "3:38"
+    },
+    {
+      "position": "B6",
+      "title": "Feuer Mich",
+      "duration": "3:45"
+    },
+    {
+      "position": "B7",
+      "title": "Moderation",
+      "duration": "0:32"
+    },
+    {
+      "position": "C",
+      "title": "Krankes Wesen",
+      "duration": "5:44"
+    },
+    {
+      "position": "D1",
+      "title": "Moderation",
+      "duration": "0:33"
+    },
+    {
+      "position": "D2",
+      "title": "Molotow",
+      "duration": "5:33"
+    },
+    {
+      "position": "D3",
+      "title": "Hier Bin Ich",
+      "duration": "4:35"
+    },
+    {
+      "position": "D4",
+      "title": "Prokrastination",
+      "duration": "4:20"
+    },
+    {
+      "position": "D5",
+      "title": "Kinder - Liebe",
+      "duration": "7:40"
+    }
+  ],
+  "addedAt": "2026-10-20",
+  "cover": "covers/15730533.jpg",
+  "discogsUrl": "https://www.discogs.com/release/15730533",
+  "sortName": "moop mama"
+}

@@ -1,0 +1,144 @@
+{
+  "id": 32896674,
+  "artist": "Blumentopf",
+  "title": "Gern Geschehen",
+  "year": 2024,
+  "originalYear": 2003,
+  "genres": [
+    "Hip Hop"
+  ],
+  "styles": [
+    "Conscious",
+    "Jazzy Hip-Hop"
+  ],
+  "format": "2×LP",
+  "formatDetails": [
+    "LP",
+    "Album",
+    "Limited Edition",
+    "Reissue"
+  ],
+  "labels": [
+    {
+      "name": "Vinyl Digital",
+      "catno": "VinDig604"
+    }
+  ],
+  "country": "Germany",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Intro",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Warum Eigentlich Nicht?",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "Jeder Zweite Linkt Dich",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "Good & Bad",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "title": "Alle Sind Da",
+      "duration": ""
+    },
+    {
+      "position": "A6",
+      "title": "Da Draußen",
+      "duration": ""
+    },
+    {
+      "position": "A7",
+      "title": "Better Life GmbH I",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "Manajah",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "Alles Gute",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "Lass Mich In Ruh'",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "Mustermann (Skit)",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "title": "Manfred Mustermann",
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "title": "Better Life GmbH II",
+      "duration": ""
+    },
+    {
+      "position": "C2",
+      "title": "Magic Disco",
+      "duration": ""
+    },
+    {
+      "position": "C3",
+      "title": "Ich Komm Klar",
+      "duration": ""
+    },
+    {
+      "position": "C4",
+      "title": "Macht Platz",
+      "duration": ""
+    },
+    {
+      "position": "C5",
+      "title": "Da Läuft Was Schief",
+      "duration": ""
+    },
+    {
+      "position": "D1",
+      "title": "Heute Nacht",
+      "duration": ""
+    },
+    {
+      "position": "D2",
+      "title": "Der Frauenflüsterer",
+      "duration": ""
+    },
+    {
+      "position": "D3",
+      "title": "Better Life GmbH III",
+      "duration": ""
+    },
+    {
+      "position": "D4",
+      "title": "Mein Block",
+      "duration": ""
+    },
+    {
+      "position": "D5",
+      "title": "Danke Bush!",
+      "duration": ""
+    }
+  ],
+  "addedAt": "2026-11-07",
+  "cover": "covers/32896674.jpg",
+  "discogsUrl": "https://www.discogs.com/release/32896674",
+  "sortName": "blumentopf"
+}

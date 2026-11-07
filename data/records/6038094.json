@@ -1,0 +1,92 @@
+{
+  "id": 6038094,
+  "artist": "The Tremeloes",
+  "title": "Silence Is Golden",
+  "year": 1975,
+  "originalYear": 1975,
+  "genres": [
+    "Rock"
+  ],
+  "styles": [
+    "Beat"
+  ],
+  "format": "LP",
+  "formatDetails": [
+    "LP",
+    "Compilation",
+    "Reissue"
+  ],
+  "labels": [
+    {
+      "name": "Embassy",
+      "catno": "EMB 31206"
+    }
+  ],
+  "country": "Netherlands",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Good Day Sunshine",
+      "duration": "2:00"
+    },
+    {
+      "position": "A2",
+      "title": "Run Baby Run (Back Into My Arms)",
+      "duration": "2:35"
+    },
+    {
+      "position": "A3",
+      "title": "What A State I'm In",
+      "duration": "2:20"
+    },
+    {
+      "position": "A4",
+      "title": "Loving You Is Sweeter Then Ever",
+      "duration": "2:25"
+    },
+    {
+      "position": "A5",
+      "title": "Let Your Hair Hang Down",
+      "duration": "2:30"
+    },
+    {
+      "position": "A6",
+      "title": "When I'm With Her",
+      "duration": "2:15"
+    },
+    {
+      "position": "B1",
+      "title": "Silence Is Golden",
+      "duration": "3:08"
+    },
+    {
+      "position": "B2",
+      "title": "Happy Song",
+      "duration": "2:58"
+    },
+    {
+      "position": "B3",
+      "title": "Running Out",
+      "duration": "2:12"
+    },
+    {
+      "position": "B4",
+      "title": "Sunshine Games",
+      "duration": "1:55"
+    },
+    {
+      "position": "B5",
+      "title": "Cool Jerk",
+      "duration": "2:45"
+    },
+    {
+      "position": "B6",
+      "title": "Come On Home",
+      "duration": "2:57"
+    }
+  ],
+  "addedAt": "2026-10-18",
+  "cover": "covers/6038094.jpg",
+  "discogsUrl": "https://www.discogs.com/release/6038094",
+  "sortName": "tremeloes"
+}

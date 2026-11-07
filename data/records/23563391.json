@@ -1,0 +1,133 @@
+{
+  "id": 23563391,
+  "artist": "Das Paradies",
+  "title": "Transit",
+  "year": 2022,
+  "originalYear": 2022,
+  "genres": [
+    "Rock",
+    "Pop"
+  ],
+  "styles": [
+    "Pop Rock"
+  ],
+  "format": "LP",
+  "formatDetails": [
+    "LP",
+    "Album",
+    "Stereo"
+  ],
+  "labels": [
+    {
+      "name": "Grönland Records",
+      "catno": "LPGRON262"
+    }
+  ],
+  "country": "Germany",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Die Stroboskopen Jahre",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Rosa Luft",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "Wenn Ich Dir Entkommen Will",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "Die Dinge, Die Wir Uns Heute Sagten",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "title": "Hund & Sterne",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "Verkleidet Als Mensch",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "Im Orbit Ohne Zucker",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "Gebissen Wurde Ich Nur In Wien",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "Über Dem Asphalt Die Hitze",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "title": "Im Graben An Der Straße Ins Licht",
+      "duration": ""
+    },
+    {
+      "position": "CD-1",
+      "title": "Die Stroboskopen Jahre",
+      "duration": ""
+    },
+    {
+      "position": "CD-2",
+      "title": "Rosa Luft",
+      "duration": ""
+    },
+    {
+      "position": "CD-3",
+      "title": "Wenn Ich Dir Entkommen Will",
+      "duration": ""
+    },
+    {
+      "position": "CD-4",
+      "title": "Die Dinge, Die Wir Uns Heute Sagten",
+      "duration": ""
+    },
+    {
+      "position": "CD-5",
+      "title": "Hund & Sterne",
+      "duration": ""
+    },
+    {
+      "position": "CD-6",
+      "title": "Verkleidet Als Mensch",
+      "duration": ""
+    },
+    {
+      "position": "CD-7",
+      "title": "Im Orbit Ohne Zucker",
+      "duration": ""
+    },
+    {
+      "position": "CD-8",
+      "title": "Gebissen Wurde Ich Nur In Wien",
+      "duration": ""
+    },
+    {
+      "position": "CD-9",
+      "title": "Über Dem Asphalt Die Hitze",
+      "duration": ""
+    },
+    {
+      "position": "CD-10",
+      "title": "Im Graben An Der Straße Ins Licht",
+      "duration": ""
+    }
+  ],
+  "addedAt": "2026-10-02",
+  "cover": "covers/23563391.jpg",
+  "discogsUrl": "https://www.discogs.com/release/23563391",
+  "sortName": "das paradies"
+}

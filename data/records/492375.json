@@ -1,0 +1,46 @@
+{
+  "id": 492375,
+  "artist": "Herbert Grönemeyer",
+  "title": "Was Soll Das (Verlängerter Neumix)",
+  "year": 1988,
+  "originalYear": 1988,
+  "genres": [
+    "Rock"
+  ],
+  "styles": [
+    "Pop Rock"
+  ],
+  "format": "LP",
+  "formatDetails": [
+    "12\"",
+    "Maxi-Single",
+    "45 RPM"
+  ],
+  "labels": [
+    {
+      "name": "EMI",
+      "catno": "1C K 060-14 7338 6"
+    },
+    {
+      "name": "EMI Electrola",
+      "catno": "1C K 060-14 7338 6"
+    }
+  ],
+  "country": "Germany",
+  "tracklist": [
+    {
+      "position": "A",
+      "title": "Was Soll Das (Verlängerter Neumix)",
+      "duration": "6:14"
+    },
+    {
+      "position": "B",
+      "title": "Keine Heimat",
+      "duration": "3:44"
+    }
+  ],
+  "addedAt": "2026-10-18",
+  "cover": "covers/492375.jpg",
+  "discogsUrl": "https://www.discogs.com/release/492375",
+  "sortName": "herbert gronemeyer"
+}

@@ -1,0 +1,122 @@
+{
+  "id": 526407,
+  "artist": "Simon & Garfunkel",
+  "title": "The Simon & Garfunkel Collection",
+  "year": 1981,
+  "originalYear": 1981,
+  "genres": [
+    "Rock"
+  ],
+  "styles": [
+    "Soft Rock",
+    "Pop Rock"
+  ],
+  "format": "LP",
+  "formatDetails": [
+    "LP",
+    "Compilation",
+    "Stereo"
+  ],
+  "labels": [
+    {
+      "name": "CBS",
+      "catno": "CBS 24005"
+    },
+    {
+      "name": "CBS",
+      "catno": "24005"
+    }
+  ],
+  "country": "Europe",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "I Am A Rock",
+      "duration": "2:49"
+    },
+    {
+      "position": "A2",
+      "title": "Homeward Bound",
+      "duration": "2:26"
+    },
+    {
+      "position": "A3",
+      "title": "America",
+      "duration": "3:28"
+    },
+    {
+      "position": "A4",
+      "title": "59th Street Bridge Song (Feelin' Groovy)",
+      "duration": "1:42"
+    },
+    {
+      "position": "A5",
+      "title": "Wednesday Morning 3 A.M.",
+      "duration": "2:11"
+    },
+    {
+      "position": "A6",
+      "title": "El Condor Pasa",
+      "duration": "3:05"
+    },
+    {
+      "position": "A7",
+      "title": "At The Zoo",
+      "duration": "2:17"
+    },
+    {
+      "position": "A8",
+      "title": "Scarborough Fair (Canticle)",
+      "duration": "3:07"
+    },
+    {
+      "position": "A9",
+      "title": "The Boxer",
+      "duration": "5:08"
+    },
+    {
+      "position": "B1",
+      "title": "Sound Of Silence",
+      "duration": "3:03"
+    },
+    {
+      "position": "B2",
+      "title": "Mrs. Robinson",
+      "duration": "3:55"
+    },
+    {
+      "position": "B3",
+      "title": "Keep The Customer Satisfied",
+      "duration": "2:33"
+    },
+    {
+      "position": "B4",
+      "title": "Song For The Asking",
+      "duration": "1:41"
+    },
+    {
+      "position": "B5",
+      "title": "Hazy Shade Of Winter",
+      "duration": "2:17"
+    },
+    {
+      "position": "B6",
+      "title": "Cecilia",
+      "duration": "2:53"
+    },
+    {
+      "position": "B7",
+      "title": "Old Friends, Bookends Theme",
+      "duration": "3:54"
+    },
+    {
+      "position": "B8",
+      "title": "Bridge Over Troubled Water",
+      "duration": "4:50"
+    }
+  ],
+  "addedAt": "2026-10-18",
+  "cover": "covers/526407.jpg",
+  "discogsUrl": "https://www.discogs.com/release/526407",
+  "sortName": "simon & garfunkel"
+}

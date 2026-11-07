@@ -1,0 +1,82 @@
+{
+  "id": 3459749,
+  "artist": "The Rolling Stones",
+  "title": "Made In The Shade",
+  "year": 1975,
+  "originalYear": 1975,
+  "genres": [
+    "Rock"
+  ],
+  "styles": [
+    "Blues Rock",
+    "Rock & Roll"
+  ],
+  "format": "LP",
+  "formatDetails": [
+    "LP",
+    "Compilation"
+  ],
+  "labels": [
+    {
+      "name": "Rolling Stones Records",
+      "catno": "COC 59104"
+    }
+  ],
+  "country": "UK",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Brown Sugar",
+      "duration": "3:50"
+    },
+    {
+      "position": "A2",
+      "title": "Tumbling Dice",
+      "duration": "3:30"
+    },
+    {
+      "position": "A3",
+      "title": "Happy",
+      "duration": "3:00"
+    },
+    {
+      "position": "A4",
+      "title": "Dance Little Sister",
+      "duration": "4:12"
+    },
+    {
+      "position": "A5",
+      "title": "Wild Horses",
+      "duration": "5:41"
+    },
+    {
+      "position": "B1",
+      "title": "Angie",
+      "duration": "4:31"
+    },
+    {
+      "position": "B2",
+      "title": "Bitch",
+      "duration": "3:42"
+    },
+    {
+      "position": "B3",
+      "title": "It's Only Rock 'N Roll",
+      "duration": "5:08"
+    },
+    {
+      "position": "B4",
+      "title": "Doo Doo Doo Doo Doo (Heartbreaker)",
+      "duration": "3:27"
+    },
+    {
+      "position": "B5",
+      "title": "Rip This Joint",
+      "duration": "2:24"
+    }
+  ],
+  "addedAt": "2026-10-06",
+  "cover": "covers/3459749.jpg",
+  "discogsUrl": "https://www.discogs.com/release/3459749",
+  "sortName": "rolling stones"
+}

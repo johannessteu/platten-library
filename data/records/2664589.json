@@ -1,0 +1,92 @@
+{
+  "id": 2664589,
+  "artist": "Adele",
+  "title": "21",
+  "year": 2011,
+  "originalYear": 2011,
+  "genres": [
+    "Jazz",
+    "Funk / Soul",
+    "Blues",
+    "Pop"
+  ],
+  "styles": [
+    "Acoustic",
+    "Piano Blues",
+    "Neo Soul"
+  ],
+  "format": "LP",
+  "formatDetails": [
+    "LP",
+    "Album",
+    "Stereo"
+  ],
+  "labels": [
+    {
+      "name": "XL Recordings",
+      "catno": "XLLP 520"
+    }
+  ],
+  "country": "Europe",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Rolling In The Deep",
+      "duration": "3:46"
+    },
+    {
+      "position": "A2",
+      "title": "Rumour Has It",
+      "duration": "3:39"
+    },
+    {
+      "position": "A3",
+      "title": "Turning Tables",
+      "duration": "4:06"
+    },
+    {
+      "position": "A4",
+      "title": "Don't You Remember",
+      "duration": "4:00"
+    },
+    {
+      "position": "A5",
+      "title": "Set Fire To The Rain",
+      "duration": "3:58"
+    },
+    {
+      "position": "A6",
+      "title": "He Won't Go",
+      "duration": "4:30"
+    },
+    {
+      "position": "B1",
+      "title": "Take It All",
+      "duration": "3:44"
+    },
+    {
+      "position": "B2",
+      "title": "I'll Be Waiting",
+      "duration": "3:56"
+    },
+    {
+      "position": "B3",
+      "title": "One And Only",
+      "duration": "5:45"
+    },
+    {
+      "position": "B4",
+      "title": "Lovesong",
+      "duration": "5:12"
+    },
+    {
+      "position": "B5",
+      "title": "Someone Like You",
+      "duration": "4:40"
+    }
+  ],
+  "addedAt": "2026-09-18",
+  "cover": "covers/2664589.jpg",
+  "discogsUrl": "https://www.discogs.com/release/2664589",
+  "sortName": "adele"
+}

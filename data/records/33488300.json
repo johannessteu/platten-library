@@ -1,0 +1,79 @@
+{
+  "id": 33488300,
+  "artist": "Michael Jackson",
+  "title": "Thriller",
+  "year": 2015,
+  "originalYear": 1982,
+  "genres": [
+    "Funk / Soul",
+    "Pop"
+  ],
+  "styles": [],
+  "format": "LP",
+  "formatDetails": [
+    "LP",
+    "Reissue"
+  ],
+  "labels": [
+    {
+      "name": "Epic",
+      "catno": "8875143731"
+    },
+    {
+      "name": "MJJ Productions",
+      "catno": "8875143731"
+    }
+  ],
+  "country": "Europe",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Wanna Be Startin' Somethin'",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Baby Be Mine",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "The Girl Is Mine",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "Thriller",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "Beat It",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "Billie Jean",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "Human Nature",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "P.Y.T. (Pretty Young Thing)",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "title": "The Lady In My Life",
+      "duration": ""
+    }
+  ],
+  "addedAt": "2026-10-06",
+  "cover": "covers/33488300.jpg",
+  "discogsUrl": "https://www.discogs.com/release/33488300",
+  "sortName": "michael jackson"
+}

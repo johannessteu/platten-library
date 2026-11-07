@@ -1,0 +1,87 @@
+{
+  "id": 19387276,
+  "artist": "Mar Malade",
+  "title": "Mar Malade",
+  "year": 2021,
+  "originalYear": 2021,
+  "genres": [
+    "Pop"
+  ],
+  "styles": [
+    "Indie Pop"
+  ],
+  "format": "LP",
+  "formatDetails": [
+    "LP",
+    "Album",
+    "Stereo"
+  ],
+  "labels": [
+    {
+      "name": "Humming Records",
+      "catno": "HUM021LP"
+    }
+  ],
+  "country": "Germany",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Intro",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Cabriolet",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "Quickborn",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "Poster Girl",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "title": "Ice Cream",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "No Bird (Mr. Hardy)",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "Mexico",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "Marmalade",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "Frank",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "title": "Ms. Weather",
+      "duration": ""
+    },
+    {
+      "position": "B6",
+      "title": "Outro",
+      "duration": ""
+    }
+  ],
+  "addedAt": "2026-10-24",
+  "cover": "covers/19387276.jpg",
+  "discogsUrl": "https://www.discogs.com/release/19387276",
+  "sortName": "mar malade"
+}

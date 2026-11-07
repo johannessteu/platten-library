@@ -1,0 +1,101 @@
+{
+  "id": 15389642,
+  "artist": "Fynn Kliemann",
+  "title": "POP",
+  "year": 2020,
+  "originalYear": 2020,
+  "genres": [
+    "Pop"
+  ],
+  "styles": [],
+  "format": "LP",
+  "formatDetails": [
+    "LP",
+    "Album",
+    "Limited Edition",
+    "Stereo"
+  ],
+  "labels": [
+    {
+      "name": "twoFinger Records GmbH",
+      "catno": ""
+    }
+  ],
+  "country": "Germany",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Eine Minute",
+      "duration": "3:44"
+    },
+    {
+      "position": "A2",
+      "title": "Alles Was Ich Hab",
+      "duration": "3:54"
+    },
+    {
+      "position": "A3",
+      "title": "Warten",
+      "duration": "4:24"
+    },
+    {
+      "position": "A4",
+      "title": "Die Hook",
+      "duration": "2:52"
+    },
+    {
+      "position": "A5",
+      "title": "Liebster Wahnsinn",
+      "duration": "1:35"
+    },
+    {
+      "position": "A6",
+      "title": "Regen",
+      "duration": "3:44"
+    },
+    {
+      "position": "A7",
+      "title": "Alles Nur Geliehen",
+      "duration": "3:13"
+    },
+    {
+      "position": "B1",
+      "title": "Frieden Mit Der Stadt",
+      "duration": "2:55"
+    },
+    {
+      "position": "B2",
+      "title": "Ruinierung",
+      "duration": "2:43"
+    },
+    {
+      "position": "B3",
+      "title": "Der Flötist An Den Toren Des Morgengrauens",
+      "duration": "1:09"
+    },
+    {
+      "position": "B4",
+      "title": "Twingo",
+      "duration": "3:07"
+    },
+    {
+      "position": "B5",
+      "title": "Schmeiß Mein Leben Auf Den Müll",
+      "duration": "4:09"
+    },
+    {
+      "position": "B6",
+      "title": "Vokabeln I",
+      "duration": "2:14"
+    },
+    {
+      "position": "B7",
+      "title": "Schlaflied",
+      "duration": "3:30"
+    }
+  ],
+  "addedAt": "2026-09-18",
+  "cover": "covers/15389642.jpg",
+  "discogsUrl": "https://www.discogs.com/release/15389642",
+  "sortName": "fynn kliemann"
+}

@@ -1,0 +1,106 @@
+{
+  "id": 28467253,
+  "artist": "Jeremias",
+  "title": "Von Wind Und Anonymität",
+  "year": 2023,
+  "originalYear": 2023,
+  "genres": [
+    "Pop"
+  ],
+  "styles": [
+    "Indie Pop"
+  ],
+  "format": "LP",
+  "formatDetails": [
+    "LP",
+    "Album",
+    "Limited Edition"
+  ],
+  "labels": [
+    {
+      "name": "Universal Music Group",
+      "catno": ""
+    },
+    {
+      "name": "Vertigo",
+      "catno": ""
+    }
+  ],
+  "country": "Germany",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Der Schmerz Ist Vorbei",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Clown Zum Freak",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "Verrückt",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "Wir Haben Den Winter Überlebt",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "title": "Egoist",
+      "duration": ""
+    },
+    {
+      "position": "A6",
+      "title": "Da Für Dich",
+      "duration": ""
+    },
+    {
+      "position": "A7",
+      "title": "97",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "Hier",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "Unique",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "Julia",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "Mit Dir Kann Ich Alleine Sein",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "title": "Es Hört Nicht Auf",
+      "duration": ""
+    },
+    {
+      "position": "B6",
+      "title": "Pasajero",
+      "duration": ""
+    },
+    {
+      "position": "B7",
+      "title": "Stille",
+      "duration": ""
+    }
+  ],
+  "addedAt": "2026-09-09",
+  "cover": "covers/28467253.jpg",
+  "discogsUrl": "https://www.discogs.com/release/28467253",
+  "sortName": "jeremias"
+}

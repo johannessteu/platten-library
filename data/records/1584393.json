@@ -1,0 +1,111 @@
+{
+  "id": 1584393,
+  "artist": "Elton John",
+  "title": "Your Songs (Die Grosse Edition Seiner Romantischen Welthits)",
+  "year": 1982,
+  "originalYear": 1982,
+  "genres": [
+    "Pop"
+  ],
+  "styles": [
+    "Ballad"
+  ],
+  "format": "LP",
+  "formatDetails": [
+    "LP",
+    "Compilation"
+  ],
+  "labels": [
+    {
+      "name": "Polystar",
+      "catno": "2475 566"
+    }
+  ],
+  "country": "Germany",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Blue Eyes",
+      "duration": "3:25"
+    },
+    {
+      "position": "A2",
+      "title": "Song For Guy",
+      "duration": "5:00"
+    },
+    {
+      "position": "A3",
+      "title": "Don't Go Breaking My Heart",
+      "duration": "4:25"
+    },
+    {
+      "position": "A4",
+      "title": "Daniel",
+      "duration": "3:51"
+    },
+    {
+      "position": "A5",
+      "title": "Candle In The Wind",
+      "duration": "3:50"
+    },
+    {
+      "position": "A6",
+      "title": "Part Time Love",
+      "duration": "3:12"
+    },
+    {
+      "position": "A7",
+      "title": "Rocket Man",
+      "duration": "4:40"
+    },
+    {
+      "position": "A8",
+      "title": "Goodbye Yellow Brick Road",
+      "duration": "3:12"
+    },
+    {
+      "position": "A9",
+      "title": "Crocodile Rock",
+      "duration": "3:54"
+    },
+    {
+      "position": "B1",
+      "title": "Funeral For A Friend",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "Love Lies Bleeding",
+      "duration": "11:05"
+    },
+    {
+      "position": "B3",
+      "title": "Your Song",
+      "duration": "3:58"
+    },
+    {
+      "position": "B4",
+      "title": "Tiny Dancer",
+      "duration": "6:13"
+    },
+    {
+      "position": "B5",
+      "title": "Nobody Wins",
+      "duration": "3:46"
+    },
+    {
+      "position": "B6",
+      "title": "Little Jeannie",
+      "duration": "4:46"
+    },
+    {
+      "position": "B7",
+      "title": "Lucy In The Sky With Diamonds",
+      "duration": "5:38"
+    }
+  ],
+  "addedAt": "2026-10-18",
+  "cover": "covers/1584393.jpg",
+  "discogsUrl": "https://www.discogs.com/release/1584393",
+  "sortName": "elton john"
+}

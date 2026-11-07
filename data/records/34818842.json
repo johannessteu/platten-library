@@ -1,0 +1,88 @@
+{
+  "id": 34818842,
+  "artist": "Coldplay",
+  "title": "Parachutes",
+  "year": 2025,
+  "originalYear": 2000,
+  "genres": [
+    "Rock",
+    "Pop"
+  ],
+  "styles": [
+    "Pop Rock"
+  ],
+  "format": "LP",
+  "formatDetails": [
+    "LP",
+    "Album",
+    "Reissue"
+  ],
+  "labels": [
+    {
+      "name": "Parlophone",
+      "catno": "5021732630865"
+    }
+  ],
+  "country": "Worldwide",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Don't Panic",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Shiver",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "Spies",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "Sparks",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "title": "Yellow",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "Trouble",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "Parachutes",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "High Speed",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "We Never Change",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "title": "Everything's Not Lost",
+      "duration": ""
+    },
+    {
+      "position": "B6",
+      "title": "Life Is For Living",
+      "duration": ""
+    }
+  ],
+  "addedAt": "2026-09-03",
+  "cover": "covers/34818842.jpg",
+  "discogsUrl": "https://www.discogs.com/release/34818842",
+  "sortName": "coldplay"
+}

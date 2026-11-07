@@ -1,0 +1,95 @@
+{
+  "id": 8403786,
+  "artist": "Amy Winehouse",
+  "title": "Back To Black",
+  "year": 2015,
+  "originalYear": 2006,
+  "genres": [
+    "Jazz",
+    "Funk / Soul",
+    "Pop"
+  ],
+  "styles": [
+    "Rhythm & Blues",
+    "Soul"
+  ],
+  "format": "LP",
+  "formatDetails": [
+    "LP",
+    "Album",
+    "Reissue",
+    "Repress"
+  ],
+  "labels": [
+    {
+      "name": "Universal Records",
+      "catno": "173 412 8"
+    },
+    {
+      "name": "Island Records Group",
+      "catno": "173 412 8"
+    }
+  ],
+  "country": "Europe",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Rehab",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "You Know I'm No Good",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "Me & Mr Jones",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "Just Friends",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "title": "Back To Black",
+      "duration": ""
+    },
+    {
+      "position": "A6",
+      "title": "Love Is A Losing Game",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "Tears Dry On Their Own",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "Wake Up Alone",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "Some Unholy War",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "He Can Only Hold Her",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "title": "Addicted",
+      "duration": ""
+    }
+  ],
+  "addedAt": "2026-09-27",
+  "cover": "covers/8403786.jpg",
+  "discogsUrl": "https://www.discogs.com/release/8403786",
+  "sortName": "amy winehouse"
+}

@@ -1,0 +1,33 @@
+{
+  "kicker": "München · aktiv seit 2009 · Brass-Band-Hip-Hop",
+  "tag": "Rap mit Blaskapelle",
+  "record": "Das zweite Album der zehnköpfigen Münchner „Urban Brass“-Band, erschienen auf ihrem eigenen Label Millaphon. Rap über live gespielte Bläser und zwei Schlagzeuge, über Stadtleben, Arbeitsstress und Bildschirme, die Menschen voneinander trennen. Die Kritik war gespalten: treffende Gesellschaftskritik oder Klischee?",
+  "facts": [
+    { "k": "Erschienen", "v": "1. November 2013" },
+    { "k": "Label", "v": "Millaphon Records" },
+    { "k": "Länge", "v": "13 Tracks, ca. 47 Minuten" },
+    { "k": "Gast", "v": "Maniac bei „Wunderheiler“" }
+  ],
+  "start": [
+    { "t": "Roboter", "why": "Das groovigste Stück, das auch Rezensenten hervorgehoben haben." },
+    { "t": "Stadt Die Immer Schläft", "why": "Ein langsameres, schwereres Porträt der Stadt." },
+    { "t": "Liebe", "why": "Der Schlusssong und der Track mit dem offiziellen Video." }
+  ],
+  "band": "Moop Mama gründeten sich 2009 in München um Saxofonist Marcus Kesselbauer, Rapper Keno und Produzent Lukas Roth. Die Besetzung: Bläsersatz, zwei Schlagzeuger und ein MC. Bekannt wurden sie mit unangekündigten Straßenkonzerten, bei denen Keno durchs Megafon rappte, was gelegentlich die Polizei auf den Plan rief. Ihren Sound nennen sie „Urban Brass“.",
+  "trivia": [
+    "Das Album stieg auf Platz 58 der deutschen Albumcharts ein.",
+    "Ihre ersten Konzerte außerhalb des deutschsprachigen Raums spielten sie 2012 in Thessaloniki und Athen, auf Einladung des Goethe-Instituts."
+  ],
+  "similar": [
+    { "a": "Käptn Peng & Die Tentakel von Delphi", "why": "Wortreicher deutscher Rap mit schräger Live-Band; den Vergleich zogen auch Rezensenten." },
+    { "a": "Fatoni", "why": "Scharfer, ironischer Rap aus München, in Kritiken zum Album als Weggefährte genannt." },
+    { "a": "LaBrassBanda", "why": "Bayerische Bläser mit Club-Energie, die andere große Brass-Band aus der Region." },
+    { "a": "Blumentopf", "why": "Münchner Hip-Hop-Crew mit witzigem, beobachtendem Deutschrap." }
+  ],
+  "sources": [
+    { "label": "Plattentests.de", "url": "https://www.plattentests.de/rezi.php?show=10801" },
+    { "label": "Folk News", "url": "https://folknews.de/moop-mama-das-rote-album-2013/" },
+    { "label": "Wikipedia: Moop Mama", "url": "https://de.wikipedia.org/wiki/Moop_Mama" }
+  ],
+  "writtenAt": "2026-11-07"
+}

@@ -1,0 +1,102 @@
+{
+  "id": 12691358,
+  "artist": "The Gardener And The Tree",
+  "title": "69591, LAXÅ",
+  "year": 2018,
+  "originalYear": 2018,
+  "genres": [
+    "Rock"
+  ],
+  "styles": [
+    "Folk Rock",
+    "Pop Rock"
+  ],
+  "format": "LP",
+  "formatDetails": [
+    "LP",
+    "Album",
+    "Stereo"
+  ],
+  "labels": [
+    {
+      "name": "Island Records",
+      "catno": "675 420-6"
+    },
+    {
+      "name": "Universal Music",
+      "catno": "675 420-6"
+    }
+  ],
+  "country": "Switzerland",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Of Hopes & Failures",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "7$ Shopping",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "Amber",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "Way To Rome",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "title": "Prison Doors",
+      "duration": ""
+    },
+    {
+      "position": "A6",
+      "title": "Secret",
+      "duration": ""
+    },
+    {
+      "position": "A7",
+      "title": "A Million Words",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "Meantime Lover",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "Baltimore Whiskey",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "Wild Horses",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "Postcards",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "title": "When I go I`ll be on Time",
+      "duration": ""
+    },
+    {
+      "position": "B6",
+      "title": "Armory",
+      "duration": ""
+    }
+  ],
+  "addedAt": "2026-09-03",
+  "cover": "covers/12691358.jpg",
+  "discogsUrl": "https://www.discogs.com/release/12691358",
+  "sortName": "gardener and the tree"
+}

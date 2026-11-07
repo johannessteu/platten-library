@@ -1,0 +1,87 @@
+{
+  "id": 8519367,
+  "artist": "Stevie Wonder",
+  "title": "Fulfillingness' First Finale",
+  "year": 1974,
+  "originalYear": 1974,
+  "genres": [
+    "Funk / Soul"
+  ],
+  "styles": [
+    "Rhythm & Blues",
+    "Soul"
+  ],
+  "format": "LP",
+  "formatDetails": [
+    "LP",
+    "Album",
+    "Stereo"
+  ],
+  "labels": [
+    {
+      "name": "Tamla Motown",
+      "catno": "STMA 8019"
+    },
+    {
+      "name": "Tamla Motown",
+      "catno": "0C 064 ∘ 95761"
+    }
+  ],
+  "country": "UK",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Smile Please",
+      "duration": "3:28"
+    },
+    {
+      "position": "A2",
+      "title": "Heaven Is 10 Zillion Light Years Away",
+      "duration": "5:03"
+    },
+    {
+      "position": "A3",
+      "title": "Too Shy To Say",
+      "duration": "3:28"
+    },
+    {
+      "position": "A4",
+      "title": "Boogie On Reggae Woman",
+      "duration": "4:58"
+    },
+    {
+      "position": "A5",
+      "title": "Creepin'",
+      "duration": "4:20"
+    },
+    {
+      "position": "B1",
+      "title": "You Haven't Done Nothin'",
+      "duration": "3:23"
+    },
+    {
+      "position": "B2",
+      "title": "It Ain't No Use",
+      "duration": "4:01"
+    },
+    {
+      "position": "B3",
+      "title": "They Won't Go When I Go",
+      "duration": "5:59"
+    },
+    {
+      "position": "B4",
+      "title": "Bird Of Beauty",
+      "duration": "3:49"
+    },
+    {
+      "position": "B5",
+      "title": "Please Don't Go",
+      "duration": "4:07"
+    }
+  ],
+  "addedAt": "2026-10-06",
+  "cover": "covers/8519367.jpg",
+  "discogsUrl": "https://www.discogs.com/release/8519367",
+  "sortName": "stevie wonder"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "platten-library",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Our vinyl shelf for friends and guests: browse, search, flip through the records.",
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "sync": "node scripts/sync.ts",
+    "notes:todo": "node scripts/notes-todo.ts",
+    "check": "node scripts/check.ts"
+  },
+  "dependencies": {
+    "@fontsource-variable/figtree": "^5.3.0",
+    "preact": "^11.2.0"
+  },
+  "devDependencies": {
+    "@preact/preset-vite": "^2.10.6",
+    "@types/node": "^26.6.6",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.6"
+  }
+}

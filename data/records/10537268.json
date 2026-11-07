@@ -1,0 +1,116 @@
+{
+  "id": 10537268,
+  "artist": "Herbert Grönemeyer",
+  "title": "Mensch",
+  "year": 2017,
+  "originalYear": 2002,
+  "genres": [
+    "Rock",
+    "Pop"
+  ],
+  "styles": [],
+  "format": "2×LP",
+  "formatDetails": [
+    "LP",
+    "Album",
+    "Reissue",
+    "Remastered"
+  ],
+  "labels": [
+    {
+      "name": "Grönland Records",
+      "catno": "LPGRON164"
+    },
+    {
+      "name": "Grönland Records",
+      "catno": "0506 023863302 4"
+    }
+  ],
+  "country": "Germany",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Mensch",
+      "duration": "4:28"
+    },
+    {
+      "position": "A2",
+      "title": "Neuland",
+      "duration": "3:42"
+    },
+    {
+      "position": "A3",
+      "title": "Der Weg",
+      "duration": "4:18"
+    },
+    {
+      "position": "A4",
+      "title": "Viertel Vor",
+      "duration": "4:23"
+    },
+    {
+      "position": "B1",
+      "title": "Lache, Wenn Es Nicht Zum Weinen Reicht",
+      "duration": "4:42"
+    },
+    {
+      "position": "B2",
+      "title": "Unbewohnt",
+      "duration": "5:04"
+    },
+    {
+      "position": "B3",
+      "title": "Dort Und Hier",
+      "duration": "2:32"
+    },
+    {
+      "position": "B4",
+      "title": "Blick Zurück",
+      "duration": "5:54"
+    },
+    {
+      "position": "C1",
+      "title": "Kein Pokal",
+      "duration": "4:33"
+    },
+    {
+      "position": "C2",
+      "title": "Zum Meer",
+      "duration": "5:38"
+    },
+    {
+      "position": "C3",
+      "title": "Demo (Letzter Tag)",
+      "duration": "3:27"
+    },
+    {
+      "position": "C4",
+      "title": "November",
+      "duration": "4:08"
+    },
+    {
+      "position": "D1",
+      "title": "Demo (Letzter Tag) (Live)",
+      "duration": "4:18"
+    },
+    {
+      "position": "D2",
+      "title": "Mensch (Spacemonkeys vs. Grönemeyer Remix)",
+      "duration": "6:13"
+    },
+    {
+      "position": "D3",
+      "title": "Zum Meer (Wildboys Remix)",
+      "duration": "5:09"
+    },
+    {
+      "position": "D4",
+      "title": "Blick Zurück (Terranova Version)",
+      "duration": "4:20"
+    }
+  ],
+  "addedAt": "2026-11-07",
+  "cover": "covers/10537268.jpg",
+  "discogsUrl": "https://www.discogs.com/release/10537268",
+  "sortName": "herbert gronemeyer"
+}

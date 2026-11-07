@@ -1,0 +1,85 @@
+{
+  "id": 12588414,
+  "artist": "Fynn Kliemann",
+  "title": "Nie",
+  "year": 2018,
+  "originalYear": 2018,
+  "genres": [
+    "Pop"
+  ],
+  "styles": [],
+  "format": "LP",
+  "formatDetails": [
+    "LP",
+    "Album",
+    "Limited Edition"
+  ],
+  "labels": [
+    {
+      "name": "twoFinger Records GmbH",
+      "catno": ""
+    }
+  ],
+  "country": "Germany",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Morgen",
+      "duration": "2:45"
+    },
+    {
+      "position": "A2",
+      "title": "Bis Seattle",
+      "duration": "3:57"
+    },
+    {
+      "position": "A3",
+      "title": "Dunkelblau",
+      "duration": "3:20"
+    },
+    {
+      "position": "A4",
+      "title": "Zuhause",
+      "duration": "3:21"
+    },
+    {
+      "position": "A5",
+      "title": "Bau Mich Auseinander",
+      "duration": "3:56"
+    },
+    {
+      "position": "B1",
+      "title": "Kieztränen",
+      "duration": "2:52"
+    },
+    {
+      "position": "B2",
+      "title": "Dieses Leben",
+      "duration": "2:49"
+    },
+    {
+      "position": "B3",
+      "title": "Sardinien",
+      "duration": "3:57"
+    },
+    {
+      "position": "B4",
+      "title": "Jede Wette",
+      "duration": "1:55"
+    },
+    {
+      "position": "B5",
+      "title": "Immer Nur Da",
+      "duration": "3:22"
+    },
+    {
+      "position": "B6",
+      "title": "Der Mann Und Das Meer",
+      "duration": "3:56"
+    }
+  ],
+  "addedAt": "2026-09-19",
+  "cover": "covers/12588414.jpg",
+  "discogsUrl": "https://www.discogs.com/release/12588414",
+  "sortName": "fynn kliemann"
+}

@@ -1,0 +1,133 @@
+{
+  "id": 25028983,
+  "artist": "Moby",
+  "title": "Play",
+  "year": 2022,
+  "originalYear": 1999,
+  "genres": [
+    "Electronic"
+  ],
+  "styles": [
+    "Downtempo",
+    "Leftfield",
+    "Breakbeat",
+    "Trip Hop"
+  ],
+  "format": "2×LP",
+  "formatDetails": [
+    "LP",
+    "Album",
+    "Reissue"
+  ],
+  "labels": [
+    {
+      "name": "Mute",
+      "catno": "STUMM172"
+    },
+    {
+      "name": "Mute",
+      "catno": "Stumm172"
+    },
+    {
+      "name": "BMG",
+      "catno": "STUMM172"
+    }
+  ],
+  "country": "Europe",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Honey",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Find My Baby",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "Porcelain",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "Why Does My Heart Feel So Bad?",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "South Side",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "Rushing",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "Bodyrock",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "Natural Blues",
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "title": "Machete",
+      "duration": ""
+    },
+    {
+      "position": "C2",
+      "title": "7",
+      "duration": ""
+    },
+    {
+      "position": "C3",
+      "title": "Run On",
+      "duration": ""
+    },
+    {
+      "position": "C4",
+      "title": "Down Slow",
+      "duration": ""
+    },
+    {
+      "position": "C5",
+      "title": "If Things Were Perfect",
+      "duration": ""
+    },
+    {
+      "position": "C6",
+      "title": "Everloving",
+      "duration": ""
+    },
+    {
+      "position": "D1",
+      "title": "Inside",
+      "duration": ""
+    },
+    {
+      "position": "D2",
+      "title": "Guitar Flute & String",
+      "duration": ""
+    },
+    {
+      "position": "D3",
+      "title": "The Sky Is Broken",
+      "duration": ""
+    },
+    {
+      "position": "D4",
+      "title": "My Weakness",
+      "duration": ""
+    }
+  ],
+  "addedAt": "2026-10-09",
+  "cover": "covers/25028983.jpg",
+  "discogsUrl": "https://www.discogs.com/release/25028983",
+  "sortName": "moby"
+}

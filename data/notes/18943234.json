@@ -1,0 +1,33 @@
+{
+  "kicker": "Bochum · aktiv seit 1979 · deutscher Pop-Rock",
+  "tag": "Soul an der Currywurstbude",
+  "record": "Grönemeyers drittes Album, entstanden, als seine Musikkarriere noch nicht vom Fleck kam. Edo Zankis Produktion lockert den steifen Sound der ersten beiden Platten mit Soul und Groove auf, und zum ersten Mal schrieb Grönemeyer die meisten Texte selbst. Verkauft hat es sich schlecht, aber „Currywurst“ und „Anna“ haben es überlebt.",
+  "facts": [
+    { "k": "Erschienen", "v": "1982" },
+    { "k": "Label", "v": "Intercord" },
+    { "k": "Produktion", "v": "Edo Zanki" },
+    { "k": "Aufgenommen", "v": "Kangaroo Studio, Karlsdorf" }
+  ],
+  "start": [
+    { "t": "Currywurst", "why": "Kurz, frech und längst Kult: Der Song hat das Album weit überlebt." },
+    { "t": "Anna", "why": "Die Single und bis heute einer seiner bekanntesten frühen Songs." },
+    { "t": "Total Egal", "why": "Der Titelsong eröffnet die Platte und gibt den lockeren, groovigen Ton vor." }
+  ],
+  "band": "Geboren 1956 in Göttingen, aufgewachsen in Bochum: Grönemeyer begann als musikalischer Leiter und Schauspieler am Schauspielhaus Bochum und wurde als Leutnant Werner in „Das Boot“ (1981) berühmt. Seine ersten Platten bei Intercord verkauften sich schlecht, nach „Gemischte Gefühle“ (1983) trennte sich das Label von ihm. Mit dem Wechsel zu EMI und „4630 Bochum“ (1984) wurde er einer der größten Stars des Landes, bekannt für klare, direkte deutsche Texte.",
+  "trivia": [
+    "Es war das erste von zwei Grönemeyer-Alben, die Edo Zanki produziert hat.",
+    "„Vergiß es, laß es“ hat einen Text des Theaterregisseurs Jürgen Flimm, ein Gruß an seine Bühnenjahre.",
+    "Mehrere Konzerte der Tour zum Album fielen wegen schwacher Vorverkäufe aus."
+  ],
+  "similar": [
+    { "a": "Marius Müller-Westernhagen", "why": "Ebenfalls deutscher Rock in Alltagssprache, aus denselben Jahren." },
+    { "a": "Udo Lindenberg", "why": "Der Pionier des deutschsprachigen Rock mit umgangssprachlichen Texten." },
+    { "a": "Peter Maffay", "why": "Zeitgenosse im deutschen Pop-Rock, Durchbruch Ende der 1970er." }
+  ],
+  "sources": [
+    { "label": "Wikipedia: Total egal", "url": "https://de.wikipedia.org/wiki/Total_egal" },
+    { "label": "Wikipedia: Herbert Grönemeyer", "url": "https://de.wikipedia.org/wiki/Herbert_Gr%C3%B6nemeyer" },
+    { "label": "Wikipedia (en): Diskografie", "url": "https://en.wikipedia.org/wiki/Herbert_Gr%C3%B6nemeyer_discography" }
+  ],
+  "writtenAt": "2026-11-07"
+}

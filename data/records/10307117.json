@@ -1,0 +1,106 @@
+{
+  "id": 10307117,
+  "artist": "Käptn Peng & Die Tentakel von Delphi",
+  "title": "Das Nullte Kapitel",
+  "year": 2017,
+  "originalYear": 2017,
+  "genres": [
+    "Hip Hop"
+  ],
+  "styles": [
+    "Conscious"
+  ],
+  "format": "2×LP",
+  "formatDetails": [
+    "LP",
+    "Album"
+  ],
+  "labels": [
+    {
+      "name": "Kreismusik",
+      "catno": "KREIS016"
+    }
+  ],
+  "country": "Germany",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Das Nullte Kapitel",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Spiegelkabinett",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "Im Labyrinth",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "Neue Freunde",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "title": "Meister Und Idiot",
+      "duration": ""
+    },
+    {
+      "position": "B6",
+      "title": "Wobwobwob",
+      "duration": ""
+    },
+    {
+      "position": "B7",
+      "title": "Tango Im Treibsand",
+      "duration": ""
+    },
+    {
+      "position": "C8",
+      "title": "π",
+      "duration": ""
+    },
+    {
+      "position": "C9",
+      "title": "Pförtner",
+      "duration": ""
+    },
+    {
+      "position": "C10",
+      "title": "MC Homosapienssapiens",
+      "duration": ""
+    },
+    {
+      "position": "C11",
+      "title": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+      "duration": ""
+    },
+    {
+      "position": "D12",
+      "title": "Backpfeifenernte Auf Dem Alphabeet",
+      "duration": ""
+    },
+    {
+      "position": "D13",
+      "title": "Gelernt",
+      "duration": ""
+    },
+    {
+      "position": "D14",
+      "title": "Todesbossa",
+      "duration": ""
+    },
+    {
+      "position": "D15",
+      "title": "Tier",
+      "duration": ""
+    }
+  ],
+  "addedAt": "2026-10-16",
+  "cover": "covers/10307117.jpg",
+  "discogsUrl": "https://www.discogs.com/release/10307117",
+  "sortName": "kaptn peng & die tentakel von delphi"
+}

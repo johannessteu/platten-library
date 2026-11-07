@@ -1,0 +1,79 @@
+{
+  "id": 3176036,
+  "artist": "Bruno Mars",
+  "title": "Doo-Wops & Hooligans",
+  "year": 2010,
+  "originalYear": 2010,
+  "genres": [
+    "Pop"
+  ],
+  "styles": [],
+  "format": "LP",
+  "formatDetails": [
+    "LP",
+    "Album"
+  ],
+  "labels": [
+    {
+      "name": "Elektra",
+      "catno": "7567-88930-3"
+    }
+  ],
+  "country": "Europe",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Grenade",
+      "duration": "3:42"
+    },
+    {
+      "position": "A2",
+      "title": "Just The Way You Are",
+      "duration": "3:40"
+    },
+    {
+      "position": "A3",
+      "title": "Our First Time",
+      "duration": "4:03"
+    },
+    {
+      "position": "A4",
+      "title": "Runaway Baby",
+      "duration": "2:27"
+    },
+    {
+      "position": "A5",
+      "title": "The Lazy Song",
+      "duration": "3:15"
+    },
+    {
+      "position": "B6",
+      "title": "Marry You",
+      "duration": "3:50"
+    },
+    {
+      "position": "B7",
+      "title": "Talking To The Moon",
+      "duration": "3:37"
+    },
+    {
+      "position": "B8",
+      "title": "Liquor Store Blues",
+      "duration": "3:49"
+    },
+    {
+      "position": "B9",
+      "title": "Count On Me",
+      "duration": "3:17"
+    },
+    {
+      "position": "B10",
+      "title": "The Other Side",
+      "duration": "3:47"
+    }
+  ],
+  "addedAt": "2026-09-18",
+  "cover": "covers/3176036.jpg",
+  "discogsUrl": "https://www.discogs.com/release/3176036",
+  "sortName": "bruno mars"
+}

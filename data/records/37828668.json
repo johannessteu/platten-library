@@ -1,0 +1,113 @@
+{
+  "id": 37828668,
+  "artist": "The Rolling Stones",
+  "title": "Foreign Tongues",
+  "year": 2026,
+  "originalYear": 2026,
+  "genres": [
+    "Rock",
+    "Funk / Soul"
+  ],
+  "styles": [
+    "Pop Rock",
+    "Rhythm & Blues",
+    "Rock & Roll"
+  ],
+  "format": "2×LP",
+  "formatDetails": [
+    "LP",
+    "Album",
+    "Stereo"
+  ],
+  "labels": [
+    {
+      "name": "Rolling Stones Records",
+      "catno": "8821363"
+    },
+    {
+      "name": "Polydor",
+      "catno": "8821363"
+    },
+    {
+      "name": "Rolling Stones Records",
+      "catno": "00602488213639"
+    }
+  ],
+  "country": "Worldwide",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Rough And Twisted",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "In The Stars",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "Jealous Lover",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "Mr. Charm",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "Divine Intervention",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "Ringing Hollow",
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "title": "Never Wanna Lose You",
+      "duration": ""
+    },
+    {
+      "position": "C2",
+      "title": "Hit Me In The Head",
+      "duration": ""
+    },
+    {
+      "position": "C3",
+      "title": "You Know I'm No Good",
+      "duration": ""
+    },
+    {
+      "position": "C4",
+      "title": "Some Of Us",
+      "duration": ""
+    },
+    {
+      "position": "D1",
+      "title": "Covered In You",
+      "duration": ""
+    },
+    {
+      "position": "D2",
+      "title": "Side Effects",
+      "duration": ""
+    },
+    {
+      "position": "D3",
+      "title": "Back In Your Life",
+      "duration": ""
+    },
+    {
+      "position": "D4",
+      "title": "Beautiful Delilah",
+      "duration": ""
+    }
+  ],
+  "addedAt": "2026-09-03",
+  "cover": "covers/37828668.jpg",
+  "discogsUrl": "https://www.discogs.com/release/37828668",
+  "sortName": "rolling stones"
+}

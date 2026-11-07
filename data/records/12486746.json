@@ -1,0 +1,86 @@
+{
+  "id": 12486746,
+  "artist": "Das Paradies",
+  "title": "Goldene Zukunft",
+  "year": 2018,
+  "originalYear": 2018,
+  "genres": [
+    "Pop"
+  ],
+  "styles": [
+    "Indie Pop"
+  ],
+  "format": "LP",
+  "formatDetails": [
+    "LP",
+    "Album"
+  ],
+  "labels": [
+    {
+      "name": "Grönland Records",
+      "catno": "LPGRON186"
+    }
+  ],
+  "country": "Germany",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Das Große Versprechen",
+      "duration": "2:04"
+    },
+    {
+      "position": "A2",
+      "title": "Goldene Zukunft",
+      "duration": "3:25"
+    },
+    {
+      "position": "A3",
+      "title": "Es Gab So Viel, Was Zu Tun War",
+      "duration": "3:08"
+    },
+    {
+      "position": "A4",
+      "title": "Discoscooter",
+      "duration": "2:56"
+    },
+    {
+      "position": "A5",
+      "title": "Die Giraffe Streckt Sich",
+      "duration": "3:36"
+    },
+    {
+      "position": "A6",
+      "title": "Du, Die Anderen Und Ich",
+      "duration": "3:11"
+    },
+    {
+      "position": "B1",
+      "title": "Hinter Deiner Schönen Stirn",
+      "duration": "3:19"
+    },
+    {
+      "position": "B2",
+      "title": "Ein Schönes Unentschieden",
+      "duration": "4:02"
+    },
+    {
+      "position": "B3",
+      "title": "Dürfen Die Das",
+      "duration": "3:53"
+    },
+    {
+      "position": "B4",
+      "title": "Hier Bist Du Sicher",
+      "duration": "3:26"
+    },
+    {
+      "position": "B5",
+      "title": "Das Universum Weiß Es Auch Nicht",
+      "duration": "4:44"
+    }
+  ],
+  "addedAt": "2026-10-30",
+  "cover": "covers/12486746.jpg",
+  "discogsUrl": "https://www.discogs.com/release/12486746",
+  "sortName": "das paradies"
+}

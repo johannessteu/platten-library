@@ -1,0 +1,82 @@
+{
+  "id": 18943234,
+  "artist": "Herbert Grönemeyer",
+  "title": "Total Egal",
+  "year": 1982,
+  "originalYear": 1982,
+  "genres": [
+    "Rock"
+  ],
+  "styles": [
+    "Pop Rock"
+  ],
+  "format": "LP",
+  "formatDetails": [
+    "LP",
+    "Album",
+    "Stereo"
+  ],
+  "labels": [
+    {
+      "name": "Intercord",
+      "catno": "INT 160.173"
+    }
+  ],
+  "country": "Germany",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Total Egal",
+      "duration": "3:45"
+    },
+    {
+      "position": "A2",
+      "title": "'n Bombenlied",
+      "duration": "4:03"
+    },
+    {
+      "position": "A3",
+      "title": "Currywurst",
+      "duration": "2:00"
+    },
+    {
+      "position": "A4",
+      "title": "Anna",
+      "duration": "4:30"
+    },
+    {
+      "position": "A5",
+      "title": "So Gut",
+      "duration": "5:26"
+    },
+    {
+      "position": "B1",
+      "title": "Frag Mich Nicht",
+      "duration": "4:14"
+    },
+    {
+      "position": "B2",
+      "title": "Kino",
+      "duration": "2:31"
+    },
+    {
+      "position": "B3",
+      "title": "Ich Will's Nicht",
+      "duration": "3:31"
+    },
+    {
+      "position": "B4",
+      "title": "Darf Ich Mal",
+      "duration": "3:13"
+    },
+    {
+      "position": "B5",
+      "title": "Vergiss Es, Lass Es",
+      "duration": "4:52"
+    }
+  ],
+  "addedAt": "2026-10-10",
+  "cover": "covers/18943234.jpg",
+  "discogsUrl": "https://www.discogs.com/release/18943234",
+  "sortName": "herbert gronemeyer"
+}

@@ -1,0 +1,94 @@
+{
+  "id": 13823050,
+  "artist": "Fatoni",
+  "title": "Andorra",
+  "year": 2019,
+  "originalYear": 2019,
+  "genres": [
+    "Hip Hop"
+  ],
+  "styles": [],
+  "format": "2×LP",
+  "formatDetails": [
+    "LP",
+    "Album"
+  ],
+  "labels": [
+    {
+      "name": "Urban",
+      "catno": "7788527"
+    }
+  ],
+  "country": "Germany",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Alles Zieht Vorbei",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Die Anderen",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "Clint Eastwood",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "D.I.E.T.E.R.",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "Burj Khalifa",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "Digitales Leben",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "Nein Nein Nein Nein Nein Nein",
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "title": "Alles Cool",
+      "duration": ""
+    },
+    {
+      "position": "C2",
+      "title": "Krieg Ich Alles Nicht Hin",
+      "duration": ""
+    },
+    {
+      "position": "C3",
+      "title": "Ich Glaub Mit Mir Stimmt Was Nicht",
+      "duration": ""
+    },
+    {
+      "position": "D1",
+      "title": "Mitch",
+      "duration": ""
+    },
+    {
+      "position": "D2",
+      "title": "Wie Du",
+      "duration": ""
+    },
+    {
+      "position": "D3",
+      "title": "OK OK OK",
+      "duration": ""
+    }
+  ],
+  "addedAt": "2026-09-08",
+  "cover": "covers/13823050.jpg",
+  "discogsUrl": "https://www.discogs.com/release/13823050",
+  "sortName": "fatoni"
+}

@@ -1,0 +1,84 @@
+{
+  "id": 35282350,
+  "artist": "Ben Howard",
+  "title": "Every Kingdom",
+  "year": null,
+  "originalYear": 2011,
+  "genres": [
+    "Rock"
+  ],
+  "styles": [
+    "Alternative Rock",
+    "Acoustic",
+    "Folk Rock"
+  ],
+  "format": "LP",
+  "formatDetails": [
+    "LP",
+    "Album",
+    "Repress"
+  ],
+  "labels": [
+    {
+      "name": "Island Records",
+      "catno": "2782648"
+    }
+  ],
+  "country": null,
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Old Pine",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Diamonds",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "The Wolves",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "Everything",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "title": "Only Love",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "The Fear",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "Keep Your Head Up",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "Black Flies",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "Gracious",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "title": "Promise",
+      "duration": ""
+    }
+  ],
+  "addedAt": "2026-10-28",
+  "cover": "covers/35282350.jpg",
+  "discogsUrl": "https://www.discogs.com/release/35282350",
+  "sortName": "ben howard"
+}

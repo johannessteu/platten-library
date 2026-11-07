@@ -1,0 +1,108 @@
+{
+  "id": 33360155,
+  "artist": "Provinz",
+  "title": "Zorn & Liebe",
+  "year": 2024,
+  "originalYear": 2022,
+  "genres": [
+    "Pop"
+  ],
+  "styles": [
+    "Indie Pop"
+  ],
+  "format": "2×LP",
+  "formatDetails": [
+    "12\"",
+    "45 RPM",
+    "Album",
+    "Stereo"
+  ],
+  "labels": [
+    {
+      "name": "Warner Music Central Europe",
+      "catno": "5054197-9168-3-0"
+    }
+  ],
+  "country": "Germany",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Intro",
+      "duration": "3:26"
+    },
+    {
+      "position": "A2",
+      "title": "Diese Nacht",
+      "duration": "2:34"
+    },
+    {
+      "position": "A3",
+      "title": "Spring",
+      "duration": "3:37"
+    },
+    {
+      "position": "A4",
+      "title": "17 Für Immer",
+      "duration": "2:40"
+    },
+    {
+      "position": "B1",
+      "title": "Unsere Bank",
+      "duration": "2:50"
+    },
+    {
+      "position": "B2",
+      "title": "Aylin",
+      "duration": "3:16"
+    },
+    {
+      "position": "B3",
+      "title": "Betäub Mich",
+      "duration": "3:14"
+    },
+    {
+      "position": "B4",
+      "title": "Verrate Deine Freunde",
+      "duration": "3:03"
+    },
+    {
+      "position": "C1",
+      "title": "Zwei Menschen",
+      "duration": "3:24"
+    },
+    {
+      "position": "C2",
+      "title": "Zorn & Liebe",
+      "duration": "2:56"
+    },
+    {
+      "position": "C3",
+      "title": "Weit Weg",
+      "duration": "3:30"
+    },
+    {
+      "position": "C4",
+      "title": "Sara",
+      "duration": "3:19"
+    },
+    {
+      "position": "D1",
+      "title": "Verschwendung",
+      "duration": "2:32"
+    },
+    {
+      "position": "D2",
+      "title": "Robin Skit",
+      "duration": "2:21"
+    },
+    {
+      "position": "D3",
+      "title": "Alles Gut Keine Angst",
+      "duration": "3:57"
+    }
+  ],
+  "addedAt": "2026-10-27",
+  "cover": "covers/33360155.jpg",
+  "discogsUrl": "https://www.discogs.com/release/33360155",
+  "sortName": "provinz"
+}

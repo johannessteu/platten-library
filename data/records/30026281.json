@@ -1,0 +1,110 @@
+{
+  "id": 30026281,
+  "artist": "Paula Hartmann",
+  "title": "Kleine Feuer",
+  "year": 2024,
+  "originalYear": 2024,
+  "genres": [
+    "Pop"
+  ],
+  "styles": [
+    "Pop Rap"
+  ],
+  "format": "LP",
+  "formatDetails": [
+    "LP",
+    "Album"
+  ],
+  "labels": [
+    {
+      "name": "Four Music",
+      "catno": "19658879681"
+    },
+    {
+      "name": "WSTBLN",
+      "catno": "19658879681"
+    }
+  ],
+  "country": "Germany, Austria, & Switzerland",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Gespenst",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "D.L.I.T. (Die Liebe Ist Tot)",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "Crossfades",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "Candy Crush",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "title": "Disney",
+      "duration": ""
+    },
+    {
+      "position": "A6",
+      "title": "Zwischen 2 Und 5",
+      "duration": ""
+    },
+    {
+      "position": "A7",
+      "title": "7 Mädchen",
+      "duration": ""
+    },
+    {
+      "position": "A8",
+      "title": "Schwarze Suvs",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "Gebrochenes Glas",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "Atlantis",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "Sag Was",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "Kleine Feuer",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "title": "Snoopy",
+      "duration": ""
+    },
+    {
+      "position": "B6",
+      "title": "Uludağ Und Sorgen (Hidden Track)",
+      "duration": ""
+    },
+    {
+      "position": "B7",
+      "title": "Nimm Mit (Hidden Track)",
+      "duration": ""
+    }
+  ],
+  "addedAt": "2026-10-22",
+  "cover": "covers/30026281.jpg",
+  "discogsUrl": "https://www.discogs.com/release/30026281",
+  "sortName": "paula hartmann"
+}

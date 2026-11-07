@@ -1,0 +1,94 @@
+{
+  "id": 38382147,
+  "artist": "Jeremias",
+  "title": "trust",
+  "year": 2025,
+  "originalYear": 2025,
+  "genres": [
+    "Pop"
+  ],
+  "styles": [
+    "Indie Pop"
+  ],
+  "format": "LP",
+  "formatDetails": [
+    "LP"
+  ],
+  "labels": [
+    {
+      "name": "Universal Music Group",
+      "catno": "0602475481911"
+    },
+    {
+      "name": "Vertigo Berlin",
+      "catno": "0602475481911"
+    }
+  ],
+  "country": "Germany",
+  "tracklist": [
+    {
+      "position": "1",
+      "title": "this is",
+      "duration": "0:55"
+    },
+    {
+      "position": "2",
+      "title": "trust",
+      "duration": "2:37"
+    },
+    {
+      "position": "3",
+      "title": "sag mir was ich nicht weiß",
+      "duration": "2:46"
+    },
+    {
+      "position": "4",
+      "title": "pillen",
+      "duration": "3:07"
+    },
+    {
+      "position": "5",
+      "title": "meer",
+      "duration": "3:46"
+    },
+    {
+      "position": "6",
+      "title": "reich",
+      "duration": "2:54"
+    },
+    {
+      "position": "7",
+      "title": "ein vogel",
+      "duration": "3:17"
+    },
+    {
+      "position": "8",
+      "title": "ein mensch",
+      "duration": "2:15"
+    },
+    {
+      "position": "9",
+      "title": "luna",
+      "duration": "3:10"
+    },
+    {
+      "position": "10",
+      "title": "vorbei",
+      "duration": "2:33"
+    },
+    {
+      "position": "11",
+      "title": "fallen",
+      "duration": "2:25"
+    },
+    {
+      "position": "12",
+      "title": "mamita",
+      "duration": "0:51"
+    }
+  ],
+  "addedAt": "2026-09-09",
+  "cover": "covers/38382147.jpg",
+  "discogsUrl": "https://www.discogs.com/release/38382147",
+  "sortName": "jeremias"
+}

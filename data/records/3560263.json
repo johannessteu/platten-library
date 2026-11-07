@@ -1,0 +1,105 @@
+{
+  "id": 3560263,
+  "artist": "ABBA",
+  "title": "Greatest Hits Vol. 2",
+  "year": 1979,
+  "originalYear": 1979,
+  "genres": [
+    "Electronic",
+    "Rock"
+  ],
+  "styles": [
+    "Pop Rock",
+    "Disco"
+  ],
+  "format": "LP",
+  "formatDetails": [
+    "LP",
+    "Compilation",
+    "Club Edition",
+    "Stereo"
+  ],
+  "labels": [
+    {
+      "name": "Polydor",
+      "catno": "27289-8"
+    }
+  ],
+  "country": "Germany",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+      "duration": "4:45"
+    },
+    {
+      "position": "A2",
+      "title": "Knowing Me, Knowing You",
+      "duration": "4:02"
+    },
+    {
+      "position": "A3",
+      "title": "Take A Chance On Me",
+      "duration": "4:05"
+    },
+    {
+      "position": "A4",
+      "title": "Money, Money, Money",
+      "duration": "3:05"
+    },
+    {
+      "position": "A5",
+      "title": "Rock Me",
+      "duration": "3:03"
+    },
+    {
+      "position": "A6",
+      "title": "Eagle",
+      "duration": "5:51"
+    },
+    {
+      "position": "A7",
+      "title": "Angeleyes",
+      "duration": "4:20"
+    },
+    {
+      "position": "B1",
+      "title": "Dancing Queen",
+      "duration": "3:50"
+    },
+    {
+      "position": "B2",
+      "title": "Does Your Mother Know",
+      "duration": "3:13"
+    },
+    {
+      "position": "B3",
+      "title": "Chiquitita",
+      "duration": "5:26"
+    },
+    {
+      "position": "B4",
+      "title": "Summer Night City",
+      "duration": "3:34"
+    },
+    {
+      "position": "B5",
+      "title": "I Wonder (Departure)",
+      "duration": "4:38"
+    },
+    {
+      "position": "B6",
+      "title": "The Name Of The Game",
+      "duration": "4:54"
+    },
+    {
+      "position": "B7",
+      "title": "Thank You For The Music",
+      "duration": "3:48"
+    }
+  ],
+  "addedAt": "2026-10-09",
+  "cover": "covers/3560263.jpg",
+  "discogsUrl": "https://www.discogs.com/release/3560263",
+  "sortName": "abba"
+}

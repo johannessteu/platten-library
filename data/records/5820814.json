@@ -1,0 +1,100 @@
+{
+  "id": 5820814,
+  "artist": "Ed Sheeran",
+  "title": "X",
+  "year": 2014,
+  "originalYear": 2014,
+  "genres": [
+    "Hip Hop",
+    "Rock",
+    "Pop"
+  ],
+  "styles": [
+    "Acoustic",
+    "Pop Rock",
+    "Folk Rock"
+  ],
+  "format": "2×LP",
+  "formatDetails": [
+    "12\"",
+    "45 RPM",
+    "Album"
+  ],
+  "labels": [
+    {
+      "name": "Asylum Records",
+      "catno": "825646285877"
+    },
+    {
+      "name": "Atlantic",
+      "catno": "825646285877"
+    }
+  ],
+  "country": "UK & Europe",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "One",
+      "duration": "4:13"
+    },
+    {
+      "position": "A2",
+      "title": "I'm A Mess",
+      "duration": "4:05"
+    },
+    {
+      "position": "A3",
+      "title": "Sing",
+      "duration": "3:55"
+    },
+    {
+      "position": "B1",
+      "title": "Don't",
+      "duration": "3:40"
+    },
+    {
+      "position": "B2",
+      "title": "Nina",
+      "duration": "3:46"
+    },
+    {
+      "position": "B3",
+      "title": "Photograph",
+      "duration": "4:19"
+    },
+    {
+      "position": "C1",
+      "title": "Bloodstream",
+      "duration": "5:00"
+    },
+    {
+      "position": "C2",
+      "title": "Tenerife Sea",
+      "duration": "4:01"
+    },
+    {
+      "position": "C3",
+      "title": "Runaway",
+      "duration": "3:25"
+    },
+    {
+      "position": "D1",
+      "title": "The Man",
+      "duration": "4:10"
+    },
+    {
+      "position": "D2",
+      "title": "Thinking Out Loud",
+      "duration": "4:42"
+    },
+    {
+      "position": "D3",
+      "title": "Afire Love",
+      "duration": "5:14"
+    }
+  ],
+  "addedAt": "2026-10-22",
+  "cover": "covers/5820814.jpg",
+  "discogsUrl": "https://www.discogs.com/release/5820814",
+  "sortName": "ed sheeran"
+}

@@ -1,0 +1,74 @@
+{
+  "id": 35336365,
+  "artist": "Das Paradies",
+  "title": "Überall Wo Menschen Sind",
+  "year": 2025,
+  "originalYear": 2025,
+  "genres": [
+    "Pop"
+  ],
+  "styles": [],
+  "format": "LP",
+  "formatDetails": [
+    "LP",
+    "Album"
+  ],
+  "labels": [
+    {
+      "name": "Krokant",
+      "catno": "KROKANT52"
+    }
+  ],
+  "country": "Germany",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Florian Gibt Auf",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Alles Schmeckt Nach Abschied",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "Die Neue Illusion Ist Da",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "An Einem Kirschbaum In Einem Sommer",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "title": "Der Spuk, Der Uns Verbindet",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "Brand Neu Second Hand",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "Wenn Der Staub Sich Legt",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "Das Leben Fühlt Sich Endlos An",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "Bei Den Gegendrops",
+      "duration": ""
+    }
+  ],
+  "addedAt": "2026-10-02",
+  "cover": "covers/35336365.jpg",
+  "discogsUrl": "https://www.discogs.com/release/35336365",
+  "sortName": "das paradies"
+}

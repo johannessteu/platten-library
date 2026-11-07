@@ -1,0 +1,98 @@
+{
+  "id": 33388397,
+  "artist": "Fleetwood Mac",
+  "title": "Rumours",
+  "year": 2025,
+  "originalYear": 1977,
+  "genres": [
+    "Rock"
+  ],
+  "styles": [
+    "Classic Rock",
+    "Pop Rock",
+    "Soft Rock"
+  ],
+  "format": "LP",
+  "formatDetails": [
+    "LP",
+    "Album",
+    "Reissue",
+    "Stereo"
+  ],
+  "labels": [
+    {
+      "name": "Reprise Records",
+      "catno": "R1 3010"
+    },
+    {
+      "name": "Reprise Records",
+      "catno": "603497816163"
+    },
+    {
+      "name": "Warner Records",
+      "catno": "R1 3010"
+    }
+  ],
+  "country": "US",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Second Hand News",
+      "duration": "2:42"
+    },
+    {
+      "position": "A2",
+      "title": "Dreams",
+      "duration": "4:15"
+    },
+    {
+      "position": "A3",
+      "title": "Never Going Back Again",
+      "duration": "2:02"
+    },
+    {
+      "position": "A4",
+      "title": "Don't Stop",
+      "duration": "3:10"
+    },
+    {
+      "position": "A5",
+      "title": "Go Your Own Way",
+      "duration": "3:40"
+    },
+    {
+      "position": "A6",
+      "title": "Songbird",
+      "duration": "3:18"
+    },
+    {
+      "position": "B1",
+      "title": "The Chain",
+      "duration": "4:27"
+    },
+    {
+      "position": "B2",
+      "title": "You Make Loving Fun",
+      "duration": "3:33"
+    },
+    {
+      "position": "B3",
+      "title": "I Don't Want To Know",
+      "duration": "3:13"
+    },
+    {
+      "position": "B4",
+      "title": "Oh Daddy",
+      "duration": "3:54"
+    },
+    {
+      "position": "B5",
+      "title": "Gold Dust Woman",
+      "duration": "5:13"
+    }
+  ],
+  "addedAt": "2026-09-08",
+  "cover": "covers/33388397.jpg",
+  "discogsUrl": "https://www.discogs.com/release/33388397",
+  "sortName": "fleetwood mac"
+}

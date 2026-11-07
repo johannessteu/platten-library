@@ -1,0 +1,106 @@
+{
+  "id": 26286809,
+  "artist": "AnnenMayKantereit",
+  "title": "Es Ist Abend Und Wir Sitzen Bei Mir",
+  "year": 2023,
+  "originalYear": 2023,
+  "genres": [
+    "Rock"
+  ],
+  "styles": [
+    "Indie Rock"
+  ],
+  "format": "2×LP",
+  "formatDetails": [
+    "LP",
+    "Album"
+  ],
+  "labels": [
+    {
+      "name": "AnnenMayKantereit Records",
+      "catno": "AMK 002"
+    }
+  ],
+  "country": "Germany",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Lass Es Kreisen",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "3 Tage Am Meer",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "Es Ist Abend",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "Lottoscheine",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "Katharina",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "Verliebt Sein",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "Ausgehen",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "Erdbeerkuchen",
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "title": "Heute Abend Wird Es Regnen",
+      "duration": ""
+    },
+    {
+      "position": "C2",
+      "title": "Weißhausstraße",
+      "duration": ""
+    },
+    {
+      "position": "C3",
+      "title": "Kein Stern",
+      "duration": ""
+    },
+    {
+      "position": "C4",
+      "title": "Als Ich Ein Kind War",
+      "duration": ""
+    },
+    {
+      "position": "D1",
+      "title": "Du Tust Mir Nie Mehr Weh",
+      "duration": ""
+    },
+    {
+      "position": "D2",
+      "title": "Orangenlied",
+      "duration": ""
+    },
+    {
+      "position": "D3",
+      "title": "Tommi",
+      "duration": ""
+    }
+  ],
+  "addedAt": "2026-09-03",
+  "cover": "covers/26286809.jpg",
+  "discogsUrl": "https://www.discogs.com/release/26286809",
+  "sortName": "annenmaykantereit"
+}

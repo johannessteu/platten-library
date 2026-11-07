@@ -1,0 +1,96 @@
+{
+  "id": 5053799,
+  "artist": "Moop Mama",
+  "title": "Das Rote Album",
+  "year": 2013,
+  "originalYear": 2013,
+  "genres": [
+    "Hip Hop"
+  ],
+  "styles": [
+    "Brass Band"
+  ],
+  "format": "2×LP",
+  "formatDetails": [
+    "LP",
+    "Album"
+  ],
+  "labels": [
+    {
+      "name": "Millaphon Records",
+      "catno": ""
+    }
+  ],
+  "country": "Germany",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Kilometerfressen",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Stadt Die Immer Schläft",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "Krankes Wesen",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "Roboter",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "L.B. (Iterlude)",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "Wo Der Pfeffer Wächst",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "Latte Macchiato",
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "title": "Wunderheiler",
+      "duration": ""
+    },
+    {
+      "position": "C2",
+      "title": "Taler Unser",
+      "duration": ""
+    },
+    {
+      "position": "C3",
+      "title": "Werbepause",
+      "duration": ""
+    },
+    {
+      "position": "D1",
+      "title": "Party Der Versager",
+      "duration": ""
+    },
+    {
+      "position": "D2",
+      "title": "Elefant",
+      "duration": ""
+    },
+    {
+      "position": "D3",
+      "title": "Liebe",
+      "duration": ""
+    }
+  ],
+  "addedAt": "2026-10-14",
+  "cover": "covers/5053799.jpg",
+  "discogsUrl": "https://www.discogs.com/release/5053799",
+  "sortName": "moop mama"
+}

@@ -1,0 +1,67 @@
+{
+  "id": 3445749,
+  "artist": "Elton John Band Featuring John Lennon And Muscle Shoals Horns",
+  "title": "28th November, 1974....",
+  "year": 1981,
+  "originalYear": 1981,
+  "genres": [
+    "Rock"
+  ],
+  "styles": [
+    "Pop Rock"
+  ],
+  "format": "LP",
+  "formatDetails": [
+    "LP",
+    "Album",
+    "Club Edition"
+  ],
+  "labels": [
+    {
+      "name": "DJM Records",
+      "catno": "27 379-7"
+    }
+  ],
+  "country": "Germany",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Funeral For A Friend / Love Lies Bleeding",
+      "duration": "10:53"
+    },
+    {
+      "position": "A2",
+      "title": "Rocket Man",
+      "duration": "4:45"
+    },
+    {
+      "position": "A3",
+      "title": "Benny And The Jets",
+      "duration": "5:50"
+    },
+    {
+      "position": "B1",
+      "title": "Take Me To The Pilot",
+      "duration": "5:33"
+    },
+    {
+      "position": "B2",
+      "title": "Whatever Gets You Through The Night",
+      "duration": "4:25"
+    },
+    {
+      "position": "B3",
+      "title": "Lucy In The Sky With Diamonds",
+      "duration": "6:15"
+    },
+    {
+      "position": "B4",
+      "title": "I Saw Her Standing There",
+      "duration": "3:37"
+    }
+  ],
+  "addedAt": "2026-10-18",
+  "cover": "covers/3445749.jpg",
+  "discogsUrl": "https://www.discogs.com/release/3445749",
+  "sortName": "elton john band featuring john lennon and muscle shoals horns"
+}

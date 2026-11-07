@@ -1,0 +1,174 @@
+{
+  "id": 38210685,
+  "artist": "Queen",
+  "title": "Live At Wembley Stadium",
+  "year": 2026,
+  "originalYear": 1992,
+  "genres": [
+    "Rock"
+  ],
+  "styles": [],
+  "format": "Box-Set",
+  "formatDetails": [
+    "LP",
+    "Album",
+    "Stereo"
+  ],
+  "labels": [
+    {
+      "name": "Columbia",
+      "catno": "19802956651"
+    },
+    {
+      "name": "Sony Music",
+      "catno": "19802956651"
+    }
+  ],
+  "country": "Worldwide",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "One Vision",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Tie Your Mother Down",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "In The Lap Of The Gods… Revisited",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "Seven Seas Of Rhye",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "title": "Tear It Up",
+      "duration": ""
+    },
+    {
+      "position": "A6",
+      "title": "A Kind Of Magic",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "Under Pressure",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "Another One Bites The Dust",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "Who Wants To Live Forever",
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "title": "I Want To Break Free",
+      "duration": ""
+    },
+    {
+      "position": "C2",
+      "title": "Impromptu",
+      "duration": ""
+    },
+    {
+      "position": "C3",
+      "title": "Brighton Rock Solo",
+      "duration": ""
+    },
+    {
+      "position": "C4",
+      "title": "Now I'm Here",
+      "duration": ""
+    },
+    {
+      "position": "D1",
+      "title": "Love Of My Life",
+      "duration": ""
+    },
+    {
+      "position": "D2",
+      "title": "Is This The World We Created…?",
+      "duration": ""
+    },
+    {
+      "position": "D3",
+      "title": "(You're So Square) Baby I Don't Care",
+      "duration": ""
+    },
+    {
+      "position": "D4",
+      "title": "Hello Mary Lou (Goodbye Heart)",
+      "duration": ""
+    },
+    {
+      "position": "D5",
+      "title": "Tutti Frutti",
+      "duration": ""
+    },
+    {
+      "position": "E1",
+      "title": "Gimme Some Lovin'",
+      "duration": ""
+    },
+    {
+      "position": "E2",
+      "title": "Bohemian Rhapsody",
+      "duration": ""
+    },
+    {
+      "position": "E3",
+      "title": "Hammer To Fall",
+      "duration": ""
+    },
+    {
+      "position": "E4",
+      "title": "Crazy Little Thing Called Love",
+      "duration": ""
+    },
+    {
+      "position": "F1",
+      "title": "Big Spender",
+      "duration": ""
+    },
+    {
+      "position": "F2",
+      "title": "Radio Ga Ga",
+      "duration": ""
+    },
+    {
+      "position": "F3",
+      "title": "We Will Rock You",
+      "duration": ""
+    },
+    {
+      "position": "F4",
+      "title": "Friends Will Be Friends",
+      "duration": ""
+    },
+    {
+      "position": "F5",
+      "title": "We Are The Champions",
+      "duration": ""
+    },
+    {
+      "position": "F6",
+      "title": "God Save The Queen",
+      "duration": ""
+    }
+  ],
+  "addedAt": "2026-09-27",
+  "cover": "covers/38210685.jpg",
+  "discogsUrl": "https://www.discogs.com/release/38210685",
+  "sortName": "queen"
+}

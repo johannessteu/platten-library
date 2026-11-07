@@ -1,0 +1,85 @@
+{
+  "id": 11506654,
+  "artist": "Olli Schulz",
+  "title": "Scheiss Leben, Gut Erzählt.",
+  "year": 2018,
+  "originalYear": 2018,
+  "genres": [
+    "Rock"
+  ],
+  "styles": [
+    "Indie Rock"
+  ],
+  "format": "LP",
+  "formatDetails": [
+    "LP",
+    "Album"
+  ],
+  "labels": [
+    {
+      "name": "Trocadero Records",
+      "catno": "TR 20751"
+    },
+    {
+      "name": "Runde Hunde Records",
+      "catno": "TR 20751"
+    }
+  ],
+  "country": "Germany",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Schockst Nicht Mehr",
+      "duration": "2:41"
+    },
+    {
+      "position": "A2",
+      "title": "Ganz Große Freiheit",
+      "duration": "3:33"
+    },
+    {
+      "position": "A3",
+      "title": "Ambivalent",
+      "duration": "3:31"
+    },
+    {
+      "position": "A4",
+      "title": "Wölfe",
+      "duration": "2:53"
+    },
+    {
+      "position": "A5",
+      "title": "Wachsen (Im Speisesaal Des Lebens)",
+      "duration": "3:10"
+    },
+    {
+      "position": "B1",
+      "title": "Junge Frau Sucht...",
+      "duration": "3:06"
+    },
+    {
+      "position": "B2",
+      "title": "Skat Spielen Mit Den Jungs",
+      "duration": "2:41"
+    },
+    {
+      "position": "B3",
+      "title": "Sportboot",
+      "duration": "2:34"
+    },
+    {
+      "position": "B4",
+      "title": "Schmeiss Alles Rein",
+      "duration": "3:19"
+    },
+    {
+      "position": "B5",
+      "title": "Schmeckt Wie...",
+      "duration": "1:56"
+    }
+  ],
+  "addedAt": "2026-10-09",
+  "cover": "covers/11506654.jpg",
+  "discogsUrl": "https://www.discogs.com/release/11506654",
+  "sortName": "olli schulz"
+}

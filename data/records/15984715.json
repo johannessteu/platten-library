@@ -1,0 +1,171 @@
+{
+  "id": 15984715,
+  "artist": "Faber",
+  "title": "Sei Ein Faber Im Wind",
+  "year": 2020,
+  "originalYear": 2017,
+  "genres": [
+    "Rock",
+    "Pop",
+    "Folk, World, & Country"
+  ],
+  "styles": [
+    "Folk",
+    "Indie Rock",
+    "Chanson"
+  ],
+  "format": "LP",
+  "formatDetails": [
+    "LP",
+    "Album",
+    "Reissue",
+    "Repress"
+  ],
+  "labels": [
+    {
+      "name": "Irrsinn",
+      "catno": "0882009"
+    },
+    {
+      "name": "Vertigo",
+      "catno": "0882009"
+    }
+  ],
+  "country": "Germany",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Ouverture",
+      "duration": "1:00"
+    },
+    {
+      "position": "A2",
+      "title": "Wem Du's Heute Kannst Besorgen",
+      "duration": "3:02"
+    },
+    {
+      "position": "A3",
+      "title": "Nichts",
+      "duration": "3:27"
+    },
+    {
+      "position": "A4",
+      "title": "Es Könnte Schöner Sein",
+      "duration": "4:09"
+    },
+    {
+      "position": "A5",
+      "title": "Lass Mich Nicht Los",
+      "duration": "3:48"
+    },
+    {
+      "position": "A6",
+      "title": "Bleib Dir Nicht Treu",
+      "duration": "3:55"
+    },
+    {
+      "position": "B1",
+      "title": "Alles Gute",
+      "duration": "4:01"
+    },
+    {
+      "position": "B2",
+      "title": "In Paris Brennen Autos",
+      "duration": "4:13"
+    },
+    {
+      "position": "B3",
+      "title": "Bratislava",
+      "duration": "3:20"
+    },
+    {
+      "position": "B4",
+      "title": "Wer Nicht Schwimmen Kann Der Taucht",
+      "duration": "2:44"
+    },
+    {
+      "position": "B5",
+      "title": "Brüstebeinearschgesicht",
+      "duration": "5:54"
+    },
+    {
+      "position": "B6",
+      "title": "So Soll Es Sein",
+      "duration": "3:03"
+    },
+    {
+      "position": "B7",
+      "title": "Sei Ein Faber Im Wind",
+      "duration": "4:07"
+    },
+    {
+      "position": "CD1",
+      "title": "Ouverture",
+      "duration": "1:00"
+    },
+    {
+      "position": "CD2",
+      "title": "Wem Du's Heute Kannst Besorgen",
+      "duration": "3:01"
+    },
+    {
+      "position": "CD3",
+      "title": "Nichts",
+      "duration": "3:27"
+    },
+    {
+      "position": "CD4",
+      "title": "Es Könnte Schöner Sein",
+      "duration": "4:08"
+    },
+    {
+      "position": "CD5",
+      "title": "Lass Mich Nicht Los",
+      "duration": "3:48"
+    },
+    {
+      "position": "CD6",
+      "title": "Bleib Dir Nicht Treu",
+      "duration": "3:54"
+    },
+    {
+      "position": "CD7",
+      "title": "Alles Gute",
+      "duration": "4:00"
+    },
+    {
+      "position": "CD8",
+      "title": "In Paris Brennen Autos",
+      "duration": "4:13"
+    },
+    {
+      "position": "CD9",
+      "title": "Bratislava",
+      "duration": "3:19"
+    },
+    {
+      "position": "CD10",
+      "title": "Wer Nicht Schwimmen Kann Der Taucht",
+      "duration": "2:43"
+    },
+    {
+      "position": "CD11",
+      "title": "Brüstebeinearschgesicht",
+      "duration": "5:54"
+    },
+    {
+      "position": "CD12",
+      "title": "So Soll Es Sein",
+      "duration": "3:02"
+    },
+    {
+      "position": "CD13",
+      "title": "Sei Ein Faber Im Wind",
+      "duration": "4:06"
+    }
+  ],
+  "addedAt": "2026-10-14",
+  "cover": "covers/15984715.jpg",
+  "discogsUrl": "https://www.discogs.com/release/15984715",
+  "sortName": "faber"
+}

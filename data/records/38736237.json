@@ -1,0 +1,97 @@
+{
+  "id": 38736237,
+  "artist": "Giant Rooks",
+  "title": "If Heaven Exists, This Might Be It",
+  "year": 2026,
+  "originalYear": 2026,
+  "genres": [
+    "Rock",
+    "Pop"
+  ],
+  "styles": [
+    "Indie Rock",
+    "Indie Pop"
+  ],
+  "format": "LP",
+  "formatDetails": [
+    "LP",
+    "Limited Edition"
+  ],
+  "labels": [
+    {
+      "name": "Vertigo Berlin",
+      "catno": "00199957828758"
+    },
+    {
+      "name": "Irrsinn",
+      "catno": "00199957828758"
+    }
+  ],
+  "country": "Germany",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "The Better Life",
+      "duration": "4:29"
+    },
+    {
+      "position": "A2",
+      "title": "Blood On The Dashboard",
+      "duration": "3:24"
+    },
+    {
+      "position": "A3",
+      "title": "Slow Dance (For A Minute)",
+      "duration": "3:34"
+    },
+    {
+      "position": "A4",
+      "title": "Baby, Please",
+      "duration": "3:16"
+    },
+    {
+      "position": "A5",
+      "title": "The Big Night Out",
+      "duration": "2:34"
+    },
+    {
+      "position": "A6",
+      "title": "Parachute",
+      "duration": "3:58"
+    },
+    {
+      "position": "B1",
+      "title": "Want It Back",
+      "duration": "3:27"
+    },
+    {
+      "position": "B2",
+      "title": "The Future is Cancelled",
+      "duration": "3:27"
+    },
+    {
+      "position": "B3",
+      "title": "If Heaven Exists (feat. Conic Rose)",
+      "duration": "1:55"
+    },
+    {
+      "position": "B4",
+      "title": "The Waves (feat. Solann)",
+      "duration": "5:29"
+    },
+    {
+      "position": "B5",
+      "title": "Everything We Need Is Right Here",
+      "duration": "3:42"
+    },
+    {
+      "position": "B6",
+      "title": "Notes To A Younger Self",
+      "duration": "4:18"
+    }
+  ],
+  "addedAt": "2026-10-16",
+  "cover": "covers/38736237.jpg",
+  "discogsUrl": "https://www.discogs.com/release/38736237",
+  "sortName": "giant rooks"
+}

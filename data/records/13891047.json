@@ -1,0 +1,115 @@
+{
+  "id": 13891047,
+  "artist": "Seafret",
+  "title": "Tell Me It's Real (10th Anniversary Edition)",
+  "year": 2026,
+  "originalYear": 2016,
+  "genres": [
+    "Folk, World, & Country"
+  ],
+  "styles": [
+    "Folk"
+  ],
+  "format": "LP",
+  "formatDetails": [
+    "LP",
+    "Album",
+    "Stereo"
+  ],
+  "labels": [
+    {
+      "name": "Columbia",
+      "catno": "19958409541"
+    },
+    {
+      "name": "Sweet Jane Recordings",
+      "catno": "19958409541"
+    },
+    {
+      "name": "Sony Music",
+      "catno": "19958409541"
+    }
+  ],
+  "country": "UK",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Missing",
+      "duration": "3:28"
+    },
+    {
+      "position": "A2",
+      "title": "Give Me Something",
+      "duration": "2:39"
+    },
+    {
+      "position": "A3",
+      "title": "Wildfire",
+      "duration": "3:45"
+    },
+    {
+      "position": "A4",
+      "title": "Breathe",
+      "duration": "3:10"
+    },
+    {
+      "position": "A5",
+      "title": "Oceans",
+      "duration": "3:36"
+    },
+    {
+      "position": "A6",
+      "title": "Over",
+      "duration": "3:44"
+    },
+    {
+      "position": "A7",
+      "title": "Tell Me It's Real",
+      "duration": "3:00"
+    },
+    {
+      "position": "B1",
+      "title": "Be There",
+      "duration": "3:16"
+    },
+    {
+      "position": "B2",
+      "title": "Beauty on the Breeze",
+      "duration": "2:42"
+    },
+    {
+      "position": "B3",
+      "title": "Atlantis",
+      "duration": "3:50"
+    },
+    {
+      "position": "B4",
+      "title": "Skimming Stones",
+      "duration": "3:36"
+    },
+    {
+      "position": "B5",
+      "title": "There's a Light",
+      "duration": "3:43"
+    },
+    {
+      "position": "B6",
+      "title": "To the Sea",
+      "duration": "3:18"
+    },
+    {
+      "position": "B7",
+      "title": "Out of Nowhere",
+      "duration": "2:36"
+    },
+    {
+      "position": "B8",
+      "title": "Overtime",
+      "duration": "2:59"
+    }
+  ],
+  "addedAt": "2026-10-29",
+  "cover": "covers/13891047.jpg",
+  "discogsUrl": "https://www.discogs.com/release/13891047",
+  "sortName": "seafret"
+}

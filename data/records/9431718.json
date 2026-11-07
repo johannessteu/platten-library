@@ -1,0 +1,150 @@
+{
+  "id": 9431718,
+  "artist": "Herbert Grönemeyer",
+  "title": "Live in Bochum",
+  "year": 2016,
+  "originalYear": 2016,
+  "genres": [
+    "Rock",
+    "Pop"
+  ],
+  "styles": [],
+  "format": "2×LP",
+  "formatDetails": [
+    "LP",
+    "Album",
+    "Stereo"
+  ],
+  "labels": [
+    {
+      "name": "Universal Music",
+      "catno": "006025 5704430 0"
+    },
+    {
+      "name": "Grönland Records",
+      "catno": "006025 5704430 0"
+    }
+  ],
+  "country": "Germany",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Unter Tage",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Wunderbare Leere",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "Fang mich an",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "Unser Land",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "title": "Bochum",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "Schiffsverkehr",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "Stück vom Himmel",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "Männer Medley (Männer, Was soll das, Vollmond)",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "Neuer Tag",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "title": "Der Weg",
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "title": "Flugzeuge im Bauch",
+      "duration": ""
+    },
+    {
+      "position": "C2",
+      "title": "Musik nur wenn sie laut ist",
+      "duration": ""
+    },
+    {
+      "position": "C3",
+      "title": "Mensch",
+      "duration": ""
+    },
+    {
+      "position": "C4",
+      "title": "Roter Mond (Piano Version)",
+      "duration": ""
+    },
+    {
+      "position": "C5",
+      "title": "Alkohol",
+      "duration": ""
+    },
+    {
+      "position": "C6",
+      "title": "Bleibt alles anders",
+      "duration": ""
+    },
+    {
+      "position": "D1",
+      "title": "Morgen",
+      "duration": ""
+    },
+    {
+      "position": "D2",
+      "title": "Demo",
+      "duration": ""
+    },
+    {
+      "position": "D3",
+      "title": "Feuerlicht",
+      "duration": ""
+    },
+    {
+      "position": "D4",
+      "title": "Ich dreh mich um dich",
+      "duration": ""
+    },
+    {
+      "position": "D5",
+      "title": "Bochum (Reprise)",
+      "duration": ""
+    },
+    {
+      "position": "D6",
+      "title": "Halt mich",
+      "duration": ""
+    },
+    {
+      "position": "D7",
+      "title": "Der Mond ist aufgegangen",
+      "duration": ""
+    }
+  ],
+  "addedAt": "2026-10-10",
+  "cover": "covers/9431718.jpg",
+  "discogsUrl": "https://www.discogs.com/release/9431718",
+  "sortName": "herbert gronemeyer"
+}

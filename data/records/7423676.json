@@ -1,0 +1,135 @@
+{
+  "id": 7423676,
+  "artist": "The Beatles",
+  "title": "20 Greatest Hits",
+  "year": 1982,
+  "originalYear": 1982,
+  "genres": [
+    "Rock"
+  ],
+  "styles": [
+    "Pop Rock",
+    "Beat",
+    "Psychedelic Rock",
+    "Folk Rock"
+  ],
+  "format": "LP",
+  "formatDetails": [
+    "LP",
+    "Compilation",
+    "Stereo"
+  ],
+  "labels": [
+    {
+      "name": "Odeon",
+      "catno": "1C 064-07 674"
+    }
+  ],
+  "country": "Germany",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "She Loves You",
+      "duration": "2:18"
+    },
+    {
+      "position": "A2",
+      "title": "Love Me Do",
+      "duration": "2:18"
+    },
+    {
+      "position": "A3",
+      "title": "I Want To Hold Your Hand",
+      "duration": "2:23"
+    },
+    {
+      "position": "A4",
+      "title": "Can't Buy Me Love",
+      "duration": "2:09"
+    },
+    {
+      "position": "A5",
+      "title": "A Hard Days Night",
+      "duration": "2:30"
+    },
+    {
+      "position": "A6",
+      "title": "I Feel Fine",
+      "duration": "2:15"
+    },
+    {
+      "position": "A7",
+      "title": "Eight Days A Week",
+      "duration": "2:40"
+    },
+    {
+      "position": "A8",
+      "title": "Ticket To Ride",
+      "duration": "3:05"
+    },
+    {
+      "position": "A9",
+      "title": "Help",
+      "duration": "2:16"
+    },
+    {
+      "position": "A10",
+      "title": "Yesterday",
+      "duration": "2:02"
+    },
+    {
+      "position": "A11",
+      "title": "We Can Work It Out",
+      "duration": "2:12"
+    },
+    {
+      "position": "A12",
+      "title": "Paperback Writer",
+      "duration": "2:15"
+    },
+    {
+      "position": "B1",
+      "title": "Penny Lane",
+      "duration": "2:56"
+    },
+    {
+      "position": "B2",
+      "title": "All You Need Is Love",
+      "duration": "3:34"
+    },
+    {
+      "position": "B3",
+      "title": "Hello, Goodbye",
+      "duration": "3:15"
+    },
+    {
+      "position": "B4",
+      "title": "Hey Jude (Short Version)",
+      "duration": "5:05"
+    },
+    {
+      "position": "B5",
+      "title": "Get Back",
+      "duration": "3:08"
+    },
+    {
+      "position": "B6",
+      "title": "Come Together",
+      "duration": "3:59"
+    },
+    {
+      "position": "B7",
+      "title": "Let It Be",
+      "duration": "3:47"
+    },
+    {
+      "position": "B8",
+      "title": "The Long And Winding Road",
+      "duration": "3:34"
+    }
+  ],
+  "addedAt": "2026-10-17",
+  "cover": "covers/7423676.jpg",
+  "discogsUrl": "https://www.discogs.com/release/7423676",
+  "sortName": "beatles"
+}

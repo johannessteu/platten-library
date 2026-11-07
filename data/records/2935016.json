@@ -1,0 +1,93 @@
+{
+  "id": 2935016,
+  "artist": "Moop Mama",
+  "title": "Deine Mutter",
+  "year": 2011,
+  "originalYear": 2011,
+  "genres": [
+    "Hip Hop",
+    "Brass & Military"
+  ],
+  "styles": [
+    "Jazzy Hip-Hop",
+    "Brass Band"
+  ],
+  "format": "LP",
+  "formatDetails": [
+    "LP",
+    "Album"
+  ],
+  "labels": [
+    {
+      "name": "Millaphon Records",
+      "catno": ""
+    }
+  ],
+  "country": "Germany",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Geh Mit Uns",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "König Der Stadtmitte",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "Geliebte",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "Orientierungssinn",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "title": "Schade",
+      "duration": ""
+    },
+    {
+      "position": "A6",
+      "title": "Paranoia",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "Bullenwägen",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "Shopping",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "Anger Manegement",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "Rolling Stone",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "title": "25/8",
+      "duration": ""
+    },
+    {
+      "position": "B6",
+      "title": "Helden",
+      "duration": ""
+    }
+  ],
+  "addedAt": "2026-10-18",
+  "cover": "covers/2935016.jpg",
+  "discogsUrl": "https://www.discogs.com/release/2935016",
+  "sortName": "moop mama"
+}

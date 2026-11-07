@@ -1,0 +1,93 @@
+{
+  "id": 28537558,
+  "artist": "Arctic Monkeys",
+  "title": "AM",
+  "year": 2023,
+  "originalYear": 2013,
+  "genres": [
+    "Rock"
+  ],
+  "styles": [
+    "Alternative Rock",
+    "Indie Rock"
+  ],
+  "format": "LP",
+  "formatDetails": [
+    "LP",
+    "Album",
+    "Reissue"
+  ],
+  "labels": [
+    {
+      "name": "Domino",
+      "catno": "WIGLP317"
+    }
+  ],
+  "country": "Europe",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Do I Wanna Know?",
+      "duration": "4:32"
+    },
+    {
+      "position": "A2",
+      "title": "R U Mine?",
+      "duration": "3:21"
+    },
+    {
+      "position": "A3",
+      "title": "One For The Road",
+      "duration": "3:26"
+    },
+    {
+      "position": "A4",
+      "title": "Arabella",
+      "duration": "3:27"
+    },
+    {
+      "position": "A5",
+      "title": "I Want It All",
+      "duration": "3:05"
+    },
+    {
+      "position": "A6",
+      "title": "No.1 Party Anthem",
+      "duration": "4:03"
+    },
+    {
+      "position": "B1",
+      "title": "Mad Sounds",
+      "duration": "3:25"
+    },
+    {
+      "position": "B2",
+      "title": "Fireside",
+      "duration": "3:01"
+    },
+    {
+      "position": "B3",
+      "title": "Why'd You Only Call Me When You're High?",
+      "duration": "2:41"
+    },
+    {
+      "position": "B4",
+      "title": "Snap Out Of It",
+      "duration": "3:13"
+    },
+    {
+      "position": "B5",
+      "title": "Knee Socks",
+      "duration": "4:17"
+    },
+    {
+      "position": "B6",
+      "title": "I Wanna Be Yours",
+      "duration": "3:04"
+    }
+  ],
+  "addedAt": "2026-09-23",
+  "cover": "covers/28537558.jpg",
+  "discogsUrl": "https://www.discogs.com/release/28537558",
+  "sortName": "arctic monkeys"
+}

@@ -1,0 +1,80 @@
+{
+  "id": 14791527,
+  "artist": "Nathaniel Rateliff",
+  "title": "And It's Still Alright",
+  "year": 2020,
+  "originalYear": 2020,
+  "genres": [
+    "Pop"
+  ],
+  "styles": [],
+  "format": "LP",
+  "formatDetails": [
+    "LP",
+    "Limited Edition",
+    "Special Edition"
+  ],
+  "labels": [
+    {
+      "name": "Stax",
+      "catno": "STX00374"
+    }
+  ],
+  "country": "Europe",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "What A Drag",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "And It's Still Alright",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "All Or Nothing",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "Expecting To Lose",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "title": "Tonight #2",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "Mavis",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "You Need Me",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "Time Stands",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "Kissing Our Friends",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "title": "Rush On",
+      "duration": ""
+    }
+  ],
+  "addedAt": "2026-10-03",
+  "cover": "covers/14791527.jpg",
+  "discogsUrl": "https://www.discogs.com/release/14791527",
+  "sortName": "nathaniel rateliff"
+}

@@ -1,0 +1,94 @@
+{
+  "id": 13640935,
+  "artist": "Bukahara",
+  "title": "Live Session",
+  "year": 2019,
+  "originalYear": 2019,
+  "genres": [
+    "Folk, World, & Country"
+  ],
+  "styles": [],
+  "format": "2×LP",
+  "formatDetails": [
+    "LP",
+    "Album"
+  ],
+  "labels": [
+    {
+      "name": "BML records",
+      "catno": "0 7927 4224 9969"
+    }
+  ],
+  "country": "Germany",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "No!",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Biogaphy",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "Afraid To Fly",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "Back Home",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "Mandera",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "Wein A Ramallah",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "Vogel",
+      "duration": ""
+    },
+    {
+      "position": "C1",
+      "title": "The Earth",
+      "duration": ""
+    },
+    {
+      "position": "C2",
+      "title": "My Name",
+      "duration": ""
+    },
+    {
+      "position": "C3",
+      "title": "Strange Delight",
+      "duration": ""
+    },
+    {
+      "position": "D1",
+      "title": "A Child's Tale",
+      "duration": ""
+    },
+    {
+      "position": "D2",
+      "title": "Eyes Wide Shut",
+      "duration": ""
+    },
+    {
+      "position": "D3",
+      "title": "New Home",
+      "duration": ""
+    }
+  ],
+  "addedAt": "2026-09-03",
+  "cover": "covers/13640935.jpg",
+  "discogsUrl": "https://www.discogs.com/release/13640935",
+  "sortName": "bukahara"
+}
