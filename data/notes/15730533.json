@@ -1,0 +1,59 @@
+{
+  "kicker": "München · aktiv seit 2009 · Brass-Band-Hip-Hop",
+  "tag": "Straßenband auf der Bühne",
+  "record": "Das zweite Livealbum von Moop Mama auf dem eigenen Label Mutterkomplex, erschienen 2020 nach „Live Vol. 1“ von 2017. Die Platte im Regal hat vier Seiten (eine LP und eine 7\"): 15 Stücke, dazwischen kurze Moderationen, also ein Konzertabend am Stück statt Best-of.",
+  "facts": [
+    {
+      "k": "Erschienen",
+      "v": "2020"
+    },
+    {
+      "k": "Label",
+      "v": "Mutterkomplex (MKx017)"
+    },
+    {
+      "k": "Länge",
+      "v": "15 Tracks, davon vier kurze Moderationen"
+    }
+  ],
+  "start": [
+    {
+      "t": "Wildnis",
+      "why": "Der erste richtige Song nach dem Intro und ein guter Eindruck vom Livesound."
+    },
+    {
+      "t": "Kinder - Liebe",
+      "why": "Mit 7:40 der längste Track und der Schlusspunkt des Abends."
+    }
+  ],
+  "band": "Moop Mama entstanden 2009 in München, angestoßen vom Saxofonisten Marcus Kesselbauer gemeinsam mit Rapper Keno und Produzent Lukas „Bustla“ Roth. Aus dem Zusammenspiel von Bläsern, Schlagzeug und Rap wurde eine Marching Band, die zunächst vor allem bei unangekündigten Auftritten im öffentlichen Raum spielte. Daher rührt der Ruf als Liveband, den die beiden Livealben bedienen. Keno und Peter Palmer verließen die Band 2022, Kesselbauer 2023.",
+  "trivia": [
+    "„Live Vol. 1“ erschien 2017 ebenfalls auf Mutterkomplex; die Aufnahmen stammen u. a. aus Karlsruhe, Wien und München.",
+    "Die Band spielte Festivals wie Southside, Highfield, Splash und Fusion."
+  ],
+  "similar": [
+    {
+      "a": "Käptn Peng & Die Tentakel von Delphi",
+      "why": "Ebenfalls Deutschrap mit echter Liveband statt Samples."
+    },
+    {
+      "a": "LaBrassBanda",
+      "why": "Bayerische Bläser-Band, die vor allem live funktioniert."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia: Moop Mama",
+      "url": "https://de.wikipedia.org/wiki/Moop_Mama"
+    },
+    {
+      "label": "Wikipedia (en): Moop Mama",
+      "url": "https://en.wikipedia.org/wiki/Moop_Mama"
+    },
+    {
+      "label": "Live Vol. 1 (Discogs-Spiegel)",
+      "url": "https://muzilla.ru/disco/release/10969686"
+    }
+  ],
+  "writtenAt": "2026-11-07"
+}

@@ -1,0 +1,32 @@
+{
+  "kicker": "Stockholm · aktiv seit 1972 · Pop mit Disco-Einschlag",
+  "tag": "Tanzfläche mit Wehmut",
+  "record": "Die zweite Best-of-Platte von ABBA, am 29. Oktober 1979 passend zur Herbsttour durch Nordamerika und Europa veröffentlicht. Sie bündelt Hits von 1976 bis 1979 aus „Arrival“, „The Album“ und „Voulez-Vous“ plus die frische Single „Gimme! Gimme! Gimme!“. In Großbritannien kam sie auf Platz 1. Diese Pressung ist eine deutsche Club-Ausgabe.",
+  "facts": [
+    { "k": "Erschienen", "v": "29. Oktober 1979" },
+    { "k": "Label", "v": "Polar (Schweden), Epic (UK), Polydor (Deutschland)" },
+    { "k": "Produktion", "v": "Benny Andersson und Björn Ulvaeus" },
+    { "k": "Länge", "v": "58:34" }
+  ],
+  "start": [
+    { "t": "Dancing Queen", "why": "Der Pop-Gipfel von 1976, ihre einzige Nummer 1 in den US-Charts." },
+    { "t": "Gimme! Gimme! Gimme! (A Man After Midnight)", "why": "Die neue Disco-Single im August 1979 aufgenommen und hier der Opener." },
+    { "t": "Chiquitita", "why": "Eine ruhige Ballade mit Folk-Anklang, die den Gegenpol zum Disco-Sound bildet." }
+  ],
+  "band": "ABBA entstand 1972 in Stockholm aus Agnetha Fältskog, Björn Ulvaeus, Benny Andersson und Anni-Frid Lyngstad; der Name steht für ihre Vornamen-Initialen. Manager Stig Anderson und sein Label Polar Music trieben die internationale Karriere voran, 1974 gewannen sie mit „Waterloo“ den Eurovision Song Contest in Brighton. Ulvaeus und Andersson schrieben und produzierten den Großteil der Songs. Nach dem Ende der Ehen löste sich die Gruppe im Dezember 1982 auf, 2021 folgte das Comeback-Album „Voyage“.",
+  "trivia": [
+    "„Rock Me“ ist der einzige Song hier aus dem Album „ABBA“ von 1975, alles andere stammt aus 1976 bis 1979.",
+    "„I Wonder (Departure)“ wurde nie als Single veröffentlicht, steht aber auf der Platte.",
+    "„Angeleyes“ kam vor allem wegen seines Erfolgs in Großbritannien auf die Auswahl, wo es eine Doppel-A-Seite mit „Voulez-Vous“ war."
+  ],
+  "similar": [
+    { "a": "Fleetwood Mac", "why": "Ebenfalls eine Gruppe aus zwei Paaren, deren Beziehungsdramen im Pop-Rock der Siebziger landeten." },
+    { "a": "Queen", "why": "Zeitgleiche Großmeister des opulenten Pop mit Chören und Melodien für Stadien." },
+    { "a": "Elton John", "why": "Siebziger-Pop-Größe mit ähnlich vielen internationalen Nummer-1-Hits." }
+  ],
+  "sources": [
+    { "label": "Wikipedia: Greatest Hits Vol. 2", "url": "https://en.wikipedia.org/wiki/Greatest_Hits_Vol._2_(ABBA_album)" },
+    { "label": "Wikipedia: ABBA", "url": "https://en.wikipedia.org/wiki/ABBA" }
+  ],
+  "writtenAt": "2026-11-07"
+}

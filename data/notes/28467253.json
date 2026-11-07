@@ -1,0 +1,63 @@
+{
+  "kicker": "Hannover · aktiv seit 2018 · Indie-Pop mit Disco-Funk",
+  "tag": "Wind, Weite, Wehmut",
+  "record": "Das zweite Album der Hannoveraner Band Jeremias mit 15 Songs. Es verarbeitet laut Label die zwei Jahre nach dem Debüt im Leben der vier Bandmitglieder und kam auf Platz 3 der deutschen Albumcharts.",
+  "facts": [
+    {
+      "k": "Erschienen",
+      "v": "22. September 2023"
+    },
+    {
+      "k": "Label",
+      "v": "Vertigo (Universal)"
+    },
+    {
+      "k": "Länge",
+      "v": "15 Songs"
+    }
+  ],
+  "start": [
+    {
+      "t": "Der Schmerz Ist Vorbei",
+      "why": "Der Opener des Albums, der erste Eindruck vom Ton der Platte."
+    },
+    {
+      "t": "Wir Haben Den Winter Überlebt",
+      "why": "Ein früher Albumtitel, der zum Wetter-Thema des Albums passt."
+    },
+    {
+      "t": "Pasajero",
+      "why": "Der spanische Titel sticht in der Titelliste heraus."
+    }
+  ],
+  "band": "Jeremias kommen aus Hannover: Sänger Jeremias Heimbach und Gitarrist Oliver Sparkuhle arbeiten seit 2015 zusammen, 2018 wurde daraus offiziell die Band, mit Ben Hoffmann am Bass und Jonas Hermann am Schlagzeug. Der Durchbruch kam mit der Single „Grüne Augen lügen nicht“ (2019, Gold). Das Debüt „Golden Hour“ erschien 2021 auf Platz 9, „Von Wind und Anonymität“ stieg 2023 auf Platz 3.",
+  "trivia": [
+    "Das Debüt „Golden Hour“ (2021) war auf Platz 9 der deutschen Albumcharts gelandet; dieses Album toppte es.",
+    "Alle vier Bandmitglieder haben zum vielseitigen Klang beigetragen, so das Label."
+  ],
+  "similar": [
+    {
+      "a": "Provinz",
+      "why": "Gemeinsam auf dem Song „Liebe zu dritt“; ähnlicher Deutschpop für große Hallen."
+    },
+    {
+      "a": "Giant Rooks",
+      "why": "Jeremias waren ihre Vorband; ebenfalls Indie-Pop aus Norddeutschland."
+    },
+    {
+      "a": "AnnenMayKantereit",
+      "why": "Deutschsprachiger Indie-Pop mit rauer Stimme und Wehmut."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia: Jeremias (Band)",
+      "url": "https://de.wikipedia.org/wiki/Jeremias_(Band)"
+    },
+    {
+      "label": "Eventim Magazin",
+      "url": "https://www.eventim.de/magazin/rock-pop/backstage-mit-jeremias-wenn-das-so-laut-bleibt-gehe-ich-wieder"
+    }
+  ],
+  "writtenAt": "2026-11-07"
+}

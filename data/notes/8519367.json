@@ -1,0 +1,34 @@
+{
+  "kicker": "Saginaw/Detroit · aktiv seit 1961 · Soul, Funk und Pop",
+  "tag": "Leiser Soul-Abschied",
+  "record": "Das vierte Album aus Stevie Wonders klassischer Phase der Siebziger und ruhiger als der Vorgänger „Innervisions“. Statt Gesellschaftskritik gibt es persönlichere, reflektierte Songs, dazu zwei große Hits. 1975 gewann es den Grammy als Album des Jahres.",
+  "facts": [
+    { "k": "Erschienen", "v": "22. Juli 1974" },
+    { "k": "Label", "v": "Tamla (Motown)" },
+    { "k": "Produktion", "v": "Stevie Wonder, assoziiert Robert Margouleff und Malcolm Cecil" },
+    { "k": "Aufgenommen", "v": "Electric Lady und Mediasound (New York), Record Plant und Westlake (Los Angeles)" }
+  ],
+  "start": [
+    { "t": "You Haven't Done Nothin'", "why": "Nummer 1 der US-Singlecharts, mit den Jackson 5 im Hintergrundchor." },
+    { "t": "Boogie On Reggae Woman", "why": "Die zweite Single, Platz 3 der Pop-Charts und Grammy für den besten männlichen R&B-Gesang." },
+    { "t": "They Won't Go When I Go", "why": "Der sparsam arrangierte, nachdenkliche Moment der Platte." }
+  ],
+  "band": "Stevie Wonder, 1950 in Saginaw, Michigan geboren, unterschrieb mit elf bei Motowns Label Tamla. Mit 13 stand „Fingertips“ auf Platz 1 der US-Charts. Als er 1971 volljährig wurde, ließ er seinen Motown-Vertrag auslaufen und schloss einen neuen, günstigeren ab. Danach folgte die Reihe von „Music of My Mind“ bis „Songs in the Key of Life“, die er vor allem selbst einspielte und produzierte.",
+  "trivia": [
+    "Die Jackson 5 singen im Hintergrund bei „You Haven't Done Nothin'“.",
+    "Minnie Riperton und Deniece Williams sangen im Hintergrundchor des Albums.",
+    "Luther Vandross coverte „Creepin'“ 1985.",
+    "Das Album war ursprünglich als Doppel-LP geplant."
+  ],
+  "similar": [
+    { "a": "Michael Jackson", "why": "Ebenfalls ein Motown-Wunderkind; seine Brüder, die Jackson 5, singen auf dieser Platte." },
+    { "a": "Marvin Gaye", "why": "Der Motown-Zeitgenosse mit ebenfalls ambitionierten Soul-Alben der frühen 70er." },
+    { "a": "Minnie Riperton", "why": "Sie sang im Hintergrundchor des Albums und ist eine Soul-Sängerin derselben Zeit." }
+  ],
+  "sources": [
+    { "label": "Wikipedia: Fulfillingness' First Finale", "url": "https://en.wikipedia.org/wiki/Fulfillingness%27_First_Finale" },
+    { "label": "Motown Classic", "url": "https://classic.motown.com/story/fulfillingness-first-finale-stevie-wonder/" },
+    { "label": "Wikipedia: Stevie Wonder", "url": "https://en.wikipedia.org/wiki/Stevie_Wonder" }
+  ],
+  "writtenAt": "2026-11-07"
+}

@@ -1,0 +1,32 @@
+{
+  "kicker": "Halifax / Framlingham · aktiv seit 2004 · Singer-Songwriter-Pop",
+  "tag": "Gitarre trifft Groove",
+  "record": "Ed Sheerans zweites Album, gesprochen „Multiply“. Geplant war eine akustische Platte, doch mit Produzenten wie Rick Rubin und Pharrell Williams wurde sie neo-soulig und funkiger, ohne die Songwriter-Basis zu verlassen. Es erreichte in 15 Ländern Platz 1.",
+  "facts": [
+    { "k": "Erschienen", "v": "20./23. Juni 2014" },
+    { "k": "Label", "v": "Asylum / Atlantic" },
+    { "k": "Produktion", "v": "u. a. Rick Rubin, Pharrell Williams, Jeff Bhasker, Benny Blanco" },
+    { "k": "Länge", "v": "50:24" }
+  ],
+  "start": [
+    { "t": "Sing", "why": "Die erste Single, sein erster Nummer-1-Hit in Großbritannien." },
+    { "t": "Thinking Out Loud", "why": "Die dritte Single, in zwölf Ländern auf Platz 1." },
+    { "t": "Bloodstream", "why": "Hier ist Rudimental dabei; die Single erschien im Februar 2015." }
+  ],
+  "band": "Ed Sheeran wurde in Halifax geboren und wuchs in Framlingham, Suffolk, auf. Er zog 2008 nach London und spielte in kleinen Clubs, 2011 unterschrieb er bei Asylum. Sein Debüt „+“ erreichte Platz 1 in Großbritannien. Mit „x“ gelang ihm der internationale Durchbruch.",
+  "trivia": [
+    "Sheeran schrieb Hunderte Songs und wählte mit Rick Rubin 15 aus.",
+    "„x“ wurde bei den Brit Awards 2015 als British Album of the Year ausgezeichnet.",
+    "Es war das meistverkaufte Album 2014 in Großbritannien, Australien, Neuseeland und Irland."
+  ],
+  "similar": [
+    { "a": "Ben Howard", "why": "Britischer Singer-Songwriter mit gitarrenbasierten, intimen Songs." },
+    { "a": "Adele", "why": "Gleiche Zeit, gleiche Charts: Britischer Pop mit viel Gefühl." },
+    { "a": "Bruno Mars", "why": "Pop-Songwriter, der Balladen und Groove verbindet." }
+  ],
+  "sources": [
+    { "label": "Wikipedia: x", "url": "https://en.wikipedia.org/wiki/X_(Ed_Sheeran_album)" },
+    { "label": "Wikipedia: Ed Sheeran", "url": "https://en.wikipedia.org/wiki/Ed_Sheeran" }
+  ],
+  "writtenAt": "2026-11-07"
+}

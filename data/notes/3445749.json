@@ -1,0 +1,33 @@
+{
+  "kicker": "London · aktiv seit 1967 · Piano-Rock mit Lennon-Gastspiel",
+  "tag": "Thanksgiving im Garden",
+  "record": "Der Mitschnitt von Elton Johns Konzert im Madison Square Garden am 28. November 1974, auf dem John Lennon überraschend mit auf die Bühne kam. Lennon spielte „Whatever Gets You Through The Night“, „Lucy In The Sky With Diamonds“ und „I Saw Her Standing There“. Der Abend gilt als einer seiner letzten großen Live-Auftritte; veröffentlicht wurde er 1981 bei DJM.",
+  "facts": [
+    { "k": "Erschienen", "v": "1981 (deutsche Club-Ausgabe)" },
+    { "k": "Label", "v": "DJM Records" },
+    { "k": "Aufgenommen", "v": "28. November 1974, Madison Square Garden, New York" },
+    { "k": "Gast", "v": "John Lennon; Muscle Shoals Horns" }
+  ],
+  "start": [
+    { "t": "Whatever Gets You Through The Night", "why": "Lennons aktueller US-Nummer-1-Hit, bei dem Elton selbst Klavier und Backing Vocals beisteuerte." },
+    { "t": "Lucy In The Sky With Diamonds", "why": "Elton hatte den Beatles-Song kurz zuvor gecovert, Lennon spielte schon auf der Studioversion Gitarre mit." },
+    { "t": "I Saw Her Standing There", "why": "Lennon wählte einen McCartney-Song zum Schluss." }
+  ],
+  "band": "Elton John kam als Reginald Dwight in Pinner bei London zur Welt und schrieb ab 1967 mit Texter Bernie Taupin. Ab 1968 waren sie Hausautoren bei Dick James' DJM Records, Produzent Gus Dudgeon formte den Sound, der in den Siebzigern sieben US-Nummer-1-Alben in Folge hervorbrachte. Hier spielt seine Band mit Davey Johnstone, Dee Murray, Nigel Olsson und Ray Cooper; Lennon trat dazu, weil er eine Wette verloren hatte.",
+  "trivia": [
+    "Elton hatte gewettet, dass Lennons „Whatever Gets You Thru The Night“ auf Platz 1 kommt; dann müsste Lennon bei ihm auftreten.",
+    "Yoko Ono schickte beiden Orchideen, die sie auf der Bühne trugen; Lennon und Ono fanden im Februar 1975 wieder zusammen.",
+    "Die Lennon-Nummer „I Saw Her Standing There“ erschien Anfang 1975 als B-Seite von „Philadelphia Freedom“."
+  ],
+  "similar": [
+    { "a": "Elton John", "why": "Das Studiowerk des Pianisten, mit dem dieser Mitschnitt entstanden ist." },
+    { "a": "The Beatles", "why": "Lennons ehemalige Band, aus deren Katalog zwei der drei Gaststücke stammen." },
+    { "a": "Queen", "why": "Weitere Britische Rock-Showmen der Siebziger mit Piano und großer Geste." }
+  ],
+  "sources": [
+    { "label": "Wikipedia: Here and There", "url": "https://en.wikipedia.org/wiki/Here_and_There_(Elton_John_album)" },
+    { "label": "uDiscover: Elton John & John Lennon", "url": "https://www.udiscovermusic.com/stories/elton-john-and-john-lennon-collaboration/" },
+    { "label": "Music City Mike", "url": "https://musiccitymike.net/2014/11/19/forty-years-ago-elton-john-john-lennon-madison-square-garden-new-york-ny-november-28-1974/" }
+  ],
+  "writtenAt": "2026-11-07"
+}

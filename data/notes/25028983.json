@@ -1,0 +1,35 @@
+{
+  "kicker": "New York · aktiv seit 1983 · Elektronik mit Blues-Samples",
+  "tag": "Gospel am Laptop",
+  "record": "Moby legte alte Feldaufnahmen von Gospel und Blues über Beats und Synthesizer und traf damit einen Nerv. Zunächst verkaufte sich „Play“ schleppend, dann liefen die Songs in Filmen, Serien und Werbung. Es wurde mit rund 12 Millionen Exemplaren das meistverkaufte Elektronik-Album überhaupt.",
+  "facts": [
+    { "k": "Erschienen", "v": "17. Mai 1999 (Mute), 1. Juni 1999 (Nordamerika, V2)" },
+    { "k": "Label", "v": "Mute" },
+    { "k": "Produktion", "v": "Moby" },
+    { "k": "Aufgenommen", "v": "Ab August 1997, im Heimstudio in der Mott Street, Manhattan" },
+    { "k": "Länge", "v": "63:18" }
+  ],
+  "start": [
+    { "t": "Honey", "why": "Die erste Single, August 1998, mit gesampeltem Gesang." },
+    { "t": "Natural Blues", "why": "Baut auf einer Aufnahme von Vera Hall auf, die Alan Lomax dokumentierte." },
+    { "t": "South Side", "why": "Mit Gwen Stefani neu aufgenommen, Mobys erster Hot-100-Treffer (Platz 14)." }
+  ],
+  "band": "Moby, bürgerlich Richard Melville Hall, ist seit 1983 aktiv, zunächst in Punkbands, ab Ende der Achtziger in New York als Techno-Produzent. Der Durchbruch kam 1991 mit der Single „Go“, „Everything Is Wrong“ (1995) bekam breites Lob. „Play“ war sein größter Erfolg; er sah es anfangs als mögliches letztes Album.",
+  "trivia": [
+    "Viele Samples stammen aus dem 1993er Archiv „Sounds of the South“ des Volkskundlers Alan Lomax.",
+    "Das Management lizenzierte Songs des Albums breit für Film, Fernsehen und Werbung; Wired beschrieb es als das erste Album, bei dem so verfahren wurde.",
+    "In Großbritannien erreichte es erst nach Wiedereinstieg im Januar 2000 die Spitze und blieb fünf Wochen auf Platz 1.",
+    "Acht Singles wurden ausgekoppelt, von „Honey“ bis „Find My Baby“."
+  ],
+  "similar": [
+    { "a": "Massive Attack", "why": "Ebenfalls Elektronik mit Soul und Melancholie, eher aus Bristol-Trip-Hop." },
+    { "a": "Air", "why": "Gleiche Zeit, ähnlich warmer, filmischer Chill-out-Sound." },
+    { "a": "Röyksopp", "why": "Skandinavische Elektronik der frühen Nullerjahre mit ähnlich eingängigen Loops." }
+  ],
+  "sources": [
+    { "label": "Wikipedia: Play", "url": "https://en.wikipedia.org/wiki/Play_(Moby_album)" },
+    { "label": "Wikipedia: Moby", "url": "https://en.wikipedia.org/wiki/Moby" },
+    { "label": "MusicRadar: How Moby made Play", "url": "https://www.musicradar.com/artists/i-wasted-a-lot-of-time-and-money-how-moby-made-the-record-that-saved-his-career" }
+  ],
+  "writtenAt": "2026-11-07"
+}

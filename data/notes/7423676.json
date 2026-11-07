@@ -1,0 +1,34 @@
+{
+  "kicker": "Liverpool · aktiv 1960–1970 · Beat und Pop-Rock",
+  "tag": "Jubiläums-Jukebox",
+  "record": "Eine Zusammenstellung zum 20. Jahrestag von „Love Me Do“, der ersten Beatles-Single (Oktober 1962). Die Auswahl der Hits fiel je nach Land verschieden aus; diese Pressung folgt der US-Variante mit „Yesterday“, „Come Together“ und „Let It Be“ statt Singles wie „Day Tripper“.",
+  "facts": [
+    { "k": "Erschienen", "v": "Oktober 1982 (US 11.10., UK 18.10.); Odeon-Pressung aus Deutschland" },
+    { "k": "Label", "v": "Odeon (EMI); Original: Parlophone (UK), Capitol (US)" },
+    { "k": "Produktion", "v": "George Martin; Phil Spector bei „The Long And Winding Road“" },
+    { "k": "Aufgenommen", "v": "September 1962 bis April 1970" }
+  ],
+  "start": [
+    { "t": "She Loves You", "why": "Der Beat-Auftakt der Seite A, der Beatlemania in drei Minuten erklärt." },
+    { "t": "Penny Lane", "why": "Der Sprung vom Beat zum Studio-Pop: Piccolo-Trompete, Alltagsbilder aus Liverpool." },
+    { "t": "Come Together", "why": "Der groovende Bass und Lennons Stimme: der Eröffnungssong von „Abbey Road“." }
+  ],
+  "band": "Die Beatles gründeten sich 1960 in Liverpool aus John Lennons Gruppe The Quarrymen; Paul McCartney, George Harrison und ab 1962 Ringo Starr bildeten den Kern. Nach Auftritten in Liverpool und Hamburg holte George Martin sie 1962 zu Parlophone, nachdem Decca sie abgelehnt hatte. Von simplen Beat-Hits entwickelten sie sich binnen weniger Jahre zu Studio-Pionieren, bevor sie sich 1970 trennten. Sie gelten als die meistverkaufte Band der Geschichte.",
+  "trivia": [
+    "„Love Me Do“ erreichte 1962 in Großbritannien nur Platz 17; es ist trotzdem der Anlass dieser Jubiläumsplatte.",
+    "Auf der US-Ausgabe erschienen „I Want To Hold Your Hand“ und „I Feel Fine“ erstmals in den USA in echtem Stereo.",
+    "Es war das letzte Beatles-Album, das in den USA und Großbritannien in verschiedenen Fassungen herauskam."
+  ],
+  "similar": [
+    { "a": "The Rolling Stones", "why": "Die Rivalen der British Invasion, die im selben Jahr 1962 ihre Karriere begannen." },
+    { "a": "The Tremeloes", "why": "Beat-Band der Zeit, die bei Decca 1962 statt der Beatles unter Vertrag genommen wurde." },
+    { "a": "Elton John", "why": "Der Freund von John Lennon: Beide nahmen 1974 „Whatever Gets You Thru The Night“ auf." },
+    { "a": "Queen", "why": "Britische Stadionband, die den Studio-Ehrgeiz der späten Beatles weitertrug." }
+  ],
+  "sources": [
+    { "label": "Wikipedia: 20 Greatest Hits", "url": "https://en.wikipedia.org/wiki/20_Greatest_Hits_(Beatles_album)" },
+    { "label": "Wikipedia: The Beatles", "url": "https://en.wikipedia.org/wiki/The_Beatles" },
+    { "label": "45worlds: Odeon 1C 064-07 674", "url": "https://mail.45worlds.com/vinyl/album/1c06407674" }
+  ],
+  "writtenAt": "2026-11-07"
+}

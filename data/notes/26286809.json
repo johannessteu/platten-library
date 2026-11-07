@@ -1,0 +1,59 @@
+{
+  "kicker": "Köln · aktiv seit 2011 · Deutschsprachiger Indie-Rock",
+  "tag": "Abende am WG-Tisch",
+  "record": "Ein Studioalbum, kein Live-Mitschnitt: Das Trio kehrt nach dem experimentelleren Vorgänger zu klassischeren Songs zurück. Der Titel meint den Küchentisch einer WG, an dem ein Abend unter Freunden stattfindet. Die Themen reichen von Trennung und Nostalgie bis zu Erdbeerkuchen. Das Album erreichte Platz 1 in Deutschland.",
+  "facts": [
+    {
+      "k": "Erschienen",
+      "v": "3. März 2023"
+    },
+    {
+      "k": "Label",
+      "v": "AnnenMayKantereit Records"
+    },
+    {
+      "k": "Charts",
+      "v": "Platz 1 DE, Platz 2 AT und CH"
+    }
+  ],
+  "start": [
+    {
+      "t": "Lass Es Kreisen",
+      "why": "Der Opener der ersten Seite."
+    },
+    {
+      "t": "Es Ist Abend",
+      "why": "Der Titelsong, der das Bild vom Abend unter Freunden aufgreift."
+    },
+    {
+      "t": "Erdbeerkuchen",
+      "why": "Der Song zum Alltagsthema, das die Band im Interview nannte."
+    }
+  ],
+  "band": "AnnenMayKantereit gründeten sich 2011 in Köln als Trio aus Schulfreunden des Schiller-Gymnasiums in Sülz: Christopher Annen, Henning May und Severin Kantereit. Der Bandname stammt aus den Nachnamen. Mit „Alles Nix Konkretes“ stieg die Band 2016 auf Platz 1 ein. Seit „12“ (2020) erscheinen die Alben auf dem eigenen Label AnnenMayKantereit Records.",
+  "trivia": [
+    "Das Album hat 15 Songs und kam als Download, CD und LP heraus.",
+    "Einen Live-Mitschnitt gibt es separat: „AnnenMayKantereit & Freunde – Live In Berlin“ von 2016."
+  ],
+  "similar": [
+    {
+      "a": "Faber",
+      "why": "Deutschsprachiger Songwriter, wie die Band früh bei Vertigo und von markanter Stimme getragen."
+    },
+    {
+      "a": "Provinz",
+      "why": "Jüngere deutsche Indie-Band, die ähnlich aus dem Gitarren-Pop kommt."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia: AnnenMayKantereit",
+      "url": "https://en.wikipedia.org/wiki/AnnenMayKantereit"
+    },
+    {
+      "label": "Volksstimme",
+      "url": "https://www.volksstimme.de/kultur/annenmaykantereit-sind-zuruck-am-wg-tisch-3561453"
+    }
+  ],
+  "writtenAt": "2026-11-07"
+}

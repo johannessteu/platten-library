@@ -1,0 +1,30 @@
+{
+  "kicker": "Zeven · Musik seit 2018 · Deutschsprachiger Singer-Songwriter-Pop",
+  "tag": "Selbstgemacht und ehrlich",
+  "record": "Das Debütalbum des Heimwerker-YouTubers Fynn Kliemann, komplett in Eigenregie auf seinem eigenen Label entstanden. Es gab es zunächst nur per Vorbestellung, trotzdem stieg es auf Platz 8 der deutschen Charts und bekam Gold. Dahinter stehen Songs, die er nach eigenen Angaben über Jahre nebenbei geschrieben hatte.",
+  "facts": [
+    { "k": "Erschienen", "v": "28. September 2018" },
+    { "k": "Label", "v": "twoFinger Records (eigenes Label)" },
+    { "k": "Charts", "v": "Platz 8 in Deutschland, Gold-Auszeichnung" }
+  ],
+  "start": [
+    { "t": "Morgen", "why": "Eine der drei Vorab-Singles und zugleich der Opener der Platte." },
+    { "t": "Zuhause", "why": "Die zweite Vorab-Single: ein guter Eindruck vom ruhigen, persönlichen Ton des Albums." },
+    { "t": "Bau Mich Auseinander", "why": "Die dritte Vorab-Single und das Ende der A-Seite." }
+  ],
+  "band": "Fynn Kliemann, geboren 1988 in Zeven, wurde als Heimwerker und YouTuber bekannt (Kanäle „Fynn Kliemann“ und „Kliemannsland“). Mit „Nie“ brachte er 2018 sein erstes Album heraus, nachdem er Angebote etablierter Labels abgelehnt und mit twoFinger Records ein eigenes gegründet hatte. Das Do-it-yourself-Prinzip, das seine Videos prägt, übertrug er so auf die Musik. 2018 gewann er die 1Live Krone.",
+  "trivia": [
+    "Das Album wurde physisch nur in der Menge gepresst, die vorbestellt worden war.",
+    "Nach Angaben der t-online-Besprechung zu seinem Nachfolger war „Nie“ schon am Erscheinungstag nicht mehr zu bekommen."
+  ],
+  "similar": [
+    { "a": "Mark Forster", "why": "Songwriter-Pop auf Deutsch mit Mitsing-Refrains; Kritiker haben Kliemann später mit ihm verglichen." },
+    { "a": "Faber", "why": "Auch ein deutschsprachiger Songwriter, der 2017 mit seinem Debüt den Durchbruch hatte." }
+  ],
+  "sources": [
+    { "label": "Wikipedia: Fynn Kliemann", "url": "https://de.wikipedia.org/wiki/Fynn_Kliemann" },
+    { "label": "recordJet", "url": "https://blog.recordjet.com/en/?p=265004" },
+    { "label": "t-online: POP", "url": "https://www.t-online.de/unterhaltung/musik/id_87990016/pop-fynn-kliemann-vom-heimwerkerking-zum-ernsten-musiker-.html" }
+  ],
+  "writtenAt": "2026-11-07"
+}

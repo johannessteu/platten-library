@@ -1,0 +1,33 @@
+{
+  "kicker": "Bochum · aktiv seit 1979 · deutscher Pop, akustisch",
+  "tag": "Leise Hymnen, großer Chor",
+  "record": "Die zweite Unplugged-Platte, rund 30 Jahre nach dem ersten MTV-Unplugged-Album. Grönemeyer spielt vor allem Songs aus der Zeit danach in neuen, akustischen Fassungen, nur „Flieg“ ist neu. Der Rundfunkchor Berlin singt mit, aufgenommen wurde in den Berliner Hansa Studios.",
+  "facts": [
+    { "k": "Erschienen", "v": "17. Oktober 2025" },
+    { "k": "Label", "v": "Grönland Records (Vertigo/Universal)" },
+    { "k": "Aufgenommen", "v": "Hansa Studios, Berlin" }
+  ],
+  "start": [
+    { "t": "Flieg", "why": "Der einzige neue Song des Albums und die Vorab-Single." },
+    { "t": "Flugzeuge Im Bauch", "why": "Der Klassiker von 1984, dessen Chöre er im Original selbst eingesungen hatte." },
+    { "t": "Mensch", "why": "Sein größter Hit aus dem Jahr 2002 in akustischem Gewand." }
+  ],
+  "band": "Geboren 1956 in Göttingen, aufgewachsen in Bochum: Grönemeyer kam vom Theater und wurde 1981 als Leutnant Werner in „Das Boot“ bekannt. Mit „4630 Bochum“ (1984) wurde er einer der größten Stars des Landes. 1994 war er als erster nicht englischsprachiger Künstler bei MTV Unplugged. 1999 gründete er Grönland Records. Er steht für direkte deutsche Texte.",
+  "trivia": [
+    "Das Album erreichte Platz 3 der deutschen Albumcharts.",
+    "Die Single „Flieg“ erschien am 29. August 2025 vorab.",
+    "Zum Album gehört eine Tour „Mittendrin akustisch“ mit neuen Konzerten im Februar 2026."
+  ],
+  "similar": [
+    { "a": "AnnenMayKantereit", "why": "Deutschsprachiger Pop mit rauer Stimme, auch in reduzierten Fassungen stark." },
+    { "a": "Faber", "why": "Deutschsprachige Songs mit direkter, erzählender Haltung." },
+    { "a": "Olli Schulz", "why": "Deutschsprachiger Songwriter-Pop mit viel Gefühl." }
+  ],
+  "sources": [
+    { "label": "Eventim: Unplugged 2", "url": "https://www.eventim.de/magazin/rock-pop/neue-musik-herbert-groenemeyer-macht-mit-flieg-lust-auf-unplugged-2-von-allem-anders" },
+    { "label": "Rundfunkchor Berlin", "url": "https://www.rundfunkchor-berlin.de/en/press/rundfunkchor-berlin-features-on-herbert-groenemeyers-new-album-unplugged-2-von-allem-anders/" },
+    { "label": "Wikipedia (en): Diskografie", "url": "https://en.wikipedia.org/wiki/Herbert_Gr%C3%B6nemeyer_discography" },
+    { "label": "Wikipedia: Herbert Grönemeyer", "url": "https://de.wikipedia.org/wiki/Herbert_Gr%C3%B6nemeyer" }
+  ],
+  "writtenAt": "2026-11-07"
+}

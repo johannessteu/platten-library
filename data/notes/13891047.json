@@ -1,0 +1,32 @@
+{
+  "kicker": "Bridlington, Yorkshire · aktiv seit 2011 · Folk-Pop mit Nordsee-Melancholie",
+  "tag": "Nebel über der Nordsee",
+  "record": "Das Debütalbum des Duos Seafret von 2016: Jack Sedmans warme, rauchige Stimme und Harry Drapers Gitarre tragen Songs über Sehnsucht, Verlust und das Meer. Es stieg auf Platz 59 der UK-Albumcharts ein und enthält mit „Atlantis“ den Song, der Jahre später auf TikTok ein zweites Leben bekam. Diese Pressung ist die 10th Anniversary Edition.",
+  "facts": [
+    { "k": "Erschienen", "v": "29. Januar 2016 (UK)" },
+    { "k": "Label", "v": "Sweet Jane Recordings" },
+    { "k": "Produktion", "v": "Steve Robson und Roy Stride" },
+    { "k": "Aufgenommen", "v": "2015" }
+  ],
+  "start": [
+    { "t": "Atlantis", "why": "Die erste Single von 2015 und ihr größter Song, ein Hit in UK-Charts und später auf TikTok." },
+    { "t": "Oceans", "why": "Titelsong der gleichnamigen EP von 2015, mit Video von Jonathan Entwistle." },
+    { "t": "Be There", "why": "Die zweite Single des Albums, erschienen im Juni 2015." }
+  ],
+  "band": "Seafret sind Sänger Jack Sedman und Gitarrist Harry Draper aus Bridlington an der Küste von East Yorkshire. Der Name spielt auf den Küstennebel der Nordsee an und auf das Griffbrett der Gitarre. Die beiden lernten sich bei einem Open-Mic-Abend kennen und zogen nach wachsendem Interesse im Netz 2014 nach London. „Atlantis“ erschien 2015 und kam auf Platz 38 der UK-Singlecharts.",
+  "trivia": [
+    "Eine beschleunigte Version von „Atlantis“ wurde 2022 auf TikTok viral und lief in mehreren europäischen Ländern in die Charts.",
+    "Bei „To the Sea“ singt Rosie Carney mit.",
+    "Die ersten EPs „Give Me Something“ (2014) und „Oceans“ (2015) erschienen vor dem Album."
+  ],
+  "similar": [
+    { "a": "Ben Howard", "why": "Britischer Folk mit Gitarre, Meer und Stimme im Mittelpunkt." },
+    { "a": "Ed Sheeran", "why": "Akustisch geprägter britischer Pop-Folk mit eingängigen Melodien." },
+    { "a": "Mumford & Sons", "why": "Kritiker fanden Anklänge an deren Folk-Rock; ebenfalls große Refrains." }
+  ],
+  "sources": [
+    { "label": "Wikipedia: Tell Me It's Real", "url": "https://en.wikipedia.org/wiki/Tell_Me_It%27s_Real_(Seafret_album)" },
+    { "label": "Wikipedia: Seafret", "url": "https://en.wikipedia.org/wiki/Seafret" }
+  ],
+  "writtenAt": "2026-11-07"
+}

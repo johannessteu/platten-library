@@ -1,0 +1,58 @@
+{
+  "kicker": "Leipzig · aktiv seit 2017 · deutschsprachiger Indie-Pop",
+  "tag": "Poetisch und gelassen",
+  "record": "Das dritte Album von Das Paradies erschien auf Krokant, dem Label, das Florian Sievers mitgegründet hat. Rezensionen hören darin eine Nähe zur Hamburger Schule: Sievers beobachtet die Welt und beschreibt sie poetisch.",
+  "facts": [
+    {
+      "k": "Erschienen",
+      "v": "September 2025"
+    },
+    {
+      "k": "Label",
+      "v": "Krokant"
+    }
+  ],
+  "start": [
+    {
+      "t": "Florian Gibt Auf",
+      "why": "Der Opener der Platte, schon im Titel mit Selbstironie."
+    },
+    {
+      "t": "Der Spuk, Der Uns Verbindet",
+      "why": "Ein Titel, der den poetischen Zugriff des Albums gut andeutet."
+    }
+  ],
+  "band": "Mit „Überall Wo Menschen Sind“ ist Das Paradies 2025 erstmals auf Krokant erschienen, dem Label, das Florian Sievers gemeinsam mit Albrecht Schrader betreibt. Zuvor kamen die beiden ersten Alben „Goldene Zukunft“ (2018) und „Transit“ (2022) bei Grönland Records heraus. Sievers lebt in Leipzig, spielt außerdem bei Talking to Turtles und arbeitet als Theatermusiker und Produzent.",
+  "trivia": [
+    "Die Platte erschien nach den ersten beiden Alben auf Grönland erstmals auf Sievers' eigenem Label Krokant."
+  ],
+  "similar": [
+    {
+      "a": "Olli Schulz",
+      "why": "Deutschsprachiger Pop zwischen Humor und Wehmut."
+    },
+    {
+      "a": "Faber",
+      "why": "Poetische, lakonische Beobachtungen auf Deutsch."
+    },
+    {
+      "a": "Kettcar",
+      "why": "Hamburger Schule, mit der Rezensionen das Album vergleichen."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia: Das Paradies (Band)",
+      "url": "https://de.wikipedia.org/wiki/Das_Paradies_(Band)"
+    },
+    {
+      "label": "rausgegangen.de: Das Paradies",
+      "url": "https://rausgegangen.de/en/events/das-paradies-14"
+    },
+    {
+      "label": "Grönland Records: Das Paradies",
+      "url": "https://www.groenland.com/en/pages/artist/das-paradies"
+    }
+  ],
+  "writtenAt": "2026-11-07"
+}

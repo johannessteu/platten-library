@@ -1,0 +1,32 @@
+{
+  "kicker": "Deutschland · aktiv seit 2020 · Sommerlicher Indie-Pop im Duo",
+  "tag": "Küchentisch-Sommer",
+  "record": "Das selbstbetitelte Debüt des Duos Mar Malade, entstanden in Küche, Bauernhof und einem alten Kinderzimmer voller verstaubter Instrumente. Alexander Hauer und Michèl M. Almeida haben jedes Instrument selbst gespielt, aufgenommen und produziert. Heraus kam leichter, sommerlicher Indie-Pop.",
+  "facts": [
+    { "k": "Erschienen", "v": "Juni 2021" },
+    { "k": "Label", "v": "Humming Records" },
+    { "k": "Produktion", "v": "Alexander Hauer und Michèl M. Almeida" },
+    { "k": "Gast", "v": "CATT (Bläser)" }
+  ],
+  "start": [
+    { "t": "Cabriolet", "why": "Die erste Single des Duos, im Juni 2021 erschienen, und bis heute ein Live-Fixpunkt." },
+    { "t": "Marmalade", "why": "Das Stimmengewirr in der Intro stammt von ihren eigenen Stimmen und einem Tisch voller Gläser und Flaschen." }
+  ],
+  "band": "Mar Malade sind Alexander Hauer und Michèl M. Almeida, die sich seit 2015 kennen und vorher in anderen Konstellationen zusammenarbeiteten. Während der Lockdowns begannen sie, gemeinsam zu experimentieren, und stellten sich zunächst über animierte Avatar-Clips vor. Es folgten Festivals wie das Dockville, 2022 die erste Headline-Tour und mit „Balloon“ (2023) das zweite Album.",
+  "trivia": [
+    "Der Bandname stammt von einem gemeinsamen Dropbox-Ordner und spielt mit „Mar“ (Meer) und „Malade“ (krank).",
+    "In den „Cassette-Sessions“ interpretierten sie ihre Songs mit Gästen wie Fil Bo Riva, Kat Frankie und CATT neu.",
+    "Das Duo war in der Fernsehsendung „Inas Nacht“ zu Gast."
+  ],
+  "similar": [
+    { "a": "Fil Bo Riva", "why": "Gast der Cassette-Sessions des Duos, ebenfalls Indie-Pop zwischen Berlin und Sommer." },
+    { "a": "Kat Frankie", "why": "Sängerin, die für die Cassette-Sessions mit Mar Malade Songs neu interpretierte." },
+    { "a": "Giant Rooks", "why": "Ebenfalls eine deutsche Indie-Pop-Band, die ihren Sound in Eigenregie formt." }
+  ],
+  "sources": [
+    { "label": "Wikipedia: Mar Malade", "url": "https://de.wikipedia.org/wiki/Mar_Malade" },
+    { "label": "Last.fm: Mar Malade", "url": "https://last.fm/music/Mar+Malade/+wiki" },
+    { "label": "Shazam: Cabriolet", "url": "https://www.shazam.com/song/1576833597/cabriolet" }
+  ],
+  "writtenAt": "2026-11-07"
+}

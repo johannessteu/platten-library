@@ -1,0 +1,32 @@
+{
+  "kicker": "Denver, Colorado · aktiv seit 2002 · Leiser Folk mit Soul-Wurzeln",
+  "tag": "Ruhig nach dem Sturm",
+  "record": "Das dritte Soloalbum von Nathaniel Rateliff und das erste unter eigenem Namen seit sieben Jahren. Statt Night-Sweats-Soul gibt es leisen, nachdenklichen Folk. Entstanden ist es nach seiner Scheidung und dem plötzlichen Tod seines Freundes und Produzenten Richard Swift, dem das Album gewidmet ist.",
+  "facts": [
+    { "k": "Erschienen", "v": "14. Februar 2020" },
+    { "k": "Label", "v": "Stax" },
+    { "k": "Produktion", "v": "Patrick Meese, James Barone und Nathaniel Rateliff" },
+    { "k": "Länge", "v": "42:13" }
+  ],
+  "start": [
+    { "t": "What A Drag", "why": "Der Opener, der den ruhigen, selbstkritischen Ton des Albums vorgibt." },
+    { "t": "And It's Still Alright", "why": "Der Titelsong, der in einem Satz zusammenfasst, wohin die Platte will." },
+    { "t": "Rush On", "why": "Der Schlusssong, den der Guardian als Höhepunkt des Albums hervorhob." }
+  ],
+  "band": "Rateliff wurde 1978 in St. Louis geboren, wuchs in Hermann, Missouri, auf und zog nach Denver, wo er mit Joseph Pope III die Band Born in the Flood gründete. Später folgten ruhige Soloplatten, bis er ab 2013 mit den Night Sweats zu einem soulgetränkten Sound fand. Das selbstbetitelte Album kam 2015 bei Stax heraus und trug den Hit „S.O.B.“. Dort erschien auch sein Soloalbum von 2020.",
+  "trivia": [
+    "Das Album erreichte Platz 78 der US-Billboard-200 und Platz 63 der UK-Charts.",
+    "Der Produzent Richard Swift hatte auch das Night-Sweats-Album „Tearing at the Seams“ (2018) produziert.",
+    "Alle zehn Songs stammen von Rateliff selbst."
+  ],
+  "similar": [
+    { "a": "Ben Howard", "why": "Ebenfalls intimer, nachdenklicher Singer-Songwriter-Folk mit viel Atmosphäre." },
+    { "a": "Simon & Garfunkel", "why": "Die klassische Folk-Tradition aus Gitarre, Stimme und genauer Songschreibung." },
+    { "a": "Josh Ritter", "why": "Ein weiterer amerikanischer Songwriter zwischen Folk und Americana." }
+  ],
+  "sources": [
+    { "label": "Wikipedia: And It's Still Alright", "url": "https://en.wikipedia.org/wiki/And_It%27s_Still_Alright" },
+    { "label": "Wikipedia: Nathaniel Rateliff", "url": "https://en.wikipedia.org/wiki/Nathaniel_Rateliff" }
+  ],
+  "writtenAt": "2026-11-07"
+}

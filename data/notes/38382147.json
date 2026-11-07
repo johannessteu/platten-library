@@ -1,0 +1,71 @@
+{
+  "kicker": "Hannover · aktiv seit 2018 · Indie-Pop, kleingeschrieben",
+  "tag": "Kurz, leise, ganz nah",
+  "record": "Das vierte Studioalbum von Jeremias besteht aus zwölf kleingeschriebenen Titeln, einige davon sind nur Skizzen von unter einer Minute. Es enthält die Hits „Meer“ und „Fallen“ und stieg auf Platz 2 der deutschen Albumcharts.",
+  "facts": [
+    {
+      "k": "Erschienen",
+      "v": "30. Mai 2025"
+    },
+    {
+      "k": "Label",
+      "v": "Vertigo Berlin (Universal)"
+    },
+    {
+      "k": "Produktion",
+      "v": "Tim Tautorat"
+    },
+    {
+      "k": "Länge",
+      "v": "12 Titel"
+    }
+  ],
+  "start": [
+    {
+      "t": "meer",
+      "why": "Der größte Hit der Band: Platz 4 der deutschen Singlecharts."
+    },
+    {
+      "t": "fallen",
+      "why": "Die Single vom Sommer 2024, die auch dank Fans zum Streaming-Hit wurde."
+    },
+    {
+      "t": "sag mir was ich nicht weiß",
+      "why": "Die dritte Vorab-Single, ein guter Eindruck vom Gesamtton."
+    }
+  ],
+  "band": "Jeremias machen seit 2018 als Band aus Hannover Indie-Pop, ihren Stil nennen sie selbst „Disco-Funk“. Nach dem Chart-Erfolg von „Von Wind und Anonymität“ (2023, Platz 3) und dem Livealbum „Ich fühl alles für dich mit“ (2024) kam 2025 „trust“. Produziert hat Tim Tautorat, der schon die Debüt-EP von 2019 betreute. Zwischendurch arbeiteten sie unter anderem mit Ski Aggu und Herbert Grönemeyer zusammen.",
+  "trivia": [
+    "„Meer“ erreichte Platz 4 der deutschen und Platz 3 der österreichischen Singlecharts, in Österreich gab es Gold.",
+    "Das Album stieg auf Platz 2 der deutschen und Platz 34 der österreichischen Albumcharts ein."
+  ],
+  "similar": [
+    {
+      "a": "Provinz",
+      "why": "Gemeinsamer Song „Liebe zu dritt“; ähnlich gefühlsbetonter Deutschpop."
+    },
+    {
+      "a": "Giant Rooks",
+      "why": "Jeremias waren ihre Vorband; Indie-Pop aus Norddeutschland."
+    },
+    {
+      "a": "AnnenMayKantereit",
+      "why": "Deutsche Texte, große Gefühle, volle Hallen."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia: Jeremias (Band)",
+      "url": "https://de.wikipedia.org/wiki/Jeremias_(Band)"
+    },
+    {
+      "label": "Shazam: this is",
+      "url": "https://www.shazam.com/song/1798208273/this-is"
+    },
+    {
+      "label": "Gurtenfestival: Jeremias",
+      "url": "https://gurtenfestival.ch/en/show/2025-jeremias"
+    }
+  ],
+  "writtenAt": "2026-11-07"
+}

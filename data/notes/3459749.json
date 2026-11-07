@@ -1,0 +1,30 @@
+{
+  "kicker": "London · aktiv seit 1962 · Rock und Rhythm & Blues",
+  "tag": "Die Hits der frühen Siebziger",
+  "record": "Eine Zusammenstellung ohne neues Material, die im Sommer 1975 erschien. Zehn Stücke aus den vier Alben „Sticky Fingers“, „Exile on Main St.“, „Goats Head Soup“ und „It's Only Rock 'n Roll“, also aus der Zeit auf dem eigenen Label. Als Einstieg in die Siebziger-Stones taugt sie gut, weil jede Seite fünf Klassiker hintereinander spielt.",
+  "facts": [
+    { "k": "Erschienen", "v": "Juni 1975" },
+    { "k": "Label", "v": "Rolling Stones Records, Vertrieb Atlantic" }
+  ],
+  "start": [
+    { "t": "Brown Sugar", "why": "Der Opener von „Sticky Fingers“ und das erste Album der Stones auf dem eigenen Label." },
+    { "t": "Tumbling Dice", "why": "Der schwankende Groove von „Exile on Main St.“, wie ihn nur diese Band spielt." },
+    { "t": "Wild Horses", "why": "Die ruhige Ballade von „Sticky Fingers“, mit 5:41 der längste Song der Platte." }
+  ],
+  "band": "Die Rolling Stones formierten sich 1962 in London um die Jugendfreunde Mick Jagger und Keith Richards und den Gitarristen Brian Jones, der die Band nach einem Muddy-Waters-Titel benannte. Nach Jones' Ausstieg und Tod 1969 kam Mick Taylor, der Ende 1974 ging; 1975 folgte Ronnie Wood von den Faces. 1970 gründeten sie nach Streit mit ihrem Manager und dem Label Decca ihr eigenes Label Rolling Stones Records, auf dem die hier versammelten Alben erschienen.",
+  "trivia": [
+    "Die Platte brachte keinen neuen Song, sie überbrückte die Zeit, in der die Band an „Black and Blue“ arbeitete.",
+    "Das Label-Logo mit Zunge und Lippen wurde mit der Gründung von Rolling Stones Records zum Markenzeichen der Band.",
+    "Sie war die erste Veröffentlichung unter dem Atlantic-Vertrag."
+  ],
+  "similar": [
+    { "a": "The Beatles", "why": "Die große Rivalin aus der britischen Beat-Ära; die Stones standen für die rauere, bluesigere Seite." },
+    { "a": "Faces", "why": "Die Band, aus der Ronnie Wood 1975 zu den Stones wechselte: lockerer Rock 'n' Roll mit Rod Stewart." },
+    { "a": "The Kinks", "why": "Eine weitere britische Band der 60er mit Gitarrenriffs und Blues-Wurzeln." }
+  ],
+  "sources": [
+    { "label": "Wikipedia: Made in the Shade", "url": "https://en.wikipedia.org/wiki/Made_in_the_Shade" },
+    { "label": "Wikipedia: The Rolling Stones", "url": "https://en.wikipedia.org/wiki/The_Rolling_Stones" }
+  ],
+  "writtenAt": "2026-11-07"
+}

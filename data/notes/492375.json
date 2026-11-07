@@ -1,0 +1,32 @@
+{
+  "kicker": "Bochum · aktiv seit 1979 · deutscher Pop-Rock",
+  "tag": "Eifersucht mit Augenzwinkern",
+  "record": "Eine 12-Zoll-Maxi-Single mit 45 Umdrehungen: Auf der A-Seite steht die verlängerte Neumix-Fassung von „Was Soll Das“, dem ersten Single-Auskopplung des Albums „Ö“ (1988). Die B-Seite bringt „Keine Heimat“, ebenfalls vom Album. Der Song erreichte Platz 3 der deutschen Charts.",
+  "facts": [
+    { "k": "Erschienen", "v": "März 1988 (Single am 28. März)" },
+    { "k": "Label", "v": "EMI Electrola" },
+    { "k": "Produktion", "v": "Herbert Grönemeyer und Norbert Hamm (Album „Ö“)" },
+    { "k": "Länge", "v": "A-Seite 6:14" }
+  ],
+  "start": [
+    { "t": "Was Soll Das (Verlängerter Neumix)", "why": "Der Hit in der langen Mixfassung, mehr als sechs Minuten statt der Albumlänge." },
+    { "t": "Keine Heimat", "why": "Die B-Seite ist ein Albumtrack von „Ö“ und zeigt eine ruhigere Seite." }
+  ],
+  "band": "Geboren 1956 in Göttingen, aufgewachsen in Bochum: Grönemeyer kam vom Theater, war Pianist und Musikalischer Leiter am Schauspielhaus Bochum und wurde 1981 als Leutnant Werner in „Das Boot“ bekannt. Mit „4630 Bochum“ (1984) gelang ihm bei der EMI der Durchbruch, „Männer“ machte ihn landesweit zum Star. Das Album „Ö“ von 1988 war ein weiterer Höhepunkt dieser EMI-Zeit. Er steht für direkte deutsche Texte, oft mit Humor und Selbstironie.",
+  "trivia": [
+    "Das Album „Ö“ erreichte in Deutschland, Österreich und der Schweiz Platz 1.",
+    "Die Zeit nannte „Was soll das“ ein Stück über eine Eifersuchtsszene und lobte seine Selbstironie.",
+    "Ein verlängerter Remix (6:15) erschien auf der CD-Ausgabe des Albums „Ö“."
+  ],
+  "similar": [
+    { "a": "Marius Müller-Westernhagen", "why": "Deutscher Rock in Alltagssprache aus denselben Jahren." },
+    { "a": "Udo Lindenberg", "why": "Der Pionier des umgangssprachlichen deutschen Rock." },
+    { "a": "Peter Maffay", "why": "Zeitgenosse im deutschen Pop-Rock der 1980er." }
+  ],
+  "sources": [
+    { "label": "Wikipedia: Ö (Album)", "url": "https://de.wikipedia.org/wiki/%C3%96_(Album)" },
+    { "label": "Wikipedia: Herbert Grönemeyer", "url": "https://de.wikipedia.org/wiki/Herbert_Gr%C3%B6nemeyer" },
+    { "label": "Wikipedia (en): Diskografie", "url": "https://en.wikipedia.org/wiki/Herbert_Gr%C3%B6nemeyer_discography" }
+  ],
+  "writtenAt": "2026-11-07"
+}

@@ -1,0 +1,34 @@
+{
+  "kicker": "New York · aktiv seit 1997 · Düsterer Post-Punk-Indie",
+  "tag": "Nachtfahrt in Schwarz",
+  "record": "Das dritte Album von Interpol und ihr einziges für ein Major-Label: mit aufwendigeren Arrangements als zuvor, deshalb unter Kritikern umstrittener. Kommerziell war es ihr Höhepunkt, Platz 4 in den US-Charts und Platz 2 in Großbritannien.",
+  "facts": [
+    { "k": "Erschienen", "v": "10. Juli 2007" },
+    { "k": "Label", "v": "Capitol (Original); die Pressung im Regal ist eine Matador-Wiederveröffentlichung" },
+    { "k": "Produktion", "v": "Rich Costey und Interpol" },
+    { "k": "Aufgenommen", "v": "November 2006 bis Mai 2007, Electric Lady Studios und Magic Shop, New York" },
+    { "k": "Länge", "v": "47:05" }
+  ],
+  "start": [
+    { "t": "The Heinrich Maneuver", "why": "Die erste Single, im Mai 2007 vorab erschienen." },
+    { "t": "Mammoth", "why": "Die zweite Single, mit der die Band das Album in Europa und Großbritannien bewarb." },
+    { "t": "Pioneer To The Falls", "why": "Der Opener: gleich der Ton, auf den sich das Album einlässt." }
+  ],
+  "band": "Interpol gründeten sich 1997 in Manhattan: Paul Banks, Daniel Kessler, Carlos Dengler und Schlagzeuger Greg Drudy, den 2000 Sam Fogarino ablöste. Das Debüt „Turn On the Bright Lights“ (2002) wurde von der Kritik gefeiert, „Antics“ (2004) folgte. Nach „Our Love to Admire“ verließ die Band Capitol und kehrte zu Matador zurück; Dengler stieg 2010 aus, seitdem übernimmt Banks im Studio den Bass.",
+  "trivia": [
+    "Rich Costey hatte zuvor mit Muse und Franz Ferdinand gearbeitet.",
+    "Das Album stieg in Irland auf Platz 1 und in den USA auf Platz 4 ein, ihr bester US-Chartplatz.",
+    "Paul Banks nannte es später das schwierigste Album der Band und verwies auf den Druck der Major-Label-Struktur.",
+    "Seit 2020 gehören die Rechte am Katalog der Band wieder Matador."
+  ],
+  "similar": [
+    { "a": "The Strokes", "why": "Gleiche New Yorker Szene der frühen 2000er, aber heller und kürzer gebaut." },
+    { "a": "Arctic Monkeys", "why": "Gitarrenband derselben Indie-Welle, auch mit dunklerem, schwererem Spätwerk." },
+    { "a": "Joy Division", "why": "Der Referenzpunkt, auf den Interpol seit dem Debüt immer wieder verglichen werden." }
+  ],
+  "sources": [
+    { "label": "Wikipedia: Our Love to Admire", "url": "https://en.wikipedia.org/wiki/Our_Love_to_Admire" },
+    { "label": "Wikipedia: Interpol", "url": "https://en.wikipedia.org/wiki/Interpol_(band)" }
+  ],
+  "writtenAt": "2026-11-07"
+}

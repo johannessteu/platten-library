@@ -1,0 +1,33 @@
+{
+  "kicker": "Vogt bei Ravensburg · aktiv seit 2012 · Indie-Pop mit Elektronik",
+  "tag": "Erwachsenwerden, laut gesungen",
+  "record": "Das zweite Album von Provinz, entstanden aus rund zwei Jahren Pandemie-Material. Es kreist um Erwachsenwerden, Aufbruch, zerplatzte Träume und verschiedene Formen der Liebe und klingt elektronischer als das Debüt. In den deutschen Charts stieg es bis auf Platz 2.",
+  "facts": [
+    { "k": "Erschienen", "v": "September 2022" },
+    { "k": "Label", "v": "Warner Music" },
+    { "k": "Aufgenommen", "v": "Anfang 2022 in Hamburg, rund drei Wochen im Studio" },
+    { "k": "Gast", "v": "Casper, Nina Chuba; Danger Dan bei „Unsere Bank“" }
+  ],
+  "start": [
+    { "t": "Unsere Bank", "why": "Entstand mit Danger Dan von der Antilopen Gang, auf Anfrage der Band." },
+    { "t": "Verrate Deine Freunde", "why": "Wird in der Presse als Highlight des Albums genannt." },
+    { "t": "Alles Gut Keine Angst", "why": "Der Schlusspunkt der Platte, zwischen Melancholie und Zuversicht." }
+  ],
+  "band": "Provinz kommt aus Vogt in Oberschwaben: Die Cousins Vincent Waizenegger und Robin Schmid machten zuerst als Twice Musik, 2012 stieß Moritz Bösing dazu und die Band hieß fortan Provinz. 2017 kam Schlagzeuger Leon Sennewald dazu, die Band nahm am Bandpool der Popakademie Baden-Württemberg teil und kam so mit Labels in Kontakt. 2019 folgte der Vertrag mit Warner, 2020 das Debüt „Wir bauten uns Amerika“ (Platz 4). Mit „Pazifik“ erreichten sie 2025 Platz 1.",
+  "trivia": [
+    "Das Album hat 15 Titel und endet mit „Alles Gut Keine Angst“.",
+    "Danger Dan schrieb „Unsere Bank“ mit, nachdem die Band ihn gefragt hatte.",
+    "2023 wurde Provinz beim Preis für Popkultur als Lieblingsband ausgezeichnet."
+  ],
+  "similar": [
+    { "a": "Giant Rooks", "why": "Ebenfalls eine junge deutsche Indie-Pop-Band, die größere Hallen füllt." },
+    { "a": "Jeremias", "why": "Mit ihm und Majan nahm Provinz 2021 „Liebe zu dritt“ auf, ihren ersten Single-Charteintrag." },
+    { "a": "AnnenMayKantereit", "why": "Deutschsprachiger Pop zwischen Aufbruch und Melancholie, ebenfalls aus der Generation vor Corona." }
+  ],
+  "sources": [
+    { "label": "Wikipedia: Provinz (Band)", "url": "https://de.wikipedia.org/wiki/Provinz_(Band)" },
+    { "label": "Schwäbische Zeitung zum Album", "url": "https://www.schwaebische.de/__article__-11385" },
+    { "label": "AllMusic: Zorn & Liebe", "url": "https://www.allmusic.com/album/mw0003826924" }
+  ],
+  "writtenAt": "2026-11-07"
+}

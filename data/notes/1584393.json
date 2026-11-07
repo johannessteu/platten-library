@@ -1,0 +1,32 @@
+{
+  "kicker": "Pinner (London) · aktiv seit 1967 · Piano-Pop und Balladen",
+  "tag": "Balladen für den Plattenabend",
+  "record": "Eine deutsche Zusammenstellung von Polystar aus dem Jahr 1982, die Elton Johns Balladen und Klassiker bündelt, von „Your Song“ und „Tiny Dancer“ bis „Candle In The Wind“. Dazu kommen das damals aktuelle „Blue Eyes“ und der Marathon aus „Funeral For A Friend“ und „Love Lies Bleeding“.",
+  "facts": [
+    { "k": "Erschienen", "v": "1982 (Deutschland)" },
+    { "k": "Label", "v": "Polystar" }
+  ],
+  "start": [
+    { "t": "Your Song", "why": "Der Song von 1970, mit dem Elton John als Sänger berühmt wurde." },
+    { "t": "Rocket Man", "why": "Der Hit vom Album „Honky Château“ (1972), der Song stammt vom Album, das ihm die erste US-Nummer-1 bescherte." },
+    { "t": "Candle In The Wind", "why": "Die Hommage an Marilyn Monroe von „Goodbye Yellow Brick Road“." }
+  ],
+  "band": "Reginald Dwight, geboren 1947 in Pinner bei London, nahm 1967 den Namen Elton John an und begann damals die Zusammenarbeit mit Texter Bernie Taupin. „Your Song“ (1970) war der Durchbruch, „Honky Château“ (1972) brachte das erste US-Nummer-1-Album. Zwischen 1972 und 1975 folgten sieben US-Nummer-1-Alben in Folge. 1998 wurde er zum Ritter geschlagen.",
+  "trivia": [
+    "„Your Song“ erreichte 1970 Platz 7 in Großbritannien und Platz 8 in den USA.",
+    "„Funeral For A Friend / Love Lies Bleeding“ eröffnet das Doppelalbum „Goodbye Yellow Brick Road“ von 1973 und dauert etwa elf Minuten.",
+    "„Blue Eyes“ stammt vom Album „Jump Up!“ (1982)."
+  ],
+  "similar": [
+    { "a": "Queen", "why": "Britischer Pop der 1970er mit Piano, Pathos und großen Refrains." },
+    { "a": "The Beatles", "why": "Von ihnen stammt „Lucy In The Sky With Diamonds“, hier in Elton Johns Fassung." },
+    { "a": "Billy Joel", "why": "Pianist und Songschreiber mit ähnlichem Balladenfach." }
+  ],
+  "sources": [
+    { "label": "Wikipedia: Elton John", "url": "https://en.wikipedia.org/wiki/Elton_John" },
+    { "label": "Wikipedia: Goodbye Yellow Brick Road", "url": "https://en.wikipedia.org/wiki/Goodbye_Yellow_Brick_Road" },
+    { "label": "Wikipedia: Candle in the Wind", "url": "https://en.wikipedia.org/wiki/Candle_in_the_Wind" },
+    { "label": "45worlds: Your Songs", "url": "https://mail.45worlds.com/vinyl/album/2475566" }
+  ],
+  "writtenAt": "2026-11-07"
+}

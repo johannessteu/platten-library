@@ -1,0 +1,30 @@
+{
+  "kicker": "Berlin · seit 2021 bei Four Music · Pop-Rap im Dunkeln",
+  "tag": "Dunkel, aber zart",
+  "record": "Das zweite Album von Paula Hartmann klingt deutlich dunkler als das Debüt „Nie verliebt“, musikalisch wie thematisch. Auch das Cover wechselt zu schwarz-weißen Zeichnungen statt der bunten Figuren des Erstlings. In den deutschen Charts stieg es bis auf Platz 2 und gewann 2025 den Preis für Popkultur als Lieblingsalbum.",
+  "facts": [
+    { "k": "Erschienen", "v": "8. März 2024" },
+    { "k": "Label", "v": "Four Music" }
+  ],
+  "start": [
+    { "t": "Gespenst", "why": "Der Opener der Platte, ein Einstieg in ihren dunkleren Ton." },
+    { "t": "Kleine Feuer", "why": "Der Titelsong der Platte, der dem Album seinen Namen gibt." },
+    { "t": "D.L.I.T. (Die Liebe Ist Tot)", "why": "Der zweite Titel der A-Seite, ein Ausrufezeichen für das Thema Liebe." }
+  ],
+  "band": "Paula Annette Hartmann, geboren 2001 in Berlin, stand schon als Kind vor der Kamera und spielte in Film und Fernsehen. Mit Produzent Biztram veröffentlichte sie die ersten Singles, „Nie verliebt“ und „Truman Show Boot“. 2021 unterschrieb sie bei Four Music, 2022 erschien ihr Debüt „Nie verliebt – Und andere Gute-Nacht-Geschichten“. Parallel studierte sie Jura an der Bucerius Law School in Hamburg.",
+  "trivia": [
+    "„Kleine Feuer“ blieb 26 Wochen in den deutschen Charts und erreichte auch Österreich (Platz 5) und die Schweiz (Platz 8).",
+    "Der Polyton 2024 für „Produktion“ ging an dieses Album.",
+    "Hartmann schloss im Mai 2025 ihren Bachelor of Laws ab."
+  ],
+  "similar": [
+    { "a": "Casper", "why": "Hat mit Paula Hartmann zusammengearbeitet; dunkler Deutsch-Pop mit Rap-Wurzeln." },
+    { "a": "Trettmann", "why": "Mit ihm erschien 2023 die Single „Gekreuzte Finger“, ein Vorbote des Albums." },
+    { "a": "UFO361", "why": "Ein weiterer Rapper, mit dem sie zusammengearbeitet hat." }
+  ],
+  "sources": [
+    { "label": "Wikipedia: Paula Hartmann", "url": "https://de.wikipedia.org/wiki/Paula_Hartmann" },
+    { "label": "Goethe-Institut: Band des Monats", "url": "https://www.goethe.de/ins/fr/de/kul/art/ban/27101447.html" }
+  ],
+  "writtenAt": "2026-11-07"
+}

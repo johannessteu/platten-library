@@ -1,0 +1,34 @@
+{
+  "kicker": "Gary, Indiana · aktiv seit 1964 · Pop, Funk und Soul",
+  "tag": "Pop ohne Schwachstelle",
+  "record": "Michael Jacksons sechstes Soloalbum und der Nachfolger von „Off the Wall“, wieder mit Quincy Jones produziert. Sieben der neun Songs erschienen als Single, und die Platte machte Jackson zum globalen Superstar. Sie vereint Funk, Rock, Soul und Pop zu einem Album, das auf Partys wie zu Hause trägt.",
+  "facts": [
+    { "k": "Erschienen", "v": "29. November 1982" },
+    { "k": "Label", "v": "Epic" },
+    { "k": "Produktion", "v": "Quincy Jones, Co-Produktion Michael Jackson" },
+    { "k": "Aufgenommen", "v": "Westlake Recording Studios, Los Angeles, April bis November 1982" },
+    { "k": "Länge", "v": "42:16" }
+  ],
+  "start": [
+    { "t": "Billie Jean", "why": "Der Basslauf und der trockene Beat sind einer der bekanntesten Grooves der Popgeschichte." },
+    { "t": "Beat It", "why": "Der Rock-Song des Albums, mit einem Gitarrensolo von Eddie Van Halen." },
+    { "t": "Thriller", "why": "Der Titelsong mit dem gesprochenen Part von Horrorfilm-Star Vincent Price." }
+  ],
+  "band": "Michael Jackson wuchs in Gary, Indiana, auf und stieg 1964 in die Gruppe seines Vaters ein, die später als Jackson 5 bekannt wurde. Zwischen 1972 und 1975 erschienen vier Soloalben bei Motown. Den Durchbruch als Solokünstler brachte 1979 „Off the Wall“, die erste Zusammenarbeit mit Quincy Jones. „Thriller“ war sein erstes Album auf Platz 1 der US-Albumcharts.",
+  "trivia": [
+    "Paul McCartney singt im Duett „The Girl Is Mine“, der ersten Single des Albums.",
+    "Bei den Grammys 1984 gewann das Album acht Preise, darunter Album of the Year.",
+    "Auf dem Cover trägt Jackson einen weißen Anzug, im Gatefold sieht man ein Tigerjunges an seinem Bein.",
+    "Das Album stand 37 Wochen nicht am Stück auf Platz 1 der Billboard 200."
+  ],
+  "similar": [
+    { "a": "Stevie Wonder", "why": "Funk- und Soul-Pop der 70er, den Jackson und Jones auf „Thriller“ weiterführten." },
+    { "a": "Bruno Mars", "why": "Moderner Pop mit viel Funk und Soul, der sich offen an der Jackson-Ära orientiert." },
+    { "a": "Queen", "why": "Ebenfalls Stadionpop der frühen 80er, der Rock, Funk und Pop mischt." }
+  ],
+  "sources": [
+    { "label": "Wikipedia: Thriller", "url": "https://en.wikipedia.org/wiki/Thriller_(album)" },
+    { "label": "Wikipedia: Michael Jackson", "url": "https://en.wikipedia.org/wiki/Michael_Jackson" }
+  ],
+  "writtenAt": "2026-11-07"
+}

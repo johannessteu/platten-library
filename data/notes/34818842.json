@@ -1,0 +1,34 @@
+{
+  "kicker": "London · aktiv seit 1997 · Melancholischer Gitarren-Pop",
+  "tag": "Leise Hymnen",
+  "record": "Das Debütalbum von Coldplay: zehn Songs, geprägt von Chris Martins Gesang. Es stieg in Großbritannien auf Platz 1, brachte die Single „Yellow“ hervor und legte den Grundstein für alles, was danach kam.",
+  "facts": [
+    { "k": "Erschienen", "v": "10. Juli 2000 (UK), 7. November 2000 (USA, Nettwerk)" },
+    { "k": "Label", "v": "Parlophone" },
+    { "k": "Produktion", "v": "Ken Nelson und Coldplay; „High Speed“ von Chris Allison" },
+    { "k": "Länge", "v": "41:25" }
+  ],
+  "start": [
+    { "t": "Yellow", "why": "Die Single vom Juni 2000, ihr größter Durchbruch." },
+    { "t": "Shiver", "why": "Die erste Single, im März 2000 erschienen." },
+    { "t": "Trouble", "why": "Die dritte Single, im Oktober 2000 erschienen." }
+  ],
+  "band": "Coldplay entstanden 1997 in London um Sänger Chris Martin, Gitarrist Jonny Buckland, Bassist Guy Berryman und Schlagzeuger Will Champion; Manager Phil Harvey gilt als weiteres Mitglied. Zuvor hießen sie Big Fat Noises und Starfish. Mit Parlophone im Rücken wurde „Parachutes“ 2000 zum Durchbruch, später folgten Welttourneen und Alben wie „A Rush of Blood to the Head“ und „Viva la Vida“.",
+  "trivia": [
+    "Das Cover zeigt einen gelben Globus, den die Band für zehn Pfund bei W H Smith kaufte und mit einer Einwegkamera fotografierte.",
+    "Das Album gewann den Brit Award als bestes britische Album und 2002 den Grammy für das beste Alternative-Album.",
+    "Es war für den Mercury Prize nominiert.",
+    "„Don't Panic“ erschien nur in Europa als Single, im März 2001."
+  ],
+  "similar": [
+    { "a": "Travis", "why": "Britische Gitarrenband derselben Jahre mit ähnlich sanften Melodien." },
+    { "a": "Keane", "why": "Gleiche Ära des britischen Melancholie-Pops, mit Klavier statt Gitarre im Vordergrund." },
+    { "a": "Radiohead", "why": "Der Ton der späten Neunziger, auf den sich Coldplay damals oft bezogen." }
+  ],
+  "sources": [
+    { "label": "Wikipedia: Parachutes", "url": "https://en.wikipedia.org/wiki/Parachutes_(Coldplay_album)" },
+    { "label": "Wikipedia: Coldplay", "url": "https://en.wikipedia.org/wiki/Coldplay" },
+    { "label": "uDiscover: Parachutes", "url": "https://www.udiscovermusic.com/stories/rediscover-coldplays-parachutes/" }
+  ],
+  "writtenAt": "2026-11-07"
+}

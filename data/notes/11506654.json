@@ -1,0 +1,31 @@
+{
+  "kicker": "Hamburg · Solo seit 2009 · Singer-Songwriter mit Pop und Hip-Hop",
+  "tag": "Krisenmanagement mit Humor",
+  "record": "Olli Schulz' viertes Soloalbum, das die Presse als musikalisches Krisenmanagement beschreibt: Zweifel an der eigenen Karriere, Ambivalenz, aber auch Freundschaft als Hoffnung. Musikalisch pendelt es zwischen klassischem Singer-Songwriter-Pop, Elektronik und Hip-Hop-Beats. In den deutschen Charts erreichte es Platz 6.",
+  "facts": [
+    { "k": "Erschienen", "v": "2. Februar 2018" },
+    { "k": "Label", "v": "Trocadero" }
+  ],
+  "start": [
+    { "t": "Schockst Nicht Mehr", "why": "Der Opener, in dem er fragt, ob seine Musikkarriere noch eine Zukunft hat." },
+    { "t": "Skat Spielen Mit Den Jungs", "why": "Eine warme Hymne auf Freundschaft." },
+    { "t": "Sportboot", "why": "Der verspielte, komödiantische Moment der Platte." }
+  ],
+  "band": "Olli Schulz, geboren 1973 in Hamburg, arbeitete lange als Bühnenarbeiter und Roadie. Mit Max Schröder machte er als Olli Schulz und der Hund Marie drei Alben (2003 bis 2006); sein Solodebüt „Es brennt so schön“ erschien 2009. Bekannt ist er auch durch Fernsehen und den Podcast „Fest & Flauschig“ mit Jan Böhmermann, der seit 2016 läuft. Vor diesem Album galt er deshalb weniger als Musiker.",
+  "trivia": [
+    "Kettcar-Sänger Marcus Wiebusch ermunterte ihn, auf dem Label Grand Hotel van Cleef eine Platte zu veröffentlichen.",
+    "Zusammen mit Fynn Kliemann kaufte er Gunter Gabriels ehemaliges Hausboot und baute es um.",
+    "Der Nachfolger „Vom Rand der Zeit“ (2024) stieg auf Platz 1 ein."
+  ],
+  "similar": [
+    { "a": "Fynn Kliemann", "why": "Gemeinsames Hausboot-Projekt: Sie bauten Gunter Gabriels Boot um." },
+    { "a": "Kettcar", "why": "Marcus Wiebusch war früher Wegbereiter für Schulz' erste Veröffentlichung." },
+    { "a": "Tomte", "why": "Dort spielte Max Schröder, sein früherer Duo-Partner vom Hund Marie." }
+  ],
+  "sources": [
+    { "label": "Wikipedia: Olli Schulz", "url": "https://de.wikipedia.org/wiki/Olli_Schulz" },
+    { "label": "profil: Albumkritik", "url": "https://www.profil.at/shortlist/kultur/olli-schulz-album-kritik-scheiss-leben-gut-erzaehlt-8799045" },
+    { "label": "Qobuz: Olli Schulz", "url": "https://www.qobuz.com/us-en/interpreter/olli-schulz/736163" }
+  ],
+  "writtenAt": "2026-11-07"
+}

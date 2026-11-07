@@ -1,0 +1,33 @@
+{
+  "kicker": "Honolulu · aktiv seit 2003 · Pop mit Soul und Doo-Wop",
+  "tag": "Pop mit Retro-Charme",
+  "record": "Das Debüt von Bruno Mars, entstanden mit seinem Produktionsteam The Smeezingtons. Es verbindet Pop und Soul mit Doo-Wop-Einflüssen, von der Ballade „Grenade“ bis zum lockeren „The Lazy Song“. Mit „Just the Way You Are“ und „Grenade“ lieferte es zwei große Hits.",
+  "facts": [
+    { "k": "Erschienen", "v": "Oktober 2010" },
+    { "k": "Label", "v": "Elektra / Atlantic" },
+    { "k": "Produktion", "v": "The Smeezingtons, Needlz, Supa Dups, Jeff Bhasker" },
+    { "k": "Länge", "v": "35:27" },
+    { "k": "Gast", "v": "Damian Marley, B.o.B, CeeLo Green" }
+  ],
+  "start": [
+    { "t": "Just The Way You Are", "why": "Die erste Single und sein erster großer Soloerfolg." },
+    { "t": "Grenade", "why": "Die dramatische Ballade, die in den US-Charts auf Platz 1 kam." },
+    { "t": "The Lazy Song", "why": "Die dritte Single, 2011 veröffentlicht." }
+  ],
+  "band": "Bruno Mars (geboren als Peter Gene Hernandez) wuchs in Honolulu auf und trat als Kind als Elvis-Imitator auf. 2003 zog er nach Los Angeles und gründete mit Philip Lawrence und Ari Levine das Team The Smeezingtons. Sie schrieben Hits für andere, etwa „Nothin' on You“ von B.o.B. Atlantic brauchte etwa drei Jahre, um ihn unter Vertrag zu nehmen.",
+  "trivia": [
+    "Der Titel soll Einfachheit ausdrücken, die Männer und Frauen anspricht.",
+    "Bei den Grammys 2011 gewann „Just the Way You Are“ als bester männlicher Pop-Gesang.",
+    "Damian Marley ist auf „Liquor Store Blues“ zu hören, B.o.B und CeeLo Green auf „The Other Side“."
+  ],
+  "similar": [
+    { "a": "Michael Jackson", "why": "Funk- und Pop-Showmann, an dessen Ära sich Mars deutlich orientiert." },
+    { "a": "Stevie Wonder", "why": "Soul-Pop mit Melodien, die sich festsetzen." },
+    { "a": "Ed Sheeran", "why": "Pop-Songwriter derselben Generation, mit ähnlich eingängigen Balladen." }
+  ],
+  "sources": [
+    { "label": "Wikipedia: Doo-Wops & Hooligans", "url": "https://en.wikipedia.org/wiki/Doo-Wops_%26_Hooligans" },
+    { "label": "Wikipedia: Bruno Mars", "url": "https://en.wikipedia.org/wiki/Bruno_Mars" }
+  ],
+  "writtenAt": "2026-11-07"
+}

@@ -1,0 +1,31 @@
+{
+  "kicker": "Freising/München · aktiv seit 1992 · Deutschrap mit Witz",
+  "tag": "Synthie-Rap für Zuhause",
+  "record": "Das vierte Album von Blumentopf, 2003 bei Four Music erschienen und in Deutschland bis auf Platz 7 gestiegen. Nach den sampleschweren Vorgängern klingt es mit satten Synthesizer-Beats moderner, die Reime bleiben albern und genau beobachtet. Die Pressung im Regal ist die limitierte Doppel-LP-Neuauflage von 2024.",
+  "facts": [
+    { "k": "Erschienen", "v": "15. September 2003 (Neuauflage Vinyl Digital 2024)" },
+    { "k": "Label", "v": "Four Music" },
+    { "k": "Länge", "v": "ca. 73 Minuten" }
+  ],
+  "start": [
+    { "t": "Jeder Zweite Linkt Dich", "why": "Der Beat besteht komplett aus einem Sample von „Santa Baby“, Paradebeispiel für die neue Richtung." },
+    { "t": "Better Life GmbH I", "why": "Die Single „Better Life GmbH“ mit Smudo gibt es als dreiteilige Reihe auf dem Album." }
+  ],
+  "band": "Blumentopf gründeten sich 1992 in Freising; die Münchner Crew besteht aus vier Rappern und DJ Sepalot. Bekannt wurden sie mit leichtem, wortwitzigem Deutschrap, der Alltag mit Selbstironie erzählt. Die Auflösung gaben sie im Oktober 2015 bekannt, das Abschlusskonzert folgte im Oktober 2016 im Münchner Zenith.",
+  "trivia": [
+    "Zur Tour erschien 2004 die DVD „Gern Gesehen“.",
+    "Auch in Österreich (Platz 25) und der Schweiz (Platz 36) kam das Album in die Charts.",
+    "Die Titelliste ist durchzogen von Skits und drei „Better Life GmbH“-Teilen."
+  ],
+  "similar": [
+    { "a": "Moop Mama", "why": "Jüngere Münchner Gruppe mit ähnlichem Humor, aber Blaskapelle statt Sampler." },
+    { "a": "Fatoni", "why": "Rapper aus München mit ironischem Blick auf den Alltag." },
+    { "a": "Die Fantastischen Vier", "why": "Smudo ist bei der Single „Better Life GmbH“ zu hören; verwandter Pop-Deutschrap." }
+  ],
+  "sources": [
+    { "label": "Wikipedia: Blumentopf", "url": "https://de.wikipedia.org/wiki/Blumentopf_(Band)" },
+    { "label": "Wikipedia (en): Blumentopf", "url": "https://en.wikipedia.org/wiki/Blumentopf" },
+    { "label": "AllMusic: Gern Geschehen", "url": "https://www.allmusic.com/album/gern-geschehen-mw0001076298" }
+  ],
+  "writtenAt": "2026-11-07"
+}

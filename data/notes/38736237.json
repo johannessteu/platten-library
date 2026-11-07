@@ -1,0 +1,32 @@
+{
+  "kicker": "Hamm · aktiv seit 2014 · Indie-Pop mit Synthesizern",
+  "tag": "Hoffnung im Alltag",
+  "record": "Das dritte Studioalbum von Giant Rooks nach „Rookery“ (2020) und „How Have You Been?“ (2024). Die zwölf Songs kreisen um Verlust, Einsamkeit, Erinnerung und Hoffnung; die Band nennt es das Schwierigste, was sie je gemacht hat.",
+  "facts": [
+    { "k": "Erschienen", "v": "16. Oktober 2026" },
+    { "k": "Label", "v": "Vertigo Berlin (Universal), Irrsinn Tonträger" },
+    { "k": "Aufgenommen", "v": "Angelic Studios und Real World Studios, England" },
+    { "k": "Gast", "v": "Conic Rose, Solann" }
+  ],
+  "start": [
+    { "t": "The Future is Cancelled", "why": "Eine der vier Vorab-Singles des Albums." },
+    { "t": "Want It Back", "why": "Ebenfalls vorab erschienen, laut Presse ein Stück über zurückkehrende Erinnerungen." },
+    { "t": "Slow Dance (For A Minute)", "why": "Die Single über das Festhalten eines flüchtigen Moments." }
+  ],
+  "band": "Giant Rooks stammen aus Hamm und wurden 2014 von den Cousins Frederik Rabe und Finn Schwieters gegründet, bald stießen Jonathan Wischniowski, Finn Thomas und Luca Göttner dazu. Nach den EPs und dem Debüt „Rookery“ (2020) erreichte „How Have You Been?“ (2024) Platz 1 der deutschen Charts. Der Sound arbeitet mit Klavier, Gitarre, Schlagzeug und geschichteten Synthesizern.",
+  "trivia": [
+    "Die Arbeit begann Anfang 2025 mit Konzepten und Demos; aufgenommen wurde in England mit analogem, handfestem Ansatz.",
+    "Das Cover greift die Bildwelt von „Rookery“ auf: dort ein Sturz durch Wolken, hier eher ein sanftes Schweben.",
+    "2022 erreichte „Tom's Diner“ mit AnnenMayKantereit Platz 63 der britischen Single-Charts."
+  ],
+  "similar": [
+    { "a": "AnnenMayKantereit", "why": "Gemeinsame Version von „Tom's Diner“, auch sonst deutsche Band zwischen Indie und Pop." },
+    { "a": "Milky Chance", "why": "Giant Rooks tourten 2021 mit ihnen durch Nordamerika." }
+  ],
+  "sources": [
+    { "label": "uDiscover Music", "url": "https://www.udiscovermusic.com/news/giant-rooks-if-heaven-exists-this-might-be-it/" },
+    { "label": "Dork", "url": "https://readdork.com/news/giant-rooks-if-heaven-exists-this-might-be-it-album-e8b1a601f4" },
+    { "label": "Wikipedia: Giant Rooks", "url": "https://en.wikipedia.org/wiki/Giant_Rooks" }
+  ],
+  "writtenAt": "2026-11-07"
+}

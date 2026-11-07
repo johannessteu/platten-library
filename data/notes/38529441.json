@@ -1,0 +1,54 @@
+{
+  "kicker": "Regensburg · aktiv seit 2017 · Deutschsprachiger Indie-Pop",
+  "tag": "Gemeinsam durchhalten",
+  "record": "Das dritte Album der Brüder Bruckner erschien 2026 auf ihrem eigenen Label Worst Case Band Records, nach zwei Alben bei Columbia. Es hat elf Titel und kommt auf gut 32 Minuten.",
+  "facts": [
+    {
+      "k": "Erschienen",
+      "v": "2026"
+    },
+    {
+      "k": "Label",
+      "v": "Worst Case Band Records"
+    }
+  ],
+  "start": [
+    {
+      "t": "Zusammenbleiben",
+      "why": "Der Titelsong und zugleich das letzte Stück der Platte."
+    },
+    {
+      "t": "F",
+      "why": "Der kurze Opener, nur gut anderthalb Minuten lang."
+    }
+  ],
+  "band": "Bruckner sind die Brüder Jakob und Matti Bruckner aus Regensburg, aufgewachsen in Pittenhart am Chiemsee. Jakob begann dort als Singer-Songwriter, 2017 wurde daraus das Duo; es folgten die EPs „Berg“ (2017) und „Sprungturm“ (2019). Das Debüt „Hier“ (2020) kam auf Platz 32, „Zerrissen“ (2023) auf Platz 36 der deutschen Albumcharts, beide bei Columbia.",
+  "trivia": [
+    "Zum Album gehört eine Tour mit dem Titel „Zusammenbleiben“ im Herbst 2026."
+  ],
+  "similar": [
+    {
+      "a": "Provinz",
+      "why": "Ebenfalls deutschsprachiger Indie-Pop aus der Provinz mit großen Refrains."
+    },
+    {
+      "a": "Giant Rooks",
+      "why": "Junge deutsche Indie-Band, die ähnliche Hallen füllt."
+    },
+    {
+      "a": "AnnenMayKantereit",
+      "why": "Deutschsprachiger Pop, der zwischen Zärtlichkeit und Aufbruch pendelt."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia: Bruckner (Duo)",
+      "url": "https://de.wikipedia.org/wiki/Bruckner_(Duo)"
+    },
+    {
+      "label": "Eventim: Bruckner",
+      "url": "https://www.eventim.de/en/artist/bruckner/"
+    }
+  ],
+  "writtenAt": "2026-11-07"
+}

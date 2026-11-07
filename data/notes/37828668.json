@@ -1,0 +1,34 @@
+{
+  "kicker": "London · aktiv seit 1962 · Rock 'n' Roll und Rhythm & Blues",
+  "tag": "Spätes Rock-'n'-Roll-Update",
+  "record": "Das neue Studioalbum der Stones, am 10. Juli 2026 erschienen, drei Jahre nach „Hackney Diamonds“. Andrew Watt hat produziert, die 14 Titel stammen aus Sitzungen in Los Angeles und London, dazu gibt es Gäste wie Paul McCartney und Robert Smith. Unsere Ausgabe verteilt sie auf zwei LPs.",
+  "facts": [
+    { "k": "Erschienen", "v": "10. Juli 2026" },
+    { "k": "Label", "v": "Polydor / Capitol" },
+    { "k": "Produktion", "v": "Andrew Watt, Don Was bei „Hit Me In The Head“" },
+    { "k": "Gast", "v": "Paul McCartney, Robert Smith, Steve Winwood" }
+  ],
+  "start": [
+    { "t": "In The Stars", "why": "Die erste Single, am 5. Mai 2026 zusammen mit der Albumankündigung veröffentlicht." },
+    { "t": "Jealous Lover", "why": "Die zweite Single vor dem Album, erschienen am 25. Juni 2026." },
+    { "t": "Hit Me In The Head", "why": "Charlie Watts spielt hier Schlagzeug; die Aufnahme stammt aus der Zeit vor seinem Tod 2021." }
+  ],
+  "band": "Mehr als sechzig Jahre nach der Gründung 1962 spielen die Stones weiter als Quartett im Kern: Jagger, Richards und Ronnie Wood, seit Charlie Watts' Tod 2021 mit Steve Jordan am Schlagzeug. Mit „Hackney Diamonds“ gelang 2023 ein Comeback, das auch einen Grammy einbrachte. „Foreign Tongues“ führt diese Linie fort und steht für eine Band, die ihren Sound von Blues und Rock 'n' Roll nie aufgegeben hat.",
+  "trivia": [
+    "Auf „Covered In You“ spielt Paul McCartney den Bass.",
+    "Robert Smith von The Cure spielt Gitarre auf „Divine Intervention“.",
+    "Das Cover malte der US-Künstler Nathaniel Mary Quinn.",
+    "Das Album stieg in Großbritannien auf Platz 1 ein."
+  ],
+  "similar": [
+    { "a": "The Beatles", "why": "Paul McCartney spielt auf dem Album mit; die beiden Bands prägten die britische Beat-Ära." },
+    { "a": "Faces", "why": "Ronnie Woods frühere Band: Rock 'n' Roll mit Rhythm-&-Blues-Wurzeln." },
+    { "a": "Elton John", "why": "Ebenfalls ein britisches Urgestein, das seit den Sechzigern Alben veröffentlicht." }
+  ],
+  "sources": [
+    { "label": "Wikipedia: Foreign Tongues", "url": "https://en.wikipedia.org/wiki/Foreign_Tongues" },
+    { "label": "Blabbermouth", "url": "https://blabbermouth.net/news/the-rolling-stones-announce-new-studio-album-foreign-tongues" },
+    { "label": "Wikipedia: The Rolling Stones", "url": "https://en.wikipedia.org/wiki/The_Rolling_Stones" }
+  ],
+  "writtenAt": "2026-11-07"
+}

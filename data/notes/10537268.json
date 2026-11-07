@@ -1,0 +1,33 @@
+{
+  "kicker": "Bochum · aktiv seit 1979 · deutscher Pop-Rock",
+  "tag": "Trauer, ganz leise groß",
+  "record": "Grönemeyers elftes Studioalbum, entstanden nach dem Tod seines Bruders und seiner Schwägerin. Die Songs kreisen um Verlust und Weiterleben, aufgenommen in London in großen Studios wie Abbey Road. Mit „Mensch“ erreichte er erstmals Platz 1 der deutschen Singlecharts, das Album gehört bis heute zu den meistverkauften des Landes.",
+  "facts": [
+    { "k": "Erschienen", "v": "30. August 2002" },
+    { "k": "Label", "v": "Grönland Records (EMI)" },
+    { "k": "Produktion", "v": "Alex Silva und Herbert Grönemeyer" },
+    { "k": "Aufgenommen", "v": "London: Abbey Road, RAK und Mayfair Studios" }
+  ],
+  "start": [
+    { "t": "Mensch", "why": "Der Titelsong und seine erste Nummer 1 in den deutschen Singlecharts." },
+    { "t": "Der Weg", "why": "Eine der vier Singles des Albums, die den ruhigen Grundton der Platte trägt." },
+    { "t": "Demo (Letzter Tag)", "why": "Der Bonustrack, einen Tag vor dem Gang ins Presswerk aufgenommen, wurde ebenfalls Single." }
+  ],
+  "band": "Geboren 1956 in Göttingen, aufgewachsen in Bochum: Grönemeyer arbeitete am Schauspielhaus Bochum und wurde 1981 als Leutnant Werner in „Das Boot“ bekannt. Mit „4630 Bochum“ (1984) gelang ihm bei der EMI der Durchbruch, „Männer“ machte ihn landesweit zum Star. 1999 gründete er sein eigenes Label Grönland Records, das auch „Mensch“ veröffentlichte. Er steht für deutsche Texte, die direkt und emotional sind, ohne Pose.",
+  "trivia": [
+    "Nach dem Bonustrack folgt nach langer Stille ein versteckter Song, gesungen von Grönemeyers Sohn Felix.",
+    "Das Album erreichte in Deutschland, Österreich und der Schweiz Platz 1 und wurde in Deutschland mehr als dreimillionenfach verkauft.",
+    "Die Tour „Alles Gute von gestern bis Mensch“ lockte rund 1,5 Millionen Zuschauer und endete nach Verlängerung im Januar 2005 in Düsseldorf."
+  ],
+  "similar": [
+    { "a": "AnnenMayKantereit", "why": "Deutschsprachiger Pop mit rauer, emotionaler Stimme, eine jüngere Generation." },
+    { "a": "Udo Lindenberg", "why": "Der Wegbereiter des deutschsprachigen Rock mit Alltagssprache." },
+    { "a": "Marius Müller-Westernhagen", "why": "Zeitgenosse mit ähnlich großer Hallen- und Stadiontradition im deutschen Rock." }
+  ],
+  "sources": [
+    { "label": "Wikipedia: Mensch (Album)", "url": "https://de.wikipedia.org/wiki/Mensch_(Album)" },
+    { "label": "Wikipedia: Herbert Grönemeyer", "url": "https://de.wikipedia.org/wiki/Herbert_Gr%C3%B6nemeyer" },
+    { "label": "Wikipedia (en): Diskografie", "url": "https://en.wikipedia.org/wiki/Herbert_Gr%C3%B6nemeyer_discography" }
+  ],
+  "writtenAt": "2026-11-07"
+}

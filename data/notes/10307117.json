@@ -1,0 +1,31 @@
+{
+  "kicker": "Deutschland · aktiv seit 2012 · Alternative Hip-Hop",
+  "tag": "Philosophie mit Küchenblech",
+  "record": "Das zweite Album von Käptn Peng & Die Tentakel von Delphi, erschienen im Mai 2017 auf dem eigenen Label Kreismusik. Die Band produzierte es selbst in ihrem Studio in Berlin, teils mit selbstgebauten Instrumenten. Rap über Sprache, Zeit und Ich, mit Reggae-, Tango- und Orient-Einsprengseln, in Deutschland bis Platz 12.",
+  "facts": [
+    { "k": "Erschienen", "v": "19. Mai 2017" },
+    { "k": "Label", "v": "Kreismusik" },
+    { "k": "Produktion", "v": "Käptn Peng & Die Tentakel von Delphi" },
+    { "k": "Länge", "v": "15 Tracks, ca. 60 Minuten" }
+  ],
+  "start": [
+    { "t": "Das Nullte Kapitel", "why": "Der kurze Titelsong am Anfang, 1:36 lang, stimmt auf das Album ein." },
+    { "t": "π", "why": "Behandelt den Ursprung des Universums, verknüpft über die Kreiszahl und das Unendlichkeitszeichen." },
+    { "t": "Tango Im Treibsand", "why": "Ein Stück mit Reggae-Anleihen." }
+  ],
+  "band": "Käptn Peng ist Robert Gwisdek, im Hauptberuf auch Schauspieler; mit seinem Bruder Johannes („Shaban“) trat er schon länger als Duo auf, 2012 kamen drei Musiker dazu. Das Debüt „Expedition ins O“ erschien 2013 auf ihrem Label Kreismusik. Die Band verzichtet auf Samples und spielt auch Alltagsgegenstände wie Kuchenbleche und Koffer.",
+  "trivia": [
+    "Musikexpress vergab fünf von sechs Sternen.",
+    "In Österreich erreichte das Album Platz 15.",
+    "Auf „Gelernt“ steht laut Rezension eine ausdrücklich feministische Aussage."
+  ],
+  "similar": [
+    { "a": "Moop Mama", "why": "Wortreicher Rap mit Liveband, der Vergleich wurde schon in Kritiken gezogen." },
+    { "a": "Fatoni", "why": "Rapper, der Selbstzweifel und Sprachwitz verbindet." }
+  ],
+  "sources": [
+    { "label": "Wikipedia: Das nullte Kapitel", "url": "https://de.wikipedia.org/wiki/Das_nullte_Kapitel" },
+    { "label": "Wikipedia: Käptn Peng & Die Tentakel von Delphi", "url": "https://de.wikipedia.org/wiki/Käptn_Peng_&_Die_Tentakel_von_Delphi" }
+  ],
+  "writtenAt": "2026-11-07"
+}

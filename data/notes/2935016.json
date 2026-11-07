@@ -1,0 +1,31 @@
+{
+  "kicker": "München · aktiv seit 2009 · Brass-Band-Hip-Hop",
+  "tag": "Debüt mit Megafon-Vergangenheit",
+  "record": "Das Debütalbum von Moop Mama, erschienen im Juni 2011 auf Millaphon Records, dem damals neuen Label von Lustspielhaus-Chef Till Hofmann und Mehmet Scholl. Zwölf Songs, in denen Rap und Blasmusik aus den Straßenkonzerten der Anfangsjahre ins Studio wandern. Hier fängt an, was später „Urban Brass“ hieß.",
+  "facts": [
+    { "k": "Erschienen", "v": "Juni 2011" },
+    { "k": "Label", "v": "Millaphon Records (Vertrieb: Broken Silence)" },
+    { "k": "Länge", "v": "12 Tracks" }
+  ],
+  "start": [
+    { "t": "Helden", "why": "Der bekannteste Song des Albums, Titelmusik der BR-Sendung „Vereinsheim Schwabing“." },
+    { "t": "Geh Mit Uns", "why": "Der Opener: Einladung, der Band hinterherzulaufen, wie bei den Straßenkonzerten." }
+  ],
+  "band": "Moop Mama gründeten sich 2009 in München: Saxofonist Marcus Kesselbauer holte Rapper Keno und Produzent Lukas „Bustla“ Roth dazu, beide zuvor bei der Rapcrew Creme Fresh. Zu Beginn spielte die zehnköpfige Band vor allem unangekündigt auf der Straße, Keno rappte durchs Megafon, und wegen Ruhestörung kam öfter die Polizei. Auf Festivals wie Southside, Highfield, Splash und Fusion wurde daraus ein Liveruf.",
+  "trivia": [
+    "Keno und Bustla kamen von Creme Fresh, der Crew, die Fatoni 2000 mitgegründet hat.",
+    "Erst 2012 spielte die Band in Thessaloniki und Athen ihre ersten Konzerte außerhalb des deutschsprachigen Raums."
+  ],
+  "similar": [
+    { "a": "Fatoni", "why": "Gründete einst Creme Fresh mit Keno und Bustla, den späteren Moop-Mama-Köpfen." },
+    { "a": "Blumentopf", "why": "Münchner Hip-Hop-Tradition mit Witz und Alltagsbeobachtung." },
+    { "a": "LaBrassBanda", "why": "Bayerische Bläser-Band aus derselben Region und Szene." },
+    { "a": "Käptn Peng & Die Tentakel von Delphi", "why": "Rap mit Liveband statt Sample-Beat." }
+  ],
+  "sources": [
+    { "label": "Wikipedia: Moop Mama", "url": "https://de.wikipedia.org/wiki/Moop_Mama" },
+    { "label": "Abendzeitung München", "url": "https://www.abendzeitung-muenchen.de/kultur/spassvolle-ruhestoerung-art-138070" },
+    { "label": "Deutsche Nationalbibliothek", "url": "https://d-nb.info/gnd/16331918-2" }
+  ],
+  "writtenAt": "2026-11-07"
+}

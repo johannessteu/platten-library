@@ -1,0 +1,31 @@
+{
+  "kicker": "Dagenham · aktiv seit 1958 · Beat und Pop der Sixties",
+  "tag": "Sonnige Beat-Hits",
+  "record": "Eine Zusammenstellung der Tremeloes auf dem Billiglabel Embassy, 1975 in den Niederlanden gepresst. Neben dem Titelsong, ihrem britischen Nummer-1-Hit von 1967, stehen Titel wie „Good Day Sunshine“, „Cool Jerk“ und „Happy Song“. Es ist kein Originalalbum, sondern eine Wiederveröffentlichung früherer Aufnahmen.",
+  "facts": [
+    { "k": "Erschienen", "v": "1975 (Niederlande)" },
+    { "k": "Label", "v": "Embassy (EMB 31206)" }
+  ],
+  "start": [
+    { "t": "Silence Is Golden", "why": "Der Hit von 1967: britische Nummer 1 und US-Top-20, im Kern ein Cover der Four Seasons." },
+    { "t": "Good Day Sunshine", "why": "Der Opener der Platte: leichter, sonniger Beat zum Einstieg." },
+    { "t": "Let Your Hair Hang Down", "why": "Die B-Seite von „Silence Is Golden“, damit schnell und gut gelaunt." }
+  ],
+  "band": "Die Tremeloes entstanden 1958 in Dagenham und spielten zuerst als Begleitband von Brian Poole. Decca nahm sie 1962 anstelle der Beatles unter Vertrag, und mit „Do You Love Me“ gelang ihnen 1963 ein Nummer-1-Hit. Nach Pooles Abgang 1966 machten sie als Quartett weiter und feierten mit Chip Hawkes als Sänger ihre größten Erfolge: „Here Comes My Baby“ und „Silence Is Golden“ (beide 1967). Auch in Deutschland hatten sie viele Hits.",
+  "trivia": [
+    "Die Four Seasons veröffentlichten „Silence Is Golden“ 1964 nur als B-Seite von „Rag Doll“.",
+    "Rick Westwood sang bei der Tremeloes-Version den Leadgesang, produziert hat sie Mike Smith.",
+    "Der Song kam im April 1967 bei CBS heraus und hielt sich drei Wochen auf Platz 1 der britischen Charts."
+  ],
+  "similar": [
+    { "a": "The Beatles", "why": "Die Beat-Zeitgenossen, die Decca 1962 nicht wollte, die Tremeloes aber schon." },
+    { "a": "The Rolling Stones", "why": "Britische Beat-Band der gleichen Jahre, aber mit rauerem Sound." },
+    { "a": "ABBA", "why": "Sonnige Pop-Melodien mit Ohrwurmcharakter, nur zehn Jahre später." }
+  ],
+  "sources": [
+    { "label": "Wikipedia: The Tremeloes", "url": "https://en.wikipedia.org/wiki/The_Tremeloes" },
+    { "label": "Wikipedia: Silence Is Golden", "url": "https://en.wikipedia.org/wiki/Silence_Is_Golden_(song)" },
+    { "label": "Wikipedia (de): The Tremeloes", "url": "https://de.wikipedia.org/wiki/The_Tremeloes" }
+  ],
+  "writtenAt": "2026-11-07"
+}

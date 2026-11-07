@@ -1,0 +1,32 @@
+{
+  "kicker": "London · aktiv seit 2002 · Retro-Soul und Jazz-Pop",
+  "tag": "Soul mit Liebeskummer",
+  "record": "Amy Winehouses zweites und letztes Studioalbum. Statt des Jazz ihres Debüts „Frank“ gibt es hier den Sound der Girl Groups der 60er, gespielt von Sharon Jones' Band, den Dap-Kings. Die Songs drehen sich um die Trennung von ihrem Freund Blake Fielder-Civil, und ihre Stimme trägt jede Zeile.",
+  "facts": [
+    { "k": "Erschienen", "v": "27. Oktober 2006" },
+    { "k": "Label", "v": "Island" },
+    { "k": "Produktion", "v": "Mark Ronson und Salaam Remi" },
+    { "k": "Länge", "v": "34:56" }
+  ],
+  "start": [
+    { "t": "Rehab", "why": "Die erste Single und der Song, mit dem sie weltweit bekannt wurde." },
+    { "t": "Back To Black", "why": "Der Titelsong, den Mark Ronson aus einem Piano-Riff entwickelte." },
+    { "t": "Love Is A Losing Game", "why": "Die fünfte Single der Platte, eine Ballade." }
+  ],
+  "band": "Amy Winehouse wuchs in Southgate im Norden Londons in einem jazzaffinen Haushalt auf. 2002 unterschrieb sie bei Island, 2003 erschien ihr Debüt „Frank“. Mit „Back to Black“ wurde sie international bekannt und gewann 2008 fünf Grammys. Sie starb 2011 im Alter von 27 Jahren in London.",
+  "trivia": [
+    "Mark Ronson schrieb „Back to Black“ in der Nacht nach seiner ersten Begegnung mit Winehouse.",
+    "Bei den Grammys 2008 gewann das Album Best Pop Vocal Album, „Rehab“ wurde Record und Song of the Year.",
+    "Die Dap-Kings, die Band von Sharon Jones, spielten das Album mit ein und begleiteten Winehouse auch auf Tour."
+  ],
+  "similar": [
+    { "a": "Adele", "why": "Britische Soulstimme der 2010er, die ebenfalls Trennungsschmerz in große Songs fasst." },
+    { "a": "Stevie Wonder", "why": "Einer der prägenden Soul-Künstler, auf dessen Erbe sich Winehouses Sound stützt." },
+    { "a": "Sharon Jones & The Dap-Kings", "why": "Die Band hinter dem Retro-Soul-Sound der Platte, mit eigenen Alben." }
+  ],
+  "sources": [
+    { "label": "Wikipedia: Back to Black", "url": "https://en.wikipedia.org/wiki/Back_to_Black" },
+    { "label": "Wikipedia: Amy Winehouse", "url": "https://en.wikipedia.org/wiki/Amy_Winehouse" }
+  ],
+  "writtenAt": "2026-11-07"
+}

@@ -1,0 +1,63 @@
+{
+  "kicker": "München/Berlin · aktiv seit 2000 · Ironischer Deutschrap",
+  "tag": "Zweifel mit Pointe",
+  "record": "Fatonis Soloalbum von Juni 2019, sein erstes, das in Deutschland in die Top Ten stieg (Platz 9). Rap über Selbstzweifel, Überforderung und das digitale Leben, mit Gastauftritten von Casper und Dirk von Lowtzow von Tocotronic. Die Songs sind lakonisch und nehmen sich selbst nicht zu ernst.",
+  "facts": [
+    {
+      "k": "Erschienen",
+      "v": "7. Juni 2019"
+    },
+    {
+      "k": "Label",
+      "v": "Urban (Universal)"
+    },
+    {
+      "k": "Gast",
+      "v": "Dirk von Lowtzow, Casper"
+    }
+  ],
+  "start": [
+    {
+      "t": "Alles Zieht Vorbei",
+      "why": "Der Opener, bei dem Dirk von Lowtzow von Tocotronic mitwirkt."
+    },
+    {
+      "t": "Burj Khalifa",
+      "why": "Hier ist Casper als Gast dabei."
+    }
+  ],
+  "band": "Fatoni, bürgerlich Anton Schneider, wurde 1984 in München geboren und lebt heute in Berlin. 2000 gründete er mit Keno und Bustla die Crew Creme Fresh, später folgten Soloalben, das Duo-Projekt „Nocebo“ mit Edgar Wasser und der Durchbruch „Yo, Picasso“ (2015) mit Produzent Dexter. Er steht für Rap, der Selbstironie über Härte stellt.",
+  "trivia": [
+    "„Andorra“ blieb drei Wochen in den deutschen Charts; auch in Österreich und der Schweiz kam es hinein.",
+    "Keno und Bustla, mit denen Fatoni Creme Fresh gründete, sind später Teil von Moop Mama geworden."
+  ],
+  "similar": [
+    {
+      "a": "Moop Mama",
+      "why": "Keno und Bustla waren mit Fatoni bei Creme Fresh, bevor sie Moop Mama gründeten."
+    },
+    {
+      "a": "Blumentopf",
+      "why": "Münchner Rap-Tradition mit Humor und Beobachtungsgabe."
+    },
+    {
+      "a": "Käptn Peng & Die Tentakel von Delphi",
+      "why": "Ebenfalls sprachverliebter, schräger Deutschrap abseits der Norm."
+    },
+    {
+      "a": "Edgar Wasser",
+      "why": "Langjähriger Partner (Nocebo, Delirium) mit ähnlichem Wortwitz."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia: Fatoni",
+      "url": "https://de.wikipedia.org/wiki/Fatoni"
+    },
+    {
+      "label": "Gästeliste.de",
+      "url": "https://gaesteliste.de/?p=32530"
+    }
+  ],
+  "writtenAt": "2026-11-07"
+}

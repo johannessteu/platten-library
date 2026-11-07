@@ -1,0 +1,32 @@
+{
+  "kicker": "Bochum · aktiv seit 1979 · deutscher Pop-Rock",
+  "tag": "Heimspiel mit Gänsehaut",
+  "record": "Ein Livealbum aus Grönemeyers Heimatstadt: Der Mitschnitt stammt von einem Konzert in Bochum 2015, auf der „Dauernd jetzt“-Tour, und erschien am 25. November 2016. Die Setlist läuft von „Unter Tage“ bis „Der Mond ist aufgegangen“. Zwei Stücke, „Roter Mond“ in der Pianoversion und „Ich dreh mich um dich“, wurden in Berlin aufgenommen.",
+  "facts": [
+    { "k": "Erschienen", "v": "25. November 2016" },
+    { "k": "Label", "v": "Grönland Records (Universal)" },
+    { "k": "Aufgenommen", "v": "Bochum 2015; zwei Titel in Berlin 2015" }
+  ],
+  "start": [
+    { "t": "Bochum", "why": "Die Hymne an die Heimatstadt, live im Bochumer Publikum nochmal so groß." },
+    { "t": "Männer Medley (Männer, Was soll das, Vollmond)", "why": "Drei frühe Hits am Stück, über zehn Minuten Mitsingen." },
+    { "t": "Unter Tage", "why": "Der Opener setzt den Ton für das Konzert." }
+  ],
+  "band": "Geboren 1956 in Göttingen, aufgewachsen in Bochum: Grönemeyer arbeitete am Schauspielhaus Bochum und wurde 1981 als Leutnant Werner in „Das Boot“ bekannt. Mit „4630 Bochum“ (1984) wurde er einer der größten Stars des Landes, 1999 gründete er Grönland Records. Seine Konzerte gelten als Großereignisse: Die Schiffsverkehr-Tour 2011 und 2012 sahen mehr als 750.000 Zuschauer.",
+  "trivia": [
+    "Das Album erreichte Platz 7 der deutschen Albumcharts.",
+    "Es gehört auch zur 23-CD-Box „Alles“, die zum 60. Geburtstag erschien.",
+    "Das Medley verbindet „Männer“, „Was soll das“ und „Vollmond“ zu gut zehn Minuten."
+  ],
+  "similar": [
+    { "a": "Udo Lindenberg", "why": "Ebenfalls ein deutscher Rocksänger, dessen Konzerte Volksfeste sind." },
+    { "a": "Marius Müller-Westernhagen", "why": "Deutscher Rock mit großer Livetradition." },
+    { "a": "Olli Schulz", "why": "Deutschsprachige Songs mit viel Publikumsnähe auf der Bühne." }
+  ],
+  "sources": [
+    { "label": "Wikipedia (en): Diskografie", "url": "https://en.wikipedia.org/wiki/Herbert_Gr%C3%B6nemeyer_discography" },
+    { "label": "Exlibris: Live in Bochum", "url": "https://www.exlibris.ch/de/musik/cd/herbert-groenemeyer/live-in-bochum/id/0602557044027/" },
+    { "label": "Wikipedia: Herbert Grönemeyer", "url": "https://de.wikipedia.org/wiki/Herbert_Gr%C3%B6nemeyer" }
+  ],
+  "writtenAt": "2026-11-07"
+}

@@ -56,7 +56,7 @@ Regeln pro Feld:
 - **start**: 2–3 Songs **dieser** Platte, Titel exakt wie in der `tracklist` der Record-Datei, je ein Satz, warum genau dieser.
 - **band**: 3–4 Sätze, höchstens 620 Zeichen: Herkunft, Werdegang, Wendepunkte, wofür der Act steht. Immer das *Warum* mitliefern.
 - **trivia**: 2–3 belegte Fakten, je ein Satz (Cover, Gäste, Hintergründe zu Songs, Preise).
-- **similar**: 3–4 Künstler, je ein Satz zur Verbindung (Sound, Szene, Personal). Steht ein wirklich verwandter Künstler im Regal (Feld `artist` in `data/records/*.json`), schreib ihn exakt so: Die Website verlinkt ihn dann als „Bei uns im Regal“. Nicht erzwingen.
+- **similar**: 3–4 Künstler, je ein Satz zur Verbindung (Sound, Szene, Personal). Steht ein wirklich verwandter Künstler im Regal (Feld `artist` in `data/records/*.json`), schreib ihn exakt so: Die Website verlinkt ihn dann als „Bei uns im Regal“. Nicht erzwingen. Schreib im `why` nicht, dass er im Regal steht (das zeigt der Button), und nenne nie den Act der Platte selbst: Weitere Platten desselben Acts listet die Website ohnehin.
 - **sources**: 2–4 tatsächlich genutzte URLs mit kurzem Label („Wikipedia: AM“, „laut.de“).
 - **writtenAt**: das heutige Datum, YYYY-MM-DD.
 

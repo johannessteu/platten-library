@@ -1,0 +1,32 @@
+{
+  "kicker": "New York (Queens) · aktiv seit 1957 · Folk-Rock und Soft Rock",
+  "tag": "Stilles Folk-Gold",
+  "record": "Eine Best-of, die im November 1981 zwei Monate nach dem Reunion-Konzert im Central Park erschien. Sie versammelt Aufnahmen von 1964 bis 1969 aus allen fünf Studioalben und fast allen Singles, ohne neues oder Live-Material. In Deutschland erreichte sie Platz 2, in Großbritannien Platz 4.",
+  "facts": [
+    { "k": "Erschienen", "v": "November 1981" },
+    { "k": "Label", "v": "CBS (Columbia)" },
+    { "k": "Produktion", "v": "Tom Wilson, Bob Johnston, Paul Simon, Art Garfunkel, Roy Halee" },
+    { "k": "Länge", "v": "48:17" }
+  ],
+  "start": [
+    { "t": "Sound Of Silence", "why": "Der Song, der sie 1965/66 berühmt machte, dank einem nachträglich eingespielten Rock-Arrangement." },
+    { "t": "Mrs. Robinson", "why": "Der Hit aus dem Film „Die Reifeprüfung“, 1969 mit dem Grammy für die Aufnahme des Jahres ausgezeichnet." },
+    { "t": "Bridge Over Troubled Water", "why": "Das große Finale mit Garfunkels Stimme und dem Klavier, das Titelstück ihres letzten Albums." }
+  ],
+  "band": "Paul Simon und Art Garfunkel wuchsen in Queens auf, lernten sich 1953 in der Schule kennen und nahmen als Teenager als Tom & Jerry auf. Ihr Debüt für Columbia floppte, bis Produzent Tom Wilson „The Sound of Silence“ ohne ihr Wissen mit Studiomusikern zum Folk-Rock-Hit machte. Ihr letztes Album „Bridge over Troubled Water“ erschien im Januar 1970, danach trennten sie sich. Der Auftritt im Central Park im September 1981 zog über 500.000 Menschen an.",
+  "trivia": [
+    "„Old Friends“ geht hier nahtlos in „Bookends Theme“ über, so stecken auf der Platte praktisch 18 Songs.",
+    "„El Condor Pasa“ beruht auf einer Melodie von Daniel Alomía Robles, Simon schrieb den englischen Text dazu.",
+    "„Bridge over Troubled Water“ gewann 1971 den Grammy als Aufnahme und als Song des Jahres."
+  ],
+  "similar": [
+    { "a": "The Beatles", "why": "Ähnliche Melodiekunst, beide prägten dieselbe Pop-Ära um 1966 bis 1970." },
+    { "a": "Fleetwood Mac", "why": "Akustisch gebaute Songs mit mehrstimmigem Gesang und persönlichen Texten." },
+    { "a": "Ben Howard", "why": "Modernes Folk-Songwriting mit viel Gitarre und leiser Intimität." }
+  ],
+  "sources": [
+    { "label": "Wikipedia: The Simon and Garfunkel Collection", "url": "https://en.wikipedia.org/wiki/The_Simon_and_Garfunkel_Collection" },
+    { "label": "Wikipedia: Simon & Garfunkel", "url": "https://en.wikipedia.org/wiki/Simon_%26_Garfunkel" }
+  ],
+  "writtenAt": "2026-11-07"
+}

@@ -1,0 +1,32 @@
+{
+  "kicker": "Zürich · aktiv seit 2017 · Songwriter-Pop mit Balkan-Einschlag",
+  "tag": "Balkan-Beats und Selbstironie",
+  "record": "Das Debütalbum des Zürcher Sängers Faber: Singer-Songwriter-Pop mit Balkan-Beats und Spaß am Rollenspiel, wie laut.de schrieb. Es erreichte Platz 3 in der Schweiz und Platz 17 in Deutschland. Die Platte im Regal ist die Wiederauflage von 2020 mit beigelegter CD.",
+  "facts": [
+    { "k": "Erschienen", "v": "7. Juli 2017" },
+    { "k": "Label", "v": "Vertigo Berlin (Universal Music)" },
+    { "k": "Produktion", "v": "Tim Tautorat" },
+    { "k": "Aufgenommen", "v": "Hansa Studios, Berlin" }
+  ],
+  "start": [
+    { "t": "Wem Du's Heute Kannst Besorgen", "why": "Der erste richtige Song nach der Ouvertüre und ein guter Eindruck vom Ton der Platte." },
+    { "t": "Brüstebeinearschgesicht", "why": "Mit knapp sechs Minuten der längste Track des Albums." },
+    { "t": "Sei Ein Faber Im Wind", "why": "Der Titelsong beschließt die B-Seite." }
+  ],
+  "band": "Faber heißt eigentlich Julian Pollina, wurde 1993 in Zürich geboren und ist der Sohn des italienischen Liedermachers Pippo Pollina. Sein Künstlername verbindet Max Frischs „Homo Faber“ mit dem Beinamen des italienischen Liedermachers Fabrizio De André. Live begleitet ihn die Band Goran Koč y Vokalist Orkestar. „Sei ein Faber im Wind“ war sein Debüt.",
+  "trivia": [
+    "Das Album hielt sich 19 Wochen in den Schweizer Charts.",
+    "Es hat 13 Titel; „Ouvertüre“ dauert nur etwa eine Minute."
+  ],
+  "similar": [
+    { "a": "Pippo Pollina", "why": "Fabers Vater, italienischer Liedermacher." },
+    { "a": "Sophie Hunger", "why": "Schweizer Songwriterin, mit der Faber nach einer Quelle befreundet ist." },
+    { "a": "AnnenMayKantereit", "why": "Deutschsprachiger Songwriter-Pop mit viel Stimme, ebenfalls früh bei Vertigo." }
+  ],
+  "sources": [
+    { "label": "Wikipedia: Sei ein Faber im Wind", "url": "https://de.wikipedia.org/wiki/Sei_ein_Faber_im_Wind" },
+    { "label": "Art Noir", "url": "https://artnoir.ch/faber-sei-ein-faber-im-wind" },
+    { "label": "Goethe-Institut: Band des Monats", "url": "https://www.goethe.de/ins/fr/de/kul/art/ban/27015187.html" }
+  ],
+  "writtenAt": "2026-11-07"
+}

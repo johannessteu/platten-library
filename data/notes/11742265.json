@@ -1,0 +1,60 @@
+{
+  "kicker": "Swing-Ära · 1930er und 1940er · Big-Band-Jazz",
+  "tag": "Tanzsaal mit Bläsersatz",
+  "record": "Eine Compilation mit 14 Big-Band-Swing-Stücken, die BHM Productions 2016 in Deutschland auf Vinyl herausbrachte. Sie spannt von „Opus One“ bis „Top Hat, White Tie And Tails“ einen Bogen über bekannte Standards, darunter das achtminütige „Sing, Sing, Sing“.",
+  "facts": [
+    {
+      "k": "Erschienen",
+      "v": "2016"
+    },
+    {
+      "k": "Label",
+      "v": "BHM Productions"
+    },
+    {
+      "k": "Länge",
+      "v": "14 Titel auf einer LP"
+    }
+  ],
+  "start": [
+    {
+      "t": "Opus One",
+      "why": "Der Opener macht gleich klar, worum es geht: Bläsersatz und Tanztempo."
+    },
+    {
+      "t": "Take The “A” Train",
+      "why": "Einer der bekanntesten Swing-Standards der Platte."
+    },
+    {
+      "t": "Sing, Sing, Sing",
+      "why": "Mit gut acht Minuten das längste Stück und ein Highlight zum Mittanzen."
+    }
+  ],
+  "band": "Big Bands bestehen meist aus zehn oder mehr Musikern in vier Gruppen: Saxofone, Trompeten, Posaunen und Rhythmusgruppe. Sie begannen in den 1910ern als Tanzbegleitung und lebten stärker von geschriebenen Arrangements als vom freien Solo. Ihre Hochzeit hatten sie etwa von 1935 bis zum Zweiten Weltkrieg, danach löste der Bebop den Swing ab. Bekannte Bandleader waren Benny Goodman, Duke Ellington, Count Basie und Glenn Miller.",
+  "trivia": [],
+  "similar": [
+    {
+      "a": "Duke Ellington",
+      "why": "Leitete eine der prägenden Big Bands der Swing-Ära, bekannt für anspruchsvolle Kompositionen."
+    },
+    {
+      "a": "Count Basie",
+      "why": "Leitete eine Big Band mit entspanntem, treibendem Swing."
+    },
+    {
+      "a": "Benny Goodman",
+      "why": "Klarinettist und Bandleader, bekannt für energiegeladenen Swing."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia: Big band",
+      "url": "https://en.wikipedia.org/wiki/Big_band"
+    },
+    {
+      "label": "Hugendubel: Produktseite",
+      "url": "https://www.hugendubel.de/de/cd/various-swing_with_the_best_big_bands-26841781-produkt-details.html"
+    }
+  ],
+  "writtenAt": "2026-11-07"
+}

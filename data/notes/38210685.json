@@ -1,0 +1,32 @@
+{
+  "kicker": "London · aktiv seit 1970 · Stadionrock mit Pop und Oper",
+  "tag": "Wembley im Hochsommer",
+  "record": "Der Mitschnitt eines Queen-Konzerts im Londoner Wembley-Stadion im Juli 1986 auf der Magic Tour, 1992 erstmals als Doppelalbum veröffentlicht. 28 Titel von „One Vision“ bis „God Save The Queen“, mit Freddie Mercury am Mikrofon. Unsere Pressung ist die Neuauflage von 2026 als Box.",
+  "facts": [
+    { "k": "Erschienen", "v": "26. Mai 1992" },
+    { "k": "Aufgenommen", "v": "12. Juli 1986, Wembley-Stadion, London; Overdubs im September 1986" },
+    { "k": "Produktion", "v": "Queen" }
+  ],
+  "start": [
+    { "t": "Under Pressure", "why": "Der Bowie-Duettklassiker, im Programm Teil des Mittelteils." },
+    { "t": "Bohemian Rhapsody", "why": "Queens bekanntester Song, in der zweiten Hälfte des Sets." },
+    { "t": "Love Of My Life", "why": "Eine Ballade mitten im Stadionprogramm, also ein ruhiger Moment zwischen den Hits." }
+  ],
+  "band": "Queen entstand 1970 in London um Freddie Mercury, Brian May und Roger Taylor, 1971 stieß John Deacon als Bassist dazu. Ihre Stärke war die Mischung aus Hardrock, Pop und opulenter Studioarbeit, getragen von Mercurys Stimme. 1985 gehörte ihr Auftritt beim Live Aid zu den meistgenannten Rockkonzerten überhaupt. Mercury starb 1991, May und Taylor treten seit 2011 mit Adam Lambert als Sänger auf.",
+  "trivia": [
+    "Das Album erreichte 1992 Platz 2 der britischen Charts, in den USA Platz 53.",
+    "Beim Konzert am 12. Juli spielten INXS, The Alarm und Status Quo im Vorprogramm.",
+    "Der Auftritt am Vortag, 11. Juli, wurde erst in der Edition von 2011 vollständig veröffentlicht.",
+    "Mercurys letzter Auftritt mit Queen war im August 1986 in Knebworth."
+  ],
+  "similar": [
+    { "a": "Elton John", "why": "Britischer Pop- und Rock-Entertainer der Siebziger, ebenfalls für große Stadionshows bekannt." },
+    { "a": "David Bowie", "why": "Der Duettpartner bei „Under Pressure“; ähnlich theatralisch." },
+    { "a": "The Rolling Stones", "why": "Die andere britische Band, die das Stadion als Bühne perfektionierte." }
+  ],
+  "sources": [
+    { "label": "Wikipedia: Live at Wembley '86", "url": "https://en.wikipedia.org/wiki/Live_at_Wembley_%2786" },
+    { "label": "Wikipedia: Queen (band)", "url": "https://en.wikipedia.org/wiki/Queen_(band)" }
+  ],
+  "writtenAt": "2026-11-07"
+}

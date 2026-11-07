@@ -1,0 +1,32 @@
+{
+  "kicker": "London · aktiv seit 2006 · Soul-Pop und Balladen",
+  "tag": "Trennungsschmerz in Großformat",
+  "record": "Adeles zweites Album, geschrieben nach dem Ende einer Beziehung. Es wechselt zwischen Soul, Balladen und Roots-Einflüssen und lebt von ihrer kraftvollen Stimme. Es wurde in Europa wie in den USA ein riesiger Erfolg und gewann den Grammy für das Album des Jahres.",
+  "facts": [
+    { "k": "Erschienen", "v": "24. Januar 2011 (Europa)" },
+    { "k": "Label", "v": "XL Recordings" },
+    { "k": "Produktion", "v": "u. a. Paul Epworth, Rick Rubin, Ryan Tedder, Dan Wilson, Jim Abbiss" },
+    { "k": "Länge", "v": "48:01" }
+  ],
+  "start": [
+    { "t": "Rolling In The Deep", "why": "Die Wut-Single, die nach der Trennung innerhalb eines Tages mit Paul Epworth entstand." },
+    { "t": "Set Fire To The Rain", "why": "Die dritte Single, mit Streichern von Rosie Danvers." },
+    { "t": "Someone Like You", "why": "Die zweite Single und der Schlusssong der Platte." }
+  ],
+  "band": "Adele Adkins wurde 1988 in Tottenham geboren und besuchte die BRIT School. Ein Demo auf MySpace brachte sie zu XL Recordings, dort unterschrieb sie im September 2006. Ihr Debüt „19“ erschien 2008, „21“ folgte 2011. 2011 musste sie wegen einer Stimmbandblutung Konzerte absagen und sich im November operieren lassen.",
+  "trivia": [
+    "Rick Rubin nahm in Malibu mit ihr auf, fünf dieser Songs blieben auf dem Album, etwa „Don't You Remember“ und „He Won't Go“.",
+    "Bei den Grammys 2012 gewann das Album Album of the Year und Best Pop Vocal Album, Paul Epworth wurde Produzent des Jahres.",
+    "Francis „Eg“ White schrieb „Take It All“ mit."
+  ],
+  "similar": [
+    { "a": "Amy Winehouse", "why": "Britische Soulstimme, deren Erfolg der Weg für Adele ebnete." },
+    { "a": "Ed Sheeran", "why": "Britischer Songwriter, der in den 2010ern ebenfalls Intimität und Charts verband." },
+    { "a": "Fleetwood Mac", "why": "Trennungsalben als Songquelle: „Rumours“ ist das berühmteste Beispiel." }
+  ],
+  "sources": [
+    { "label": "Wikipedia: 21", "url": "https://en.wikipedia.org/wiki/21_(Adele_album)" },
+    { "label": "Wikipedia: Adele", "url": "https://en.wikipedia.org/wiki/Adele" }
+  ],
+  "writtenAt": "2026-11-07"
+}

@@ -1,0 +1,34 @@
+{
+  "kicker": "New York · aktiv seit 1998 · Garage-Rock mit Post-Punk-Nerv",
+  "tag": "Downtown-Lässigkeit, auf Band",
+  "record": "Das Debüt der Strokes, aufgenommen in nur etwa sechs Wochen: elf knappe Songs, dazu der kühle Gesang von Julian Casablancas. Es machte Gitarrenmusik Anfang der 2000er wieder zum Thema und landete in zahlreichen Jahres-Bestenlisten 2001, darunter bei NME und Time.",
+  "facts": [
+    { "k": "Erschienen", "v": "August 2001 (UK, Rough Trade); US-Vinyl am 11. September 2001" },
+    { "k": "Label", "v": "RCA, in Großbritannien Rough Trade" },
+    { "k": "Produktion", "v": "Gordon Raphael" },
+    { "k": "Aufgenommen", "v": "März/April 2001, Transporterraum, East Village, New York" }
+  ],
+  "start": [
+    { "t": "Last Nite", "why": "Die zweite Single und ihr erster Eintrag in den US-Modern-Rock-Charts (Top 5)." },
+    { "t": "The Modern Age", "why": "Der Song der Demo-EP, die ein Bieterrennen der Labels auslöste." },
+    { "t": "Hard To Explain", "why": "Eine Single des Albums; als B-Seite lag „New York City Cops“ bei." }
+  ],
+  "band": "Die Strokes gründeten sich 1998 in New York: Julian Casablancas, Nick Valensi und Fabrizio Moretti kannten sich aus der Schulzeit, dazu kamen Nikolai Fraiture und Albert Hammond Jr. Ihre Demo-EP „The Modern Age“ weckte das Interesse von Rough Trade und löste ein Wettbieten der Major-Labels aus; sie unterschrieben bei RCA. Bis heute spielt die Band in unveränderter Besetzung, „The New Abnormal“ (2020) brachte ihnen einen Grammy als bestes Rockalbum.",
+  "trivia": [
+    "Das internationale Cover von Colin Lane zeigt eine Frauenkehrseite mit lederbehandschuhter Hand; britische Händler störten sich daran, führten es aber.",
+    "Für die US-Veröffentlichung wurde das Cover durch ein Foto von Teilchenspuren in einer Blasenkammer ersetzt.",
+    "Nach dem 11. September 2001 wurde „New York City Cops“ auf US-CDs durch „When It Started“ ersetzt; die US-Vinylfassung behielt den Song.",
+    "Bei den Brit Awards 2002 gewannen die Strokes als bester internationaler Newcomer."
+  ],
+  "similar": [
+    { "a": "Interpol", "why": "Dieselbe New Yorker Szene Anfang der 2000er, aber düsterer und mit Post-Punk-Hall." },
+    { "a": "Arctic Monkeys", "why": "Die britische Antwort: schnelle Gitarrensongs, lässiger Gesang, ein paar Jahre später." },
+    { "a": "The Libertines", "why": "Gleichzeitiger Garage-Rock-Aufbruch in London, ruppiger und weniger streng." }
+  ],
+  "sources": [
+    { "label": "Wikipedia: Is This It", "url": "https://en.wikipedia.org/wiki/Is_This_It" },
+    { "label": "Wikipedia: The Strokes", "url": "https://en.wikipedia.org/wiki/The_Strokes" },
+    { "label": "MusicRadar: Gordon Raphael", "url": "https://musicradar.com/artists/producers-engineers/i-was-sure-that-it-was-a-masterpiece-and-wed-captured-something-unbelievable-the-strokes-producer-gordon-raphael-reflects-on-the-bands-groundbreaking-early-days" }
+  ],
+  "writtenAt": "2026-11-07"
+}

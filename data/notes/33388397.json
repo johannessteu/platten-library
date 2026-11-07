@@ -1,0 +1,69 @@
+{
+  "kicker": "London/Los Angeles · aktiv seit 1967 · Soft Rock und Pop",
+  "tag": "Liebeskummer im Studio",
+  "record": "Das Album, das Fleetwood Mac zu Weltstars machte, und eines der meistverkauften aller Zeiten. Die Ehe von John und Christine McVie ging zu Bruch, auch Buckingham und Nicks trennten sich während der Aufnahmen, und die Songs verarbeiten genau das, in melodischem Pop-Rock.",
+  "facts": [
+    {
+      "k": "Erschienen",
+      "v": "Februar 1977"
+    },
+    {
+      "k": "Label",
+      "v": "Warner Bros. Records"
+    },
+    {
+      "k": "Produktion",
+      "v": "Fleetwood Mac, Ken Caillat, Richard Dashut"
+    },
+    {
+      "k": "Aufgenommen",
+      "v": "Februar bis August 1976, vor allem Record Plant, Sausalito"
+    }
+  ],
+  "start": [
+    {
+      "t": "Dreams",
+      "why": "Stevie Nicks' Trennungssong und der einzige Nummer-1-Hit der Band in den US-Singlecharts."
+    },
+    {
+      "t": "The Chain",
+      "why": "Der einzige Song, bei dem alle fünf als Autoren stehen, mit John McVies Bass im Schlussteil."
+    },
+    {
+      "t": "Go Your Own Way",
+      "why": "Lindsey Buckinghams Abrechnung mit Nicks, getrieben von einem treibenden Beat."
+    }
+  ],
+  "band": "Fleetwood Mac gründete der Gitarrist Peter Green 1967 in London als Bluesband und benannte sie nach Schlagzeuger Mick Fleetwood und Bassist John McVie. Nach Greens Abschied 1970 wandelte sie sich zur melodischen Rockband. Mit Lindsey Buckingham und Stevie Nicks, die Ende 1974 dazukamen, gelang mit dem Album von 1975 der Durchbruch in den USA. „Rumours“ machte sie dann endgültig zu Weltstars.",
+  "trivia": [
+    "„Rumours“ gewann 1978 den Grammy als Album des Jahres.",
+    "Der Arbeitstitel lautete „Yesterday's Gone“; den endgültigen Titel schlug John McVie vor.",
+    "Das Album stand 31 Wochen, nicht am Stück, auf Platz 1 der US-Charts.",
+    "„Songbird“ wurde nachts in einem leeren Konzertsaal in Berkeley aufgenommen."
+  ],
+  "similar": [
+    {
+      "a": "ABBA",
+      "why": "Auch bei ABBA verarbeiteten zwei Paare ihre Trennungen in Pop-Songs."
+    },
+    {
+      "a": "Eagles",
+      "why": "Die große kalifornische Soft-Rock-Band der Siebziger."
+    },
+    {
+      "a": "Carole King",
+      "why": "Singer-Songwriter-Pop aus Kalifornien mit ähnlich persönlichen Texten."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia: Rumours",
+      "url": "https://en.wikipedia.org/wiki/Rumours_(album)"
+    },
+    {
+      "label": "Wikipedia: Fleetwood Mac",
+      "url": "https://en.wikipedia.org/wiki/Fleetwood_Mac"
+    }
+  ],
+  "writtenAt": "2026-11-07"
+}

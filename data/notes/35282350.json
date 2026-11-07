@@ -1,0 +1,32 @@
+{
+  "kicker": "Totnes, Devon · aktiv seit 2008 · Britischer Folk mit Indie-Weite",
+  "tag": "Meeresluft und Lagerfeuer",
+  "record": "Das Debütalbum des englischen Singer-Songwriters Ben Howard, das ihn vom Geheimtipp zum Mercury-Prize-Kandidaten machte. Akustikgitarre, perkussive Anschläge und eine raue, intime Stimme tragen zehn Songs, die zwischen Zartheit und großem Aufbau pendeln. In Großbritannien erreichte es Platz 4 und wurde dreifach mit Platin ausgezeichnet.",
+  "facts": [
+    { "k": "Erschienen", "v": "30. September 2011 (UK)" },
+    { "k": "Label", "v": "Island Records" },
+    { "k": "Produktion", "v": "Chris Bond" },
+    { "k": "Aufgenommen", "v": "The Barn, Devon, und Battery Studios, London" }
+  ],
+  "start": [
+    { "t": "Old Pine", "why": "Der Opener: Fingerpicking, das sich langsam aufbaut, und Howards Visitenkarte." },
+    { "t": "Only Love", "why": "Die erfolgreichste Single des Albums, 2012 auf Platz 9 der UK-Charts." },
+    { "t": "The Wolves", "why": "Die erste Single der Platte, ein Song, der leise beginnt und sich ins Dramatische steigert." }
+  ],
+  "band": "Ben Howard, geboren 1987 in Richmond bei London, wuchs ab etwa acht Jahren in der Nähe von Totnes in Devon auf. Er veröffentlichte ab 2008 EPs in Eigenregie, darunter „Games in the Dark“ und „Old Pine“, und unterschrieb 2011 bei Island Records. Mit „Every Kingdom“ kam der Durchbruch: 2013 gewann er bei den Brit Awards in den Kategorien British Breakthrough Act und British Male Solo Artist.",
+  "trivia": [
+    "„Every Kingdom“ war 2012 für den Mercury Prize nominiert.",
+    "Alle Songs stammen von Howard selbst.",
+    "Die Single „Old Pine“ gab es 2012 auch in einem Remix von Everything Everything."
+  ],
+  "similar": [
+    { "a": "Seafret", "why": "Ebenfalls britischer Folk mit Gitarre und großer Stimme, nur geradliniger und poppiger." },
+    { "a": "Ed Sheeran", "why": "Aus derselben britischen Akustik-Singer-Songwriter-Welle der frühen 2010er." },
+    { "a": "Bon Iver", "why": "Intimer, naturverbundener Folk mit Hang zu atmosphärischem Aufbau." }
+  ],
+  "sources": [
+    { "label": "Wikipedia: Every Kingdom", "url": "https://en.wikipedia.org/wiki/Every_Kingdom" },
+    { "label": "Wikipedia: Ben Howard", "url": "https://en.wikipedia.org/wiki/Ben_Howard" }
+  ],
+  "writtenAt": "2026-11-07"
+}

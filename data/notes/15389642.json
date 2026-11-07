@@ -1,0 +1,59 @@
+{
+  "kicker": "Zeven · Musik seit 2018 · Deutschsprachiger Singer-Songwriter-Pop",
+  "tag": "Ernst gemeinter Pop",
+  "record": "Kliemanns zweites Album, mit dem der YouTuber endgültig im Musikgeschäft ankam: Platz 1 der deutschen Charts. Der Titel ist Programm, denn alles, was er ernst meint, werde Pop, sagt er. Die Songs reichen von aufmunternden Stücken über Liebeslieder bis zu melancholischem Klavier und R&B-Beats.",
+  "facts": [
+    {
+      "k": "Erschienen",
+      "v": "Mai 2020"
+    },
+    {
+      "k": "Label",
+      "v": "twoFinger Records (eigenes Label)"
+    },
+    {
+      "k": "Charts",
+      "v": "Platz 1 in Deutschland, Gold-Auszeichnung"
+    }
+  ],
+  "start": [
+    {
+      "t": "Eine Minute",
+      "why": "Der Opener, schon im Januar 2020 vorab als Single veröffentlicht."
+    },
+    {
+      "t": "Frieden Mit Der Stadt",
+      "why": "Entstand auf einer Skate-Aid-Reise nach Syrien, als Kliemann auf einem Dach festsaß."
+    }
+  ],
+  "band": "Fynn Kliemann, geboren 1988 in Zeven, wurde als Heimwerker und YouTuber bekannt und veröffentlicht seit 2018 Musik auf seinem eigenen Label twoFinger Records. Auch den Vertrieb von „POP“ organisierte er selbst, mit eigenem Lager und eigenem Shop-System. 2020 gewann er einen MTV Europe Music Award als bester deutscher Act. Im Mai 2022 berichtete das ZDF Magazin Royale, dass von ihm vermarktete Masken unter schlechten Bedingungen im Ausland produziert worden seien; er wies Betrugsvorwürfe zurück.",
+  "trivia": [
+    "Es ist sein erstes Album auf Platz 1 der deutschen Charts; in Österreich erreichte es Platz 9, in der Schweiz Platz 26.",
+    "Ein Teil der Erlöse soll nach Angaben der t-online-Besprechung junge Bands unterstützen."
+  ],
+  "similar": [
+    {
+      "a": "Mark Forster",
+      "why": "Songwriter-Pop auf Deutsch; eine Kritik zieht den Vergleich mit ihm."
+    },
+    {
+      "a": "Faber",
+      "why": "Deutschsprachiger Songwriter mit eigener Handschrift."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Wikipedia: Fynn Kliemann",
+      "url": "https://de.wikipedia.org/wiki/Fynn_Kliemann"
+    },
+    {
+      "label": "t-online: POP",
+      "url": "https://www.t-online.de/unterhaltung/musik/id_87990016/pop-fynn-kliemann-vom-heimwerkerking-zum-ernsten-musiker-.html"
+    },
+    {
+      "label": "Popakademie",
+      "url": "https://barrierearm.popakademie.de/en/ueber-uns/news/popakademiker-produziert-number-1-album-von-fynn-kliemann/u/1072/"
+    }
+  ],
+  "writtenAt": "2026-11-07"
+}
