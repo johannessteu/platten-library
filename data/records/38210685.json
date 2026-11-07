@@ -1,6 +1,9 @@
 {
   "id": 38210685,
   "artist": "Queen",
+  "artistIds": [
+    81013
+  ],
   "title": "Live At Wembley Stadium",
   "year": 2026,
   "originalYear": 1992,

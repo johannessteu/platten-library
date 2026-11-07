@@ -1,6 +1,9 @@
 {
   "id": 37828668,
   "artist": "The Rolling Stones",
+  "artistIds": [
+    20991
+  ],
   "title": "Foreign Tongues",
   "year": 2026,
   "originalYear": 2026,

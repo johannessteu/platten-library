@@ -56,6 +56,7 @@ export async function downloadImage(url: string): Promise<Download | null> {
 // The parts of the Discogs responses we read.
 
 export interface DArtist {
+  id: number;
   name: string;
   join?: string;
 }

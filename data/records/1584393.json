@@ -1,6 +1,9 @@
 {
   "id": 1584393,
   "artist": "Elton John",
+  "artistIds": [
+    57103
+  ],
   "title": "Your Songs (Die Grosse Edition Seiner Romantischen Welthits)",
   "year": 1982,
   "originalYear": 1982,

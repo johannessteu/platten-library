@@ -16,6 +16,8 @@ export interface RecordData {
   /** Discogs release id of the copy on our shelf. */
   id: number;
   artist: string;
+  /** Discogs artist ids of the credited artists, main artist first. */
+  artistIds: number[];
   title: string;
   /** Year of this pressing (Discogs release year). */
   year: number | null;
@@ -58,6 +60,17 @@ export interface Notes {
   writtenAt?: string;
 }
 
+export type ReleaseType = 'Studioalbum' | 'Livealbum' | 'EP' | 'Compilation' | 'Soundtrack';
+
+/** Discography of one artist, extracted from the Discogs data dump (scripts/discography.ts). */
+export interface DumpDiscography {
+  artist: string;
+  discogsArtistIds: number[];
+  /** Date of the Discogs dump, YYYY-MM-DD. */
+  dump: string;
+  releases: { title: string; year: number; type: ReleaseType; master: number }[];
+}
+
 /** Longer artist profile shown under „Mehr über …“, one per artist. */
 export interface ArtistProfile {
   name: string;
@@ -70,8 +83,10 @@ export interface ArtistProfile {
   discography: {
     title: string;
     year: number;
-    type: 'Studioalbum' | 'Livealbum' | 'EP' | 'Compilation' | 'Soundtrack';
+    type: ReleaseType;
     note?: string;
+    /** Discogs master id, added at runtime when the Discogs dump confirms the entry. */
+    master?: number;
   }[];
   sources: { label: string; url: string }[];
   writtenAt?: string;

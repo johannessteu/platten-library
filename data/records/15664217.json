@@ -1,6 +1,9 @@
 {
   "id": 15664217,
   "artist": "The Strokes",
+  "artistIds": [
+    55980
+  ],
   "title": "Is This It",
   "year": 2020,
   "originalYear": 2001,

@@ -184,6 +184,7 @@ async function main() {
     const rec: RecordData = {
       id: item.id,
       artist,
+      artistIds: b.artists.map((a) => a.id),
       title,
       year: b.year || null,
       originalYear,

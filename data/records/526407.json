@@ -1,6 +1,9 @@
 {
   "id": 526407,
   "artist": "Simon & Garfunkel",
+  "artistIds": [
+    232157
+  ],
   "title": "The Simon & Garfunkel Collection",
   "year": 1981,
   "originalYear": 1981,

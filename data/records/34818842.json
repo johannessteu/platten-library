@@ -1,6 +1,9 @@
 {
   "id": 34818842,
   "artist": "Coldplay",
+  "artistIds": [
+    29735
+  ],
   "title": "Parachutes",
   "year": 2025,
   "originalYear": 2000,

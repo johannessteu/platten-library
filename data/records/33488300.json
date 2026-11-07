@@ -1,6 +1,9 @@
 {
   "id": 33488300,
   "artist": "Michael Jackson",
+  "artistIds": [
+    15885
+  ],
   "title": "Thriller",
   "year": 2015,
   "originalYear": 1982,

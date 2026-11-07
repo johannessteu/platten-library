@@ -1,6 +1,9 @@
 {
   "id": 3459749,
   "artist": "The Rolling Stones",
+  "artistIds": [
+    20991
+  ],
   "title": "Made In The Shade",
   "year": 1975,
   "originalYear": 1975,

@@ -1,6 +1,11 @@
 {
   "id": 3445749,
   "artist": "Elton John Band Featuring John Lennon And Muscle Shoals Horns",
+  "artistIds": [
+    632312,
+    46481,
+    332599
+  ],
   "title": "28th November, 1974....",
   "year": 1981,
   "originalYear": 1981,

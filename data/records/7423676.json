@@ -1,6 +1,9 @@
 {
   "id": 7423676,
   "artist": "The Beatles",
+  "artistIds": [
+    82730
+  ],
   "title": "20 Greatest Hits",
   "year": 1982,
   "originalYear": 1982,

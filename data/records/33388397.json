@@ -1,6 +1,9 @@
 {
   "id": 33388397,
   "artist": "Fleetwood Mac",
+  "artistIds": [
+    47333
+  ],
   "title": "Rumours",
   "year": 2025,
   "originalYear": 1977,
