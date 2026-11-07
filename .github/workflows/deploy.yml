@@ -4,9 +4,6 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
-  # Called by the sync workflow: its commits are pushed with GITHUB_TOKEN,
-  # which does not trigger the push event above.
-  workflow_call:
 
 permissions:
   contents: read

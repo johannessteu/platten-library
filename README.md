@@ -11,15 +11,16 @@ The site is Vite + Preact + TypeScript, built to static files and hosted on GitH
 
 ## How the content gets here
 
-```
-Every Friday, GitHub Action "Weekly update":
+Everything runs locally. Every Friday morning a scheduled Claude Code task on the Mac does:
 
-  Discogs collection ──npm run sync -- --refresh──▶ data/records/<id>.json + public/covers/<id>.jpg
-  Claude Code ──/liner-notes alle fehlenden──▶ data/notes/<id>.json   (records without notes)
-  npm run check ──▶ commit to main ──▶ deploy
-
-Any time, locally: npm run sync, /liner-notes <id> in Claude Code, commit and push.
 ```
+git pull
+npm run sync -- --refresh    ──▶ data/records/<id>.json + public/covers/<id>.jpg
+/liner-notes alle fehlenden  ──▶ data/notes/<id>.json   (only records without notes)
+npm run check ──▶ commit ──▶ git push ──▶ GitHub Action "Deploy" ──▶ platten.johannessteu.de
+```
+
+Any time by hand: the same commands, or `/liner-notes <id>` for a single record.
 
 ### Records and covers: `npm run sync`
 
@@ -31,28 +32,24 @@ Any time, locally: npm run sync, /liner-notes <id> in Claude Code, commit and pu
 
 No token is needed. Without one Discogs allows 25 requests a minute, so a new record takes about five seconds. `npm run sync -- --refresh` re-fetches details and tracklists for every record; add `--covers` to re-download the covers as well (they are kept otherwise, since Discogs re-encodes images and every download would show up as a change in git).
 
-The **Weekly update** workflow runs `npm run sync -- --refresh` every Friday at 04:23 UTC, writes notes for new records (below), commits any changes to `main` and deploys. Run it by hand from the Actions tab (“Run workflow”) after adding records if you don't want to wait for Friday.
+Optional environment variables:
 
-Settings in the repo (Settings → Secrets and variables → Actions):
+| Name | What |
+|---|---|
+| `DISCOGS_USERNAME` | Collection to read, defaults to `stolle87` |
+| `DISCOGS_TOKEN` | Personal access token from Discogs → Settings → Developers, for faster syncs |
 
-| Name | Kind | What |
-|---|---|---|
-| `CLAUDE_CODE_OAUTH_TOKEN` | secret | Lets the weekly job write liner notes with your Claude subscription. Without it, records still sync and new ones show “Noch keine Plattennotizen”. |
-| `DISCOGS_USERNAME` | variable | Collection to read, defaults to `stolle87` |
-| `DISCOGS_TOKEN` | secret | Personal access token from Discogs → Settings → Developers, for faster syncs |
+### The weekly task
 
-To create the Claude token, run this locally and paste the token when `gh` asks for it:
+`platten-weekly-update` is a scheduled Claude Code task (Claude app → Scheduled), every Friday at 08:00. Its prompt lives in `~/.claude/scheduled-tasks/platten-weekly-update/SKILL.md`. It pulls, syncs, writes notes for new records, runs the check, commits only `data/` and `public/covers/` and pushes; the push deploys. It stops without touching anything if the repo has uncommitted changes.
 
-```sh
-claude setup-token
-gh secret set CLAUDE_CODE_OAUTH_TOKEN --repo johannessteu/platten-library
-```
+It runs while the Claude app is open; if the app is closed on Friday morning, the run happens on the next launch. Use “Run now” in the app after adding records if you don't want to wait.
 
 ### Liner notes: Claude Code
 
 Notes are written with the project skill in `.claude/skills/liner-notes`, a tuned version of the artist-profile skill: same research rules, German, short, written to JSON. The skill researches each record, writes `data/notes/<id>.json` against `schema/notes.schema.json` and runs `npm run check`.
 
-The weekly job runs it in CI for every record without notes, through `anthropics/claude-code-action`. Claude may read and write files, search the web and run the checker, but has no git access; the workflow commits afterwards. Notes that fail `npm run check` are dropped, and the records are still committed.
+The weekly task runs it for every record without notes. Notes that fail `npm run check` and can't be fixed are left out, so the record shows “Noch keine Plattennotizen” until the next run.
 
 To write or rewrite notes yourself:
 
@@ -75,8 +72,6 @@ Node 24 or newer: the scripts in `scripts/` are TypeScript run directly by Node.
 
 ## Hosting
 
-GitHub Pages with the **GitHub Actions** source. `Deploy` runs on every push to `main` and after a weekly update that changed something.
+GitHub Pages with the **GitHub Actions** source. `Deploy` runs on every push to `main`, including the weekly task's push.
 
 Custom domain: `platten.johannessteu.de` is a DNS `CNAME` to `johannessteu.github.io`, set as the custom domain under Settings → Pages with “Enforce HTTPS” on. The build uses relative paths, so it works on any host or sub-path.
-
-GitHub pauses scheduled workflows in repos without activity for 60 days. If the weekly update stops, re-enable it in the Actions tab.
