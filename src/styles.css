@@ -448,7 +448,24 @@ a:hover {
     transform 0.5s cubic-bezier(0.2, 0.75, 0.2, 1),
     opacity 0.35s ease,
     filter 0.35s ease;
-  -webkit-box-reflect: below 2px linear-gradient(transparent 58%, rgba(255, 255, 255, 0.26));
+}
+
+/* Mirrored copy under each cover. The mask is set in the copy's own,
+   unflipped coordinates, so "to top" fades it out away from the cover. */
+.reflection {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: calc(100% + 2px);
+  height: 100%;
+  transform: scaleY(-1);
+  pointer-events: none;
+  -webkit-mask-image: linear-gradient(to top, rgba(0, 0, 0, 0.3), transparent 45%);
+  mask-image: linear-gradient(to top, rgba(0, 0, 0, 0.3), transparent 45%);
+}
+
+.reflection .cover {
+  box-shadow: none;
 }
 
 .flow-item:focus-visible {

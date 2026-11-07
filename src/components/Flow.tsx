@@ -76,6 +76,9 @@ export function Flow({ list, idx, go, jump, onOpen, showLetters, active }: Props
         }}
       >
         <Cover rec={r} />
+        <span class="reflection" aria-hidden="true">
+          <Cover rec={r} />
+        </span>
       </button>,
     );
   }
