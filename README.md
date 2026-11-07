@@ -1,6 +1,6 @@
 # platten-library
 
-Our vinyl shelf as a small website, so friends and guests can flip through the records, search for something specific and pick what to put on. It lives at [platten.steu.de](https://platten.steu.de).
+Our vinyl shelf as a small website, so friends and guests can flip through the records, search for something specific and pick what to put on. It lives at [platten.johannessteu.de](https://platten.johannessteu.de).
 
 - **Blättern**: a cover flow with reflections. Drag, swipe or scroll sideways, use the arrow keys, the slider or the A–Z letters.
 - **Raster**: all covers as a grid.
@@ -63,6 +63,6 @@ Node 24 or newer: the scripts in `scripts/` are TypeScript run directly by Node.
 
 GitHub Pages with the **GitHub Actions** source. `Deploy` runs on every push to `main` and after a sync that changed something.
 
-Custom domain: add a DNS `CNAME` record `platten.steu.de → johannessteu.github.io`, then set the domain under Settings → Pages and turn on “Enforce HTTPS”. The build uses relative paths, so it also works at `johannessteu.github.io/platten-library/` until then.
+Custom domain: `platten.johannessteu.de` is a DNS `CNAME` to `johannessteu.github.io`, set as the custom domain under Settings → Pages with “Enforce HTTPS” on. The build uses relative paths, so it works on any host or sub-path.
 
 GitHub pauses scheduled workflows in repos without activity for 60 days. If the sync stops, re-enable it in the Actions tab.

@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://platten.steu.de/schema/notes.schema.json",
+  "$id": "https://platten.johannessteu.de/schema/notes.schema.json",
   "title": "Plattennotizen",
   "description": "Liner notes for one record, written in German by the liner-notes skill. One file per Discogs release id: data/notes/<id>.json.",
   "type": "object",

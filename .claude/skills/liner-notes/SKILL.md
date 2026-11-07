@@ -1,9 +1,9 @@
 ---
 name: liner-notes
-description: "Schreibt Plattennotizen für platten.steu.de: recherchiert eine Platte aus dem Regal und legt data/notes/<id>.json an (Die Platte, Zuerst auflegen, Über den Act, Gut zu wissen, Wenn dir das gefällt). Nutzen, wenn Johannes Notizen für eine oder mehrere Platten will, „/liner-notes alle fehlenden“ sagt oder neue Platten aus dem Discogs-Sync beschreiben lassen möchte."
+description: "Schreibt Plattennotizen für platten.johannessteu.de: recherchiert eine Platte aus dem Regal und legt data/notes/<id>.json an (Die Platte, Zuerst auflegen, Über den Act, Gut zu wissen, Wenn dir das gefällt). Nutzen, wenn Johannes Notizen für eine oder mehrere Platten will, „/liner-notes alle fehlenden“ sagt oder neue Platten aus dem Discogs-Sync beschreiben lassen möchte."
 ---
 
-# Plattennotizen für platten.steu.de
+# Plattennotizen für platten.johannessteu.de
 
 Eine angepasste Fassung des artist-profile-Skills: dieselbe Recherche-Sorgfalt, aber kurz, auf Deutsch und als JSON-Datei für die Website. Gelesen werden die Notizen von Gästen, die auf dem Handy in 30 Sekunden entscheiden, was sie auflegen. Erkläre also Zusammenhänge, aber knapp.
 

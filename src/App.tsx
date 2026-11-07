@@ -98,7 +98,7 @@ export function App() {
             <Logo />
             <div class="brand-text">
               <div class="brand-name">
-                platten<span>.steu.de</span>
+                platten<span>.johannessteu.de</span>
               </div>
               <div class="brand-stats">
                 {STATS.records} Platten · {STATS.artists} Künstler · neu: {fmtDate(STATS.newest)}
@@ -225,7 +225,7 @@ export function App() {
         )}
 
         <footer class="footer">
-          <span>platten.steu.de · {STATS.records} Platten aus unserer Discogs-Sammlung</span>
+          <span>platten.johannessteu.de · {STATS.records} Platten aus unserer Discogs-Sammlung</span>
           <span>Was gefunden? Sag Bescheid, wir legen sie auf.</span>
         </footer>
       </div>
