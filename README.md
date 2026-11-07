@@ -12,11 +12,13 @@ The site is Vite + Preact + TypeScript, built to static files and hosted on GitH
 ## How the content gets here
 
 ```
-Discogs collection ──npm run sync──▶ data/records/<id>.json + public/covers/<id>.jpg
-                                    (daily GitHub Action, commits to main, redeploys)
+Every Friday, GitHub Action "Weekly update":
 
-Claude Code ──/liner-notes──▶ data/notes/<id>.json
-              (local, you review and commit)
+  Discogs collection ──npm run sync -- --refresh──▶ data/records/<id>.json + public/covers/<id>.jpg
+  Claude Code ──/liner-notes alle fehlenden──▶ data/notes/<id>.json   (records without notes)
+  npm run check ──▶ commit to main ──▶ deploy
+
+Any time, locally: npm run sync, /liner-notes <id> in Claude Code, commit and push.
 ```
 
 ### Records and covers: `npm run sync`
@@ -29,24 +31,36 @@ Claude Code ──/liner-notes──▶ data/notes/<id>.json
 
 No token is needed. Without one Discogs allows 25 requests a minute, so a new record takes about five seconds. `npm run sync -- --refresh` re-fetches details and covers for every record.
 
-The **Sync Discogs** workflow runs this every morning, commits any changes to `main` and deploys. Run it by hand from the Actions tab after adding records.
+The **Weekly update** workflow runs `npm run sync -- --refresh` every Friday at 04:23 UTC, writes notes for new records (below), commits any changes to `main` and deploys. Run it by hand from the Actions tab (“Run workflow”) after adding records if you don't want to wait for Friday.
 
-Optional settings in the repo (Settings → Secrets and variables → Actions):
+Settings in the repo (Settings → Secrets and variables → Actions):
 
 | Name | Kind | What |
 |---|---|---|
+| `CLAUDE_CODE_OAUTH_TOKEN` | secret | Lets the weekly job write liner notes with your Claude subscription. Without it, records still sync and new ones show “Noch keine Plattennotizen”. |
 | `DISCOGS_USERNAME` | variable | Collection to read, defaults to `stolle87` |
 | `DISCOGS_TOKEN` | secret | Personal access token from Discogs → Settings → Developers, for faster syncs |
 
+To create the Claude token, run this locally and paste the token when `gh` asks for it:
+
+```sh
+claude setup-token
+gh secret set CLAUDE_CODE_OAUTH_TOKEN --repo johannessteu/platten-library
+```
+
 ### Liner notes: Claude Code
 
-Notes are written locally with the project skill in `.claude/skills/liner-notes`, a tuned version of the artist-profile skill: same research rules, German, short, written to JSON.
+Notes are written with the project skill in `.claude/skills/liner-notes`, a tuned version of the artist-profile skill: same research rules, German, short, written to JSON. The skill researches each record, writes `data/notes/<id>.json` against `schema/notes.schema.json` and runs `npm run check`.
+
+The weekly job runs it in CI for every record without notes, through `anthropics/claude-code-action`. Claude may read and write files, search the web and run the checker, but has no git access; the workflow commits afterwards. Notes that fail `npm run check` are dropped, and the records are still committed.
+
+To write or rewrite notes yourself:
 
 ```sh
 npm run notes:todo          # which records have no notes yet
 ```
 
-Then in Claude Code in this repo: `/liner-notes 28537558` or `/liner-notes alle fehlenden`. The skill researches each record, writes `data/notes/<id>.json` against `schema/notes.schema.json` and runs `npm run check`. Read the notes, then commit and push; the push deploys.
+Then in Claude Code in this repo: `/liner-notes 28537558` or `/liner-notes alle fehlenden`. Read the notes, then commit and push; the push deploys.
 
 ## Development
 
@@ -61,8 +75,8 @@ Node 24 or newer: the scripts in `scripts/` are TypeScript run directly by Node.
 
 ## Hosting
 
-GitHub Pages with the **GitHub Actions** source. `Deploy` runs on every push to `main` and after a sync that changed something.
+GitHub Pages with the **GitHub Actions** source. `Deploy` runs on every push to `main` and after a weekly update that changed something.
 
 Custom domain: `platten.johannessteu.de` is a DNS `CNAME` to `johannessteu.github.io`, set as the custom domain under Settings → Pages with “Enforce HTTPS” on. The build uses relative paths, so it works on any host or sub-path.
 
-GitHub pauses scheduled workflows in repos without activity for 60 days. If the sync stops, re-enable it in the Actions tab.
+GitHub pauses scheduled workflows in repos without activity for 60 days. If the weekly update stops, re-enable it in the Actions tab.
