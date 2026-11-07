@@ -40,14 +40,20 @@ function artistName(artists: DArtist[]): string {
     .join('');
 }
 
+/** "LP", "2×LP", "7\"", or mixed packages like "LP + 7\"". */
 function formatLabel(formats: DFormat[] = []): { format: string; details: string[] } {
   const vinyl = formats.filter((f) => f.name === 'Vinyl');
   const details = [...new Set(vinyl.flatMap((f) => f.descriptions ?? []))];
-  const qty = vinyl.reduce((n, f) => n + (parseInt(f.qty ?? '1', 10) || 1), 0);
   if (formats.some((f) => f.name === 'Box Set')) return { format: 'Box-Set', details };
-  if (details.includes('7"')) return { format: '7"', details };
-  if (details.includes('10"')) return { format: '10"', details };
-  return { format: qty > 1 ? `${qty}×LP` : 'LP', details };
+
+  const count = new Map<string, number>([['LP', 0], ['10"', 0], ['7"', 0]]);
+  for (const f of vinyl) {
+    const d = f.descriptions ?? [];
+    const size = d.includes('7"') ? '7"' : d.includes('10"') ? '10"' : 'LP';
+    count.set(size, count.get(size)! + (parseInt(f.qty ?? '1', 10) || 1));
+  }
+  const parts = [...count.entries()].filter(([, n]) => n > 0).map(([size, n]) => (n > 1 ? `${n}×${size}` : size));
+  return { format: parts.join(' + ') || 'LP', details };
 }
 
 function flattenTracks(list: DTrack[] = []): Track[] {
