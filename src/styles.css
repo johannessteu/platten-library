@@ -168,56 +168,19 @@ a:hover {
   text-underline-offset: 3px;
 }
 
-/* Header */
+/* Top bar: search, filter, view and surprise on one line */
 
-.header {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  justify-content: space-between;
-  gap: 16px 24px;
-  padding: 28px 0 8px;
-}
-
-.brand {
+.topbar {
   display: flex;
   align-items: center;
   gap: 12px;
-}
-
-.brand-name {
-  font-size: 24px;
-  font-weight: 800;
-  letter-spacing: -0.02em;
-}
-
-.brand-name span {
-  font-size: 14px;
-  font-weight: 500;
-  letter-spacing: 0;
-  color: var(--muted);
-  margin-left: 2px;
-}
-
-.brand-stats {
-  font-size: 12px;
-  color: var(--muted);
-  font-variant-numeric: tabular-nums;
-}
-
-.header-actions {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 12px;
-  align-items: center;
-  justify-content: flex-end;
-  flex: 1 1 420px;
+  padding: 28px 0 16px;
 }
 
 .search {
   position: relative;
-  flex: 1 1 280px;
-  max-width: 460px;
+  flex: 1 1 auto;
+  min-width: 0;
 }
 
 .search svg {
@@ -236,6 +199,7 @@ a:hover {
   border: 1px solid var(--line-2);
   background: var(--surface);
   font-size: 16px;
+  text-overflow: ellipsis;
 }
 
 .search input::placeholder {
@@ -243,36 +207,22 @@ a:hover {
 }
 
 .btn-surprise {
+  flex: none;
   padding: 0 22px 0 18px;
 }
 
-/* Toolbar and filters */
-
-.toolbar {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 12px 24px;
-  align-items: center;
-  justify-content: space-between;
-  padding: 20px 0 16px;
-}
-
 .status {
-  margin: 0;
+  margin: 0 0 16px;
   font-size: 13px;
   color: var(--muted);
   font-variant-numeric: tabular-nums;
 }
 
-.toolbar-actions {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 12px;
-  align-items: center;
-}
+/* Filters */
 
 .btn-filter {
-  height: 50px;
+  flex: none;
+  height: 52px;
   padding: 0 18px 0 14px;
   font-size: 15px;
 }
@@ -298,6 +248,7 @@ a:hover {
 }
 
 .seg {
+  flex: none;
   display: flex;
   padding: 4px;
   gap: 4px;
@@ -710,14 +661,8 @@ a:hover {
   color: var(--ink);
 }
 
-.footer {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  gap: 12px 24px;
-  padding: 56px 0 44px;
-  font-size: 13px;
-  color: var(--muted);
+.wrap {
+  padding-bottom: 56px;
 }
 
 /* Detail */
@@ -1166,46 +1111,52 @@ a:hover {
 /* Phones */
 
 @media (max-width: 640px) {
-  .header {
-    padding-top: 16px;
+  .topbar {
+    gap: 8px;
+    padding: 12px 0;
   }
 
-  .header-actions {
-    flex-wrap: nowrap;
+  .search svg {
+    left: 14px;
+    top: 14px;
   }
 
-  .search {
-    max-width: none;
+  .search input {
+    height: 48px;
+    padding: 0 12px 0 40px;
   }
 
-  .btn-surprise {
-    width: 52px;
-    padding: 0;
-    flex: none;
-  }
-
-  .btn-surprise span {
+  .topbar .btn-label {
     position: absolute;
     width: 1px;
     height: 1px;
     overflow: hidden;
     clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
   }
 
-  .toolbar {
-    padding: 12px 0;
+  .btn-filter,
+  .btn-surprise {
+    position: relative;
+    width: 48px;
+    height: 48px;
+    padding: 0;
   }
 
-  .toolbar-actions .seg button span {
-    display: none;
+  .btn-filter .badge {
+    position: absolute;
+    top: -4px;
+    right: -4px;
   }
 
-  .toolbar-actions .seg button {
-    padding: 0 12px;
+  .topbar .seg {
+    padding: 3px;
+    gap: 2px;
   }
 
-  .btn-filter {
-    height: 50px;
+  .topbar .seg button {
+    height: 40px;
+    padding: 0 10px;
   }
 
   .stage {

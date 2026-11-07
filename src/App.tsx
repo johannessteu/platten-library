@@ -1,9 +1,10 @@
 import { useCallback, useEffect, useMemo, useState } from 'preact/hooks';
-import { BY_ID, GENRES, RECORDS, STATS, type Rec } from './data.ts';
-import { fmtDate, genreLabel, norm } from './lib/format.ts';
+import { BY_ID, GENRES, RECORDS, type Rec } from './data.ts';
+import { genreLabel, norm } from './lib/format.ts';
+import { PHONE, useMedia } from './lib/useMedia.ts';
 import { Detail } from './components/Detail.tsx';
 import { Flow } from './components/Flow.tsx';
-import { IconFlow, IconGrid, IconSearch, IconShuffle, IconSliders, Logo } from './components/Icons.tsx';
+import { IconFlow, IconGrid, IconSearch, IconShuffle, IconSliders } from './components/Icons.tsx';
 import { Wall } from './components/Wall.tsx';
 
 type Mode = 'flow' | 'wall';
@@ -25,6 +26,7 @@ export function App() {
   });
   const [filtersOpen, setFiltersOpen] = useState(false);
   const [openId, setOpenId] = useState<number | null>(readHash);
+  const phone = useMedia(PHONE);
 
   useEffect(() => {
     const onHash = () => setOpenId(readHash());
@@ -84,7 +86,8 @@ export function App() {
 
   const activeFilters = (genre !== 'all' ? 1 : 0) + (sort !== 'az' ? 1 : 0);
   const genreName = genreLabel(genre);
-  const status = !(qn || genre !== 'all')
+  const filtered = Boolean(qn) || genre !== 'all';
+  const status = !filtered
     ? `Alle ${n} Platten, ${sort === 'az' ? 'von A bis Z nach Künstler' : 'die neuesten zuerst'}`
     : `${n} von ${RECORDS.length} Platten${qn ? ` zu „${q.trim()}“` : ''}${genre !== 'all' ? ` in ${genreName}` : ''}`;
 
@@ -93,19 +96,9 @@ export function App() {
   return (
     <>
       <div class="wrap">
-        <header class="header">
-          <div class="brand">
-            <Logo />
-            <div class="brand-text">
-              <div class="brand-name">
-                platten<span>.johannessteu.de</span>
-              </div>
-              <div class="brand-stats">
-                {STATS.records} Platten · {STATS.artists} Künstler · neu: {fmtDate(STATS.newest)}
-              </div>
-            </div>
-          </div>
-          <div class="header-actions">
+        <h1 class="sr-only">Unser Plattenregal</h1>
+
+        <div class="topbar">
             <div class="search">
               <label for="q" class="sr-only">
                 Im Regal suchen
@@ -115,7 +108,7 @@ export function App() {
                 id="q"
                 type="search"
                 autocomplete="off"
-                placeholder="Künstler, Album oder Genre suchen"
+                placeholder={phone ? 'Suchen' : 'Künstler, Album oder Genre suchen'}
                 value={q}
                 onInput={(e) => {
                   setQ(e.currentTarget.value);
@@ -123,37 +116,30 @@ export function App() {
                 }}
               />
             </div>
-            <button type="button" class="btn btn-accent btn-surprise" onClick={surprise}>
-              <IconShuffle />
-              <span>Überrasch mich</span>
-            </button>
-          </div>
-        </header>
-
-        <h1 class="sr-only">Unser Plattenregal</h1>
-
-        <div class="toolbar">
-          <p class="status" aria-live="polite">
-            {status}
-          </p>
-          <div class="toolbar-actions">
             <button type="button" class="btn btn-filter" aria-expanded={filtersOpen} onClick={() => setFiltersOpen(!filtersOpen)}>
               <IconSliders />
-              Filter
+              <span class="btn-label">Filter</span>
               {activeFilters > 0 && <span class="badge">{activeFilters}</span>}
             </button>
             <div class="seg" role="group" aria-label="Ansicht">
               <button type="button" aria-pressed={mode === 'flow'} onClick={() => setMode('flow')}>
                 <IconFlow />
-                <span>Blättern</span>
+                <span class="btn-label">Blättern</span>
               </button>
               <button type="button" aria-pressed={mode === 'wall'} onClick={() => setMode('wall')}>
                 <IconGrid />
-                <span>Raster</span>
+                <span class="btn-label">Raster</span>
               </button>
             </div>
-          </div>
+            <button type="button" class="btn btn-accent btn-surprise" onClick={surprise}>
+              <IconShuffle />
+              <span class="btn-label">Überrasch mich</span>
+            </button>
         </div>
+
+        <p class={filtered ? 'status' : 'sr-only'} aria-live="polite">
+          {status}
+        </p>
 
         {filtersOpen && (
           <section class="filters" aria-label="Filter">
@@ -222,13 +208,7 @@ export function App() {
           <Flow list={list} idx={at} go={go} jump={jump} onOpen={open} showLetters={sort === 'az'} active={!opened} />
         ) : (
           <Wall list={list} onOpen={open} />
-        )}
-
-        <footer class="footer">
-          <span>platten.johannessteu.de · {STATS.records} Platten aus unserer Discogs-Sammlung</span>
-          <span>Was gefunden? Sag Bescheid, wir legen sie auf.</span>
-        </footer>
-      </div>
+        )}      </div>
 
       {opened && <Detail rec={opened} onClose={close} onPick={open} onFind={showInFlow} />}
     </>

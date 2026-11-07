@@ -1,19 +1,9 @@
-import { useEffect, useRef, useState } from 'preact/hooks';
+import { useEffect, useRef } from 'preact/hooks';
 import type { Rec } from '../data.ts';
 import { genreLabel, pad2 } from '../lib/format.ts';
+import { PHONE, useMedia } from '../lib/useMedia.ts';
 import { Cover } from './Cover.tsx';
 import { IconNext, IconPrev } from './Icons.tsx';
-
-function useMedia(query: string): boolean {
-  const [match, setMatch] = useState(() => matchMedia(query).matches);
-  useEffect(() => {
-    const m = matchMedia(query);
-    const onChange = () => setMatch(m.matches);
-    m.addEventListener('change', onChange);
-    return () => m.removeEventListener('change', onChange);
-  }, [query]);
-  return match;
-}
 
 interface Props {
   list: Rec[];
@@ -29,7 +19,7 @@ interface Props {
 }
 
 export function Flow({ list, idx, go, jump, onOpen, showLetters, active }: Props) {
-  const compact = useMedia('(max-width: 640px)');
+  const compact = useMedia(PHONE);
   const side = compact ? 3 : 6;
   const n = list.length;
   const cur = list[idx];
