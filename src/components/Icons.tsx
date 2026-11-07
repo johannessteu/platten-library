@@ -75,6 +75,12 @@ export const IconSliders = ({ size = 18 }: Props) => (
   </svg>
 );
 
+export const IconChevronDown = ({ size = 18 }: Props) => (
+  <svg {...base(size)}>
+    <path d="M6 9l6 6 6-6" />
+  </svg>
+);
+
 export const IconClose = ({ size = 20 }: Props) => (
   <svg {...base(size)}>
     <path d="M6 6l12 12M18 6 6 18" />

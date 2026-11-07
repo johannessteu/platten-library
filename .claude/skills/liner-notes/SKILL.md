@@ -1,6 +1,6 @@
 ---
 name: liner-notes
-description: "Schreibt Plattennotizen für platten.johannessteu.de: recherchiert eine Platte aus dem Regal und legt data/notes/<id>.json an (Die Platte, Zuerst auflegen, Über den Act, Gut zu wissen, Wenn dir das gefällt). Nutzen, wenn Johannes Notizen für eine oder mehrere Platten will, „/liner-notes alle fehlenden“ sagt oder neue Platten aus dem Discogs-Sync beschreiben lassen möchte."
+description: "Schreibt Plattennotizen und Künstlerprofile für platten.johannessteu.de: recherchiert eine Platte aus dem Regal und legt data/notes/<id>.json an (Die Platte, Zuerst auflegen, Über den Act, Gut zu wissen, Wenn dir das gefällt), dazu pro Künstler data/artists/<slug>.json für „Mehr über …“ (Werdegang, Sound, Interessantes, Diskografie). Nutzen, wenn Johannes Notizen oder Profile für Platten oder Künstler will, „/liner-notes alle fehlenden“ sagt oder neue Platten aus dem Discogs-Sync beschreiben lassen möchte."
 ---
 
 # Plattennotizen für platten.johannessteu.de
@@ -10,7 +10,7 @@ Eine angepasste Fassung des artist-profile-Skills: dieselbe Recherche-Sorgfalt, 
 ## 1. Welche Platten?
 
 - Johannes nennt Discogs-Release-IDs → genau diese.
-- „alle fehlenden“ oder keine Angabe → `npm run notes:todo -- --json`. Sind es mehr als fünf, sag kurz, wie viele es sind, und arbeite in Paketen.
+- „alle fehlenden“ oder keine Angabe → `npm run notes:todo -- --json`. Das liefert `records` (Platten ohne Notizen) und `artists` (Künstler ohne Profil, mit `slug`): Schreib beides, siehe Abschnitt 3 und 3b. Sind es mehr als fünf, sag kurz, wie viele es sind, und arbeite in Paketen.
 - Lies zu jeder ID `data/records/<id>.json`: `artist`, `title`, `originalYear`, `labels`, `tracklist`. Das ist die Pressung im Regal; die Notizen beschreiben das Originalalbum.
 - Compilations, Live-Alben und Sampler (`artist` = „Various“): Dann geht es um die Zusammenstellung oder den Abend. Abschnitte ohne Material kurz halten statt aufblähen.
 - **Namensgleichheit**: Mehrere Acts können gleich heißen (Bruckner das Indie-Duo vs. Anton Bruckner). Die Record-Datei (Label, Jahr, Genres, Titelliste) entscheidet.
@@ -62,9 +62,39 @@ Regeln pro Feld:
 
 Stil: Deutsch, sachlich, mit Musikjournalisten-Kompetenz, aber ohne Feuilleton-Geschwurbel. Song- und Albumtitel im Fließtext in „…“. Keine Songtexte abschreiben, keine Emojis. Ein Abschnitt ohne belastbares Material wird kurz, statt mit Floskeln gefüllt zu werden.
 
+## 3b. Künstlerprofil schreiben
+
+Hinter „Mehr über <Künstler>“ in der Detailansicht steht ein längeres Profil, eins pro Künstler, egal wie viele Platten von ihm im Regal stehen: `data/artists/<slug>.json`, gültig gegen `schema/artist.schema.json`. Den `slug` liefert `notes:todo` (Regel in `src/lib/artists.ts`; Sonderfälle in `data/artists/aliases.json`). „Various“ bekommt kein Profil.
+
+Das ist der Künstler-Modus des artist-profile-Skills in kurz und als JSON. Recherche wie in Abschnitt 2, die **Diskografie** gleichst du gezielt gegen Wikipedia *und* Discogs ab (Titel, Jahr, Typ).
+
+```json
+{
+  "name": "Arctic Monkeys",
+  "summary": "3–5 Sätze …",
+  "career": ["Absatz 1 …", "Absatz 2 …", "Absatz 3 …"],
+  "sound": "Ein Absatz Genre-Einordnung …",
+  "highlights": ["…", "…", "…"],
+  "discography": [
+    { "title": "Whatever People Say I Am, That's What I'm Not", "year": 2006, "type": "Studioalbum", "note": "Ein Satz …" }
+  ],
+  "sources": [{ "label": "Wikipedia: Arctic Monkeys", "url": "https://en.wikipedia.org/wiki/Arctic_Monkeys" }],
+  "writtenAt": "2026-11-07"
+}
+```
+
+- **name**: exakt wie `artist` in der Record-Datei.
+- **summary**: 3–5 Sätze. Wer ist das, wofür steht der Act, warum ist er relevant? Nicht wortgleich mit dem `band`-Text der Plattennotizen.
+- **career**: Werdegang & Background in 2–4 Absätzen, chronologisch: Anfänge, frühere Bands/Projekte, Durchbruch, Brüche und Wendepunkte, Besetzungswechsel, wo der Act heute steht. Immer das *Warum* mitliefern, z. B. warum sich der Sound geändert hat.
+- **sound**: Genre-Einordnung in einem Absatz: Grundgenre, Einflüsse und Referenzen, Szene oder Tradition (z. B. Hamburger Schule), Besonderheiten in Instrumentierung, Produktion, Texten.
+- **highlights**: 3–6 belegte Fakten: Trivia, Kollaborationen, Einfluss auf andere, bemerkenswerte Geschichten.
+- **discography**: alle Studioalben chronologisch mit Jahr der Erstveröffentlichung, `type` „Studioalbum“; dazu Live-Alben, EPs oder Compilations nur, wenn sie wichtig sind oder im Regal stehen. `note`: ein Satz zu Sound, Kontext oder Rezeption. Bei mehr als etwa 15 Studioalben nur die wichtigen Alben mit `note`, die übrigen ohne. Titel so schreiben, wie sie offiziell heißen; die Website erkennt Platten aus dem Regal am Titel.
+- **sources**: 2–6 tatsächlich genutzte URLs.
+- **writtenAt**: heutiges Datum.
+
 ## 4. Prüfen
 
-Führ `npm run check` aus und behebe Fehler, bis es durchläuft. Die Längenlimits stehen im Schema.
+Führ `npm run check` aus und behebe Fehler, bis es durchläuft. Die Längenlimits stehen in den Schemas.
 
 ## 5. Viele Platten
 
@@ -72,4 +102,4 @@ Bei mehreren Platten darfst du Subagents parallel einsetzen: eine Platte pro Age
 
 ## 6. Abschluss
 
-Committe nicht, außer Johannes bittet darum. Zum Schluss: Liste der geschriebenen Platten und ein Satz zu unsicheren Stellen (was du weggelassen hast und warum). Commit-Vorschlag: „Add liner notes for <Artist> – <Title>“ bzw. „Add liner notes for N records“.
+Committe nicht, außer Johannes bittet darum. Zum Schluss: Liste der geschriebenen Platten und Profile und ein Satz zu unsicheren Stellen (was du weggelassen hast und warum). Commit-Vorschlag: „Add liner notes for <Artist> – <Title>“, „Add liner notes for N records“ bzw. „Add artist profiles for …“.

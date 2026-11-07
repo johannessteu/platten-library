@@ -57,3 +57,22 @@ export interface Notes {
   /** ISO date the notes were written. */
   writtenAt?: string;
 }
+
+/** Longer artist profile shown under „Mehr über …“, one per artist. */
+export interface ArtistProfile {
+  name: string;
+  summary: string;
+  /** Werdegang & Background, 2–4 paragraphs. */
+  career: string[];
+  /** Genre-Einordnung. */
+  sound: string;
+  highlights: string[];
+  discography: {
+    title: string;
+    year: number;
+    type: 'Studioalbum' | 'Livealbum' | 'EP' | 'Compilation' | 'Soundtrack';
+    note?: string;
+  }[];
+  sources: { label: string; url: string }[];
+  writtenAt?: string;
+}

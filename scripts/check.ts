@@ -1,16 +1,19 @@
-// Validates data/records and data/notes before a build.
+// Validates data/records, data/notes and data/artists before a build.
 //   npm run check
-// Notes are checked against schema/notes.schema.json (the subset of JSON Schema it uses).
+// Notes and artist profiles are checked against schema/notes.schema.json and
+// schema/artist.schema.json (the subset of JSON Schema they use).
 
 import { existsSync } from 'node:fs';
 import { readdir, readFile } from 'node:fs/promises';
 import path from 'node:path';
+import { artistSlug } from '../src/lib/artists.ts';
 import type { RecordData } from '../src/types.ts';
 
 const ROOT = path.resolve(import.meta.dirname, '..');
 
 interface Schema {
-  type?: 'object' | 'array' | 'string' | 'number';
+  type?: 'object' | 'array' | 'string' | 'number' | 'integer';
+  enum?: string[];
   required?: string[];
   properties?: Record<string, Schema>;
   additionalProperties?: boolean;
@@ -42,6 +45,9 @@ function validate(value: unknown, schema: Schema, at: string, errors: string[]) 
     if (schema.minLength != null && value.length < schema.minLength) errors.push(`${at}: shorter than ${schema.minLength} characters`);
     if (schema.maxLength != null && value.length > schema.maxLength) errors.push(`${at}: ${value.length} characters, max ${schema.maxLength}`);
     if (schema.pattern && !new RegExp(schema.pattern).test(value)) errors.push(`${at}: does not match ${schema.pattern}`);
+    if (schema.enum && !schema.enum.includes(value)) errors.push(`${at}: "${value}" is not one of ${schema.enum.join(', ')}`);
+  } else if (schema.type === 'integer') {
+    if (!Number.isInteger(value)) errors.push(`${at}: expected a whole number`);
   }
 }
 
@@ -75,9 +81,26 @@ async function main() {
     if (!ids.has(id)) warnings.push(`notes/${file}: no record with this id on the shelf (kept for later)`);
   }
 
+  const artistSchema = JSON.parse(await readFile(path.join(ROOT, 'schema/artist.schema.json'), 'utf8')) as Schema;
+  const profiles = (await readJsonDir<{ name?: string }>(path.join(ROOT, 'data/artists'))).filter(([f]) => f !== 'aliases.json');
+  const shelfSlugs = new Map<string, string>();
+  for (const [, rec] of records) {
+    const slug = artistSlug(rec.artist);
+    if (slug && !shelfSlugs.has(slug)) shelfSlugs.set(slug, rec.artist);
+  }
+  for (const [file, profile] of profiles) {
+    validate(profile, artistSchema, `artists/${file}`, errors);
+    if (!shelfSlugs.has(file.replace('.json', ''))) warnings.push(`artists/${file}: no record by this artist on the shelf (kept for later)`);
+  }
+  const haveProfile = new Set(profiles.map(([f]) => f.replace('.json', '')));
+  const missingProfiles = [...shelfSlugs].filter(([slug]) => !haveProfile.has(slug));
+  for (const [slug, name] of missingProfiles) warnings.push(`artists/${slug}.json: no profile yet for ${name}`);
+
   for (const w of warnings) console.warn(`warn  ${w}`);
   for (const e of errors) console.error(`error ${e}`);
-  console.log(`${records.length} records, ${notes.length} with notes, ${errors.length} errors, ${warnings.length} warnings.`);
+  console.log(
+    `${records.length} records, ${notes.length} with notes, ${profiles.length}/${shelfSlugs.size} artist profiles, ${errors.length} errors, ${warnings.length} warnings.`,
+  );
   if (errors.length) process.exit(1);
 }
 

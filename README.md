@@ -5,7 +5,7 @@ Our vinyl shelf as a small website, so friends and guests can flip through the r
 - **Blättern**: a cover flow with reflections. Drag, swipe or scroll sideways, use the arrow keys, the slider or the A–Z letters.
 - **Raster**: all covers as a grid.
 - **Suche und Filter**: search artist, album, genre or label (accents don't matter); filter by genre, sort A–Z or by newest arrival.
-- **Details**: cover with the vinyl sliding out, facts about our pressing, the tracklist, and German liner notes where we have them. Every record has its own link: `#/platte/<discogs-id>`.
+- **Details**: cover with the vinyl sliding out, facts about our pressing, the tracklist, and German liner notes. „Mehr über …“ expands a longer artist profile (career, sound, highlights, discography with links to the records we own). Every record has its own link: `#/platte/<discogs-id>`.
 
 The site is Vite + Preact + TypeScript, built to static files and hosted on GitHub Pages. Fonts and covers are served from the site itself, nothing loads from third parties.
 
@@ -16,7 +16,8 @@ Everything runs locally. Every Friday morning a scheduled Claude Code task on th
 ```
 git pull
 npm run sync -- --refresh    ──▶ data/records/<id>.json + public/covers/<id>.jpg
-/liner-notes alle fehlenden  ──▶ data/notes/<id>.json   (only records without notes)
+/liner-notes alle fehlenden  ──▶ data/notes/<id>.json      (only records without notes)
+                             ──▶ data/artists/<slug>.json  (only artists without a profile)
 npm run check ──▶ commit ──▶ git push ──▶ GitHub Action "Deploy" ──▶ platten.johannessteu.de
 ```
 
@@ -48,6 +49,8 @@ It runs while the Claude app is open; if the app is closed on Friday morning, th
 ### Liner notes: Claude Code
 
 Notes are written with the project skill in `.claude/skills/liner-notes`, a tuned version of the artist-profile skill: same research rules, German, short, written to JSON. The skill researches each record, writes `data/notes/<id>.json` against `schema/notes.schema.json` and runs `npm run check`.
+
+The same skill writes one artist profile per artist for „Mehr über …“: `data/artists/<slug>.json` against `schema/artist.schema.json` (the artist-profile skill's artist mode as JSON). The slug comes from `src/lib/artists.ts`; records credited differently but belonging to the same artist are mapped in `data/artists/aliases.json`.
 
 The weekly task runs it for every record without notes. Notes that fail `npm run check` and can't be fixed are left out, so the record shows “Noch keine Plattennotizen” until the next run.
 

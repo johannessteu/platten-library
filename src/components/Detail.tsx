@@ -2,6 +2,7 @@ import { useEffect, useRef, useState } from 'preact/hooks';
 import { BY_ARTIST, RECORDS, loadNotes, type Rec } from '../data.ts';
 import { fmtDate, genreLabel } from '../lib/format.ts';
 import type { Notes, Track } from '../types.ts';
+import { ArtistMore } from './ArtistMore.tsx';
 import { Cover, Disc } from './Cover.tsx';
 import { IconClose, IconExternal } from './Icons.tsx';
 
@@ -166,6 +167,7 @@ export function Detail({ rec, onClose, onPick, onFind }: Props) {
                   <section>
                     <h3>Über {rec.artist}</h3>
                     <p class="body">{notes.band}</p>
+                    <ArtistMore rec={rec} onPick={onPick} />
                   </section>
 
                   {notes.trivia.length > 0 && (
@@ -214,6 +216,13 @@ export function Detail({ rec, onClose, onPick, onFind }: Props) {
                       <span key={t}>{t}</span>
                     ))}
                   </div>
+                </section>
+              )}
+
+              {notes === null && rec.profile && (
+                <section>
+                  <h3>Über {rec.artist}</h3>
+                  <ArtistMore rec={rec} onPick={onPick} />
                 </section>
               )}
 
