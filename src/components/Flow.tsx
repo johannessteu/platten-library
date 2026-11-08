@@ -1,4 +1,4 @@
-import { useEffect, useRef } from 'preact/hooks';
+import { useEffect, useRef, useState } from 'preact/hooks';
 import type { Rec } from '../data.ts';
 import { genreLabel, pad2 } from '../lib/format.ts';
 import { PHONE, useMedia } from '../lib/useMedia.ts';
@@ -18,13 +18,29 @@ interface Props {
   active: boolean;
 }
 
+/** Pointer drag in progress: where it started, where it is, and how fast it moves. */
+interface Drag {
+  id: number;
+  x: number;
+  start: number;
+  pos: number;
+  moved: boolean;
+  lastX: number;
+  lastT: number;
+  /** Finger speed in px/ms, smoothed. */
+  v: number;
+}
+
 export function Flow({ list, idx, go, jump, onOpen, showLetters, active }: Props) {
   const compact = useMedia(PHONE);
   const side = compact ? 3 : 6;
   const n = list.length;
   const cur = list[idx];
-  const drag = useRef({ x: 0, moved: false });
+  const drag = useRef<Drag>({ id: -1, x: 0, start: 0, pos: 0, moved: false, lastX: 0, lastT: 0, v: 0 });
+  /** Fractional position while dragging, so the covers follow the finger; null otherwise. */
+  const [dragPos, setDragPos] = useState<number | null>(null);
   const wheel = useRef(0);
+  const pxPerItem = compact ? 70 : 90;
 
   useEffect(() => {
     if (!active) return;
@@ -44,34 +60,39 @@ export function Flow({ list, idx, go, jump, onOpen, showLetters, active }: Props
   }, [active, idx, jump]);
 
   const [x0, step, depth, lift, dim] = compact ? [64, 18, 110, 20, 0.14] : [68, 20, 160, 30, 0.1];
+  // Covers are placed by their distance from `pos`. At rest that is a whole
+  // number; while dragging it is fractional and the centre cover turns away
+  // gradually, the way the finger moves it.
+  const pos = dragPos ?? idx;
   const covers = [];
-  for (let i = Math.max(0, idx - side - 1); i <= Math.min(n - 1, idx + side + 1); i++) {
+  for (let i = Math.max(0, Math.floor(pos) - side - 1); i <= Math.min(n - 1, Math.ceil(pos) + side + 1); i++) {
     const r = list[i];
-    const d = i - idx;
+    const d = i - pos;
     const ad = Math.abs(d);
-    const sg = d > 0 ? 1 : -1;
-    const hidden = ad > side;
-    const transform =
-      d === 0
-        ? `translateX(-50%) translateZ(${lift}px)`
-        : `translateX(-50%) translateX(${sg * (x0 + (ad - 1) * step)}%) translateZ(-${depth}px) rotateY(${-sg * 64}deg)`;
+    const sg = d < 0 ? -1 : 1;
+    const t = Math.min(1, ad);
+    const x = sg * (x0 * t + Math.max(0, ad - 1) * step);
+    const z = lift - (lift + depth) * t;
+    const turn = -sg * 64 * t;
+    const hidden = Math.abs(i - idx) > side;
     covers.push(
       <button
         key={r.id}
         type="button"
         class="flow-item"
-        tabIndex={d === 0 ? 0 : -1}
+        tabIndex={i === idx ? 0 : -1}
         aria-hidden={hidden ? 'true' : undefined}
-        aria-label={d === 0 ? `Details zu ${r.label}` : `Zeige ${r.label}`}
+        aria-label={i === idx ? `Details zu ${r.label}` : `Zeige ${r.label}`}
         style={{
-          transform,
-          zIndex: 100 - ad,
-          opacity: hidden ? 0 : 1,
+          transform: `translateX(-50%) translateX(${x.toFixed(2)}%) translateZ(${z.toFixed(1)}px) rotateY(${turn.toFixed(1)}deg)`,
+          zIndex: 1000 - Math.round(ad * 10),
+          opacity: Math.max(0, Math.min(1, side + 1 - ad)),
           filter: `brightness(${Math.max(0.35, 1 - dim * ad).toFixed(2)})`,
         }}
-        onClick={() => {
-          if (drag.current.moved) return;
-          if (d === 0) onOpen(r.id);
+        onClick={(e) => {
+          // The click that ends a drag isn't a tap; keyboard clicks (detail 0) always count.
+          if (drag.current.moved && e.detail !== 0) return;
+          if (i === idx) onOpen(r.id);
           else jump(i);
         }}
       >
@@ -92,20 +113,61 @@ export function Flow({ list, idx, go, jump, onOpen, showLetters, active }: Props
 
   const meta = [cur.genres.map(genreLabel).join(' · '), cur.format, cur.originalYear].filter(Boolean).join(' · ');
 
+  /** Let go: settle on the nearest cover, or glide on a few covers after a quick flick. */
+  const endDrag = (e: PointerEvent, fling: boolean) => {
+    const g = drag.current;
+    if (g.id !== e.pointerId) return;
+    g.id = -1;
+    if (!g.moved) return;
+    const v = fling && e.timeStamp - g.lastT < 80 ? g.v : 0;
+    const glide = Math.max(-12, Math.min(12, (-v * 180) / pxPerItem));
+    jump(Math.round(g.pos + glide));
+    setDragPos(null);
+  };
+
   return (
     <section class="stage" aria-label="Durch die Platten blättern">
       <div
-        class="flow"
+        class={dragPos === null ? 'flow' : 'flow dragging'}
         onPointerDown={(e) => {
-          drag.current = { x: e.clientX, moved: false };
+          if (e.button !== 0) return;
+          drag.current = {
+            id: e.pointerId,
+            x: e.clientX,
+            start: idx,
+            pos: idx,
+            moved: false,
+            lastX: e.clientX,
+            lastT: e.timeStamp,
+            v: 0,
+          };
         }}
-        onPointerUp={(e) => {
-          const dx = e.clientX - drag.current.x;
-          if (Math.abs(dx) < 12) return;
-          drag.current.moved = true;
-          const steps = Math.max(1, Math.round(Math.abs(dx) / (compact ? 70 : 90)));
-          jump(idx + (dx < 0 ? steps : -steps));
+        onPointerMove={(e) => {
+          const g = drag.current;
+          if (g.id !== e.pointerId) return;
+          const dx = e.clientX - g.x;
+          if (!g.moved) {
+            if (Math.abs(dx) < 8) return;
+            g.moved = true;
+            // Keep getting moves when the finger leaves the flow; the pointer may already be gone.
+            try {
+              e.currentTarget.setPointerCapture(e.pointerId);
+            } catch {}
+          }
+          const dt = e.timeStamp - g.lastT;
+          if (dt > 0) g.v = 0.7 * ((e.clientX - g.lastX) / dt) + 0.3 * g.v;
+          g.lastX = e.clientX;
+          g.lastT = e.timeStamp;
+          // Follow the finger; past either end it gives way only a little.
+          let p = g.start - dx / pxPerItem;
+          if (p < 0) p = Math.max(-0.6, p * 0.35);
+          else if (p > n - 1) p = Math.min(n - 0.4, n - 1 + (p - (n - 1)) * 0.35);
+          g.pos = p;
+          setDragPos(p);
+          jump(Math.round(p));
         }}
+        onPointerUp={(e) => endDrag(e, true)}
+        onPointerCancel={(e) => endDrag(e, false)}
         onWheel={(e) => {
           if (Math.abs(e.deltaX) <= Math.abs(e.deltaY)) return;
           e.preventDefault();

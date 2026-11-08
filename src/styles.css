@@ -50,6 +50,17 @@ button {
   cursor: pointer;
 }
 
+/* No double-tap zoom on controls: iOS otherwise zooms in when an arrow
+   button is tapped twice quickly. Pinch zoom keeps working. */
+button,
+a,
+input,
+label,
+.flow-nav,
+.scrubber {
+  touch-action: manipulation;
+}
+
 a {
   color: #b5401c;
 }
@@ -444,10 +455,16 @@ a:hover {
   border: 0;
   border-radius: 2px;
   background: transparent;
+  touch-action: pan-y;
   transition:
     transform 0.5s cubic-bezier(0.2, 0.75, 0.2, 1),
     opacity 0.35s ease,
     filter 0.35s ease;
+}
+
+/* While a finger or the mouse drags the flow, the covers follow it directly. */
+.flow.dragging .flow-item {
+  transition: none;
 }
 
 /* Mirrored copy under each cover. The mask is set in the copy's own,
