@@ -107,6 +107,24 @@ export interface DRelease {
   labels?: { name: string; catno: string }[];
   tracklist?: DTrack[];
   images?: { type: string; uri: string }[];
+  formats?: DFormat[];
+  genres?: string[];
+}
+
+/** One entry of /artists/{id}/releases: a master, or a release without one. */
+export interface DArtistRelease {
+  id: number;
+  type: 'master' | 'release';
+  role: string;
+  title: string;
+  year?: number;
+  main_release?: number;
+  format?: string;
+}
+
+export interface DArtistReleasesPage {
+  pagination: { page: number; pages: number; items: number };
+  releases: DArtistRelease[];
 }
 
 export interface DMaster {

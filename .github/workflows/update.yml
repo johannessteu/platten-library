@@ -1,0 +1,124 @@
+name: Update
+
+# Brings the shelf up to date after records were added on Discogs: syncs the
+# collection, writes liner notes and artist profiles for anything new with
+# Claude Code, links new artists' albums to Discogs, commits to main and
+# deploys (which also refreshes the Supabase copy for Claude chats).
+#
+# Started by hand: Actions → Update → Run workflow, or
+#   gh workflow run update.yml [-f refresh=true]
+#
+# Secrets: DISCOGS_TOKEN (faster Discogs requests), CLAUDE_CODE_OAUTH_TOKEN
+# (from `claude setup-token`; runs on the Claude subscription, not API
+# billing; without it records are added without notes), SUPABASE_ANON_KEY
+# (used by the Deploy workflow).
+
+on:
+  workflow_dispatch:
+    inputs:
+      refresh:
+        description: Re-read details and tracklists of every record from Discogs
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+
+concurrency:
+  group: update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    permissions:
+      contents: write
+      id-token: write
+    env:
+      DISCOGS_TOKEN: ${{ secrets.DISCOGS_TOKEN }}
+      HAS_CLAUDE_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN != '' }}
+    outputs:
+      changed: ${{ steps.commit.outputs.changed }}
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+
+      - id: sync
+        name: Sync records and covers from Discogs
+        run: npm run sync -- ${{ inputs.refresh && '--refresh' || '' }}
+
+      - id: todo
+        name: Find records and artists without notes
+        run: |
+          npm run -s notes:todo -- --json > "$RUNNER_TEMP/todo.json"
+          records=$(node -p "require(process.argv[1]).records.length" "$RUNNER_TEMP/todo.json")
+          artists=$(node -p "require(process.argv[1]).artists.length" "$RUNNER_TEMP/todo.json")
+          echo "Without notes: $records records, $artists artists"
+          echo "count=$((records + artists))" >> "$GITHUB_OUTPUT"
+          if [ "$((records + artists))" != "0" ] && [ "$HAS_CLAUDE_TOKEN" != "true" ]; then
+            echo "::notice::$records records and $artists artists have no notes yet. Add the CLAUDE_CODE_OAUTH_TOKEN secret to write them here."
+          fi
+
+      - name: Write liner notes and artist profiles with Claude Code
+        if: steps.todo.outputs.count != '0' && env.HAS_CLAUDE_TOKEN == 'true'
+        continue-on-error: true
+        uses: anthropics/claude-code-action@v1
+        with:
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          github_token: ${{ github.token }}
+          prompt: '/liner-notes alle fehlenden'
+          claude_args: |
+            --max-turns 200
+            --allowedTools "Read,Write,Edit,Glob,Grep,WebSearch,WebFetch,Task,Agent,Bash(npm run check),Bash(npm run -s check),Bash(npm run notes:todo *),Bash(npm run -s notes:todo *)"
+
+      - name: Check data (drop new notes and profiles that fail)
+        run: |
+          if ! npm run check; then
+            echo "::warning::New liner notes or artist profiles failed the check and were left out; the records are still added."
+            git checkout -- data/notes data/artists 2>/dev/null || true
+            git clean -fdq -- data/notes data/artists
+            npm run check
+          fi
+
+      - name: Link new artists' albums to Discogs
+        run: npm run discography
+
+      - id: commit
+        name: Commit to main
+        env:
+          SYNC_MESSAGE: ${{ steps.sync.outputs.message }}
+        run: |
+          if [ -z "$(git status --porcelain -- data public/covers)" ]; then
+            echo "Nothing new."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          notes=$(git status --porcelain -- data/notes | grep -c '^??' || true)
+          profiles=$(git status --porcelain -- data/artists | grep -c '^??' || true)
+          message="${SYNC_MESSAGE:-Refresh records from Discogs}"
+          if [ "$notes" -gt 0 ]; then message="$message; add liner notes for $notes records"; fi
+          if [ "$profiles" -gt 0 ]; then message="$message; add $profiles artist profiles"; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A -- data public/covers
+          git commit -m "$message"
+          git pull --rebase --quiet origin main
+          git push
+          echo "changed=true" >> "$GITHUB_OUTPUT"
+
+  # A push made with the workflow's own token doesn't start other workflows,
+  # so the deploy runs from here.
+  deploy:
+    needs: update
+    if: needs.update.outputs.changed == 'true'
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    uses: ./.github/workflows/deploy.yml
+    secrets: inherit

@@ -1,7 +1,8 @@
 // Loads the generated records at build time and the liner notes on demand.
 
-import type { ArtistProfile, DumpDiscography, Notes, RecordData } from './types.ts';
+import type { ArtistProfile, Discography, Notes, RecordData } from './types.ts';
 import { artistSlug, slugify } from './lib/artists.ts';
+import { sameTitle } from './lib/titles.ts';
 import { genreLabel, norm } from './lib/format.ts';
 import { sleeveFor, type SleeveStyle } from './lib/sleeve.ts';
 
@@ -27,7 +28,7 @@ const artistFiles = import.meta.glob<ArtistProfile>(['../data/artists/*.json', '
 const idFromPath = (p: string) => Number(p.match(/(\d+)\.json$/)?.[1]);
 const noteLoaders = new Map(Object.entries(noteFiles).map(([p, load]) => [idFromPath(p), load]));
 const artistLoaders = new Map(Object.entries(artistFiles).map(([p, load]) => [p.match(/([^/]+)\.json$/)![1], load]));
-const discographyFiles = import.meta.glob<DumpDiscography>('../data/discography/*.json', { import: 'default' });
+const discographyFiles = import.meta.glob<Discography>('../data/discography/*.json', { import: 'default' });
 const discographyLoaders = new Map(
   Object.entries(discographyFiles).map(([p, load]) => [p.match(/([^/]+)\.json$/)![1], load]),
 );
@@ -77,20 +78,20 @@ export function loadNotes(id: number): Promise<Notes | null> {
 }
 
 /**
- * The artist profile. Its curated discography stays as written; entries the
- * Discogs dump confirms (same title, year within one) get their Discogs master
- * id, which the site turns into a link. The raw dump list isn't shown: for big
- * catalogues it is full of regional editions, interview records and archive
- * releases.
+ * The artist profile. Its curated discography stays as written; entries that
+ * Discogs confirms (same title, year within one) get their Discogs master id,
+ * which the site turns into a link. Discogs' own lists aren't shown: for big
+ * catalogues they are full of regional editions, interview records and
+ * archive releases.
  */
 export async function loadArtist(slug: string): Promise<ArtistProfile | null> {
-  const [profile, dump] = await Promise.all([
+  const [profile, discogs] = await Promise.all([
     artistLoaders.get(slug)?.() ?? null,
     discographyLoaders.get(slug)?.() ?? null,
   ]);
-  if (!profile || !dump) return profile;
+  if (!profile || !discogs) return profile;
   const discography = profile.discography.map((entry) => {
-    const match = dump.releases.find((r) => sameTitle(r.title, entry.title) && Math.abs(r.year - entry.year) <= 1);
+    const match = discogs.releases.find((r) => sameTitle(r.title, entry.title) && Math.abs(r.year - entry.year) <= 1);
     return match ? { ...entry, master: match.master } : entry;
   });
   return { ...profile, discography };
@@ -104,23 +105,4 @@ for (const r of RECORDS) if (r.profile) BY_PROFILE.set(r.profile, [...(BY_PROFIL
 export const PROFILE_NAME = new Map<string, string>();
 for (const r of RECORDS) if (r.profile && slugify(r.artist) === r.profile) PROFILE_NAME.set(r.profile, r.artist);
 
-/** Title key for matching discography entries to records: no case, accents, punctuation or (…) suffixes. */
-export const titleKey = (t: string) =>
-  norm(t.replace(/\s*\([^)]*\)/g, ' '))
-    .replace(/ß/g, 'ss')
-    .replace(/[^a-z0-9]+/g, ' ')
-    .trim();
-
-/**
- * Same album under slightly different titles: equal keys, or one contains the
- * other when the shorter has at least three words ("Von allem anders" inside
- * "Unplugged 2 – Von allem anders", but not "Greatest Hits" in "… Vol. 2").
- */
-export function sameTitle(a: string, b: string): boolean {
-  const ka = titleKey(a);
-  const kb = titleKey(b);
-  if (!ka || !kb) return false;
-  if (ka === kb) return true;
-  const [short, long] = ka.length <= kb.length ? [ka, kb] : [kb, ka];
-  return short.split(' ').length >= 3 && ` ${long} `.includes(` ${short} `);
-}
+export { sameTitle, titleKey } from './lib/titles.ts';

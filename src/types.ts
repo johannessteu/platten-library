@@ -62,12 +62,17 @@ export interface Notes {
 
 export type ReleaseType = 'Studioalbum' | 'Livealbum' | 'EP' | 'Compilation' | 'Soundtrack';
 
-/** Discography of one artist, extracted from the Discogs data dump (scripts/discography.ts). */
-export interface DumpDiscography {
+/**
+ * Discogs master releases of one artist (scripts/discography.ts), used to link
+ * the curated discography entries of the artist profile to Discogs.
+ */
+export interface Discography {
   artist: string;
   discogsArtistIds: number[];
-  /** Date of the Discogs dump, YYYY-MM-DD. */
-  dump: string;
+  /** Date of the Discogs data dump the file was built from, YYYY-MM-DD (older files). */
+  dump?: string;
+  /** Date the file was built from the Discogs API, YYYY-MM-DD. */
+  fetchedAt?: string;
   releases: { title: string; year: number; type: ReleaseType; master: number }[];
 }
 
