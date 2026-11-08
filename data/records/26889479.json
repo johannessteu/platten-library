@@ -1,0 +1,102 @@
+{
+  "id": 26889479,
+  "artist": "Mar Malade",
+  "artistIds": [
+    9617335
+  ],
+  "title": "Balloon",
+  "year": 2023,
+  "originalYear": 2023,
+  "genres": [
+    "Rock",
+    "Pop"
+  ],
+  "styles": [
+    "Indie Pop",
+    "Indie Rock"
+  ],
+  "format": "LP",
+  "formatDetails": [
+    "LP",
+    "Album",
+    "Stereo"
+  ],
+  "labels": [
+    {
+      "name": "Humming Records",
+      "catno": "HUM056LP"
+    }
+  ],
+  "country": "Germany",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Into the Air",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Balloon",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "Jungle",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "Beautiful Day",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "title": "Monday",
+      "duration": ""
+    },
+    {
+      "position": "A6",
+      "title": "Coco",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "Song For A Plant In A Minor",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "Moonman",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "Lonely",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "Lov Eme",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "title": "Sportsman",
+      "duration": ""
+    },
+    {
+      "position": "B6",
+      "title": "Goulash",
+      "duration": ""
+    },
+    {
+      "position": "B7",
+      "title": "I'm On A Tree",
+      "duration": ""
+    }
+  ],
+  "addedAt": "2026-11-08",
+  "cover": "covers/26889479.jpg",
+  "discogsUrl": "https://www.discogs.com/release/26889479",
+  "sortName": "mar malade"
+}

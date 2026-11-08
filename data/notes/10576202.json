@@ -1,0 +1,36 @@
+{
+  "kicker": "Hamburg · aktiv seit 1991 · Hamburger Hip-Hop mit Haltung",
+  "tag": "Hamburger Rap-Nostalgie",
+  "record": "Das zweite Album der Absolute Beginner und ihr Durchbruch: Mit „Bambule“ wurde aus der Hamburger Szene-Crew eine Band mit Goldplatte. Jan Delay, Denyo und DJ Mad verbinden darauf politische Haltung mit Beats, zu denen man tanzen kann. Kritik und Szene zählen es bis heute zu den wichtigsten deutschsprachigen Hip-Hop-Alben.",
+  "facts": [
+    { "k": "Erschienen", "v": "10. November 1998" },
+    { "k": "Label", "v": "Buback / Universal" },
+    { "k": "Produktion", "v": "Absolute Beginner mit Matthias Arfmann" },
+    { "k": "Aufgenommen", "v": "April bis August 1998, Turtle Bay Studios" },
+    { "k": "Gast", "v": "Samy Deluxe, Das Bo, Ferris MC, David P., Platin Martin" }
+  ],
+  "start": [
+    { "t": "Füchse", "why": "Der Klassiker mit Samy Deluxe, der ihn einem breiten Publikum bekannt machte; fünf Strophen, ein Refrain." },
+    { "t": "Liebes Lied", "why": "Die erfolgreichste Single des Albums und der Song, mit dem die Band ins Radio kam." },
+    { "t": "Nie Nett", "why": "Posse-Track mit Das Bo und Ferris MC, ein Stück Hamburger Rapgeschichte." }
+  ],
+  "band": "Die Absolute Beginner gründeten sich 1991 in Hamburg, rappten zuerst auf Englisch und wechselten bald ins Deutsche. Nach dem Debüt „Flashnizm“ (1996) kam mit „Bambule“ der Durchbruch. 2003 kürzten sie den Namen zu Beginner und landeten mit „Blast Action Heroes“ auf Platz eins. Dann folgte eine lange Pause, in der Jan Delay solo zum Star wurde, bis „Advanced Chemistry“ 2016 erneut die Spitze der Charts erreichte.",
+  "trivia": [
+    "„Bambule“ wurde 2000 mit Gold ausgezeichnet und war bis „Advanced Chemistry“ das meistverkaufte Album der Band.",
+    "Am Ende von „Füchse“ steht ein gespieltes Telefonat, in dem ein Jäger Jan Delay erklärt, dass Füchse keine Rudeltiere sind.",
+    "2000 erschien mit „Boombule“ ein komplettes Remix-Album zur Platte."
+  ],
+  "similar": [
+    { "a": "Samy Deluxe", "why": "Der Gast auf „Füchse“, später selbst einer der prägenden Rapper aus Hamburg." },
+    { "a": "Fünf Sterne Deluxe", "why": "Die Band von Das Bo: ebenfalls Hamburg, ebenfalls Ende der Neunziger, mehr Albernheit als Agenda." },
+    { "a": "Fettes Brot", "why": "Die anderen großen Hamburger Rap-Popstars dieser Jahre, mit ähnlichem Hang zu Witz und Hits." },
+    { "a": "Blumentopf", "why": "Münchner Gegenstück aus derselben Zeit: Crew-Rap mit Wortwitz und Live-Energie." }
+  ],
+  "sources": [
+    { "label": "Wikipedia: Bambule (Album)", "url": "https://de.wikipedia.org/wiki/Bambule_(Album)" },
+    { "label": "Wikipedia: Füchse (Lied)", "url": "https://de.wikipedia.org/wiki/F%C3%BCchse_(Lied)" },
+    { "label": "Wikipedia: Beginner", "url": "https://de.wikipedia.org/wiki/Beginner" },
+    { "label": "Wikipedia: Beginner (band)", "url": "https://en.wikipedia.org/wiki/Beginner_(band)" }
+  ],
+  "writtenAt": "2026-11-08"
+}

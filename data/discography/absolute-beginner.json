@@ -1,0 +1,21 @@
+{
+  "artist": "Absolute Beginner",
+  "discogsArtistIds": [
+    67095
+  ],
+  "fetchedAt": "2026-11-08",
+  "releases": [
+    {
+      "title": "Bambule",
+      "year": 1998,
+      "type": "Studioalbum",
+      "master": 50925
+    },
+    {
+      "title": "The Early Years 1992-1994 Wir Waren Jung Und Brauchten Kein Geld",
+      "year": 2004,
+      "type": "Compilation",
+      "master": 260140
+    }
+  ]
+}

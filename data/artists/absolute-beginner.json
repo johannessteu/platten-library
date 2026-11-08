@@ -1,0 +1,33 @@
+{
+  "name": "Absolute Beginner",
+  "summary": "Die Absolute Beginner, seit 2003 nur noch Beginner, sind eine der prägenden Gruppen des deutschsprachigen Hip-Hop. Jan Delay, Denyo und DJ Mad kommen aus Hamburg und haben dort ab den frühen Neunzigern die Szene mitaufgebaut. Mit „Bambule“ (1998) gelang ihnen der Durchbruch, mit „Blast Action Heroes“ (2003) und „Advanced Chemistry“ (2016) erreichten sie jeweils Platz eins der deutschen Albumcharts. Sie stehen für Rap mit Haltung, der trotzdem tanzbar und witzig bleibt.",
+  "career": [
+    "Die Gruppe gründete sich 1991 in Hamburg mit sechs Mitgliedern, von denen drei nach wenigen Monaten ausstiegen. Anfangs rappten die Absolute Beginner auf Englisch, wechselten dann ins Deutsche und veröffentlichten 1993 die EP „Gotting“ mit gesellschaftskritischen Texten. 1996 erschien das Debütalbum „Flashnizm“; danach verließ Platin Martin die Band, die bei Universal/Motor unterschrieb.",
+    "Mit „Bambule“ kam 1998 der Durchbruch: Singles wie „Liebes Lied“ und „Füchse“ mit Samy Deluxe liefen weit über die Szene hinaus, das Album wurde 2000 mit Gold ausgezeichnet. Parallel gründete Jan Eißfeldt 1997 das Label Eimsbush, coverte Nenas „Irgendwie, irgendwo, irgendwann“ als Reggae-Version und veröffentlichte 2001 sein Soloalbum, Denyo im selben Jahr „Minidisko“.",
+    "2003 strichen sie das „Absolute“ aus dem Namen, das die Plattenfirma bis dahin wegen des Bekanntheitsgrads hatte behalten wollen, und erreichten mit „Blast Action Heroes“ Platz eins. Nach der DVD „Die derbste Band der Welt“ (2004) pausierte die Gruppe; Jan Delay wurde in dieser Zeit solo mit Funk- und Soul-Alben zum Star.",
+    "2011 kehrten die Beginner beim Berlin Festival auf die Bühne zurück. 2016 erschien mit „Ahnma“ (mit Gzuz und Gentleman) die erste Single seit 13 Jahren, danach das Album „Advanced Chemistry“, das in Deutschland und Österreich auf Platz eins kam. Die anschließende Tour eröffnete Torch, Mitglied der Hip-Hop-Pioniere Advanced Chemistry, auf die der Albumtitel anspielt."
+  ],
+  "sound": "Die Beginner kommen aus der Hamburger Hip-Hop-Szene der Neunziger, und setzten sich vom Straßenrap-Mainstream ihrer Zeit ab. Ihr Sound mischt Rap mit Electro-Beats, Rock-Elementen und Anklängen an die Neue Deutsche Welle. DJ Mad steuert Cuts und Scratches bei, an allen Alben war der Hamburger Produzent Matthias Arfmann beteiligt. Textlich verbinden sie politische Haltung aus dem Punk mit Wortwitz und Partytauglichkeit.",
+  "highlights": [
+    "„Füchse“ mit Samy Deluxe gilt als einer der wichtigsten Songs des deutschen Rap und wurde unter anderem von Marsimoto, RAF Camora und OK Kid zitiert oder gesampelt.",
+    "Den Film „Musik ist Trumpf“ über die Gruppe gab es schon 1996, vor dem Durchbruch.",
+    "Für „Advanced Chemistry“ gab es 2017 einen Echo; beim Hamburger Musikpreis HANS gewannen sie 2016 in mehreren Kategorien.",
+    "Matthias Arfmann produzierte alle Alben mit, ohne je Bandmitglied zu sein."
+  ],
+  "discography": [
+    { "title": "Gotting", "year": 1993, "type": "EP", "note": "Die frühe EP mit gesellschaftskritischen Texten." },
+    { "title": "Flashnizm", "year": 1996, "type": "Studioalbum", "note": "Das Debütalbum, danach stieg Gründungsmitglied Platin Martin aus." },
+    { "title": "Bambule", "year": 1998, "type": "Studioalbum", "note": "Der Durchbruch mit „Liebes Lied“ und „Füchse“, 2000 mit Gold ausgezeichnet." },
+    { "title": "Boombule", "year": 2000, "type": "Compilation", "note": "Remix-Album zu „Bambule“." },
+    { "title": "Blast Action Heroes", "year": 2003, "type": "Studioalbum", "note": "Erstes Album unter dem Namen Beginner und erste Nummer eins in Deutschland." },
+    { "title": "The Early Years 1992–1994", "year": 2004, "type": "Compilation", "note": "Sammlung der frühen Aufnahmen." },
+    { "title": "Advanced Chemistry", "year": 2016, "type": "Studioalbum", "note": "Das Comeback nach 13 Jahren mit „Ahnma“, Platz eins in Deutschland und Österreich." }
+  ],
+  "sources": [
+    { "label": "Wikipedia: Beginner", "url": "https://de.wikipedia.org/wiki/Beginner" },
+    { "label": "Wikipedia: Beginner (band)", "url": "https://en.wikipedia.org/wiki/Beginner_(band)" },
+    { "label": "laut.de: Beginner", "url": "https://www.laut.de/Beginner" },
+    { "label": "Discogs: Absolute Beginner", "url": "https://www.discogs.com/artist/67095" }
+  ],
+  "writtenAt": "2026-11-08"
+}

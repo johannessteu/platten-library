@@ -1,0 +1,33 @@
+{
+  "kicker": "Schwarzwald · aktiv seit 2020 · Verspielter Indie-Pop im Duo",
+  "tag": "Nachtblau und verspielt",
+  "record": "Das zweite Album von Mar Malade, ausgelöst von einem einzigen Song: Erst als „Balloon“ fertig war, wussten Alexander Hauer und Michèl M. Almeida, dass sie anders klingen konnten als auf dem Debüt und trotzdem nach sich selbst. Wieder stammen alle Sounds von den beiden, dazu kommen absurde Klangideen und eine Spur Melancholie.",
+  "facts": [
+    { "k": "Erschienen", "v": "21. April 2023" },
+    { "k": "Label", "v": "Humming Records" },
+    { "k": "Produktion", "v": "Alexander Hauer und Michèl Martins Almeida" }
+  ],
+  "start": [
+    { "t": "Balloon", "why": "Entstand aus einem Loop über das Kinderlied „Hejo, spann den Wagen an“, gebaut bei Proben für das erste Konzert." },
+    { "t": "Coco", "why": "Die Kokosnuss als unerreichbare Liebe: außen hart, innen süß, aus Gesangsimprovisationen entstanden." },
+    { "t": "Lov Eme", "why": "Eine erfundene Geschichte über Verliebtheit in eine Call-Center-Stimme; der Chor am Ende sind nur die beiden." }
+  ],
+  "band": "Alexander Hauer und Michèl Martins Almeida sind im Schwarzwald aufgewachsen und seit rund zehn Jahren befreundet. Aus dem Musikmachen während der Lockdowns entstand 2021 die erste Single „Cabriolet“, im selben Jahr das Debütalbum. Die beiden spielen alle Instrumente selbst, und gemeinsamer Humor ist nach eigener Aussage der Kern ihrer Arbeit.",
+  "trivia": [
+    "Den Albumtitel schlug Hauer vor, bevor die übrigen Songs geschrieben waren.",
+    "Almeida gestaltet seit diesem Album die Cover selbst; das Blau soll die einsame, nächtliche Stimmung der Platte spiegeln.",
+    "„Sportsman“ entstand in einer Stunde Herumprobieren mit einem Mikrofon und einem seltsamen Effekt und besteht fast nur daraus."
+  ],
+  "similar": [
+    { "a": "Fil Bo Riva", "why": "Gast der Cassette-Sessions des Duos, ebenfalls warmer Indie-Pop mit Folk-Anteil." },
+    { "a": "CATT", "why": "Multiinstrumentalistin, die schon auf dem Debüt mitspielte und auch in den Cassette-Sessions auftauchte." },
+    { "a": "Kat Frankie", "why": "Interpretierte für die Cassette-Sessions Songs mit Mar Malade neu, ebenfalls mit Liebe zu Stimmen und Loops." }
+  ],
+  "sources": [
+    { "label": "dotted note: Interview zu „Balloon“", "url": "https://www.dotted-note.de/post/mar-malade-interview-balloon-absurder-song-absurder-text" },
+    { "label": "DIFFUS: Interview", "url": "https://diffus.de/p/videos/mar-malade-im-interview-humor-ist-sehr-wichtig-fuer-das-was-wir-machen/" },
+    { "label": "Wikipedia: Mar Malade", "url": "https://de.wikipedia.org/wiki/Mar_Malade" },
+    { "label": "Discogs: Balloon", "url": "https://www.discogs.com/release/26889479-Mar-Malade-Balloon" }
+  ],
+  "writtenAt": "2026-11-08"
+}

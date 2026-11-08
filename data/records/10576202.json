@@ -1,0 +1,105 @@
+{
+  "id": 10576202,
+  "artist": "Absolute Beginner",
+  "artistIds": [
+    67095
+  ],
+  "title": "Bambule",
+  "year": 2017,
+  "originalYear": 1998,
+  "genres": [
+    "Hip Hop"
+  ],
+  "styles": [
+    "Conscious",
+    "Pop Rap"
+  ],
+  "format": "2×LP",
+  "formatDetails": [
+    "LP",
+    "Album",
+    "Limited Edition",
+    "Reissue"
+  ],
+  "labels": [
+    {
+      "name": "Buback",
+      "catno": "5752633"
+    },
+    {
+      "name": "Vertigo",
+      "catno": "5752633"
+    },
+    {
+      "name": "Universal",
+      "catno": "5752633"
+    }
+  ],
+  "country": "Germany",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Das Boot",
+      "duration": "4:09"
+    },
+    {
+      "position": "A2",
+      "title": "Hammerhart",
+      "duration": "3:23"
+    },
+    {
+      "position": "A3",
+      "title": "Rock On",
+      "duration": "4:17"
+    },
+    {
+      "position": "B1",
+      "title": "Liebes Lied",
+      "duration": "4:12"
+    },
+    {
+      "position": "B2",
+      "title": "Füchse",
+      "duration": "4:34"
+    },
+    {
+      "position": "B3",
+      "title": "Fahr'n",
+      "duration": "4:14"
+    },
+    {
+      "position": "C1",
+      "title": "Showmaster",
+      "duration": "4:15"
+    },
+    {
+      "position": "C2",
+      "title": "Geht Was",
+      "duration": "3:51"
+    },
+    {
+      "position": "C3",
+      "title": "Geh Bitte",
+      "duration": "5:01"
+    },
+    {
+      "position": "D1",
+      "title": "Nie Nett",
+      "duration": "4:52"
+    },
+    {
+      "position": "D2",
+      "title": "Mikro In Der Hand",
+      "duration": "4:17"
+    },
+    {
+      "position": "D3",
+      "title": "Nicht Allein",
+      "duration": "4:06"
+    }
+  ],
+  "addedAt": "2026-11-08",
+  "cover": "covers/10576202.jpg",
+  "discogsUrl": "https://www.discogs.com/release/10576202",
+  "sortName": "absolute beginner"
+}
