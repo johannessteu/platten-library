@@ -72,7 +72,10 @@ jobs:
           claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
           github_token: ${{ github.token }}
           prompt: '/liner-notes alle fehlenden'
+          # Opus: the notes are few but researched texts with strict rules,
+          # so care matters more than speed.
           claude_args: |
+            --model claude-opus-5-5
             --max-turns 200
             --allowedTools "Read,Write,Edit,Glob,Grep,WebSearch,WebFetch,Task,Agent,Bash(npm run check),Bash(npm run -s check),Bash(npm run notes:todo *),Bash(npm run -s notes:todo *)"
 
