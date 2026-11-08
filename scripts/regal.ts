@@ -63,7 +63,10 @@ const recordRows = [...records.values()]
     };
   });
 
-const artistRows = [...profiles.entries()].map(([slug, p]) => ({
+// Profiles of artists who are no longer on the shelf stay in the repo for
+// later, but aren't part of the shelf.
+const onShelf = new Set(recordRows.map((r) => r.artist_slug).filter(Boolean));
+const artistRows = [...profiles.entries()].filter(([slug]) => onShelf.has(slug)).map(([slug, p]) => ({
   slug,
   name: p.name,
   summary: p.summary,

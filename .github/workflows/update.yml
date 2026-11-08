@@ -40,6 +40,8 @@ jobs:
       HAS_CLAUDE_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN != '' }}
     outputs:
       changed: ${{ steps.commit.outputs.changed }}
+      claude: ${{ steps.claude.outcome }}
+      missing: ${{ steps.left.outputs.missing }}
     steps:
       - uses: actions/checkout@v7
       - uses: actions/setup-node@v7
@@ -64,7 +66,8 @@ jobs:
             echo "::notice::$records records and $artists artists have no notes yet. Add the CLAUDE_CODE_OAUTH_TOKEN secret to write them here."
           fi
 
-      - name: Write liner notes and artist profiles with Claude Code
+      - id: claude
+        name: Write liner notes and artist profiles with Claude Code
         if: steps.todo.outputs.count != '0' && env.HAS_CLAUDE_TOKEN == 'true'
         continue-on-error: true
         uses: anthropics/claude-code-action@v1
@@ -87,6 +90,16 @@ jobs:
             git clean -fdq -- data/notes data/artists
             npm run check
           fi
+
+      - id: left
+        name: Count what is still without notes
+        if: steps.claude.outcome == 'success' || steps.claude.outcome == 'failure'
+        run: |
+          npm run -s notes:todo -- --json > "$RUNNER_TEMP/left.json"
+          records=$(node -p "require(process.argv[1]).records.length" "$RUNNER_TEMP/left.json")
+          artists=$(node -p "require(process.argv[1]).artists.length" "$RUNNER_TEMP/left.json")
+          echo "Still without notes: $records records, $artists artists"
+          echo "missing=$((records + artists))" >> "$GITHUB_OUTPUT"
 
       - name: Link new artists' albums to Discogs
         run: npm run discography
@@ -125,3 +138,22 @@ jobs:
       id-token: write
     uses: ./.github/workflows/deploy.yml
     secrets: inherit
+
+  # The records go online either way; this only makes a missing liner note
+  # impossible to overlook: the run ends red with the reason.
+  notes:
+    name: Liner notes complete
+    needs: [update, deploy]
+    if: ${{ !cancelled() && (needs.update.outputs.claude == 'failure' || (needs.update.outputs.missing != '' && needs.update.outputs.missing != '0')) }}
+    runs-on: ubuntu-latest
+    steps:
+      - env:
+          CLAUDE: ${{ needs.update.outputs.claude }}
+          MISSING: ${{ needs.update.outputs.missing }}
+        run: |
+          if [ "$CLAUDE" = "failure" ]; then
+            echo "::error::Claude Code failed, so new records are online without liner notes. Check the CLAUDE_CODE_OAUTH_TOKEN secret (claude setup-token) and the Claude usage limits, then run the update again."
+          else
+            echo "::error::$MISSING records or artists still have no liner notes; what Claude Code wrote failed npm run check. Run the update again, or write them with /liner-notes."
+          fi
+          exit 1

@@ -22,7 +22,7 @@ npm run discography          ──▶ data/discography/<slug>.json (new artists
 commit to main ──▶ Deploy ──▶ platten.johannessteu.de + regal.json ──▶ Supabase copy
 ```
 
-Tick “refresh” to re-read details and tracklists of every record. Everything also works locally with the same commands, or `/liner-notes <id>` for a single record; a push to `main` deploys.
+If Claude Code fails (token, usage limits) or what it wrote fails the check, the records still go online without notes and the run ends red with the reason. Tick “refresh” to re-read details and tracklists of every record. Everything also works locally with the same commands, or `/liner-notes <id>` for a single record; a push to `main` deploys.
 
 ### Secrets
 
@@ -79,7 +79,7 @@ The first 40 files were built in November 2026 from the Discogs data dump instea
 
 ### The shelf in Claude chats: `regal.json` and Supabase
 
-Every build also writes `dist/regal.json` (`scripts/regal.ts`): all records with their liner notes and all artist profiles in one file, published at [platten.johannessteu.de/regal.json](https://platten.johannessteu.de/regal.json).
+Every build also writes `dist/regal.json` (`scripts/regal.ts`): all records with their liner notes and the profiles of the artists on the shelf in one file, published at [platten.johannessteu.de/regal.json](https://platten.johannessteu.de/regal.json).
 
 A read-only copy lives in the Supabase project **bean-go**, in the tables `platten`, `platten_artists` and `platten_sync`. They are separate from RecordZ's `records` tables in the same project. After every deploy, the Deploy workflow waits until the new `regal.json` is live and calls the edge function `platten-sync` (source in `supabase/functions/platten-sync`, deployed with the Supabase MCP). It replaces the copy when the records or artists have changed and does nothing when they haven't. The repo stays the source of truth: never edit the tables by hand.
 
