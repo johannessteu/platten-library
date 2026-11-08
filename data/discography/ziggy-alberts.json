@@ -1,0 +1,39 @@
+{
+  "artist": "Ziggy Alberts",
+  "discogsArtistIds": [
+    5938064
+  ],
+  "dump": "2026-11-01",
+  "releases": [
+    {
+      "title": "Land & Sea x Four Feet in the Forest",
+      "year": 2018,
+      "type": "Compilation",
+      "master": 1654331
+    },
+    {
+      "title": "Laps Around The Sun",
+      "year": 2018,
+      "type": "Studioalbum",
+      "master": 1487418
+    },
+    {
+      "title": "Searching For Freedom",
+      "year": 2021,
+      "type": "Studioalbum",
+      "master": 2174140
+    },
+    {
+      "title": "Dancing In The Dark",
+      "year": 2022,
+      "type": "Studioalbum",
+      "master": 3954635
+    },
+    {
+      "title": "New Love",
+      "year": 2025,
+      "type": "Studioalbum",
+      "master": 4136506
+    }
+  ]
+}

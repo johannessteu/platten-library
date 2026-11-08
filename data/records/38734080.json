@@ -1,0 +1,87 @@
+{
+  "id": 38734080,
+  "artist": "Ziggy Alberts",
+  "artistIds": [
+    5938064
+  ],
+  "title": "Twin Flames",
+  "year": 2026,
+  "originalYear": 2026,
+  "genres": [
+    "Rock",
+    "Folk, World, & Country"
+  ],
+  "styles": [
+    "Folk",
+    "Acoustic"
+  ],
+  "format": "LP",
+  "formatDetails": [
+    "LP",
+    "Album",
+    "Stereo"
+  ],
+  "labels": [
+    {
+      "name": "Commonfolk Records",
+      "catno": "CMNFOLK022-LP"
+    }
+  ],
+  "country": "Australia",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "Boomerangs",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Valerie",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "Cyclones",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "I Blame Myself",
+      "duration": ""
+    },
+    {
+      "position": "A5",
+      "title": "You're Like Christmas",
+      "duration": ""
+    },
+    {
+      "position": "B1",
+      "title": "Strangers",
+      "duration": ""
+    },
+    {
+      "position": "B2",
+      "title": "Come and Go",
+      "duration": ""
+    },
+    {
+      "position": "B3",
+      "title": "Big Black Dog",
+      "duration": ""
+    },
+    {
+      "position": "B4",
+      "title": "Need My Woman",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "title": "Graceland",
+      "duration": ""
+    }
+  ],
+  "addedAt": "2026-11-08",
+  "cover": "covers/38734080.jpg",
+  "discogsUrl": "https://www.discogs.com/release/38734080",
+  "sortName": "ziggy alberts"
+}

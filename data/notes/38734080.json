@@ -1,0 +1,35 @@
+{
+  "kicker": "Sunshine Coast, Queensland · aktiv seit 2011 · Akustischer Surf-Folk",
+  "tag": "Barfuß nach dem Surfen",
+  "record": "Das Album nach „New Love“, aufgenommen aber schon davor: Fast zwei Jahre vergingen zwischen den Aufnahmen und dem Erscheinen im Oktober 2026. Mit Produzent Garrett Kato erweitert Alberts seinen Surf-Folk um Americana-Farben und probiert neue Lagen seiner Stimme aus; es geht um Verbindungen zwischen Menschen, um offene Fragen und Gegensätze. In Australien stieg es auf Platz 28 der Albumcharts ein.",
+  "facts": [
+    { "k": "Erschienen", "v": "16. Oktober 2026" },
+    { "k": "Label", "v": "Commonfolk Records" },
+    { "k": "Produktion", "v": "Garrett Kato" },
+    { "k": "Aufgenommen", "v": "Northern Rivers, New South Wales, noch vor Erscheinen von „New Love“" }
+  ],
+  "start": [
+    { "t": "Valerie", "why": "Die Single zum Erscheinungstag, die vor allem seine Stimme glänzen lässt; das Video entstand auf einem Trip durch Westaustralien." },
+    { "t": "Cyclones", "why": "Schon im Oktober 2025 vorab erschienen und auf einem Surftrip in Fidschi entstanden: Folk-Pop über alte Muster." },
+    { "t": "Need My Woman", "why": "Die Single, die Fans per Wählscheibentelefon in Cafés gekürt haben; ruhiger als sonst, mit großem Finale." }
+  ],
+  "band": "Ziggy Alberts, Jahrgang 1994, wuchs an der Sunshine Coast in Queensland auf und liebäugelte mit Zahnmedizin, bis ihm seine Eltern zum Schulabschluss eine Gitarre schenkten. Ab 2011 zog er als Straßenmusiker die Ostküste entlang, 2012 gründete er das Label Commonfolk Records mit, auf dem bis heute alle seine Platten erscheinen. Den Durchbruch brachte 2018 „Laps Around the Sun“ mit Platz 9 in Australien. Heute zählt er über eine Milliarde Streams und spielt längst auch in Europa, 2025 etwa in der Londoner Royal Albert Hall.",
+  "trivia": [
+    "Der Albumtitel stammt aus einer Zeile im Schlusssong „Graceland“, die Alberts schrieb, bevor die Platte einen Namen hatte; „Twin Flames“ steht für ihn für eine unerklärliche Verbindung zwischen Menschen.",
+    "In „I Blame Myself“ blickt Alberts auf frühere Beziehungen zurück, in denen er die Schuld zu oft bei sich selbst suchte.",
+    "Zur Veröffentlichung traf er Fans in Berlin, München, Amsterdam, Bristol, London, Sydney und Melbourne zum Surfen im Wellenpark, zum Kaffee und zu einem 5-Kilometer-Lauf."
+  ],
+  "similar": [
+    { "a": "Xavier Rudd", "why": "Australischer Roots-Musiker mit Umweltbotschaft; mit ihm wurde Alberts schon zu Zeiten von „Land & Sea“ verglichen." },
+    { "a": "Jack Johnson", "why": "Lässiger Surfer-Folk mit Akustikgitarre und Umweltengagement; frühe Kritiken nannten beide in einem Atemzug." },
+    { "a": "Garrett Kato", "why": "Produzent von „Twin Flames“ und „Laps Around the Sun“, selbst Singer-Songwriter in Byron Bay und oft mit Alberts auf Tour." },
+    { "a": "Ben Howard", "why": "Folk mit Akustikgitarre, Meer und Natur als Bildwelt, nur dunkler und experimenteller angelegt." }
+  ],
+  "sources": [
+    { "label": "Rolling Stone Australia: Twin Flames", "url": "https://au.rollingstone.com/music/music-news/ziggy-alberts-announces-seventh-album-twin-flames-shares-i-blame-myself-100550/" },
+    { "label": "ziggyalberts.com: Twin Flames", "url": "https://ziggyalberts.com/blogs/news/ziggy-alberts-lets-the-heart-and-imagination-roam-on-seventh-album-twin-flames" },
+    { "label": "ARIA Top 50 Albums, 26.10.2026", "url": "https://www.aria.com.au/charts/albums-chart/2026-10-26" },
+    { "label": "Wikipedia: Ziggy Alberts", "url": "https://en.wikipedia.org/wiki/Ziggy_Alberts" }
+  ],
+  "writtenAt": "2026-11-08"
+}
