@@ -23,8 +23,11 @@
   box-sizing: border-box;
 }
 
+/* Safari 26 on iOS tints its top bar from the html/body background instead of
+   theme-color; set it on html too so it samples the page colour, not white. */
 html {
   -webkit-text-size-adjust: 100%;
+  background: var(--bg);
 }
 
 html.modal-open {
@@ -181,11 +184,22 @@ a:hover {
 
 /* Top bar: search, filter, view and surprise on one line */
 
+/* Pinned to the top with a solid background. On iOS 26 Safari, page content
+   that scrolls under the status bar gets blurred; a pinned bar at the edge
+   makes Safari fill the status bar with its colour instead. The box-shadow
+   carries the background out over the page gutters, clip-path keeps it from
+   spilling up or down. */
 .topbar {
+  position: sticky;
+  top: 0;
+  z-index: 20;
   display: flex;
   align-items: center;
   gap: 12px;
   padding: 28px 0 16px;
+  background: var(--bg);
+  box-shadow: 0 0 0 100vmax var(--bg);
+  clip-path: inset(0 -100vmax);
 }
 
 .search {

@@ -41,6 +41,20 @@ export function Flow({ list, idx, go, jump, onOpen, showLetters, active }: Props
   const [dragPos, setDragPos] = useState<number | null>(null);
   const wheel = useRef(0);
   const pxPerItem = compact ? 70 : 90;
+  const lettersRef = useRef<HTMLElement>(null);
+
+  // On phones the letter bar is wider than the screen: keep the current letter in view.
+  useEffect(() => {
+    const nav = lettersRef.current;
+    const btn = nav?.querySelector<HTMLElement>('[aria-pressed="true"]');
+    if (!nav || !btn || nav.scrollWidth <= nav.clientWidth) return;
+    const box = nav.getBoundingClientRect();
+    const b = btn.getBoundingClientRect();
+    nav.scrollTo({
+      left: nav.scrollLeft + b.left - box.left - (box.width - b.width) / 2,
+      behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth',
+    });
+  }, [cur.letter, showLetters]);
 
   useEffect(() => {
     if (!active) return;
@@ -220,7 +234,7 @@ export function Flow({ list, idx, go, jump, onOpen, showLetters, active }: Props
           onInput={(e) => jump(Number(e.currentTarget.value))}
         />
         {showLetters && letters.length > 1 && (
-          <nav class="letters" aria-label="Zum Buchstaben springen">
+          <nav class="letters" ref={lettersRef} aria-label="Zum Buchstaben springen">
             {letters.map((l) => (
               <button
                 key={l.letter}
