@@ -1,0 +1,113 @@
+{
+  "id": 33205443,
+  "artist": "Milow",
+  "artistIds": [
+    816797
+  ],
+  "title": "Boy Made Out Of Stars",
+  "year": 2025,
+  "originalYear": 2025,
+  "genres": [
+    "Rock",
+    "Pop",
+    "Folk, World, & Country"
+  ],
+  "styles": [],
+  "format": "2×LP",
+  "formatDetails": [
+    "LP",
+    "Album"
+  ],
+  "labels": [
+    {
+      "name": "Homerun Records",
+      "catno": "19802872801"
+    },
+    {
+      "name": "Homerun Records",
+      "catno": "HR 66"
+    }
+  ],
+  "country": "Europe",
+  "tracklist": [
+    {
+      "position": "A1",
+      "title": "One By One",
+      "duration": ""
+    },
+    {
+      "position": "A2",
+      "title": "Get Up And Go",
+      "duration": ""
+    },
+    {
+      "position": "A3",
+      "title": "Family Tree",
+      "duration": ""
+    },
+    {
+      "position": "A4",
+      "title": "Leave It Just Like This",
+      "duration": ""
+    },
+    {
+      "position": "B5",
+      "title": "Dancing To Sad Songs",
+      "duration": ""
+    },
+    {
+      "position": "B6",
+      "title": "Batman Sign",
+      "duration": ""
+    },
+    {
+      "position": "B7",
+      "title": "Castaways",
+      "duration": ""
+    },
+    {
+      "position": "B8",
+      "title": "I've Been Expecting You",
+      "duration": ""
+    },
+    {
+      "position": "C9",
+      "title": "Tell Me Twice",
+      "duration": ""
+    },
+    {
+      "position": "C10",
+      "title": "Lost In The '90s",
+      "duration": ""
+    },
+    {
+      "position": "C11",
+      "title": "Boy Made Out Of Stars",
+      "duration": ""
+    },
+    {
+      "position": "C12",
+      "title": "Crazy For You",
+      "duration": ""
+    },
+    {
+      "position": "D13",
+      "title": "Mona Lisa",
+      "duration": ""
+    },
+    {
+      "position": "D14",
+      "title": "Clear & Simple",
+      "duration": ""
+    },
+    {
+      "position": "D15",
+      "title": "Mama Aya",
+      "duration": ""
+    }
+  ],
+  "addedAt": "2026-11-10",
+  "cover": "covers/33205443.jpg",
+  "discogsUrl": "https://www.discogs.com/release/33205443",
+  "sortName": "milow"
+}

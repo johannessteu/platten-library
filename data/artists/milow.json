@@ -1,0 +1,37 @@
+{
+  "name": "Milow",
+  "summary": "Milow ist der Künstlername des belgischen Singer-Songwriters Jonathan Vandenbroeck. Er steht für melodischen, meist akustisch geprägten Pop mit Gitarre und einer sanften, unaufgeregten Stimme. Bekannt wurde er in ganz Europa mit seiner entschleunigten Fassung von „Ayo Technology“, in Belgien gehört er seit „You Don't Know“ zu den erfolgreichsten Popmusikern. Bemerkenswert ist, dass er seine Musik von Anfang an über sein eigenes Label Homerun Records veröffentlicht.",
+  "career": [
+    "Vandenbroeck wurde am 14. Juli 1981 in Borgerhout bei Antwerpen geboren und wuchs in Wespelaar bei Haacht auf, nicht weit vom Gelände des Festivals Rock Werchter. Ein Austauschjahr verbrachte er 1999/2000 an einer Schule in Kalifornien. 2003 nahm er den Namen Milow an und kam beim belgischen Nachwuchswettbewerb Humos Rock Rally bis ins Finale. Statt auf einen Plattenvertrag zu warten, gründete er Homerun Records und brachte 2006 sein Debüt „The Bigger Picture“ selbst heraus.",
+    "„You Don't Know“ wurde einer der größten belgischen Hits des Jahres 2007, das zweite Album „Coming of Age“ (2008) erreichte Platz eins in Flandern. Den europäischen Durchbruch brachte seine ruhige Akustikversion von „Ayo Technology“, eigentlich ein Club-Track von 50 Cent mit Justin Timberlake und Timbaland: Der Kontrast zwischen Original und Gitarrenballade machte den Song zum Nummer-eins-Hit unter anderem in Belgien, den Niederlanden und der Schweiz. Für den internationalen Markt erschien 2009 das Album „Milow“, mit dem er auch in Deutschland, Österreich und der Schweiz in die Top Ten kam.",
+    "„North and South“ (2011) mit „You and Me (In My Pocket)“ festigte den Erfolg im deutschsprachigen Raum. Danach verlagerte Milow seinen Lebensmittelpunkt teilweise nach Los Angeles; „Silver Linings“ (2014), „Modern Heart“ (2016) mit „Howling at the Moon“ und „Lean Into Me“ (2019) entstanden in Kalifornien, Letzteres beschreibt er als Spiegel seines Lebens dort. Weil Reisen im Lockdown nicht möglich war, nahm er „Nice to Meet You“ (2022) in Brüssel auf.",
+    "Mit „Boy Made Out Of Stars“ (2025) kehrte er zu einem bewusst handgemachten Ansatz zurück: Das Album entstand live im Studio mit seiner Tourband und ist sein bislang persönlichstes, inklusive eines Duetts mit seinem 2008 verstorbenen Vater. Er lebt heute zwischen Belgien und Kalifornien und veröffentlicht weiterhin über Homerun Records."
+  ],
+  "sound": "Milows Musik wurzelt im akustischen Singer-Songwriter-Pop: Gitarre im Zentrum, eingängige Refrains, eine warme, eher zurückgenommene Stimme. Folk und Country schimmern durch, etwa in der Dobro von „Castaways“; „Nice to Meet You“ setzte dagegen erstmals überwiegend auf Uptempo-Songs. Seine Spezialität ist das Umdeuten: Wie bei „Ayo Technology“ übersetzt er fremde Songs in ruhige Gitarrenballaden. Die Texte drehen sich um Beziehungen, Heimat und Familie und sind meist englisch, gelegentlich klingt seine flämische Herkunft an.",
+  "highlights": [
+    "Seine Akustikversion von „Ayo Technology“ erreichte Platz eins in Belgien, den Niederlanden und der Schweiz und Platz zwei in Deutschland und Österreich.",
+    "Für „Out of My Hands“ (2010) holte er sich die norwegische Sängerin Marit Larsen als Duettpartnerin.",
+    "2010 erhielt er den Publikumspreis der European Border Breakers Awards, 2012 bei den MTV Europe Music Awards den Preis als bester belgischer Act.",
+    "2009 gab er ein Konzert tief unter der Erde in der finnischen Pyhäsalmi-Mine.",
+    "Auf „Nice to Meet You“ (2022) verabschiedet er sich im Schlussstück „Oscar“ von seinem verstorbenen Schlagzeuger und Freund."
+  ],
+  "discography": [
+    { "title": "The Bigger Picture", "year": 2006, "type": "Studioalbum", "note": "Das selbst veröffentlichte Debüt mit „You Don't Know“, sein Startschuss als unabhängiger Künstler." },
+    { "title": "Coming of Age", "year": 2008, "type": "Studioalbum", "note": "Das erste Nummer-eins-Album in Flandern, mit „Ayo Technology“." },
+    { "title": "Milow", "year": 2009, "type": "Studioalbum", "note": "Internationale Neuauflage von „Coming of Age“, mit der er in Deutschland auf Platz drei kam." },
+    { "title": "North and South", "year": 2011, "type": "Studioalbum", "note": "Mit „You and Me (In My Pocket)“ sein größter Erfolg im deutschsprachigen Raum." },
+    { "title": "Silver Linings", "year": 2014, "type": "Studioalbum", "note": "Wieder Platz eins in Flandern, das erste von drei in Kalifornien aufgenommenen Alben." },
+    { "title": "Modern Heart", "year": 2016, "type": "Studioalbum", "note": "Platz zwei der flämischen Albumcharts, mit dem Hit „Howling at the Moon“." },
+    { "title": "Lean Into Me", "year": 2019, "type": "Studioalbum", "note": "Spiegelt laut Milow sein Leben in Los Angeles wider." },
+    { "title": "Nice to Meet You", "year": 2022, "type": "Studioalbum", "note": "Im Lockdown geschrieben und in Brüssel aufgenommen, überwiegend Uptempo-Songs." },
+    { "title": "Boy Made Out Of Stars", "year": 2025, "type": "Studioalbum", "note": "Live mit der Tourband eingespielt, sein persönlichstes Album mit Videos zu allen 15 Songs." }
+  ],
+  "sources": [
+    { "label": "Wikipedia: Milow", "url": "https://en.wikipedia.org/wiki/Milow" },
+    { "label": "Wikipedia: Milow discography", "url": "https://en.wikipedia.org/wiki/Milow_discography" },
+    { "label": "Wikipedia (nl): Milow", "url": "https://nl.wikipedia.org/wiki/Milow_(zanger)" },
+    { "label": "Paris Match: Milow (2022)", "url": "https://www.parismatch.be/culture/musique/2022/05/20/milow-cest-une-force-detre-un-artiste-belge-YODR6YDHYNHXZMPTKEUTH4P2JM/" },
+    { "label": "BRF: Milows neues Album", "url": "https://brf.be/topnews/1945045" }
+  ],
+  "writtenAt": "2026-11-10"
+}

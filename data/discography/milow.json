@@ -1,0 +1,63 @@
+{
+  "artist": "Milow",
+  "discogsArtistIds": [
+    816797
+  ],
+  "fetchedAt": "2026-11-10",
+  "releases": [
+    {
+      "title": "The Bigger Picture",
+      "year": 2006,
+      "type": "Studioalbum",
+      "master": 333714
+    },
+    {
+      "title": "Coming Of Age",
+      "year": 2008,
+      "type": "Studioalbum",
+      "master": 549792
+    },
+    {
+      "title": "Milow",
+      "year": 2009,
+      "type": "Studioalbum",
+      "master": 271088
+    },
+    {
+      "title": "North And South",
+      "year": 2011,
+      "type": "Studioalbum",
+      "master": 332603
+    },
+    {
+      "title": "Silver Linings",
+      "year": 2014,
+      "type": "Studioalbum",
+      "master": 723880
+    },
+    {
+      "title": "Modern Heart",
+      "year": 2016,
+      "type": "Studioalbum",
+      "master": 1005585
+    },
+    {
+      "title": "Lean Into Me",
+      "year": 2019,
+      "type": "Compilation",
+      "master": 1601977
+    },
+    {
+      "title": "Nice To Meet You",
+      "year": 2022,
+      "type": "Studioalbum",
+      "master": 2646992
+    },
+    {
+      "title": "Boy Made Out Of Stars",
+      "year": 2025,
+      "type": "Studioalbum",
+      "master": 3793103
+    }
+  ]
+}

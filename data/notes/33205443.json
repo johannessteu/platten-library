@@ -1,0 +1,35 @@
+{
+  "kicker": "Flandern · aktiv seit 2003 · akustischer Singer-Songwriter-Pop",
+  "tag": "Warm und persönlich",
+  "record": "Milows achtes Studioalbum und sein persönlichstes: 15 Songs über Familie, seine Heimatstadt Leuven und seine Wahlheimat Los Angeles. Statt glatter Studioproduktion spielte er die Lieder in rund drei Wochen live mit seiner Tourband ein, mit echten Bläsern und viel Raum für die Stimmen. Der Singer-Songwriter-Pop klingt hier ruhiger und nachdenklicher als auf den Radiohits.",
+  "facts": [
+    { "k": "Erschienen", "v": "21. Februar 2025" },
+    { "k": "Label", "v": "Homerun Records (Milows eigenes Label)" },
+    { "k": "Aufgenommen", "v": "Live im Studio mit der Tourband, in rund drei Wochen" },
+    { "k": "Gast", "v": "Florence Arman („Castaways“)" }
+  ],
+  "start": [
+    { "t": "Family Tree", "why": "Ein Duett mit seinem 2008 verstorbenen Vater, dessen Stimme aus einer alten Schallplatte isoliert wurde, teils auf Flämisch." },
+    { "t": "Castaways", "why": "Country-Pop mit Dobro und der britischen Sängerin Florence Arman als Duettpartnerin." },
+    { "t": "Get Up And Go", "why": "Der aufbauende Gegenpol zu den stillen Stücken, nach dem Opener der erste Mutmacher der Platte." }
+  ],
+  "band": "Milow heißt eigentlich Jonathan Vandenbroeck, wurde 1981 bei Antwerpen geboren und wuchs bei Leuven auf. Nach dem Finale von Humos Rock Rally gründete er sein eigenes Label Homerun Records und brachte seine Platten selbst heraus. Den Durchbruch in Belgien brachte 2007 „You Don't Know“, europaweit dann seine akustische Fassung von 50 Cents „Ayo Technology“, die unter anderem in Belgien, den Niederlanden und der Schweiz auf Platz eins kam. Seither pendelt er zwischen Belgien und Kalifornien.",
+  "trivia": [
+    "Für „Family Tree“ wurde die Stimme seines Vaters per KI aus Aufnahmen zweier flämischer Lieder isoliert, die dieser in Paris gemacht hatte; Milows Partnerin und die Kinder singen ebenfalls mit.",
+    "Zu jedem der 15 Songs drehte Milow ein eigenes Musikvideo, je etwa zur Hälfte in Belgien und in Los Angeles.",
+    "Zum Album erschien das erste „Milow-Zine“, ein Heft mit Hintergründen zu den Songs."
+  ],
+  "similar": [
+    { "a": "Ed Sheeran", "why": "Ebenfalls akustischer Gitarrenpop mit großen Melodien, der von der kleinen Bühne in die Charts wuchs." },
+    { "a": "Ziggy Alberts", "why": "Unabhängiger Singer-Songwriter mit eigenem Label und warmem, akustischem Folk-Pop." },
+    { "a": "James Morrison", "why": "Soulig gefärbter Singer-Songwriter-Pop aus derselben Zeit, in der Milow groß wurde." },
+    { "a": "Jack Johnson", "why": "Entspannter Akustikpop mit kalifornischem Einschlag, der Milows Wahlheimat nahe ist." }
+  ],
+  "sources": [
+    { "label": "BRF: Milows neues Album", "url": "https://brf.be/topnews/1945045" },
+    { "label": "Salzburg24: Duett mit totem Vater", "url": "https://www.salzburg24.at/leben/musik/milow-im-duett-mit-totem-vater-ki-nicht-verdammen-art-284976" },
+    { "label": "Flyctory: Boy Made Out Of Stars", "url": "https://flyctory.com/2025/02/21/milow-boy-made-out-of-stars/" },
+    { "label": "Wikipedia: Milow", "url": "https://en.wikipedia.org/wiki/Milow" }
+  ],
+  "writtenAt": "2026-11-10"
+}
